@@ -1,0 +1,221 @@
+>Tbg972_01 | organism=Trypanosoma_brucei_gambiense_DAL972 | version=2016-05-28 | length=739879 | SO=chromosome
+0 genes found
+>Tbg972_02 | organism=Trypanosoma_brucei_gambiense_DAL972 | version=2016-05-28 | length=895117 | SO=chromosome
+1 genes found
+1   tRNA-Gln               [460031,460188]	100.1	102 	(ttg)i(31,69)
+acggaagtgggggaagcaaccctatagtgggctgcgagtgccaactccaagccgcctgaatatgtgatcccgcttgttgccgcaataactacctttccactttgttctattctggtagtaagtgacggcaagctggggatccttaccccgttttcttt
+(.(((((  ((((dddddd))))  (((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))        ...vvvv...    (((((ttttttt)))))))))).)
+>Tbg972_03 | organism=Trypanosoma_brucei_gambiense_DAL972 | version=2016-05-28 | length=1469848 | SO=chromosome
+3 genes found
+1   tRNA-Ser             [1106184,1106266]	119.6	35  	(aga)
+tgtcaccatacccaagtggttacggggactgactagaaatcagttgcgatctcgcgcgcaggttcgaatcctgctggtgacgg
+((((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+2   tRNA-Leu            c[1106470,1106552]	115.5	35  	(caa)
+ggcaagatggccgagtggtctaaggcgggagactcaagttctcttctattcgtaggcgtgggttcaaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Ser            c[1106611,1106693]	119.6	35  	(cga)
+tgtcaccatacccaagtggttacggggactgactcgaaatcagttgcgatctcgcgcgcaggttcgaatcctgctggtgacgg
+((((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+>Tbg972_04 | organism=Trypanosoma_brucei_gambiense_DAL972 | version=2016-05-28 | length=1432056 | SO=chromosome
+12 genes found
+1   tRNA-Pro              c[239250,239321]	124.4	33  	(cgg)
+ggccgtttggtctagtggcatgattcctgtttcgggtacaggaggccgcgggttcgattcccgcaacggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Thr               [242915,242986]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Tyr              c[243053,243137]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagtatgcgggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+4   tRNA-Val              c[807417,807490]	118.0	35  	(aac)
+gcgctgatggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgatcggcgta
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Leu              c[807553,807634]	119.8	36  	(tag)
+tggcggtgtggccgagtggtctaaggcgccagatttaggctctggtctctaggggcgtgggttcgaaccccaccaccgtcag
+((((((((  (((ddddddddddd)))((((((  AAA  ))))))          (((((ttttttt)))))))))))))
+6   tRNA-Met              c[807692,807765]	113.6	34  	(cat)
+gcgagcgtggcgcagtcggcagcgcgtgggtttcataatcccaaggtcgtgagttcgagcctcaccgatcgcac
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+7   tRNA-Glu              c[820552,820623]	118.5	34  	(ctc)
+tccggtgtggtatagtggctagaacaagcggctctcacccgctagacccgggttcgatccccggcaccggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+8   tRNA-Met               [820711,820784]	113.6	34  	(cat)
+gcgagcgtggcgcagtcggcagcgcgtgggtttcataatcccaaggtcgtgagttcgagcctcaccgatcgcac
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+9   tRNA-Ser              c[820826,820908]	117.3	35  	(tga)
+tgtcgacatacccaagtggttacggggtttgacttgaaatcaaatgcgatctcgcgcgcaggttcgaaccctgctgtcgacgg
+((((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+10  tRNA-Val               [821023,821096]	118.0	35  	(aac)
+gcgctgatggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgatcggcgta
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+11  tRNA-Leu            c[1240202,1240274]	113.6	34  	(caa)
+gcgcggttagtctagtggaaagtcactcgcactcaattagcgggagccccgggttcgattcccggactgcgcg
+(((((((  (.((ddddddd)).)  ((((.  AAA  .))))     (((((ttttttt))))))))))))
+12  tRNA-Val            c[1240343,1240418]	113.6	35  	(cac)
+tgcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcgatccccgcccgtcgtagc
+((((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+>Tbg972_05 | organism=Trypanosoma_brucei_gambiense_DAL972 | version=2016-05-28 | length=1385737 | SO=chromosome
+2 genes found
+1   tRNA-Arg              c[119668,119740]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Glu               [820104,820175]	118.5	34  	(ctc)
+tccggtgtggtatagtggctagaacaagcggctctcacccgctagacccgggttcgatccccggcaccggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>Tbg972_06 | organism=Trypanosoma_brucei_gambiense_DAL972 | version=2016-05-28 | length=1184041 | SO=chromosome
+0 genes found
+>Tbg972_07 | organism=Trypanosoma_brucei_gambiense_DAL972 | version=2016-05-28 | length=2224448 | SO=chromosome
+8 genes found
+1   tRNA-Gly               [270220,270291]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgcac
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Ala            c[1942195,1942268]	109.1	34  	(agc)
+ggggatgtagctcagatggtagagcgcccgcttagcatgcgggaggtattgggatcgatacccaacttctccac
+(((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+3   tRNA-Ser            c[1942337,1942419]	123.0	35  	(gct)
+tgcaaacgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcgg
+((((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+4   tRNA-Asp             [1942495,1942567]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+5   tRNA-Asp            c[1945719,1945791]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+6   tRNA-Ser             [1945867,1945949]	123.0	35  	(gct)
+tgcaaacgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcgg
+((((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+7   tRNA-Ala             [1946018,1946091]	109.1	34  	(agc)
+ggggatgtagctcagatggtagagcgcccgcttagcatgcgggaggtattgggatcgatacccaacttctccac
+(((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+8   tRNA-Ala            c[2097422,2097494]	114.5	33  	(cgc)
+gggcgtgtagctcagtggtagagcatccgtttcgcatacggaaggcctagggtttgatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+>Tbg972_08 | organism=Trypanosoma_brucei_gambiense_DAL972 | version=2016-05-28 | length=2225824 | SO=chromosome
+17 genes found
+1   tRNA-Asn               [603510,603583]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+2   tRNA-Trp              c[603668,603741]	116.8	33  	(cca)
+gggggcttagctcagtggtagagcattggattccaaatccaggggtcgcaggttcaatccctgcagtcctcacc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Ile              c[665062,665137]	117.8	36  	(tat)
+tgctcccgtggtctagttggttaggacgttggtcttatgaaccgaatatcgcgggttcgaaccccgccgggagcat
+((((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+4   tRNA-Gln               [665231,665302]	124.9	34  	(ttg)
+ggtcctatagtgtagtggttatcacttcggactttgaatccgaaaacccaggttcgaatcctggtaggacca
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+5   tRNA-Val               [665359,665434]	111.3	35  	(tac)
+tgcgtgggtgatctagtggttatgatgtctgctttacacgcagaacgtcgcgggttcgaaccccgccccgcgtagc
+((((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+6   tRNA-Lys               [665503,665576]	122.8	34  	(ctt)
+gcccttctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgagccccacggggggtgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+7   tRNA-Gly               [668895,668967]	118.6	34  	(tcc)
+gcaatcgtggtccaacggttaagatttccgccttccaagcgggagacccgggttcgactcccggcgattgcac
+(((((((  (((dddddddddd)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+8   tRNA-Leu               [669053,669136]	117.1	36  	(cag)
+tggcaagatggtcgagtggtctaagacgtgacgttcaggtcgtcatctctccggaggcgtgggttcaaaccccactcttgtcaa
+((((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+9   tRNA-Thr              c[669219,669290]	119.6	33  	(tgt)
+ggcctcgtagcgcagtggcagtgcactggtcttgtaaaccaggggtcccgagttcaattctcggcggggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+10  tRNA-Arg               [669387,669460]	121.1	34  	(tcg)
+cggtctcgtggcgcaatggaagcgcatcagacttcggatctgagggttgcaggttcgagtcctgccgggatcgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+11  tRNA-Lys               [672150,672223]	122.8	34  	(ctt)
+gcccttctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgagccccacggggggtgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+12  tRNA-Arg              c[672315,672388]	120.3	34  	(acg)
+cgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+13  tRNA-Cys               [833667,833738]	122.6	33  	(gca)
+ggattcatagctcagtggtagagcattcggctgcagtccgaatggtccccggttcaaacccgggtgggtcct
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+14  tRNA-Arg             [1375297,1375369]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+15  tRNA-Ile             [1678762,1678836]	119.6	35  	(aat)
+gctcctatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+16  tRNA-Leu            c[1678885,1678966]	113.0	36  	(taa)
+gctggggttcccgagttggtcaaaggggtgagacttaagttctcatgcggttgcttcgtgggttcgaaccccacccccagca
+(((((((  (((.dddddddddd.)))((((((  AAA  ))))))           (((((ttttttt))))))))))))
+17  tRNA-Gln            c[1679061,1679133]	120.2	34  	(ctg)
+gctcccatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtgggagtgc
+(((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>Tbg972_09 | organism=Trypanosoma_brucei_gambiense_DAL972 | version=2016-05-28 | length=2160261 | SO=chromosome
+3 genes found
+1   tRNA-SeC              c[239036,239123]	107.9	36  	(tca)
+gccacgatgagctcagctggtgctgggtgcgggcttcaaacccgtaggcgagttggactcgcagccgttcgattcggcctttgtggtg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+2   tRNA-SeC              c[242854,242941]	107.9	36  	(tca)
+gccacgatgagctcagctggtgctgggtgcgggcttcaaacccgtaggcgagttggactcgcagccgttcgattcggcctttgtggtg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+3   tRNA-Gly             [1748754,1748824]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+>Tbg972_10 | organism=Trypanosoma_brucei_gambiense_DAL972 | version=2016-05-28 | length=3899268 | SO=chromosome
+12 genes found
+1   tRNA-Asn               [820949,821100]	100.0	112 	(gtt)i(31,80)
+tggttgctggatgaaggtggcatctttgctcacacacaggaggaacaaataaggctctggctgcatcgttatgtcccgcaagaggcatacacaaatggcagggatggagatgttgcgcaaagagacgcagattcaacttccgtgtatccatc
+(((.(((  ((((ddddddd))))((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))     ((.((ttttttt)).))))).)))
+2   tRNA-Gly             [1826436,1826506]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Pro             [1863360,1863431]	124.0	33  	(agg)
+ggcccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctgggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+4   tRNA-Thr             [1863492,1863564]	117.5	33  	(agt)
+ggccgcttagctcaatggcagagcgccgtcctagtaagacggaggtcgggggttcgatccccccagtggcctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Leu             [1867010,1867094]	116.7	36  	(aag)
+tggcgagatggtcgagtggtctaagacgttggattaaggttccaatccttccgagggcgtgggttcaaaccccactctcgtcaac
+((((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+6   tRNA-Met            c[1867154,1867225]	116.7	33  	(cat)
+agcaccgtggcgcaggggaagcgcgatgggctcataacccataggacgttggatcgaaaccaaccggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+7   tRNA-Pro             [1867298,1867369]	123.2	33  	(tgg)
+ggccgtttggtctagtggtatgattcctgctttgggtgcaggaggtcacgggttcaattcccgtaacggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+8   tRNA-Asn             [2556660,2556735]	118.7	35  	(gtt)
+ttcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagtc
+((((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt)))))))))))))
+9   tRNA-Ala            c[2556812,2556883]	117.5	33  	(tgc)
+gggcgtgtagctcagtggtagagcgcctgttttgcatacaggaggcctagggttcaaacccctactcgtcca
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+10  tRNA-Arg             [2556986,2557059]	122.3	34  	(tct)
+gctccagtggcctaatggatatggctttggacttctaatccaaaggttgcgggttcgagtcccgtctggagtac
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+11  tRNA-Lys             [2557119,2557191]	125.9	33  	(ttt)
+gccttcctagctcagtggtagagcgcacggcttttaaccgtgtggtcgtgggttcgatccccacggaaggcgc
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+12  tRNA-Arg             [2557275,2557349]	119.0	35  	(cct)
+tgcccccgtagcccaatggataaggcgttcgcttcctaagcgaaagattgcgggttcgagtcccgccggaggtag
+((((.(((  (((dddddddddd))) (((((  AAA  )))))     (((((ttttttt)))))))).))))
+>Tbg972_11 | organism=Trypanosoma_brucei_gambiense_DAL972 | version=2016-05-28 | length=4531609 | SO=chromosome
+8 genes found
+1   tRNA-Gly             [1888933,1889003]	121.6	33  	(ccc)
+gcgccgttggtctagtggcatgatggtaccctcccaaggtattgacccgggttcgattcccggacggcgca
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Lys             [2200497,2200571]	122.8	35  	(ctt)
+tgcccttctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgagccccacggggggtgt
+((((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt)))))))))))))
+3   tRNA-His             [3471486,3471557]	120.7	33  	(gtg)
+gggaagatagttcagtggcagaacatcagattgtggctctgaatacccgggttcgattcccggtcttccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+4   tRNA-Glu             [3471618,3471689]	118.5	34  	(ttc)
+tccggtatagtataacggttagaacatctggctttcacccagaagatccgggttcgattcccggtaccggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+5   tRNA-Phe             [3471749,3471821]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Ala            c[3489347,3489418]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtcca
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+7   tRNA-Arg            c[3489484,3489557]	119.0	34  	(ccg)
+tgacgttgtggcgcaatggaagcgcgtcggattccggatccgaaggttgcgggttcgacccccgtcagcgttgg
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+8   tRNA-Phe             [3489667,3489739]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>end 	11 sequences 66 tRNA genes, nothing found in 2 sequences, (81.82% sensitivity)

@@ -1,0 +1,338 @@
+>CP009370 | organism=Leishmania_panamensis_strain_MHOM/PA/94/PSC-1 | version=2015-03-05 | length=268611 | SO=chromosome
+0 genes found
+>CP009371 | organism=Leishmania_panamensis_strain_MHOM/PA/94/PSC-1 | version=2015-03-05 | length=263713 | SO=chromosome
+0 genes found
+>CP009372 | organism=Leishmania_panamensis_strain_MHOM/PA/94/PSC-1 | version=2015-03-05 | length=387599 | SO=chromosome
+0 genes found
+>CP009373 | organism=Leishmania_panamensis_strain_MHOM/PA/94/PSC-1 | version=2015-03-05 | length=431108 | SO=chromosome
+0 genes found
+>CP009374 | organism=Leishmania_panamensis_strain_MHOM/PA/94/PSC-1 | version=2015-03-05 | length=449155 | SO=chromosome
+3 genes found
+1   tRNA-Ser                c[70541,70703]	101.8	106 	(tga)i(36,69)
+tggcgccgaaggactggggtggagggccgttcgctgccagttggagaatgggctggcccaggcggggctcgtcgtgctgcgacaccttgcttgagttcagcaggttgaacgcggaggagggctttcggaggagcacccgtcgatcctcttcggtgggtgccag
+(((((((   ((.(dddddddddd).)) ((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))      .((vvvvvvv)).   (((((tttttttt))))))))))))
+2   tRNA-Ser              c[107418,107580]	101.8	106 	(tga)i(36,69)
+tggcgccgaaggactggggtggagggccgttcgctgccagttggagaatgggctggcccaggcggggctcgtcgtgctgcgacaccttgcttgagttcagcaggttgaacgcggaggagggctttcggaggagcacccgtcgatcctcttcggtgggtgccag
+(((((((   ((.(dddddddddd).)) ((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))      .((vvvvvvv)).   (((((tttttttt))))))))))))
+3   tRNA-Arg               [365370,365441]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>CP009375 | organism=Leishmania_panamensis_strain_MHOM/PA/94/PSC-1 | version=2015-03-05 | length=511626 | SO=chromosome
+2 genes found
+1   tRNA-SeC                c[66972,67059]	108.3	36  	(tca)
+gccgcgatgagctcagctggtgctgggtgcgggcttcaaacccgtaggtgagttgctctcacagccgttcgattcggccttcgtggcg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+2   tRNA-Asp              c[300996,301092]	101.8	37  	(gtc)
+gtcgggatggcggggttgagtaccgcactagcgcttgtcatgagataggaatagcgtggctggtgtttctgcatgtgtgcagccgcatagcccgtcg
+(.((((.( ((((ddddddddd))))  ((.(.(  AAA  ).).))((((((vvvvvvvvvv))))))   (((((tttttt)))))).)))).)
+>CP009376 | organism=Leishmania_panamensis_strain_MHOM/PA/94/PSC-1 | version=2015-03-05 | length=551246 | SO=chromosome
+1 genes found
+1   tRNA-Arg              c[365810,365881]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>CP009377 | organism=Leishmania_panamensis_strain_MHOM/PA/94/PSC-1 | version=2015-03-05 | length=436873 | SO=chromosome
+0 genes found
+>CP009378 | organism=Leishmania_panamensis_strain_MHOM/PA/94/PSC-1 | version=2015-03-05 | length=561584 | SO=chromosome
+8 genes found
+1   tRNA-Met               [259804,259875]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Leu               [259935,260018]	117.1	35  	(cag)
+ggcaagatggtcgagtggtccaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+3   tRNA-Val               [393334,393407]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-His               [393665,393736]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+5   tRNA-Glu              c[409374,409447]	118.0	34  	(ttc)
+tccgatgtagtataacggttagaacacctggctttcacccaggagatccgggttcgattcccggtatcggagcc
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+6   tRNA-Val              c[409689,409762]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+7   tRNA-Arg               [409837,409908]	118.6	33  	(ccg)
+gacgttgtggcgcaatggaagcgcgtcggattccggatccgaaggttgtgggttcgacccccatcagcgttg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+8   tRNA-His               [409970,410041]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>CP009379 | organism=Leishmania_panamensis_strain_MHOM/PA/94/PSC-1 | version=2015-03-05 | length=512284 | SO=chromosome
+2 genes found
+1   tRNA-Lys               [479165,479238]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Asn              c[479402,479474]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggag
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>CP009380 | organism=Leishmania_panamensis_strain_MHOM/PA/94/PSC-1 | version=2015-03-05 | length=586833 | SO=chromosome
+5 genes found
+1   tRNA-Leu              c[161854,161936]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ala               [162008,162079]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtcca
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+3   tRNA-Gly               [169281,169352]	122.0	33  	(ccc)
+gcgccgctggtctagtggcatgatggtaccctcccaaggtattgacccgggttcgattcccgggcggcgcac
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+4   tRNA-Met              c[389332,389404]	113.6	34  	(cat)
+gcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+5   tRNA-Arg               [389474,389548]	120.3	34  	(acg)
+cgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgac
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+>CP009381 | organism=Leishmania_panamensis_strain_MHOM/PA/94/PSC-1 | version=2015-03-05 | length=491201 | SO=chromosome
+0 genes found
+>CP009382 | organism=Leishmania_panamensis_strain_MHOM/PA/94/PSC-1 | version=2015-03-05 | length=618782 | SO=chromosome
+0 genes found
+>CP009383 | organism=Leishmania_panamensis_strain_MHOM/PA/94/PSC-1 | version=2015-03-05 | length=584527 | SO=chromosome
+0 genes found
+>CP009384 | organism=Leishmania_panamensis_strain_MHOM/PA/94/PSC-1 | version=2015-03-05 | length=606998 | SO=chromosome
+3 genes found
+1   tRNA-Gly               [272178,272374]	102.7	35  	(acc)i(40,104)
+tggcgttggccgacttgaccaacggcagcgtgctaccgcacagctcctccttgcacaacaaggacgtgggagactccgccgcgccacccacaccactgcacttgactggcggcggtggaaacccctacacgcagccgagctcgtacgcaaaccacgacggccctggggtggctggtggcatgcctgtagtgccatcc
+((((((( ((((dddddddddd)))) (((((  AAA  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii))))) ..(.vvvv.)..         ((.((ttttttt)).)))))))))
+2   tRNA-Glu               [331649,331720]	118.1	34  	(ctc)
+tccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+3   tRNA-Asp              c[331751,331823]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+>CP009385 | organism=Leishmania_panamensis_strain_MHOM/PA/94/PSC-1 | version=2015-03-05 | length=681774 | SO=chromosome
+1 genes found
+1   tRNA-Gln              c[428630,428704]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgtc
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+>CP009386 | organism=Leishmania_panamensis_strain_MHOM/PA/94/PSC-1 | version=2015-03-05 | length=623274 | SO=chromosome
+3 genes found
+1   tRNA-Asp              c[291104,291176]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Ser               [291252,291336]	121.7	35  	(gct)
+tgcaaatgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcgacc
+((((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+3   tRNA-Ala               [291392,291467]	108.3	35  	(agc)
+tggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctccagc
+((((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+>CP009387 | organism=Leishmania_panamensis_strain_MHOM/PA/94/PSC-1 | version=2015-03-05 | length=678718 | SO=chromosome
+0 genes found
+>CP009388 | organism=Leishmania_panamensis_strain_MHOM/PA/94/PSC-1 | version=2015-03-05 | length=641449 | SO=chromosome
+1 genes found
+1   tRNA-Ala              c[175062,175135]	103.1	34  	(ggc)
+agcgcgctagaggagcggggccgcggccgcgctggcgacgtggccgtgtaggtgttctgtgcaccagcgtccca
+.(.((((  (.((ddddddd)).) ((((((  AAA  ))))))     .((((ttttttt)))).)))).).
+>CP009389 | organism=Leishmania_panamensis_strain_MHOM/PA/94/PSC-1 | version=2015-03-05 | length=2419226 | SO=chromosome
+11 genes found
+1   tRNA-Val              c[462379,462453]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Ile               [462559,462633]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Met               [462695,462768]	113.6	34  	(cat)
+gcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgcac
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+4   tRNA-Leu              c[462823,462903]	119.8	35  	(tag)
+ggcggagtggccgagtggtctaaggcgccagatttaggctctggtctttcgaggcgtgggttcgaaccccacctccgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))          (((((ttttttt))))))))))))
+5   tRNA-Ser               [462979,463059]	116.9	34  	(tga)
+gtcaacatacccaagtggttacggggtttgacttgaaatcaaatgcgatctcgcgcgcaggttcgaaccctgctgttgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+6   tRNA-Ala              c[785462,785533]	101.3	33  	(ggc)
+tgtcctctggcgcggcggaacaccttggcgttggcaacgctgacggtgtcgttttgctcgagagggggacgg
+(((((((( (.(dddddddd).) ((((((  AAA  ))))))   (.(((ttttttt))).)))))))))
+7   tRNA-Asn            c[1406055,1406128]	116.5	34  	(gtt)
+tcccccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((.(((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt)))))))).)))
+8   tRNA-Pro            c[1406187,1406258]	124.4	33  	(cgg)
+ggccgcttggtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+9   tRNA-Thr             [1406338,1406410]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+10  tRNA-Tyr             [1406468,1406552]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagactgcaggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+11  tRNA-Asn             [1406617,1406690]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>CP009390 | organism=Leishmania_panamensis_strain_MHOM/PA/94/PSC-1 | version=2015-03-05 | length=744060 | SO=chromosome
+4 genes found
+1   tRNA-Ser              c[155757,155837]	123.0	34  	(gct)
+gcaaacgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcg
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Pro               [435366,435437]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+3   tRNA-Val               [435513,435587]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Lys               [435649,435722]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>CP009391 | organism=Leishmania_panamensis_strain_MHOM/PA/94/PSC-1 | version=2015-03-05 | length=644210 | SO=chromosome
+0 genes found
+>CP009392 | organism=Leishmania_panamensis_strain_MHOM/PA/94/PSC-1 | version=2015-03-05 | length=746973 | SO=chromosome
+10 genes found
+1   tRNA-Ile               [210993,211069]	118.5	36  	(tat)
+tgctcccgtggtctagttggttaggacgctggtcttatgaaccggatatcgcgggttcgagccccgccgggagcagc
+((((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+2   tRNA-Val              c[211124,211196]	111.3	34  	(tac)
+gcgtgggtgatctagtggttatgatgtctgctttacacgcagaacgtcgcgggttcgaaccccgccccgcgta
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Gln              c[211263,211334]	124.9	34  	(ttg)
+ggtcctatggtgtagtggttatcacttcggactttgaatccgaaaacccaggttcgaatcctggtaggacca
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+4   tRNA-Arg              c[211595,211668]	120.3	34  	(acg)
+cgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+5   tRNA-Leu              c[211896,211979]	117.1	35  	(cag)
+ggcaagatggtcgagtggtccaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+6   tRNA-Thr              c[212038,212111]	119.3	34  	(tgt)
+aggccgcttagcacagtggcagtgcattggtcttgtaaaccaagggtcccgagttcaattctcggagtggcctt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+7   tRNA-Arg               [212183,212256]	121.1	34  	(tcg)
+tggcctcttggcgcaatggaagcgcatcagacttcggatctgagggttgcaggttcgagtcctgcaggggtcgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+8   tRNA-Lys               [212581,212655]	122.0	35  	(ttt)
+cgcactcctagctcagttggtagagcgcgtggcttttaacctcgtggtcgtgggttcgagccccacggagtgcgt
+((((((((  ((((dddddddd))))(((.((  AAA  )).)))    (((((ttttttt)))))))))))))
+9   tRNA-Gly              c[212689,212762]	116.4	34  	(tcc)
+gcaattgtggtccaacggttaagatccccgccttccaagcgggtgacccgggttcgactcccggcaattgcacc
+(((((((  (((dddddddddd))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+10  tRNA-Trp               [212838,212909]	116.8	33  	(cca)
+gggggcttagctcagtggtagagcattggattccaaatccaggggtcgcaggttcaatccctgcagctctca
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>CP009393 | organism=Leishmania_panamensis_strain_MHOM/PA/94/PSC-1 | version=2015-03-05 | length=832421 | SO=chromosome
+7 genes found
+1   tRNA-Cys                 [68945,69047]	100.6	45  	(gca)i(35,9)
+cggcgaggtggctgagttggagcagcccagagtcaaggctctgtgcagagcgctcgagtgcgagtcgcgagcgcgcactcagctccacaccaggccttgctgg
+((((((((  ((((dddddddd))))  ((.(( iiiiiiiii AAA  )).))     (((.(vvvvvvv).))) ((..(ttttttt)..))))))))))
+2   tRNA-Pro               [206017,206088]	124.4	33  	(cgg)
+ggccgcttggtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+3   tRNA-Ile               [495062,495151]	102.8	34  	(gat)
+ccggcggtggcgcacgagcttgtgggcggcaccgatattgccgagtgcatgcgtcgcgcagggcttgttgtgccagacaacatcaccggc
+((((.((  .((dddddddddd)). (((((  AAA  )))))    (.(((vvvvv))).)   (((((ttttttt))))))).))))
+4   tRNA-Gln               [615057,615131]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgtc
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+5   tRNA-Leu              c[615317,615398]	111.7	36  	(taa)
+gctggggttcccgagttggtcaaaggggtgagacttaagttctcatgcgcaagcttcgtgggttcgaaccccacctccagca
+(((((((  (((.dddddddddd.)))((((((  AAA  ))))))           (((((ttttttt))))))))))))
+6   tRNA-Ile               [615476,615550]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+7   tRNA-Asp              c[672652,672724]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+>CP009394 | organism=Leishmania_panamensis_strain_MHOM/PA/94/PSC-1 | version=2015-03-05 | length=886799 | SO=chromosome
+0 genes found
+>CP009395 | organism=Leishmania_panamensis_strain_MHOM/PA/94/PSC-1 | version=2015-03-05 | length=1024527 | SO=chromosome
+1 genes found
+1   tRNA-Asp               [592997,593139]	100.1	35  	(atc)i(40,44)
+ctcttcgcccggggggtggggcgctttcgacgttatcgcgcctcgaaagtagatgctgaactcatccactctcgccgcgttggcgtcgagctttgattcctctatgaagggcgctggcgttcagcaccgcgggcggacggccc
+((.(((((   ((((dddddddd))))(((((  AAA  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii))))) (..vvvvv..)              (.(((tttttttt))).)))))).))
+>CP009396 | organism=Leishmania_panamensis_strain_MHOM/PA/94/PSC-1 | version=2015-03-05 | length=1043456 | SO=chromosome
+1 genes found
+1   tRNA-Ala              c[220380,220487]	100.2	37  	(ggc)i(38,9)
+gcagcgggattggataggctcaatgatcttgctactgttgttgcaggcaaaggcgaaccgcgttgtgctgctgtgtagctccattgtgcgacgcaatgcctgctgcgc
+((((((((   ((((dddddddddd))))((((.  AiiiiiiiiiAA  .))))  (.((vvvvv)).)           (((((ttttttt)))))))))))))
+>CP009397 | organism=Leishmania_panamensis_strain_MHOM/PA/94/PSC-1 | version=2015-03-05 | length=1152636 | SO=chromosome
+2 genes found
+1   tRNA-Pro                c[52492,52585]	100.6	34  	(cgg)
+tgcacatggcttgtggcacctggggctcctcctcggaggaggagggtccgtcaagcggggtgcacacctgccgatcctcatcagtaatgggcat
+(((.((( ((((dddddddddd))))(((((  AAA  )))))   ((((vvvvv))))         (((.(tttttttt).)))))).)))
+2   tRNA-Ser              c[222913,222995]	101.5	43  	(cga)i(32,10)
+ggcggcgctgctcaagattgtggaggaggtcaaggcggttgtcgaggacttcaagccgtgggtgccattcctatcgtcgctgc
+(((((((   (((ddddddddd)))((((( iiiiiiiiii AAA  )))))     (((((ttttttt))))))))))))
+>CP009398 | organism=Leishmania_panamensis_strain_MHOM/PA/94/PSC-1 | version=2015-03-05 | length=1167641 | SO=chromosome
+2 genes found
+1   tRNA-Leu              c[782665,782746]	117.8	35  	(caa)
+ggcaggatggccgagtggtctaaggcgggagactcaagttctcttctattcgtaggcgcgggttcgaaccccgctcctgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ser              c[782801,782881]	119.6	34  	(cga)
+gtcaccatacccaagtggttacgggggttgactcgaaatcaactgcgatctcgcgcgcaggttcgaatcctgctggtgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>CP009399 | organism=Leishmania_panamensis_strain_MHOM/PA/94/PSC-1 | version=2015-03-05 | length=1309976 | SO=chromosome
+1 genes found
+1   tRNA-Thr              c[716887,716958]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>CP009400 | organism=Leishmania_panamensis_strain_MHOM/PA/94/PSC-1 | version=2015-03-05 | length=1340778 | SO=chromosome
+5 genes found
+1   tRNA-Ala               [185119,185194]	108.3	35  	(agc)
+tggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctccaac
+((((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+2   tRNA-Gly               [444707,444777]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Glu              c[444825,444896]	118.1	34  	(ctc)
+tccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+4   tRNA-Phe             [1185916,1185988]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Ser            c[1186030,1186111]	118.3	34  	(aga)
+gtcaccatacccaagtggttacggggactgactagaaatcagttgcgatctcgcgcgtaggttcgaatcctgctggtgacgc
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>CP009401 | organism=Leishmania_panamensis_strain_MHOM/PA/94/PSC-1 | version=2015-03-05 | length=1527382 | SO=chromosome
+1 genes found
+1   tRNA-Val               [764092,764231]	101.3	80  	(cac)i(30,48)
+cggccccgtgcaacggacgaattgacttgccttgcgccggtgtcgctgcgagtgtcagtgaggaagcaagaaacaagttcacgagaagtgcgatgacagcaagaaggaagtgccgctggttccgctgcagcggggccagc
+.((((((   (((dddddddd)))((((.iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  .))))      ...vvvv...         ((((.ttttttt.)))))))))).
+>CP009402 | organism=Leishmania_panamensis_strain_MHOM/PA/94/PSC-1 | version=2015-03-05 | length=1414953 | SO=chromosome
+5 genes found
+1   tRNA-Arg              c[106789,106862]	118.9	34  	(cct)
+gcccttgtagcctaatggatatggcgtttgcttcctaagcaaaaggttgcgggttcgagtcccgccaggggtac
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Arg              c[106923,106995]	125.8	34  	(tct)
+gctccagtggcctaatggataaggctttggacttctaatccaaagattgcgggttcgaatcccgcctggagta
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+3   tRNA-Ala               [107072,107143]	117.5	33  	(tgc)
+gggcgtgtagctcagtggtagagcgcctgttttgcatacaggaggcctagggttcaaacccctactcgtcca
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+4   tRNA-Lys              c[500266,500339]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+5   tRNA-Ala              c[987702,987807]	101.5	46  	(tgc)i(34,11)
+gcagcagctgccaaaggtgttgtcagccaggacaaacaaccgcattgcgcttgtggggcagtgcgggttgtccatcgccgcagtgtgagtccgcgctgccgcccca
+((.((((   (..(dddddddd)..) ((.(( iiiiiiiiiii AAA  )).))        (((.vvvvvv.))) (((.(ttttttt).))))))).))
+>CP009403 | organism=Leishmania_panamensis_strain_MHOM/PA/94/PSC-1 | version=2015-03-05 | length=1936232 | SO=chromosome
+0 genes found
+>CP009404 | organism=Leishmania_panamensis_strain_MHOM/PA/94/PSC-1 | version=2015-03-05 | length=2610169 | SO=chromosome
+10 genes found
+1   tRNA-Thr               [467100,467174]	117.1	34  	(agt)
+aggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcctac
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+2   tRNA-Tyr               [467240,467324]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagtccgcaggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+3   tRNA-Ala               [757336,757539]	102.6	37  	(ggc)i(38,108)
+caggcagtggagaatagctgccatttcgtcagttttgaatgtgtcgtccctacaacggagtttggcgctgttgcgctgtacgacatagttgagcgtctgtccgcgcttgatccgctcttctgcagtataacgtggggcaatgatggccgaaccgcagagaccttcatcgaggtcgcctcagtgtgccagtcgctgctgtctgtc
+(((((((  ((((dddddddddd))))  (.(((  AiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiAA  ))).)     ..((vvvvvvv))..    (((((ttttttt))))))))))))
+4   tRNA-Pro              c[987601,987672]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+5   tRNA-Thr              c[988033,988104]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Gly              c[988166,988237]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgcac
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+7   tRNA-Cys             [2398354,2398426]	122.6	33  	(gca)
+ggattcatagctcagtggtagagcattcggctgcagtccgaatggtccccggttcaaacccgggtgggtcctc
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+8   tRNA-Leu            c[2401421,2401503]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+9   tRNA-Met            c[2401570,2401641]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+10  tRNA-Pro             [2401714,2401785]	122.1	33  	(tgg)
+ggtcgtttggtctagtggtatgattcctgttttgggtacaggaggtcacgggttcaattcccgtaacgaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>end 	35 sequences 89 tRNA genes, nothing found in 12 sequences, (65.71% sensitivity)

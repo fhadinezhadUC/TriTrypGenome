@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560293457519.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3435518355",
+    "id" : "E64AD86B",
+    "lastKnownWriteTime" : 1560293129,
+    "last_content_update" : 1560293129,
+    "path" : "~/Data/LIBRARY/PAPERS/Leish_Paul_Mike_Fatemeh/scripts/densityplot.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "20,81",
+        "scrollLine" : "0",
+        "source_window_id" : ""
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

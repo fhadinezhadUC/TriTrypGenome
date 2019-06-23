@@ -1,0 +1,581 @@
+TvY486_03.trna1 (1113293-1113373)	Length: 81 bp
+Type: Ser	Anticodon: AGA at 34-36 (1113326-1113328)	Score: 69.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+Seq: GTCACCATACCCAAGTGGTtACGGGGACTGACTAGAAATCAGTTGCGATCTCGCGCGCAGGTTCGAATCCTGCTGGTGACG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>....<<<..>>>>>.......<<<<<<<<<<<<.
+
+TvY486_03.trna2 (1113440-1113521)	Length: 82 bp
+Type: Leu	Anticodon: CAA at 35-37 (1113474-1113476)	Score: 76.6
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGCAGGATGGCCGAGTGGTctAAGGCGGGAGACTCAAGTTCTCTTCTATTCGTAGGCGTGGGTTCGAACCCCACTCCTGTCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>....<<<..>>>>>.......<<<<<<<<<<<<.
+
+TvY486_03.trna3 (1114498-1114418)	Length: 81 bp
+Type: Ser	Anticodon: CGA at 34-36 (1114465-1114463)	Score: 70.1
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+Seq: GTCATCATACCCAAGTGGTtAAGGGGACTGACTCGAAATCAGTTGCGATCTCGCGCGCAGGTTCGAATCCTGCTGGTGACG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>....<<<..>>>>>.......<<<<<<<<<<<<.
+
+TvY486_04.trna1 (780464-780537)	Length: 74 bp
+Type: Val	Anticodon: AAC at 35-37 (780498-780500)	Score: 61.5
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GCGCTGATGGTCTAGGTGGTtATGACGTCGCTTTAACACGGCGAAGGtCTCGGGTTCGAGTCCCGATCGGCGTA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_04.trna2 (780382-780302)	Length: 81 bp
+Type: Ser	Anticodon: TGA at 34-36 (780349-780347)	Score: 72.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+Seq: GTCGACATACCCAAGTGGTtACGGGGTTTGACTTGAAATCAAATGCGATCTCGCGCGCAGGTTCGAACCCTGCTGTCGACG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>....<<<..>>>>>.......<<<<<<<<<<<<.
+
+TvY486_07.trna1 (2124741-2124670)	Length: 72 bp
+Type: Ala	Anticodon: CGC at 33-35 (2124709-2124707)	Score: 44.7
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGGCATGTAGCTCAGTGGTAGAGCGGCCGTTTCGCATACGGAAGAcTTGGTGTTCGATCCACTGCTCGTCCA
+Str: >>>>..>..>>>>.......<<<<..>>>>.......<<<<......>>>>>.......<<<<<<..<<<<.
+
+TvY486_08.trna1 (695002-695074)	Length: 73 bp
+Type: Lys	Anticodon: CTT at 34-36 (695035-695037)	Score: 80.3
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCCCTTCTAGCTCAGTCGGTAGAGCGCACGGCTCTTAACCGTGTGGtCGTGGGTTCGAGCCCCACGGGGGGTG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_08.trna2 (695400-695471)	Length: 72 bp
+Type: Gly	Anticodon: TCC at 34-36 (695433-695435)	Score: 69.6
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GCAATCGTGGTCTAACGGTcAAGATTTCCGCCTTCCAAGCGGGAGaCCCGGGTTCGACTCCCGGCGATTGCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_08.trna3 (695530-695611)	Length: 82 bp
+Type: Leu	Anticodon: CAG at 35-37 (695564-695566)	Score: 70.1
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGCAAGATGGTCGAGTGGTctAAGACGTGACGTTCAGGTCGTCATCTCTCCGGAGGCGTGGGTTCAAACCCCACTCTTGTCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>....<<<..>>>>>.......<<<<<<<<<<<<.
+
+TvY486_08.trna4 (701765-701837)	Length: 73 bp
+Type: Lys	Anticodon: CTT at 34-36 (701798-701800)	Score: 80.3
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCCCTTCTAGCTCAGTCGGTAGAGCGCACGGCTCTTAACCGTGTGGtCGTGGGTTCGAGCCCCACGGGGGGTG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_08.trna5 (1775957-1776028)	Length: 72 bp
+Type: Gln	Anticodon: CTG at 34-36 (1775990-1775992)	Score: 67.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GCTCCCATAGTGTAGCGGTtATCACCTCGGACTCTGAATCCGATAaCCCTGGTTCGAGTCCAGGTGGGAGTG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_08.trna6 (1776096-1776169)	Length: 74 bp
+Type: Ile	Anticodon: AAT at 35-37 (1776130-1776132)	Score: 80.1
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GCTCTCATAGCTCAGTCGGTtAGAGCGTGGGTCTAATAAGCCCAAGGtCACAGGTTCGACCCCTGTTGGGAGCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_08.trna7 (1439633-1439562)	Length: 72 bp
+Type: Arg	Anticodon: ACG at 33-35 (1439601-1439599)	Score: 71.4
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GTCCGTGTGGCTCAATGGAAGAGCATCTGACTACGGATCAGAGGGtTGCAGGTTCGAGTCCTGTCACGGATG
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_08.trna8 (701955-701884)	Length: 72 bp
+Type: Arg	Anticodon: ACG at 33-35 (701923-701921)	Score: 71.4
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GTCCGTGTGGCTCAATGGAAGAGCATCTGACTACGGATCAGAGGGtTGCAGGTTCGAGTCCTGTCACGGATG
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_09.trna1 (183895-183808)	Length: 88 bp
+Type: SeC	Anticodon: TCA at 36-38 (183860-183858)	Score: 120.5
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *  
+Seq: GCCACGATGAGCTCAGCTGGTGCTGGGTGCGGGCTTCAAACCCGTAGGCGAGTTGCaCTCGCAGCCGTTCGATTCGGCCTTCGTGGTG
+Str: >>>>>>>.>..>>>>>>....<<<<<<>>>>>>.......<<<<<<.>>>>>.....<<<<<.>>>>.......<<<<<.<<<<<<<.
+
+TvY486_09.trna2 (180707-180620)	Length: 88 bp
+Type: SeC	Anticodon: TCA at 36-38 (180672-180670)	Score: 120.5
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *  
+Seq: GCCACGATGAGCTCAGCTGGTGCTGGGTGCGGGCTTCAAACCCGTAGGCGAGTTGCaCTCGCAGCCGTTCGATTCGGCCTTCGTGGTG
+Str: >>>>>>>.>..>>>>>>....<<<<<<>>>>>>.......<<<<<<.>>>>>.....<<<<<.>>>>.......<<<<<.<<<<<<<.
+
+TvY486_10.trna1 (1909338-1909409)	Length: 72 bp
+Type: Pro	Anticodon: AGG at 33-35 (1909370-1909372)	Score: 68.3
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGCCCAGTGGTCTAGTGGCATGATTCTCCCTTAGGGTGGGAGAGGtCCCGGGTTCAATTCCCGGCTGGGCCC
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_10.trna2 (1909468-1909539)	Length: 72 bp
+Type: Thr	Anticodon: AGT at 33-35 (1909500-1909502)	Score: 73.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGCCGCTTAGCTCAATGGCAGAGCGCCGTCCTAGTAAGACGGAGGtCGGGGGTTCGATCCCCCCAGTGGCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_10.trna3 (1930590-1930661)	Length: 72 bp
+Type: Pro	Anticodon: TGG at 33-35 (1930622-1930624)	Score: 68.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGCCGTTTGGTCTAGTGGCATGATTCCTGCTTTGGGTGCAGGAGGtCACGGGTTCAATTCCCGTAACGGCCC
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_10.trna4 (2650754-2650826)	Length: 73 bp
+Type: Arg	Anticodon: CCT at 34-36 (2650787-2650789)	Score: 74.5
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCCCCCGTAGCCCAATGGAtAAGGCGTTCGCTTCCTAAGCGAAAGAtTGCGGGTTCGAGTCCCGCCGGGGGTA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_10.trna5 (4005373-4005444)	Length: 72 bp
+Type: Trp	Anticodon: CCA at 33-35 (4005405-4005407)	Score: 81.6
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGGGGCTTAGCTCAGTGGTAGAGCATTGGATTCCAAATCCAAGGGtCGCAGGTTCAATCCCTGCAGTCCTCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_10.trna6 (4005571-4005499)	Length: 73 bp
+Type: Asn	Anticodon: GTT at 34-36 (4005538-4005536)	Score: 73.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: TCCTCCCTGGCGCAGTCGGCAGCGCGTTAGGCTGTTAACCTACAGGtCGTTGGTTCGAATCCAACGGGAGGAG
+Str: >>>>>>>..>>>>........<<<<..>>>>.......<<<<......>>>>>.......<<<<<<<<<<<<.
+
+TvY486_10.trna7 (1930497-1930426)	Length: 72 bp
+Type: iMet	Anticodon: CAT at 33-35 (1930465-1930463)	Score: 67.1
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: AGCACCGTGGCGCAGGGGAAGCGCGATGGGCTCATAACCCATAGGaCGTTGGATCGAAACCAACCGGTGCTA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_10.trna8 (1930014-1929933)	Length: 82 bp
+Type: Leu	Anticodon: AAG at 35-37 (1929980-1929978)	Score: 75.6
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGCGAGATGGTCGAGTGGTctAAGACGTTGGATTAAGGTTCCAATCCTTCCGAGGgCGTGGGTTCAAACCCCACTCTCGTCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>.>...<.<...>>>>>.......<<<<<<<<<<<<.
+
+TvY486_11.trna1 (926952-927023)	Length: 72 bp
+Type: Cys	Anticodon: GCA at 33-35 (926984-926986)	Score: 71.1
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGATTCATAGCTCAGCGGTAGAGCAATCGGCTGCAGTCCGATCGGtCCCCGGTTCAATTCCGGGTGGGTCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_11.trna2 (3724317-3724246)	Length: 72 bp
+Type: Arg	Anticodon: CCG at 33-35 (3724285-3724283)	Score: 67.3
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GACGTTGTGGCGCAATGGAAGCGCGTCGGATTCCGGATCCGAAGGtTGCGGGTTCGACCCCCGTCAGCGTTG
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_11.trna3 (3724181-3724110)	Length: 72 bp
+Type: Ala	Anticodon: CGC at 33-35 (3724149-3724147)	Score: 73.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGGCGTGTAGCTCAGTGGTAGAGCGTCCGTTTCGCATACGGAAGGcCTAGGGTTCGATCCCCTACTCGTCCA
+Str: >>>>>.>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<.<<<<<.
+
+TvY486_11.trna4 (3722435-3722364)	Length: 72 bp
+Type: Glu	Anticodon: TTC at 34-36 (3722402-3722400)	Score: 65.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: TCCGGTATAGTATAACGGTtAGAACATCTGGCTTTCACCCAGAAGaTCCGGGTTCGATTCCCGGTACCGGAA
+Str: >>>>>>>..>>.>........<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_11.trna5 (3722295-3722223)	Length: 73 bp
+Type: Phe	Anticodon: GAA at 34-36 (3722262-3722260)	Score: 88.4
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCCGCTATAGCTCAGTTGGGAGAGCGTCAGACTGAAGATCTGAAGGtCCCTGGTTCGATCCCGGGTGGCGGCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_1160.trna1 (3697-3627)	Length: 71 bp
+Type: Gly	Anticodon: CCC at 33-35 (3665-3663)	Score: 73.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |
+Seq: GCGCCGTTGGTCTAGTGGCATGATGGTACCCTCCCAAGGTATTGaCCCGGGTTCGATTCCCGGACGGCGCA
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_1183.trna1 (584-512)	Length: 73 bp
+Type: Lys	Anticodon: TTT at 34-36 (551-549)	Score: 59.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCCCGGATAGCTCAGTTGGTAGAGCATCAGACTTTTAATCTAAGGGtTGAGGGTTCAAGTCCTTGTTTGGGTG
+Str: >>>>>>>..>>>>........<<<<.>.>>>.......<<<.<......>>>>.......<<<<.<<<<<<<.
+
+TvY486_bin_archived_contig_1183.trna2 (393-312)	Length: 82 bp
+Type: Ser	Anticodon: AGA at 34-36 (360-358)	Score: 41.7
+Possible pseudogene
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GTAGTCATGGCTGAGTGGTtAAGGCGATCGACTAGAAATCCGTTGGGGTATTCTCCCGCAGGTTCAAATCCTGCCAACTATA
+Str: >>>>>....>>>..........<<<.>>.>>.......<<.<<.>>>>.><.<<<<.>>>>>.......<<<<<..<<<<<.
+
+TvY486_bin_archived_contig_2067.trna1 (1392-1463)	Length: 72 bp
+Type: Gln	Anticodon: TTG at 34-36 (1425-1427)	Score: 80.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGTCCTATAGTGTAGTGGTtATCACTTCGGACTTTGAATCCGAAAaCCCAGGTTCGAATCCTGGTAGGACCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_2067.trna2 (1525-1597)	Length: 73 bp
+Type: Val	Anticodon: TAC at 34-36 (1558-1560)	Score: 71.5
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCGTGGGTGATCTAGTGGTtATGATGTCTGCTTTACACGCAGAATGtCGCGGGTTCGAACCCCGCCCCGCGTA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_2067.trna3 (1306-1233)	Length: 74 bp
+Type: Ile	Anticodon: TAT at 35-37 (1272-1270)	Score: 78.3
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GCTCCCGTGGTCTAGTTGGTtAGGACGTTGGTCTTATGAACCGAATAtCGCGGGTTCGAACCCCGCCGGGAGCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_2815.trna1 (6329-6257)	Length: 73 bp
+Type: Arg	Anticodon: TCT at 34-36 (6296-6294)	Score: 71.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCTCCAGTGGCCTAATGGAtATGGCTTTGGACTTCTAATCCAAGGGtTGCGGGTTCGAGTCCCGTCTGGAGTG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_29.trna1 (1067-1139)	Length: 73 bp
+Type: Met	Anticodon: CAT at 34-36 (1100-1102)	Score: 70.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCGAGCGTGGCGCAGTCGGCAGCGCGTGGGTTTCATAATCCCAAGGtCGTGAGTTCGAGCCTCACCGGTCGCA
+Str: >>>>.>>..>>>>........<<<<.>>>>.........<<<<.....>>>>>.......<<<<<<<.<<<<.
+
+TvY486_bin_archived_contig_29.trna2 (1218-1298)	Length: 81 bp
+Type: Leu	Anticodon: TAG at 35-37 (1252-1254)	Score: 79.1
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+Seq: GGCGGTGTGGCCGAGTGGTctAAGGCGCCAGATTTAGGCTCTGGTCTcTGTgAGGCGTGGGTTCGAACCCCACCACCGTCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>.....<<..>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_29.trna3 (956-885)	Length: 72 bp
+Type: Glu	Anticodon: CTC at 34-36 (923-921)	Score: 64.1
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: TCCGGTGTGGTATAGTGGCtAGAACAAGCGGCTCTCACCCGCTAGaCCCGGGTTCGATCCCCGGCATCGGAA
+Str: >>>>>>>..>>.>........<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_3062.trna1 (106-34)	Length: 73 bp
+Type: Val	Anticodon: AAC at 34-36 (73-71)	Score: 78.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GTTTCTGTAGTGTAGTGGTcATCACGTTCGCCTAACACGCGAAAGGtCCTCGGTTCGAAACCGAGCAGAAACA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_3413.trna1 (1836-1764)	Length: 73 bp
+Type: Lys	Anticodon: TTT at 34-36 (1803-1801)	Score: 38.3
+Possible pseudogene
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GTCTGGATAGCTCAGTCGGTAGAGCAACACACTTTTAATCTAAGGgTCGtGGGTTCAAGTCCCTGTTTGGGTG
+Str: >>>>>>>..>>>>........<<<<...>.>.......<.<......>>.>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_3413.trna2 (1645-1564)	Length: 82 bp
+Type: Ser	Anticodon: TGA at 34-36 (1612-1610)	Score: 78.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GTAGTCGTGGCCGAGTGGTtAAGGCGATGGACTTGAAATCCATTGGGGTCTCCCCGCGTAGGTTCGAATCCTGCCGAATACG
+Str: >>>.>>>..>>>..........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<.<<<.
+
+TvY486_bin_archived_contig_3413.trna3 (1386-1315)	Length: 72 bp
+Type: His	Anticodon: GTG at 34-36 (1353-1351)	Score: 49.5
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GCCGTGATCGTATAGTGGTtAGTACTCTGCGTTGTGGCCGCAGCAaCCCCGGTCCGAGTCCGGGTCATGGCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_3413.trna4 (807-735)	Length: 73 bp
+Type: Lys	Anticodon: TTT at 34-36 (774-772)	Score: 59.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCCCGGATAGCTCAGTTGGTAGAGCATCAGACTTTTAATCTAAGGGtTGAGGGTTCAAGTCCTTGTTTGGGTG
+Str: >>>>>>>..>>>>........<<<<.>.>>>.......<<<.<......>>>>.......<<<<.<<<<<<<.
+
+TvY486_bin_archived_contig_3413.trna5 (616-535)	Length: 82 bp
+Type: Ser	Anticodon: AGA at 34-36 (583-581)	Score: 41.7
+Possible pseudogene
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GTAGTCATGGCTGAGTGGTtAAGGCGATCGACTAGAAATCCGTTGGGGTATTCTCCCGCAGGTTCAAATCCTGCCAACTATA
+Str: >>>>>....>>>..........<<<.>>.>>.......<<.<<.>>>>.><.<<<<.>>>>>.......<<<<<..<<<<<.
+
+TvY486_bin_archived_contig_3672.trna1 (1400-1472)	Length: 73 bp
+Type: Val	Anticodon: CAC at 34-36 (1433-1435)	Score: 72.7
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GTTTCTGTAGTGTAGTGGTtATCACGTTCGCCTCACACGCGAAAGGtCCCCAGTTCAATACTGGGCGGAAACA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_3672.trna2 (1756-1828)	Length: 73 bp
+Type: Val	Anticodon: TAC at 34-36 (1789-1791)	Score: 32.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GTTTCCGTAGTGTAGTGTTtATCATGTTTGCATTACACGCTAAAGGtCTCCTGTTCGAAACTGGGCGGAAGCA
+Str: >>>>>>>..>>>..........<<<.>>.>>.......<<.<<.....>>>.>.......<.<<<<<<<<<<.
+
+TvY486_bin_archived_contig_3855.trna1 (445-516)	Length: 72 bp
+Type: Cys	Anticodon: GCA at 33-35 (477-479)	Score: 71.1
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGATTCATAGCTCAGCGGTAGAGCAATCGGCTGCAGTCCGATCGGtCCCCGGTTCAATTCCGGGTGGGTCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_4208.trna1 (369-297)	Length: 73 bp
+Type: Val	Anticodon: AAC at 34-36 (336-334)	Score: 78.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GTTTCTGTAGTGTAGTGGTcATCACGTTCGCCTAACACGCGAAAGGtCCTCGGTTCGAAACCGAGCAGAAACA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_4208.trna2 (192-120)	Length: 73 bp
+Type: Val	Anticodon: CAC at 34-36 (159-157)	Score: 76.1
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GTTTCCGTAGTGTAGTGGTtATCACGTTCGCCTCACACGCGAAAGGtCCCCAGTTCGAAACTGGGCGGAAACA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_4261.trna1 (1056-1128)	Length: 73 bp
+Type: Ala	Anticodon: TGC at 34-36 (1089-1091)	Score: 24.1
+Possible pseudogene
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GGGGAATTAGCTCAAATGGTTAAGCGCTCGCTTTGCATGCGAGAGGtAGCGGGAACAATGACTGCATTCTCCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>.........<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_4261.trna2 (722-651)	Length: 72 bp
+Type: Gln	Anticodon: CTG at 34-36 (689-687)	Score: 66.6
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGTTCCATGGTGTAATGGCtAGCACTCTGGACTCTGAATCCAGCGaTCCGAGTTCAAATCTCGGTGGGACCT
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_4261.trna3 (544-471)	Length: 74 bp
+Type: Ile	Anticodon: AAT at 35-37 (510-508)	Score: 65.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GGCCGGTTAGCTCAGCTGGTtAGAGTGTGGTGCTAATAATGCCAAGGtCGTGGGTTCGATCCCCGTACTGGACA
+Str: >.>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<.<.
+
+TvY486_bin_archived_contig_4261.trna4 (383-311)	Length: 73 bp
+Type: Phe	Anticodon: GAA at 34-36 (350-348)	Score: 88.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCCGAAATAGCTCAGTTGGGAGAGCGTTAGACTGAAGATCTAAAGGtCCCTGGTTCGATCCCGGGTTTCGGCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_4263.trna1 (27-99)	Length: 73 bp
+Type: Val	Anticodon: CAC at 34-36 (60-62)	Score: 68.7
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GTTTCCGTAGTGTAGTGGTtATCACGTTCGCCTCACACGCGAAAGGtCCCCAGTTCGAAACTGGGCGAAAACA
+Str: >>>>.>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<.<<<<.
+
+TvY486_bin_archived_contig_4263.trna2 (383-455)	Length: 73 bp
+Type: Val	Anticodon: TAC at 34-36 (416-418)	Score: 32.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GTTTCCGTAGTGTAGTGTTtATCATGTTTGCATTACACGCTAAAGGtCTCCTGTTCGAAACTGGGCGGAAGCA
+Str: >>>>>>>..>>>..........<<<.>>.>>.......<<.<<.....>>>.>.......<.<<<<<<<<<<.
+
+TvY486_bin_archived_contig_4271.trna1 (105-33)	Length: 73 bp
+Type: Val	Anticodon: AAC at 34-36 (72-70)	Score: 78.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GTTTCTGTAGTGTAGTGGTcATCACGTTCGCCTAACACGCGAAAGGtCCTCGGTTCGAAACCGAGCAGAAACA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_4539.trna1 (1724-1795)	Length: 72 bp
+Type: Glu	Anticodon: TTC at 34-36 (1757-1759)	Score: 50.7
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: TTCCATATGGTCTAGCAGTcAGGATTCCTGATTTTCACCCAGGTGaCCCGGGTTCGACTCCCGGTATGGGAA
+Str: >>>>>>>..>>>>........<<<<.>>>>.........<<<<....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_4539.trna2 (1884-1961)	Length: 78 bp
+Type: Tyr	Anticodon: GTA at 34-36 (1917-1919)	Score: 36.7
+Possible intron: 38-42 (1921-1925)
+Possible pseudogene
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *  
+Seq: ACTTCGATAGCTCAGTTGGTAGAGTGGAGGACTGTAGgaccaATTCTTAGGtCCCAGGTTTGACTCCAGCTCAAAGGA
+Str: .>>>.>>..>>>>........<<<<.>>>>>............<<<<<......>.>>.......<<.<.<<.<<<..
+
+TvY486_bin_archived_contig_4539.trna3 (2121-2049)	Length: 73 bp
+Type: Glu	Anticodon: CTC at 33-35 (2089-2087)	Score: 22.0
+Possible truncation, pseudogene
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCCTGGTGGTCTAGTAATtAGGATTCGGTGCTCTCACCGCCGCGGcCCGAGTTCGATTcCTTGTCAGGgaaCT
+Str: >>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>........<<<<<<<<<...<.
+
+TvY486_bin_archived_contig_4539.trna4 (371-305)	Length: 67 bp
+Type: Lys	Anticodon: CTT at 28-30 (344-342)	Score: 20.9
+Possible truncation, pseudogene
+         *    |    *    |    *    |    *    |    *    |    *    |    * 
+Seq: GaTATTCCAACAGTAGAGCATGAGACTCTTAATCTCAGAGtCCTGGGTTCGAGCCCCACGTTGGGCA
+Str: >....>.>.......<.<..>>>>>.......<<<<<......>>>>.......<<<<.......<.
+
+TvY486_bin_archived_contig_4539.trna5 (198-125)	Length: 74 bp
+Type: Asn	Anticodon: GTT at 35-37 (164-162)	Score: 59.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GTCTCTGTGGCTCAATAGGTtAGCGCGTTCGGCTGTTAACTGAAAGAtTGGTGGTTCAAGCCCACCCAGGGACG
+Str: >>>>>>>..>>.>.........<.<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_4568.trna1 (1346-1275)	Length: 72 bp
+Type: Gln	Anticodon: CTG at 34-36 (1313-1311)	Score: 66.6
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGTTCCATGGTGTAATGGCtAGCACTCTGGACTCTGAATCCAGCGaTCCGAGTTCAAATCTCGGTGGGACCT
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_4568.trna2 (1168-1095)	Length: 74 bp
+Type: Ile	Anticodon: AAT at 35-37 (1134-1132)	Score: 64.3
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GGCTGGTTAGCTCAGCTGGTtAGAGTGTGGTGCTAATAATGCCAAGGtCGTGGGTTCGATCCCCGTACTGGACA
+Str: >.>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<.<.
+
+TvY486_bin_archived_contig_4568.trna3 (1007-935)	Length: 73 bp
+Type: Phe	Anticodon: GAA at 34-36 (974-972)	Score: 88.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCCGAAATAGCTCAGTTGGGAGAGCGTTAGACTGAAGATCTAAAGGtCCCTGGTTCGATCCCGGGTTTCGGCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_4568.trna4 (155-84)	Length: 72 bp
+Type: Gln	Anticodon: CTG at 34-36 (122-120)	Score: 53.1
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGTTCCATGGTGTAATGGTtAGCACTCTGGACTCTGAATCCGGCGaTCCGAATTCAAATCTCGGTGGGTCCT
+Str: >>.>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>.........<<<<<<<<.<<.
+
+TvY486_bin_archived_contig_5269.trna1 (706-634)	Length: 73 bp
+Type: Val	Anticodon: TAC at 34-36 (673-671)	Score: 32.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GTTTCCGTAGTGTAGTGTTtATCATGTTTGCATTACACGCTAAAGGtCTCCTGTTCGAAACTGGGCGGAAGCA
+Str: >>>>>>>..>>>..........<<<.>>.>>.......<<.<<.....>>>.>.......<.<<<<<<<<<<.
+
+TvY486_bin_archived_contig_5387.trna1 (884-956)	Length: 73 bp
+Type: Val	Anticodon: AAC at 34-36 (917-919)	Score: 73.5
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GTTTCTGTAGTGTAGTGGTcATCACGTTTGCCTAACACGCGAAAGGtCCTCGGTTCGAAACCGAGCAGAAACA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_5387.trna2 (1428-1346)	Length: 83 bp
+Type: Leu	Anticodon: CAG at 35-37 (1394-1392)	Score: 67.7
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GTCAGGATGGCCGAGCGGTctAAGGCGCTGCGTTCAGGTCGCAGTCTCCCCTGGAGGCGTTGGTTCGAATCCCACTTCTGACA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>.>>.......<<.<<<<<<<<<.
+
+TvY486_bin_archived_contig_5397.trna1 (711-639)	Length: 73 bp
+Type: Val	Anticodon: AAC at 34-36 (678-676)	Score: 78.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GTTTCTGTAGTGTAGTGGTcATCACGTTCGCCTAACACGCGAAAGGtCCTCGGTTCGAAACCGAGCAGAAACA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_5397.trna2 (534-462)	Length: 73 bp
+Type: Val	Anticodon: CAC at 34-36 (501-499)	Score: 76.1
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GTTTCCGTAGTGTAGTGGTtATCACGTTCGCCTCACACGCGAAAGGtCCCCAGTTCGAAACTGGGCGGAAACA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_5397.trna3 (178-106)	Length: 73 bp
+Type: Val	Anticodon: TAC at 34-36 (145-143)	Score: 32.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GTTTCCGTAGTGTAGTGTTtATCATGTTTGCATTACACGCTAAAGGtCTCCTGTTCGAAACTGGGCGGAAGCA
+Str: >>>>>>>..>>>..........<<<.>>.>>.......<<.<<.....>>>.>.......<.<<<<<<<<<<.
+
+TvY486_bin_archived_contig_642.trna1 (2332-2414)	Length: 83 bp
+Type: Leu	Anticodon: CAG at 35-37 (2366-2368)	Score: 77.3
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GTCAGGATGGCCGAGCGGTctAAGGCGCTGCGTTCAGGTCGCAGTCTCCCCTGGAGGCGTGGGTTCGAATCCCACTTCTGACA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_642.trna2 (2876-2804)	Length: 73 bp
+Type: Val	Anticodon: AAC at 34-36 (2843-2841)	Score: 73.5
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GTTTCTGTAGTGTAGTGGTcATCACGTTTGCCTAACACGCGAAAGGtCCTCGGTTCGAAACCGAGCAGAAACA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_6678.trna1 (758-686)	Length: 73 bp
+Type: Val	Anticodon: AAC at 34-36 (725-723)	Score: 77.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GTTTCTGTAGTGTAGTGGTcATCACGTTCGCCTAACACGCGAAAGGtCCTCGGTTCAAAACCGAGCAGAAACA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_6678.trna2 (581-509)	Length: 73 bp
+Type: Val	Anticodon: CAC at 34-36 (548-546)	Score: 76.1
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GTTTCCGTAGTGTAGTGGTtATCACGTTCGCCTCACACGCGAAAGGtCCCCAGTTCGAAACTGGGCGGAAACA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_6678.trna3 (225-153)	Length: 73 bp
+Type: Val	Anticodon: TAC at 34-36 (192-190)	Score: 32.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GTTTCCGTAGTGTAGTGTTtATCATGTTTGCATTACACGCTAAAGGtCTCCTGTTCGAAACTGGGCGGAAGCA
+Str: >>>>>>>..>>>..........<<<.>>.>>.......<<.<<.....>>>.>.......<.<<<<<<<<<<.
+
+TvY486_bin_archived_contig_7832.trna1 (2954-3026)	Length: 73 bp
+Type: Ala	Anticodon: TGC at 34-36 (2987-2989)	Score: 24.1
+Possible pseudogene
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GGGGAATTAGCTCAAATGGTTAAGCGCTCGCTTTGCATGCGAGAGGtAGCGGGAACAATGACTGCATTCTCCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>.........<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_7832.trna2 (3827-3756)	Length: 72 bp
+Type: Gln	Anticodon: CTG at 34-36 (3794-3792)	Score: 64.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGTTCCATGGTGTAATGGTtAGCACTCTGGACTCTGAATCCAGCAaTCTGAGTTCAAATCTCGGTGGGACCT
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_7832.trna3 (3646-3573)	Length: 74 bp
+Type: Ile	Anticodon: AAT at 35-37 (3612-3610)	Score: 83.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GGCCGGTTAGCTCAGCTGGTtAGAGCGTGGTGCTAATAACGCCAAGGtCGCGGGTTCGATCCCCGTACTGGCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_7832.trna4 (3488-3412)	Length: 77 bp
+Type: Phe	Anticodon: GAA at 38-40 (3451-3449)	Score: 34.9
+Possible pseudogene
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    * 
+Seq: GGCAaacgAAATAGCTCAGTTGGGGAtGTGTTAGACTGAAGATTTAAAGGtTCCTGGTTTGATCCCGGGTTTTGGCA
+Str: >.>>....>>>..>>>>.......<<.<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<.<.
+
+TvY486_bin_archived_contig_7832.trna5 (2618-2547)	Length: 72 bp
+Type: Gln	Anticodon: CTG at 34-36 (2585-2583)	Score: 66.6
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGTTCCATGGTGTAATGGCtAGCACTCTGGACTCTGAATCCAGCGaTCCGAGTTCAAATCTCGGTGGGACCT
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_7832.trna6 (2440-2367)	Length: 74 bp
+Type: Ile	Anticodon: AAT at 35-37 (2406-2404)	Score: 64.3
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GGCTGGTTAGCTCAGCTGGTtAGAGTGTGGTGCTAATAATGCCAAGGtCGTGGGTTCGATCCCCGTACTGGACA
+Str: >.>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<.<.
+
+TvY486_bin_archived_contig_7832.trna7 (2279-2207)	Length: 73 bp
+Type: Phe	Anticodon: GAA at 34-36 (2246-2244)	Score: 72.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCCGAAATAACTCAGTTGGGAGAACGTTAGACTGAAGATCTAAAGGtCCCTGGTTCGATCCCGGGTTTCGGCA
+Str: >>>>>>>....>>........<<...>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_7832.trna8 (1428-1357)	Length: 72 bp
+Type: Gln	Anticodon: CTG at 34-36 (1395-1393)	Score: 53.1
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGTTCCATGGTGTAATGGTtAGCACTCTGGACTCTGAATCCGGCGaTCCGAATTCAAATCTCGGTGGGTCCT
+Str: >>.>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>.........<<<<<<<<.<<.
+
+TvY486_bin_archived_contig_7832.trna9 (1254-1181)	Length: 74 bp
+Type: Ile	Anticodon: AAT at 35-37 (1220-1218)	Score: 74.7
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GGCCGGTTAGCTCAGCTGGTtAGATCGTGGTGCTAATAACGCCAAGGtCGCGGGTTCGATCCCCGTACTGGCCA
+Str: >>>>>>>..>.>>.........<<.<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_7832.trna10 (1092-1020)	Length: 73 bp
+Type: Phe	Anticodon: AAA at 34-36 (1059-1057)	Score: 75.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GTCGAAATAGCTCAGTTGGGAGAGCGTTAGACTAAAGATCTAAAGGtCCCTGGTTCGATCCCGGGTTTAGGCA
+Str: >>>.>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<.<<<.
+
+TvY486_bin_archived_contig_8021.trna1 (1121-1049)	Length: 73 bp
+Type: Val	Anticodon: CAC at 34-36 (1088-1086)	Score: 66.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCGATGGTCGTCTAGTGGTtAGGACATTCGCCTCACACGCGAGAGAtCGCGGGTTCGATCCCCGCCCGTCGTA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_8224.trna1 (1795-1875)	Length: 81 bp
+Type: Ser	Anticodon: GCT at 34-36 (1828-1830)	Score: 79.3
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+Seq: GCAAACGTGGCCGAGTGGTtAAGGCGCCTGCCTGCTAAGCAGGTGTGATCTCACGCGAAGGTTCGAACCCTTCCGTTTGCG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>....<<<..>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_8224.trna2 (1934-2006)	Length: 73 bp
+Type: Ala	Anticodon: AGC at 34-36 (1967-1969)	Score: 57.1
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GGGGATGTAGCTCAGATGGTAGAGCGCCCGCTTAGCATGCGGGAGGtATTGGGATCGATACCCAACTTCTCCA
+Str: >>>>>.>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<.<<<<<.
+
+TvY486_bin_archived_contig_8224.trna3 (1690-1619)	Length: 72 bp
+Type: Asp	Anticodon: GTC at 34-36 (1657-1655)	Score: 70.6
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: TTCTCGGTAGTATAGTGGTtAGTATACCCGCCTGTCACGCGGGTGaCCCGGGTTCAATTCCCGGCCGGGAAG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_8227.trna1 (523-452)	Length: 72 bp
+Type: Gln	Anticodon: CTG at 34-36 (490-488)	Score: 64.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGTTCCATGGTGTAATGGTtAGCACTCTGGACTCTGAATCCAGCAaTCTGAGTTCAAATCTCGGTGGGACCT
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_8227.trna2 (342-269)	Length: 74 bp
+Type: Ile	Anticodon: AAT at 35-37 (308-306)	Score: 83.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GGCCGGTTAGCTCAGCTGGTtAGAGCGTGGTGCTAATAACGCCAAGGtCGCGGGTTCGATCCCCGTACTGGCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+TvY486_bin_archived_contig_8227.trna3 (184-108)	Length: 77 bp
+Type: Phe	Anticodon: GAA at 38-40 (147-145)	Score: 34.9
+Possible pseudogene
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    * 
+Seq: GGCAaacgAAATAGCTCAGTTGGGGAtGTGTTAGACTGAAGATTTAAAGGtTCCTGGTTTGATCCCGGGTTTTGGCA
+Str: >.>>....>>>..>>>>.......<<.<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<.<.
+
+TvY486_bin_archived_contig_975.trna1 (1581-1510)	Length: 72 bp
+Type: Arg	Anticodon: TCG at 33-35 (1549-1547)	Score: 65.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGTCTCGTGGCGCAATGGAAGCGCATCAGACTTCGGATCTGAGGGTGCAgGGTTCGAGCCCTGCCGGGATCG
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<....>>>.>>.......<<<<<<<<<<<<.
+

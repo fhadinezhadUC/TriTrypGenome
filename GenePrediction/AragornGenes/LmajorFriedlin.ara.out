@@ -1,0 +1,394 @@
+>LmjF.01 | organism=Leishmania_major_strain_Friedlin | version=2016-05-28 | length=268988 | SO=chromosome
+0 genes found
+>LmjF.02 | organism=Leishmania_major_strain_Friedlin | version=2016-05-28 | length=355712 | SO=chromosome
+1 genes found
+1   tRNA-Val               [232308,232399]	103.0	30  	(gac)
+cgagcgcgtggtcagatggatgcgtcgctgacatcgttgtccccgtgtcggcgcgagtggtgccgtggctgttcgactccgtcgcggccgtc
+((..(((   (((ddddd)))(((.((  AAA  )).)))        ((((((vvvvv)))))) (((.(ttttttt).))))))..))
+>LmjF.03 | organism=Leishmania_major_strain_Friedlin | version=2016-05-28 | length=384502 | SO=chromosome
+1 genes found
+1   tRNA-Lys               [259299,259372]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>LmjF.04 | organism=Leishmania_major_strain_Friedlin | version=2016-05-28 | length=472852 | SO=chromosome
+2 genes found
+1   tRNA-Arg              c[106317,106400]	100.1	39  	(tct)
+gcagcagtggcgcaggtgcgcacggtgccgcggacgtttctggcgtgggtgggtgggttttgggctctggccccgtcttctgcc
+((((.((  ((((ddddddddddd))))  (..(((  AAA  )))..)          .((((ttttttt)))).)).))))
+2   tRNA-Gly              c[233119,233323]	104.5	146 	(ccc)i(31,113)
+tcgacatggtgcacaggttcgatgcgtacgagccgctgctgcgccctgtcgcatcaggcggcgccgaaacctccccagcaagcgccggtcaggacgctctggacgccgggtccgcggcggcctacttgctagtggggctcctgttcccgtcgtgcctgaacgtgtggcatgaggttgaggctcgtgcgatgcgcgccgtgtcgga
+((((((((   ((.ddddddd.)) (((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))         (.(.vvvvvv.).) ((.((ttttttt)).))))))))))
+>LmjF.05 | organism=Leishmania_major_strain_Friedlin | version=2016-05-28 | length=465823 | SO=chromosome
+1 genes found
+1   tRNA-Arg               [359953,360024]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LmjF.06 | organism=Leishmania_major_strain_Friedlin | version=2016-05-28 | length=516869 | SO=chromosome
+2 genes found
+1   tRNA-SeC                c[69587,69674]	108.3	36  	(tca)
+gccgcgatgagctcagctggtgctgggtgcgggcttcaaacccgtaggtgagttgctctcacagccgttcgattcggccttcgtggcg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+2   tRNA-Asp              c[109055,109145]	101.2	34  	(gtc)
+ttcggtcatggtgcgcgggggtacagcggcgccgtcgccgccaccagtgtcagagctgaacggtgccgcttcttgcacggctgatcaaggc
+((.(((((  ((((dddddd)))) (.((((  AAA  )))).)(.((.(vvvvvvv).)).) ((((.ttttttt.))))))))).))
+>LmjF.07 | organism=Leishmania_major_strain_Friedlin | version=2016-05-28 | length=596352 | SO=chromosome
+1 genes found
+1   tRNA-Arg              c[381406,381477]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LmjF.08 | organism=Leishmania_major_strain_Friedlin | version=2016-05-28 | length=574960 | SO=chromosome
+0 genes found
+>LmjF.09 | organism=Leishmania_major_strain_Friedlin | version=2016-05-28 | length=573434 | SO=chromosome
+9 genes found
+1   tRNA-Met               [277080,277151]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Leu               [277210,277293]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+3   tRNA-Val               [405535,405610]	112.1	35  	(cac)
+tgcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtaac
+((((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+4   tRNA-His               [405863,405934]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+5   tRNA-Phe              c[406114,406186]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Glu              c[418490,418561]	118.0	34  	(ttc)
+tccgatgtagtataacggttagaacacctggctttcacccaggagatccgggttcgattcccggtatcggag
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+7   tRNA-Val              c[418799,418874]	112.1	35  	(cac)
+tgcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtaac
+((((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+8   tRNA-Arg               [418948,419020]	118.6	33  	(ccg)
+gacgttgtggcgcaatggaagcgcgtcggattccggatccgaaggttgtgggttcgacccccatcagcgttgc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+9   tRNA-His               [419086,419157]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>LmjF.10 | organism=Leishmania_major_strain_Friedlin | version=2016-05-28 | length=570865 | SO=chromosome
+3 genes found
+1   tRNA-Lys               [533083,533156]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Gly              c[533198,533268]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Asn              c[533325,533397]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggag
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>LmjF.11 | organism=Leishmania_major_strain_Friedlin | version=2016-05-28 | length=582573 | SO=chromosome
+8 genes found
+1   tRNA-Leu              c[156960,157042]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ala               [157116,157188]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+3   tRNA-Gly               [157249,157320]	122.0	33  	(ccc)
+gcgccgctggtctagtggcatgatggtaccctcccaaggtattgacccgggttcgattcccgggcggcgcac
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+4   tRNA-Ala              c[162725,162797]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+5   tRNA-Leu               [162871,162953]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+6   tRNA-Met              c[381341,381415]	113.6	35  	(cat)
+tgcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgcaa
+(((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).)))))
+7   tRNA-Arg               [381490,381564]	120.3	34  	(acg)
+tgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgac
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+8   tRNA-Ala               [511690,511869]	101.9	120 	(tgc)i(30,88)
+gaggctcgccgcgctgggaagcgccgtggccgtgtatgggcgatcgtggagctgcgacagatcggcgaggcggggctggatcttgtgctgcacatgaacaactccgccctgccgtcgtttgcgaccacgtacgacgatgcgtacagcggcggggtgctgttcgacacggcggagctgtac
+(.(((((  (((dddddddd))) (((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  ))))) ..(..vvvv..)..          (((((ttttttt)))))))))).)
+>LmjF.12 | organism=Leishmania_major_strain_Friedlin | version=2016-05-28 | length=675346 | SO=chromosome
+0 genes found
+>LmjF.13 | organism=Leishmania_major_strain_Friedlin | version=2016-05-28 | length=654595 | SO=chromosome
+1 genes found
+1   tRNA-Leu              c[268686,268773]	103.2	34  	(cag)
+gcgctacgagcagctgcggcagctgcaccacctcagctatggtatcttggcgcaggaaaagaccgccgttgctgtcggcagtggcgcc
+(((((((  ((((ddddddddd))))((((.  AAA  .)))) ((((..(vvvv)..)))) .((((ttttttt)))).)))))))
+>LmjF.14 | organism=Leishmania_major_strain_Friedlin | version=2016-05-28 | length=622644 | SO=chromosome
+0 genes found
+>LmjF.15 | organism=Leishmania_major_strain_Friedlin | version=2016-05-28 | length=629517 | SO=chromosome
+2 genes found
+1   tRNA-Asp               [322951,323023]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Glu              c[323062,323134]	118.1	34  	(ctc)
+tccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaac
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>LmjF.16 | organism=Leishmania_major_strain_Friedlin | version=2016-05-28 | length=714651 | SO=chromosome
+2 genes found
+1   tRNA-Arg               [138408,138479]	102.3	30  	(tcg)
+cgtgaagtggcggaggtactgctcgctcttcgtgagccacggcgccgacacttcgactgcgtctttcgcagc
+.((((((  ((((ddddd))))(.(((  AAA  ))).)       (((.(ttttttt).))))))))).
+2   tRNA-Gln              c[455431,455505]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgac
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+>LmjF.17 | organism=Leishmania_major_strain_Friedlin | version=2016-05-28 | length=684829 | SO=chromosome
+3 genes found
+1   tRNA-Asp              c[343981,344053]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Ser               [344131,344211]	121.7	34  	(gct)
+gcaaatgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcg
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Ala               [344272,344347]	108.3	35  	(agc)
+tggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctccaac
+((((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+>LmjF.18 | organism=Leishmania_major_strain_Friedlin | version=2016-05-28 | length=739748 | SO=chromosome
+2 genes found
+1   tRNA-Arg              c[279792,279901]	100.2	51  	(tcg)i(35,14)
+cagcgtcttgggtgaaggtcgtcagcagcggcacaatggagcgtgcgctttcggcgtacccggcgaattgcgcggtcgaggcgagctcgcgtacgagcacgagtcgctgc
+(((((.(   (.((ddddddddddd)).)((.((iiiiiiiiiiiiii  AAA  )).))          .....vvvv.....  (((.(tttttt).)))).)))))
+2   tRNA-Cys               [574136,574276]	100.8	35  	(gca)i(39,50)
+tgatggggtggcctgtggcggcgaggctgccgttgcaagcgacattgtgaatgccccggaacccatggggtccacatgcatccctaacttggtggacggcgttggtgcgccgttgcaggcgatctactcgtcttcgtcgtc
+(((((((   ((((ddddddddd))))(((((  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii ))))).(.vvvv.).             ((((ttttttt)))))))))))
+>LmjF.19 | organism=Leishmania_major_strain_Friedlin | version=2016-05-28 | length=702208 | SO=chromosome
+0 genes found
+>LmjF.20 | organism=Leishmania_major_strain_Friedlin | version=2016-05-28 | length=742537 | SO=chromosome
+0 genes found
+>LmjF.21 | organism=Leishmania_major_strain_Friedlin | version=2016-05-28 | length=772972 | SO=chromosome
+8 genes found
+1   tRNA-Ser              c[166347,166427]	123.0	34  	(gct)
+gcaaacgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcg
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ile               [192893,192996]	105.7	32  	(gat)i(37,12)
+gcgtctgctggttcggcttgtgcgtcgcgctgatgcacttcgcaagcacgcggttgtgcgcaatcccagcagagcagtcgtagtgcagctccgcgtagatgcgc
+(((((((   ((.ddddddd.)) (((((  AAA  iiiiiiiiiiii)))))        ..(vvvvvvv)..    (((.(ttttttt).))))))))))
+3   tRNA-Ile               [195948,196051]	105.7	32  	(gat)i(37,12)
+gcgtctgctggttcggcttgtgcgtcgcgctgatgcacttcgcaagcacgcggttgtgcgcaatcccagcagagcagtcgtagtgcagctccgcgtagatgcgc
+(((((((   ((.ddddddd.)) (((((  AAA  iiiiiiiiiiii)))))        ..(vvvvvvv)..    (((.(ttttttt).))))))))))
+4   tRNA-Ser              c[225234,225366]	102.0	33  	(gct)i(36,41)
+gccgtgctgtccgatggctgggtcggcgcattgctgtggcgcgtgtgtgtctacggttgccatcgggccacgcgaggttgggcctgcgacactggcggggcgtagagaggcgttcgactcgtgttgcatggca
+(((((((.   (((dddddddd)))((.((  AAAiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  )).))((.vvvvvvvvvv.))        (.(((ttttttt))).).)))))))
+5   tRNA-Pro               [449050,449121]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+6   tRNA-Val               [449273,449347]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+7   tRNA-Lys               [449409,449482]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+8   tRNA-Phe               [480044,480202]	100.2	100 	(gaa)i(35,63)
+caatgtgatggcgggatggtcaacgctgccgccgtagcgctcctctttggcgaggcgaaaatccgcaatgaattcctgcagatccaccgagttcgtgctgaacagggagctgaggtcgctcggggtggcctcgccgcgttcgatgcccgacacgctgcc
+((.((((   ((((ddddddddddd))))(.((.iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  .)).)           .((vvvvv)).  .((.(ttttttt).)).)))).))
+>LmjF.22 | organism=Leishmania_major_strain_Friedlin | version=2016-05-28 | length=716602 | SO=chromosome
+1 genes found
+1   tRNA-His              c[413384,413525]	100.1	35  	(gtg)i(37,47)
+ccgtggccttgtcggcgggctgcggatgccgcgtgtactgcgcatagagctgcgggagtgcatcgacaacggagaaaggggaggaggtggcagcgctcatgagcgtggggtgctcggtcgggttcagctcacggtccacggc
+((((((.   (((ddddddddddd)))(((((  AAiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiA  )))))...vvvvv...               (((.(ttttttt).))).))))))
+>LmjF.23 | organism=Leishmania_major_strain_Friedlin | version=2016-05-28 | length=772565 | SO=chromosome
+13 genes found
+1   tRNA-Gly              c[149797,149909]	101.6	52  	(ccc)i(32,18)
+tgcccgtggtgaggaaaaccaactcgcgcagcagccggcgcgactcgcgttcccagcggtgagatacggttgcactcgaggtcgtgctggtgttcggcgcgccaacggctggc
+((.(((( (.(ddddddddddd).) (((.(iiiiiiiiiiiiiiiiii  AAA  ).)))   .((..(.vvvvv.)..)).    (((((ttttttt))))))))).))
+2   tRNA-Ser              c[210418,210600]	101.7	35  	(gct)i(39,86)
+ggggcgccgtagcttggttgcaggggctgctgttgctgagctgggggtgcgttttgcggctgtgattgcagaggcggcgccgctggtgtttcacggctgctctcagtgacacctagtgagttcgacggtggtgcttgcattggcacttccagtgaaggcggtgcaacgttcgctggtgccgca
+(.((((((   (((dddddddddd)))(((((  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii )))))(.(..vvvvvvvv..).)        (((((tttttttt))))))))))).)
+3   tRNA-Ile               [225170,225243]	118.5	35  	(tat)
+gctcccgtggtctagttggttaggacgctggtcttatgaaccggatgtcgcgggttcgagccccgccgggagca
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Val              c[225288,225360]	111.3	34  	(tac)
+gcgtgggtgatctagtggttatgatgtctgctttacacgcagaacgtcgcgggttcgaaccccgccccgcgta
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Gln              c[225427,225500]	124.9	35  	(ttg)
+tggtcctatagtgtagtggttatcacttcggactttgaatccgaaaacccaggttcgaatcctggtaggaccag
+((((((((  (((.dddddddd.)))((((((  AAA  ))))))   (((((ttttttt)))))))))))))
+6   tRNA-Arg              c[225746,225819]	120.3	34  	(acg)
+tgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+7   tRNA-Leu              c[226043,226125]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+8   tRNA-Thr              c[226185,226258]	120.1	34  	(tgt)
+aggccgcttagcacagtggcagtgcactggtcttgtaaaccaggggtcccgagttcaattctcggagtggcctt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+9   tRNA-Arg               [226330,226402]	121.1	33  	(tcg)
+ggcctcttggcgcaatggaagcgcatcagacttcggatctgagggttgcaggttcgagtcctgcaggggtcgc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+10  tRNA-Lys               [226716,226788]	122.0	34  	(ttt)
+gcactcctagctcagttggtagagcgcgtggcttttaacctcgtggtcgtgggttcgagccccacggagtgcg
+(((((((  ((((dddddddd))))(((.((  AAA  )).)))    (((((ttttttt))))))))))))
+11  tRNA-Gly              c[226826,226898]	116.4	34  	(tcc)
+gcaattgtggtccaacggttaagatccccgccttccaagcgggtgacccgggttcgactcccggcaattgcac
+(((((((  (((dddddddddd))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+12  tRNA-Trp               [226974,227045]	115.5	33  	(cca)
+gggggcttagctcagtggtagagcattggattccaaatccaggggtcgtaggttcaatccctgcagctctca
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+13  tRNA-His               [731341,731513]	104.5	115 	(gtg)i(36,77)
+aggaagcgtagccgtggcctttaatggcaaaggcaggcgcgtttcgaaggctcaccttggcttctccacttcgtctccatctgcgccagtgacccactccgcctgccaccacgtgtgagtgtctttgagttgaccggcagcgacgccgcatgtgctactcgcaccgttttctg
+((((((((  ((((dddddddddd))))  (((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))        .(...vvvv...). (..((ttttttt))..)))))))))
+>LmjF.24 | organism=Leishmania_major_strain_Friedlin | version=2016-05-28 | length=840950 | SO=chromosome
+6 genes found
+1   tRNA-Pro               [205316,205387]	124.4	33  	(cgg)
+ggccgcttggtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Gln               [621491,621565]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgac
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+3   tRNA-Leu              c[621776,621859]	111.7	37  	(taa)
+tgctggggttcccgagttggtcaaaggggtgagacttaagttctcatgcgcaagcttcgtgggttcgaaccccacctccagcaa
+((((((((  (((.dddddddddd.)))((((((  AAA  ))))))           (((((ttttttt)))))))))))))
+4   tRNA-Ile               [621944,622018]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Ile               [623339,623413]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Asp              c[680985,681056]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaag
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+>LmjF.25 | organism=Leishmania_major_strain_Friedlin | version=2016-05-28 | length=912845 | SO=chromosome
+0 genes found
+>LmjF.26 | organism=Leishmania_major_strain_Friedlin | version=2016-05-28 | length=1091540 | SO=chromosome
+1 genes found
+1   tRNA-Glu                 [70666,70771]	103.7	49  	(ttc)i(34,14)
+ggccgtgtcgatgagcttaagcttcctccccttgtacatgcatgcgatttcgatggggtcgcgggtcgtattcgactcgtcagcggcgcggttccgctcgtagcca
+(((.(((  ((.(dddddddd).))  ((((. iiiiiiiiiiiiii AAA  .))))(.(.vvvvvvvv.).)       (((((ttttttt)))))))).)))
+>LmjF.27 | organism=Leishmania_major_strain_Friedlin | version=2016-05-28 | length=1130424 | SO=chromosome
+0 genes found
+>LmjF.28 | organism=Leishmania_major_strain_Friedlin | version=2016-05-28 | length=1160104 | SO=chromosome
+0 genes found
+>LmjF.29 | organism=Leishmania_major_strain_Friedlin | version=2016-05-28 | length=1212663 | SO=chromosome
+2 genes found
+1   tRNA-Leu              c[819673,819754]	117.8	35  	(caa)
+ggcaggatggccgagtggtctaaggcgggagactcaagttctcttctattcgtaggcgcgggttcgaaccccgctcctgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ser              c[819813,819893]	119.6	34  	(cga)
+gtcaccatacccaagtggttacgggggttgactcgaaatcaactgcgatctcgcgcgcaggttcgaatcctgctggtgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>LmjF.30 | organism=Leishmania_major_strain_Friedlin | version=2016-05-28 | length=1403434 | SO=chromosome
+1 genes found
+1   tRNA-Thr              c[785495,785566]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LmjF.31 | organism=Leishmania_major_strain_Friedlin | version=2016-05-28 | length=1484328 | SO=chromosome
+6 genes found
+1   tRNA-Ala               [203934,204006]	108.3	34  	(agc)
+ggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctcca
+(((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+2   tRNA-Gly               [494626,494696]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Glu              c[494741,494814]	118.1	35  	(ctc)
+ttccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaaa
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+4   tRNA-Gly             [1025392,1025468]	100.6	36  	(ccc)
+tgcgtctcgggagccgtccagttggcttgccgcttcccgttcggcagttcgcgtgtgcgggggccacgtagacgcgg
+(((((((   ((((dddddddddd))))((((.  AAA  .))))     (((((ttttttttt))))))))))))
+5   tRNA-Phe             [1315549,1315621]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Ser            c[1315673,1315754]	119.6	34  	(aga)
+gtcaccatacccaagtggttacggggactgactagaaatcagttgcgatctcgcgcgcaggttcgaatcctgctggtgacgc
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>LmjF.32 | organism=Leishmania_major_strain_Friedlin | version=2016-05-28 | length=1604637 | SO=chromosome
+0 genes found
+>LmjF.33 | organism=Leishmania_major_strain_Friedlin | version=2016-05-28 | length=1583653 | SO=chromosome
+5 genes found
+1   tRNA-Arg              c[106656,106729]	118.9	34  	(cct)
+gcccttgtagcctaatggatatggcgtttgcttcctaagcaaaaggttgcgggttcgagtcccgccaggggtac
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Arg              c[106788,106861]	125.8	34  	(tct)
+gctccagtggcctaacggataaggctttggacttctaatccaaagattgcgggttcgaatcccgcctggagtac
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+3   tRNA-Ala               [106938,107010]	117.5	33  	(tgc)
+gggcgtgtagctcagtggtagagcgcctgttttgcatacaggaggcctagggttcaaacccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+4   tRNA-Lys              c[600640,600714]	103.0	35  	(ctt)
+tgcattgctagctgagtcggtggggcgtatggctcttaagcgtgtggctgtgggttcgatccccatggagtgcgt
+((((((.(  (((dddddddddd))) ((((.  AAA  .))))     (((((ttttttt)))))).))))))
+5   tRNA-Arg             [1172526,1172615]	101.0	31  	(ccg)
+agcggtcgtgggctcggcaacccgctttctccgacagagcagcagctggagcagctgacactggagaggttccacgccttccaccgccgc
+.(((((.  (((dddddddd)))(((((  AAA  ))))) .(((((vvvvv))))).      .((((ttttttt))))..))))).
+>LmjF.34 | organism=Leishmania_major_strain_Friedlin | version=2016-05-28 | length=1866748 | SO=chromosome
+11 genes found
+1   tRNA-Val              c[470124,470198]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Ile               [470432,470506]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Met               [470567,470639]	113.6	34  	(cat)
+gcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+4   tRNA-Leu              c[470675,470754]	119.8	35  	(tag)
+ggcggagtggccgagtggtctaaggcgccagatttaggctctggtctttcgaggcgtgggttcgaaccccacctccgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))          (((((ttttttt))))))))))))
+5   tRNA-Ser               [470829,470909]	116.9	34  	(tga)
+gtcaacatacccaagtggttacggggtttgacttgaaatcaaatgcgatctcgcgcgcaggttcgaaccctgctgttgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+6   tRNA-Thr             [1388241,1388336]	100.8	34  	(tgt)
+ctttcgtatgggtagggagcatatcgtgccttctgtagagacatcaaggaacagagtgactggcacagaatgtgttccggtcatatacgtgaagcc
+.((.(((   ((((ddddddd))))(((.((  AAA  )).)))(.((..(vvvvv)..)).)      (((((ttttttt)))))))).)).
+7   tRNA-Asn            c[1534447,1534520]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+8   tRNA-Tyr            c[1534579,1534662]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagttcgcaggtatcacagggtcgctggttcgattccggccggaagga
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+9   tRNA-Thr            c[1534727,1534798]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+10  tRNA-Pro             [1534880,1534951]	124.4	33  	(cgg)
+ggccgcttggtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+11  tRNA-Asn             [1535015,1535088]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>LmjF.35 | organism=Leishmania_major_strain_Friedlin | version=2016-05-28 | length=2090474 | SO=chromosome
+0 genes found
+>LmjF.36 | organism=Leishmania_major_strain_Friedlin | version=2016-05-28 | length=2682151 | SO=chromosome
+15 genes found
+1   tRNA-Tyr              c[491568,491652]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagttcgcgggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+2   tRNA-Thr              c[491732,491804]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Thr               [492629,492701]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Tyr               [492783,492867]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagttcgcgggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+5   tRNA-Ser              c[908912,909072]	109.5	100 	(gct)i(34,64)
+aagtagatggatgagccagttacgtctttcgcggatcgcctgcaactcctgcacaagcttctgctgcgcattcgcggctgtggaagcggcactggcgctgctgtcgcggtggggcgaagcgactgttgcacccagttcggtgccgaggccgtttctgctgc
+.((((((  ((((ddddddddd))))  (((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))                          ..(((tttttttt)))..)))))).
+6   tRNA-Gly             [1032512,1032582]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+7   tRNA-Thr            c[1033226,1033297]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+8   tRNA-Gly            c[1033360,1033430]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+9   tRNA-Pro             [1033504,1033575]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+10  tRNA-Gln            c[1607641,1607715]	119.8	35  	(ctg)
+tgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgtc
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+11  tRNA-Gly             [2229440,2229624]	101.8	131 	(gcc)i(35,94)
+caggatcttgggttggtttggaatgagcccagtcatgcgcatgtgacggtaaaacttgatgtaggggttcgcgcggcgacgggctgcgctggtcttcctcttggcggcggtgcgccgcgcctttgactttgccacggctgcgatgcgcgtctgtcgaattcgccgcttcaaggcggcggccttgc
+((((.((   ((((ddddddddddd))))(((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))....((vvvvvv))....   (((((tttttt))))))).))))
+12  tRNA-Cys             [2468974,2469045]	122.6	33  	(gca)
+ggattcatagctcagtggtagagcattcggctgcagtccgaatggtccccggttcaaacccgggtgggtcct
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+13  tRNA-Leu            c[2469835,2469917]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+14  tRNA-Met            c[2469980,2470051]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+15  tRNA-Pro             [2470124,2470196]	122.1	33  	(tgg)
+ggtcgtttggtctagtggtatgattcctgttttgggtacaggaggtcacgggttcaattcccgtaacgacccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>end 	36 sequences 107 tRNA genes, nothing found in 11 sequences, (69.44% sensitivity)

@@ -1,0 +1,278 @@
+>TcChr1-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=77958 | SO=chromosome
+0 genes found
+>TcChr2-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=151740 | SO=chromosome
+0 genes found
+>TcChr3-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=196644 | SO=chromosome
+0 genes found
+>TcChr4-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=200401 | SO=chromosome
+3 genes found
+1   tRNA-Gly                c[91915,91985]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Thr                 [92082,92154]	117.5	33  	(agt)
+ggccgcttagctcaatggcagagcgccgtcctagtaagacggaggtcgggggttcgatccccccagtggcctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Gly              c[124499,124569]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+>TcChr5-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=227319 | SO=chromosome
+0 genes found
+>TcChr6-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=389024 | SO=chromosome
+0 genes found
+>TcChr7-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=391095 | SO=chromosome
+0 genes found
+>TcChr8-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=393423 | SO=chromosome
+1 genes found
+1   tRNA-Pro               [199212,199283]	124.0	33  	(agg)
+ggcccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctgggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>TcChr9-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=509634 | SO=chromosome
+1 genes found
+1   tRNA-Glu              c[437832,437903]	117.2	34  	(ctc)
+tccggtgtggtatagtggctagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>TcChr10-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=518846 | SO=chromosome
+0 genes found
+>TcChr11-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=526140 | SO=chromosome
+2 genes found
+1   tRNA-His              c[249712,249782]	120.7	33  	(gtg)
+gggaagatagttcagtggcagaacatcagattgtggctctgaatacccgggttcgattcccggtcttccct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+2   tRNA-His               [259006,259076]	120.7	33  	(gtg)
+gggaagatagttcagtggcagaacatcagattgtggctctgaatacccgggttcgattcccggtcttccct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>TcChr12-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=533093 | SO=chromosome
+0 genes found
+>TcChr13-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=558364 | SO=chromosome
+0 genes found
+>TcChr14-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=598625 | SO=chromosome
+0 genes found
+>TcChr15-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=612853 | SO=chromosome
+0 genes found
+>TcChr16-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=646207 | SO=chromosome
+0 genes found
+>TcChr17-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=648584 | SO=chromosome
+3 genes found
+1   tRNA-Asp              c[438169,438240]	124.0	34  	(gtc)
+ttctcggtagtatagtggtaagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaag
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Ser               [438351,438431]	123.0	34  	(gct)
+gcaaacgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgtaggttcgaaccctaccgtttgcg
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Ala               [438497,438572]	107.8	35  	(agc)
+tggggatgtagctcagatggtagagtgcccgcttagcatgcgggaggtattgggatcgatacccaacttctccaac
+((((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+>TcChr18-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=655081 | SO=chromosome
+1 genes found
+1   tRNA-His               [484179,484302]	100.8	63  	(gtg)i(32,30)
+cggtcggtgggcaacggagtgcctcaattgccgacagggagtccgtttcctccagcattcgtgtgggcgattgggatatttccagacaaggaggtatgaaaagtccaaaaacattttcgatggc
+(.(((((  ((((dddddd))))  ((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))        (.(.vvvvv.).)     (((.(tttttttt).)))))))).)
+>TcChr19-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=671453 | SO=chromosome
+0 genes found
+>TcChr20-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=656799 | SO=chromosome
+1 genes found
+1   tRNA-Ser               [462569,462774]	101.1	35  	(gga)i(39,112)
+ccgtggtggtgaccggcgggctgggctccatcctggagatgcagacgctcggcgtgttcgcgaggatgccatgtgcctcggcgcaggagcgtgctagcaccgttgcgctgccgtacttcctttcggtgttcgctgcccttgatccgctgtggatggtggtgggcaacgcgctgctcgccgccgtgttcgggtgcgtgcactgcggt
+((((((((   .((ddddddddd)). (((((  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii )))))  (..(((vvvvv)))..)      ((((tttttttt))))))))))))
+>TcChr21-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=704149 | SO=chromosome
+0 genes found
+>TcChr22-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=710778 | SO=chromosome
+13 genes found
+1   tRNA-Ser               [189879,190084]	100.8	35  	(gga)i(39,112)
+ccgtggtggtgaccggcgggctgggctccatcctggagatgcaggcactcggcgtgtttgcgaggatgtcatgtgcctcggcgcaggagcgtgcgagcaccgttgcgctgccgtacttcctgtcggtgttcgctgcccttgacccgctgtggatggtggtgggcaacgcgctgctcgccgctgtgttcgggtgcgtgcactacggt
+((((((((   .((ddddddddd)). (((((  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii )))))     .(....(vvvvv)....). ((((tttttttt))))))))))))
+2   tRNA-Ile              c[328869,328942]	116.2	35  	(tat)
+gctcctgtggtctagttggttaggacgttggtcttatgagccgaatatcgcgggttcgagccccgccaggagca
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Gln               [329028,329100]	124.9	34  	(ttg)
+ggtcctatagtgtagtggttatcacttcggactttgaatccgaaaacccaggttcgaatcctggtaggaccac
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+4   tRNA-Val               [329160,329232]	113.6	34  	(tac)
+gcgtgggtgatctagtggttatgatgtctgctttacacgcagaaagtcgcgggttcgaaccccgccccgcgta
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Lys               [329305,329377]	122.8	34  	(ctt)
+gcccttctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggggggtg
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+6   tRNA-Gly               [329621,329692]	116.7	34  	(tcc)
+gcaatcgtggtccaacggttaagatccccgccttccaagcgggtgacccgggttcgactcccggcgattgca
+(((((((  (((dddddddddd))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+7   tRNA-Leu              c[329728,329809]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtgacgttcaggtcgtcatctctccggaggcgtgggttcaaaccccactcttgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+8   tRNA-Thr              c[329874,329947]	120.5	34  	(tgt)
+aggcctcgtagcacagtggcagtgcactggtcttgtaaaccaggggtcccgagttcaattctcggcggggcctt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+9   tRNA-Arg               [330035,330108]	122.0	34  	(tcg)
+cgatctcgtggcgcaatggaagcgcatcagacttcggatctgagggttgcaggttcgagtcctgccgggatcgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+10  tRNA-Lys               [330583,330655]	122.8	34  	(ctt)
+gcccttctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggggggtg
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+11  tRNA-Arg              c[330688,330761]	120.3	34  	(acg)
+cgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgagtcctgtcacggatgg
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+12  tRNA-Leu              c[370349,370536]	100.6	34  	(tag)i(35,92)
+agtctcaacagtgtggtttacgcatgttgctttttgtgcagtcctcgctgatgattttgaatgatgctatcacatcgagttgcatgcctctcctgcaaagtgaccctcgtctggagtccgcgatagaggaggcaaaggaatcggcatatgaggccttggatgagcgtgctgagacgttgttgaatctg
+((..((((  (((ddddddddd))) (((((  AiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiAA  )))))      (.(..vvvvvvvv..).)  .((((tttttttt)))).))))..))
+13  tRNA-Trp              c[447042,447113]	116.8	33  	(cca)
+gggggcttagctcagtggtagagcattggattccaaatccaggggtcgcaggttcaatccctgcagtcctca
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>TcChr23-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=655477 | SO=chromosome
+1 genes found
+1   tRNA-Arg                 [66124,66195]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>TcChr24-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=779922 | SO=chromosome
+0 genes found
+>TcChr25-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=822374 | SO=chromosome
+0 genes found
+>TcChr26-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=801422 | SO=chromosome
+5 genes found
+1   tRNA-Gln               [136876,136947]	121.5	34  	(ctg)
+gctcccatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtgggagca
+(((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+2   tRNA-Ile              c[270383,270457]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Gln               [270547,270618]	121.5	34  	(ctg)
+gctcccatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtgggagca
+(((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+4   tRNA-Leu               [270676,270759]	113.0	37  	(taa)
+tgctggggttcccgagttggtcaaaggggtgagacttaagttctcatgcgtaagcttcgtgggttcgaaccccacccccagcaa
+((((((((  (((.dddddddddd.)))((((((  AAA  ))))))           (((((ttttttt)))))))))))))
+5   tRNA-Ala              c[339090,339250]	100.5	102 	(cgc)i(32,68)
+gtgccgctgggcggtgtgttggtggcggtgaagaggaggaatggcgtggaggccggcactgcgagcagcagcaggaggagcgacgacggcgtcatttaattcgccatcgccggttccactgctcgggcggggggtggcggtgcagctctgccgcctcacac
+(((..((  (.((ddddddddd)).)(((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))          (((.vvvv.)))  (((((ttttttt)))))))..)))
+>TcChr27-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=850241 | SO=chromosome
+2 genes found
+1   tRNA-Gly               [268424,268495]	121.6	33  	(ccc)
+gcgccgttggtctagtggcatgatggtaccctcccaaggtattgacccgggttcgattcccggacggcgcac
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Leu               [268574,268655]	116.7	35  	(aag)
+ggcgagatggtcgagtggtctaagacgttggattaaggttccaatccttccgagggcgtgggttcaaaccccactctcgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>TcChr28-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=853233 | SO=chromosome
+0 genes found
+>TcChr29-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=870934 | SO=chromosome
+1 genes found
+1   tRNA-Arg              c[723277,723423]	100.1	93  	(gcg)i(34,58)
+ccgacctggtgcggcttccgcactctggcacgtatttttgccattcgtcggtgaaaaaagcaagaacaacccctcttttccattagacatgtgcgaatgtgcagatttaagtaaagtctaccgcggtgcagcgccgtgagaccgctc
+.((..(( (.(ddddddddddd).)  ((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))                   (((((ttttttt)))))))..)).
+>TcChr30-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=863882 | SO=chromosome
+1 genes found
+1   tRNA-Ser                c[22114,22319]	100.8	35  	(gga)i(40,112)
+ccgtggtgatgaccggcgggctgggctccatcctggagttgcaggcgctcggcgtgtttgcgaggatgccatgcgcctcgtcgcaggagcgtgcgagcaccgttgcgctgccgtacttcctgtcggtgttcgctgcccttgacccgctgtggatggtggtgggcaacgcgctgctcgccgctgtgttcgggtgcgtgcactacggt
+((((((((   .((ddddddddd)). (((((  AAA  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii)))))     .(....(vvvvv)....). ((((tttttttt))))))))))))
+>TcChr31-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=947473 | SO=chromosome
+0 genes found
+>TcChr32-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=968069 | SO=chromosome
+0 genes found
+>TcChr33-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=1041172 | SO=chromosome
+2 genes found
+1   tRNA-SeC               [659567,659654]	107.9	36  	(tca)
+gccacgatgagctcagctggtgctgggtgcgggcttcaaacccgtaggcgagttggactcgcagccgttcgattcggcctttgtggtg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+2   tRNA-SeC               [663064,663151]	107.9	36  	(tca)
+gccacgatgagctcagctggtgctgggtgcgggcttcaaacccgtaggcgagttggactcgcagccgttcgattcggcctttgtggtg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+>TcChr34-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=1065764 | SO=chromosome
+10 genes found
+1   tRNA-Pro              c[310521,310592]	122.8	33  	(cgg)
+ggccgcttggtctagtggtatgattcctgtttcgggtacaggaggtcacgggttcaattcccgtagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Thr               [310855,310926]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Asn               [311010,311082]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggag
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+4   tRNA-Leu              c[895774,895855]	119.8	36  	(tag)
+tggcggtgtggccgagtggtctaaggcgccagatttaggctctggtctctaggggcgtgggttcgaaccccaccaccgtcag
+((((((((  (((ddddddddddd)))((((((  AAA  ))))))          (((((ttttttt)))))))))))))
+5   tRNA-Ser               [895937,896017]	117.3	34  	(tga)
+gtcgacatacccaagtggttacggggtttgacttgaaatcaaatgcgatctcgcgcgcaggttcgaaccctgctgtcgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+6   tRNA-Met              c[896045,896117]	113.2	34  	(cat)
+gcgagcatggcgcagtcggcagcgcgtgggtttcataatcccaaggtcgtgagttcgagcctcactgatcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+7   tRNA-Glu               [896200,896274]	117.2	35  	(ctc)
+ttccggtgtggtatagtggctagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaatc
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+8   tRNA-Met               [896357,896429]	113.2	34  	(cat)
+gcgagcatggcgcagtcggcagcgcgtgggtttcataatcccaaggtcgtgagttcgagcctcactgatcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+9   tRNA-Asn              c[896466,896551]	108.4	34  	(gtt)i(36,13)
+ccttctgtagctcaattggtagagcatgtgactgtagaatttcggcggtaatcacagggtcgctggttcgattccggccggaagga
+(((((((  ((((dddddddd)))) (((((  AAiiiiiiiiiiiiiA  )))))     (((((ttttttt))))))))))))
+10  tRNA-Val               [896650,896724]	118.0	35  	(aac)
+gcgctgatggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgatcggcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>TcChr35-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=1186946 | SO=chromosome
+0 genes found
+>TcChr36-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=1180744 | SO=chromosome
+3 genes found
+1   tRNA-Ser               [457620,457700]	119.6	34  	(aga)
+gtcaccatacccaagtggttacggggactgactagaaatcagttgcgatctcgcgcgcaggttcgaatcctgctggtgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Leu              c[470473,470555]	117.0	35  	(caa)
+ggcaagatggccgagtggtctaaggcgggagactcaagttctcttctattcgtaggcgtgggttcgaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Ser              c[470612,470692]	119.6	34  	(cga)
+gtcaccatacccaagtggttacggggactgactcgaaatcagttgcgatctcgcgcgcaggttcgaatcctgctggtgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>TcChr37-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=1355803 | SO=chromosome
+8 genes found
+1   tRNA-Pro              c[238804,238875]	122.8	33  	(tgg)
+ggccgcttggtctagtggtatgattcctgttttgggtacaggaggtcacgggttcaattcccgtagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Met               [238952,239023]	116.7	33  	(cat)
+agcaccgtggcgcagtggaagcgcgatgggctcataacccataggacgttggatcgaaaccaaccggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Leu               [239086,239169]	116.7	36  	(aag)
+tggcgagatggtcgagtggtctaagacgttggattaaggttccaatccttccgagggcgtgggttcaaaccccactctcgtcaa
+((((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+4   tRNA-Asn               [780525,780597]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggag
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+5   tRNA-Ala              c[780640,780712]	117.5	33  	(tgc)
+gggcgtgtagctcagtggtagagcgcctgttttgcatacaggaggcctagggttcaaacccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+6   tRNA-Arg               [780801,780873]	123.3	34  	(tct)
+gctccagtggcctaatggataaggctttggacttctaatccaaggattgcgggttcgagtcccgtctggagta
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+7   tRNA-Lys               [780936,781008]	123.7	33  	(ttt)
+gccttcctagctcagcggtagagcgcacggcttttaaccgtgtggtcgtgggttcgatccccacggatggcgc
+(((.(((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt)))))))).)))
+8   tRNA-Arg               [781075,781147]	121.2	34  	(cct)
+gccctcgtagcccaatggataaggcgttcgcttcctaagcgaaagattgcgggttcgagtcccgccgagggta
+(((((((  (((dddddddddd))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>TcChr38-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=1444805 | SO=chromosome
+0 genes found
+>TcChr39-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=1854104 | SO=chromosome
+1 genes found
+1   tRNA-Cys               [878020,878093]	122.6	34  	(gca)
+aggattcatagctcagtggtagagcattcggctgcagtccgaatggtccccggttcaaacccgggtgggtcctt
+((((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt)))))))))))))
+>TcChr40-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=2036759 | SO=chromosome
+1 genes found
+1   tRNA-Ser            c[1533498,1533703]	101.1	35  	(gga)i(39,112)
+ccgtggtggtgaccggcgggctgggctccatcctggagatgcaggcgctcggcgtgtttgcgaggatgccatgcgcctcggcgcaggagcatgcgagcaccgttgcgctgccgtacttcctgtcggtgtttgctgctcttgacccgctgtggatggtggtgggcaacgcgctgctcgccgccgtgttcgggtgcgtgcactgcggt
+((((((((   .((ddddddddd)). (((((  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii )))))     .(....(vvvvv)....). ((((tttttttt))))))))))))
+>TcChr41-S | organism=Trypanosoma_cruzi_CL_Brener_Esmeraldo-like | version=2015-12-07 | length=2371736 | SO=chromosome
+5 genes found
+1   tRNA-Ile              c[256462,256536]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Phe               [593498,593570]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Phe              c[770634,770706]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Arg               [770813,770884]	119.0	33  	(ccg)
+gacgttgtggcgcaatggaagcgcgtcggattccggatccgaaggttgcgggttcgacccccgtcagcgttg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Ala               [770950,771023]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtccacc
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+>end 	41 sequences 65 tRNA genes, nothing found in 21 sequences, (48.78% sensitivity)

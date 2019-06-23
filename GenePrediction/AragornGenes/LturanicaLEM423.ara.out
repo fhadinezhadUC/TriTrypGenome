@@ -1,0 +1,757 @@
+>LtuLEM423_01 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=267413 | SO=chromosome
+0 genes found
+>LtuLEM423_02 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=271901 | SO=chromosome
+1 genes found
+1   tRNA-Val               [186986,187077]	100.5	30  	(gac)
+cgagcgcgtggtcagatggatgcgacgctgacatcgttgtccccgtgtcggcgagagtggtgccgcggctgttcaactccgtcgcggccgtc
+((..(((   (((ddddd)))((((((  AAA  ))))))        (((((.vvvvv.))))) (((.(ttttttt).))))))..))
+>LtuLEM423_03 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=384792 | SO=chromosome
+2 genes found
+1   tRNA-Lys               [255833,255906]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Val              c[285437,285533]	104.1	37  	(gac)
+ctggtggctgctgcagtggtcgtggcggtctcacctgacgtgcgtggaggacaggctggagatgggcgatgcggcggttctcatctgcctcacctcc
+..(((((   ((((dddddddddd))))((.(.(  AAA  ).).))  (.(.(.(vvvv).).).)     (((((ttttttt))))))))))..
+>LtuLEM423_04 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=469302 | SO=chromosome
+0 genes found
+>LtuLEM423_05 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=468633 | SO=chromosome
+1 genes found
+1   tRNA-Arg               [380186,380257]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LtuLEM423_06 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=514846 | SO=chromosome
+2 genes found
+1   tRNA-SeC                c[62826,62913]	108.3	36  	(tca)
+gccgcgatgagctcagctggtgctgggtgcgggcttcaaacccgtaggtgagttgctctcacagccgttcgattcggccttcgtggcg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+2   tRNA-Ala                c[62935,63055]	100.1	60  	(ggc)i(34,24)
+gagtcagcgtgtccaaggtgcacactgatgttgatgccacggtagcatatctggatgctggcggcaacggacgcgccttcgacccagatcgggtcgcgggttcgattcccgcgctgacgtg
+(.((((((   ((..ddddddddd..))(((((iiiiiiiiiiiiiiiiiiiiiiii  AAA  ))))) (...(.vvvvvvv.)...)      (((((ttttttt))))))))))).)
+>LtuLEM423_07 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=582839 | SO=chromosome
+1 genes found
+1   tRNA-Arg              c[381415,381486]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LtuLEM423_08 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=443585 | SO=chromosome
+1 genes found
+1   tRNA-Gly               [322157,322317]	102.1	33  	(gcc)i(37,68)
+gcacatcgaggggcggcgtggccgccgccgctgccgtcgccgagacacgcccgcgcttgcgatgagcgccgcggcgatggcgcaacttcgtccccgttgacaaggcggcgacggcagcagcagcagaagcggcggcagcagttgtgtcagctgatgtgctc
+(((((((  (.((dddddddd)).)(((((  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii )))))         .(..(.vvvv.)..). (((.(tttttt).))))))))))
+>LtuLEM423_09 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=557971 | SO=chromosome
+9 genes found
+1   tRNA-Met               [255840,255911]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Leu               [255971,256054]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+3   tRNA-Val               [385605,385678]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-His               [385929,386000]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+5   tRNA-Phe              c[386181,386253]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Glu              c[398271,398342]	118.0	34  	(ttc)
+tccgatgtagtataacggttagaacacctggctttcacccaggagatccgggttcgattcccggtatcggag
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+7   tRNA-Val              c[398580,398653]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+8   tRNA-Arg               [398728,398800]	118.6	33  	(ccg)
+gacgttgtggcgcaatggaagcgcgtcggattccggatccgaaggttgtgggttcgacccccatcagcgttgc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+9   tRNA-His               [398865,398936]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>LtuLEM423_10 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=508812 | SO=chromosome
+3 genes found
+1   tRNA-Lys               [481684,481757]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Gly              c[481799,481869]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Asn              c[481925,481998]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>LtuLEM423_11 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=546481 | SO=chromosome
+5 genes found
+1   tRNA-Leu              c[156624,156706]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ala               [156782,156854]	117.5	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcaatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+3   tRNA-Gly               [156915,156986]	122.0	33  	(ccc)
+gcgccgctggtctagtggcatgatggtaccctcccaaggtattgacccgggttcgattcccgggcggcgcac
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+4   tRNA-Met              c[367189,367263]	113.6	35  	(cat)
+tgcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgcaa
+(((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).)))))
+5   tRNA-Arg               [367337,367411]	120.3	34  	(acg)
+tgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgac
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+>LtuLEM423_12 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=503219 | SO=chromosome
+1 genes found
+1   tRNA-Gly              c[110125,110240]	100.8	31  	(ccc)i(35,25)
+catcagacagcgcggtcttgtgcttcgtctcccaccaacgcaccggcgtcgcaggccacgacgaggagggtgtcttcaccctatctggagacagtgccaatccggtcgctggtggc
+((((((.  (((dddddddd)))(((((  AAA iiiiiiiiiiiiiiiiiiiiiiiii ))))).(((..vvvvvvvvvv..))).  (((.(tttttttt).))).))))))
+>LtuLEM423_13 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=627937 | SO=chromosome
+0 genes found
+>LtuLEM423_14 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=520217 | SO=chromosome
+0 genes found
+>LtuLEM423_15 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=583063 | SO=chromosome
+2 genes found
+1   tRNA-Asp               [288100,288172]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Glu              c[288215,288288]	118.1	35  	(ctc)
+ttccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaat
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+>LtuLEM423_16 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=693685 | SO=chromosome
+2 genes found
+1   tRNA-Gln              c[440766,440840]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgac
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+2   tRNA-Pro              c[665989,666079]	100.5	33  	(ggg)
+attgcgcctgggcaatgagcagctcttcgcctggggtgcgagggcctgccgatgggaagccgtattggttgttcttctcagccgtgaaaac
+.((.(((   (((dddddddd)))((((((  AAA  ))))))  ((.((vvvv)).))       (((((ttttttt)))))))).)).
+>LtuLEM423_17 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=631252 | SO=chromosome
+3 genes found
+1   tRNA-Asp              c[293790,293862]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Ser               [293939,294020]	121.7	34  	(gct)
+gcaaatgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcgc
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Ala               [294079,294154]	108.3	35  	(agc)
+tggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctccaac
+((((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+>LtuLEM423_18 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=610899 | SO=chromosome
+1 genes found
+1   tRNA-Arg              c[294126,294235]	100.2	51  	(tcg)i(35,14)
+cagcgtcttgggtgaaggtcgtcagcagcggcacaatggagcgcgcgctttcggcgtacccggcgaattgcgcagtcgaggcgagctcgcgtacgagcacgagtcgctgc
+(((((.(   (.((ddddddddddd)).)((.((iiiiiiiiiiiiii  AAA  )).))          .....vvvv.....  (((.(tttttt).)))).)))))
+>LtuLEM423_19 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=645744 | SO=chromosome
+0 genes found
+>LtuLEM423_20 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=717176 | SO=chromosome
+0 genes found
+>LtuLEM423_21 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=777389 | SO=chromosome
+7 genes found
+1   tRNA-Ser              c[164216,164296]	123.0	34  	(gct)
+gcaaacgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcg
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ile               [193585,193688]	105.7	32  	(gat)i(37,12)
+gcgtctgctggttcggcttgtgcgtcgcgctgatgcacttcgcaagcacgcggttgtgcgcaatcccagcagagcagtcgtagtgcagctccgcgtagatgcgc
+(((((((   ((.ddddddd.)) (((((  AAA  iiiiiiiiiiii)))))        ..(vvvvvvv)..    (((.(ttttttt).))))))))))
+3   tRNA-Asp               [403001,403146]	103.1	86  	(gtc)i(36,49)
+gcgacacagttgctggcgcggccggcagcggaggcgccggcgggcagcgtcgcgaggtgaacacgacgactggctcgcctattgtgtccacctccgtgacgggcagctccggcgcgctcgatgcgtacaactcgcgctgcgtcatt
+(.(((.((   ((((dddddddddd))))((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))(.(vvvvvvvvvvvvvvvvvv).) .((((ttttttt)))).)).))).)
+4   tRNA-Pro               [449376,449447]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+5   tRNA-Val               [449585,449659]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Lys               [449720,449793]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+7   tRNA-Phe               [480861,481020]	104.1	100 	(gaa)i(35,63)
+cagcgtgatggcgggatggtcgacgctgccgccgtagcgctcctctttggcgaggcgaaactccgcaatgaactcctgcagatccaccgagttcgtgctgaacagggagctgaggtcgctcggggtggcctcgccgcgttcgatgcccgacacgctgccc
+(((((((   ((((ddddddddddd))))(.((.iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  .)).)          ..(.vvvv.)..  .((.(ttttttt).)).)))))))
+>LtuLEM423_22 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=609752 | SO=chromosome
+0 genes found
+>LtuLEM423_23 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=767726 | SO=chromosome
+12 genes found
+1   tRNA-Ile               [225325,225398]	118.5	35  	(tat)
+gctcccgtggtctagttggttaggacgctggtcttatgaaccggatgtcgcgggttcgagccccgccgggagca
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Val              c[225444,225517]	111.3	34  	(tac)
+gcgtgggtgatctagtggttatgatgtctgctttacacgcagaacgtcgcgggttcgaaccccgccccgcgtac
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Gln              c[225582,225655]	124.9	35  	(ttg)
+tggtcctatagtgtagtggttatcacttcggactttgaatccgaaaacccaggttcgaatcctggtaggaccag
+((((((((  (((.dddddddd.)))((((((  AAA  ))))))   (((((ttttttt)))))))))))))
+4   tRNA-Arg              c[225902,225975]	120.3	34  	(acg)
+tgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+5   tRNA-Leu              c[226197,226279]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+6   tRNA-Thr              c[226339,226412]	120.1	34  	(tgt)
+gggccgcttagcacagtggcagtgcactggtcttgtaaaccaggggtcccgagttcaattctcggagtggcctt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+7   tRNA-Arg               [226483,226556]	121.1	34  	(tcg)
+tggcctcttggcgcaatggaagcgcatcagacttcggatctgagggttgcaggttcgagtcctgcaggggtcgg
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+8   tRNA-Lys               [226867,226939]	120.7	34  	(ttt)
+gcacttctagctcagttggtagagcgcgtggcttttaacctcgtggtcgtgggttcgagccccacggagtgca
+(((((((  ((((dddddddd))))(((.((  AAA  )).)))    (((((ttttttt))))))))))))
+9   tRNA-Gly              c[226979,227051]	116.4	34  	(tcc)
+gcaattgtggtccaacggttaagatccccgccttccaagcgggtgacccgggttcgactcccggcaattgcac
+(((((((  (((dddddddddd))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+10  tRNA-Trp               [227127,227199]	115.5	33  	(cca)
+gggggcttagctcagtggtagagcattggattccaaatccaggggtcgtaggttcaatccctgcagctctcac
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+11  tRNA-Gly              c[467976,468057]	101.9	33  	(acc)
+tagctgcttgggtagtgggagattgctgggctaccgctacggtggcgtctttcatcgcgggttctacttcaacagcagctaa
+((((((((  (((dddddddd)))((((.(  AAA  ).))))             (..((ttttttt))..)))))))))
+12  tRNA-Arg               [728863,729035]	104.1	117 	(gcg)i(35,81)
+aggaagcgtagccgcggcatttaatggcaaaggcaggcgcgtttagaaggttcaccttggcttctccacttggtctccatccgcgccagggacccactccgcctgccaccacgtgtgcgtgtctttgagttgaccggcagcgacgccgcgtgtgctactcacaccgttttgtg
+(.((((((  ((((dddddddddd))))((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  ))))) ..(.vvvvvvvvv.)..   (.(((ttttttt))).))))))).)
+>LtuLEM423_24 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=853152 | SO=chromosome
+6 genes found
+1   tRNA-Pro               [203090,203161]	124.4	33  	(cgg)
+ggccgcttggtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Gln               [632704,632778]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgac
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+3   tRNA-Leu              c[632990,633073]	111.7	37  	(taa)
+tgctggggttcccgagttggtcaaaggggtgagacttaagttctcatgcgcaagcttcgtgggttcgaaccccacctccagcaa
+((((((((  (((.dddddddddd.)))((((((  AAA  ))))))           (((((ttttttt)))))))))))))
+4   tRNA-Ile               [633157,633231]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Ile               [635329,635403]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Asp              c[693578,693649]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaag
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+>LtuLEM423_25 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=897553 | SO=chromosome
+1 genes found
+1   tRNA-Gly                c[40015,40180]	100.5	109 	(tcc)i(37,72)
+gcacgtgtagagtgactgttttcggctcccgcgtatatcgctgccgcgcgggtgacggccgttgtgtgcgtggctgtcacagcagaggctgctaatctactgtggatgtccaaacgcgagcagcacgaggtgtccttgttgatgagtgccattcttttcgcgagtc
+((.((((  ((((ddddddddddd)))) (((((  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiAAA  ))))) (..(vvvvvvvvvvvvv)..) (.(((ttttttt))).))))).))
+>LtuLEM423_26 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1062229 | SO=chromosome
+1 genes found
+1   tRNA-Glu                 [68174,68282]	103.7	50  	(ttc)i(35,14)
+cggccgtgtcgatgagcttcagcttcctccccttgtacatgcatgcgatttcgatggggtcgcgggtcgtattcgactcgtcagcggcgcggttccgctcgtagccgac
+((((.(((  ((.(dddddddd).))  ((((. iiiiiiiiiiiiii AAA  .))))(.(.vvvvvvvv.).)       (((((ttttttt)))))))).))))
+>LtuLEM423_27 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1033691 | SO=chromosome
+0 genes found
+>LtuLEM423_28 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1154218 | SO=chromosome
+0 genes found
+>LtuLEM423_29 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1220440 | SO=chromosome
+3 genes found
+1   tRNA-Leu              c[826067,826148]	117.8	35  	(caa)
+ggcaggatggccgagtggtctaaggcgggagactcaagttctcttctattcgtaggcgcgggttcgaaccccgctcctgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ser              c[826206,826286]	119.6	34  	(cga)
+gtcaccatacccaagtggttacgggggttgactcgaaatcaactgcgatctcgcgcgcaggttcgaatcctgctggtgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Ser              c[992063,992165]	104.5	41  	(gct)
+gcccggtgctggcgaaggagtggtctctgcagtcgacgccgctggcgtcgagcggggcatctgcgactctctcttcgcccgttccatcccggccgccaagcgc
+((..((((   (((.ddddddddddd.)))  ((((((  AAA  ))))))  (((.(vvvvvv).)))       (((.(ttttttt).)))))))..))
+>LtuLEM423_30 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1332209 | SO=chromosome
+2 genes found
+1   tRNA-Thr              c[743586,743657]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Ser              c[761501,761634]	101.7	73  	(gct)i(33,38)
+cagcgtgtggtggacggtgaggccacggcggatgatgtttctctctttgttgtttgtgcgctgttccctgttgctgctccgatcggtggtaccgtgagggacgccctccctcgttcacatcggcagacgctgcc
+((((((.  ((((ddddddddd)))) .((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))). ((..vvvvv..))            ..(((ttttttt)))...))))))
+>LtuLEM423_31 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1354549 | SO=chromosome
+5 genes found
+1   tRNA-Ala               [193500,193572]	108.3	34  	(agc)
+ggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctcca
+(((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+2   tRNA-Gly               [448135,448206]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgcac
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Glu              c[448247,448320]	118.1	35  	(ctc)
+ttccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaat
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+4   tRNA-Phe             [1199716,1199788]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Ser            c[1199838,1199919]	119.6	34  	(aga)
+gtcaccatacccaagtggttacggggactgactagaaatcagttgcgatctcgcgcgcaggttcgaatcctgctggtgacgc
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>LtuLEM423_32 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1550453 | SO=chromosome
+0 genes found
+>LtuLEM423_33 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1424494 | SO=chromosome
+3 genes found
+1   tRNA-Arg              c[102747,102820]	118.9	34  	(cct)
+gcccttgtagcctaatggatatggcgtttgcttcctaagcaaaaggttgcgggttcgagtcccgccaggggtac
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Arg              c[102880,102953]	125.8	34  	(tct)
+gctccagtggcctaatggataaggctttggacttctaatccaaagattgcgggttcgaatcccgcctggagtac
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+3   tRNA-Ala               [103030,103102]	117.5	33  	(tgc)
+gggcgtgtagctcagtggtagagcgcctgttttgcatacaggaggcctagggttcaaacccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+>LtuLEM423_34 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1502618 | SO=chromosome
+6 genes found
+1   tRNA-Asn               [745310,745445]	103.0	32  	(gtt)i(37,44)
+ggcaaagtgcgcgggttgaagcaccgccgttgttgcggcgccgcccacaactgcgcagatgaaagcgagttcatacgaggcggcgtaggcggacgcctcgtccaggccgctagggtgcccattccctttcttgccc
+(((((.(  .((dddddddd)). (((((  AAA  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii))))) .((vvvvvvvvvvvvvvvvv)). .((((tttttttt)))).).)))))
+2   tRNA-Asn            c[1190057,1190130]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+3   tRNA-Tyr            c[1190189,1190272]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagttcgcaggtatcacagggtcgctggttcgattccggccggaagga
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+4   tRNA-Thr            c[1190335,1190406]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Pro             [1190488,1190560]	124.4	33  	(cgg)
+ggccgcttggtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggcccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+6   tRNA-Asn             [1190620,1190693]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>LtuLEM423_35 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1947205 | SO=chromosome
+0 genes found
+>LtuLEM423_36 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=2646896 | SO=chromosome
+15 genes found
+1   tRNA-His                c[78256,78447]	100.3	130 	(gtg)i(31,98)
+ggcggggtggggagggatggtcctgcgtgtcaaccagtgcattcggcgtcgtgtaccaagcccctcctcctctgtggcgtaaagaagctaggctgcacttggagaaatgaggcgctgcgtggatcacatgtgtatgcgcttatatgtatgtatgtatgtgtgtgcgcgtgtgcgggtcgcgcacagcgctgc
+((((..(( ((((ddddddd))))((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))    ((((((vvvvvv))))))    (((((ttttttt)))))))..))))
+2   tRNA-Tyr              c[460926,461010]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagttcgcaggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+3   tRNA-Thr              c[461091,461163]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Thr               [461951,462023]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Tyr               [462104,462188]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagttcgcaggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+6   tRNA-Gly               [994826,994896]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+7   tRNA-Thr              c[995510,995581]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+8   tRNA-Gly              c[995646,995716]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+9   tRNA-Pro               [995790,995862]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggacccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+10  tRNA-Gln            c[1574664,1574738]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgtc
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+11  tRNA-Gly            c[2138630,2138822]	103.4	134 	(gcc)i(38,95)
+gcgaggactgggaagaggttgtgtgcgtcagcagcgccaagcagctcgaggagctctccggcgtcaccggcgtcacagacatccaccgccagttcgtggacaatatcacgatcccaagtaagcggcctggtatgccgccgctgaagcgtgtgccgatggtgtttgactgctggttcgagtccggctcgatgcc
+(((..((   ((..ddddddddddd..))  ((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))((...vvvvvvvvvv...))     (((((ttttttt)))))))..)))
+12  tRNA-Cys             [2432395,2432466]	122.6	33  	(gca)
+ggattcatagctcagtggtagagcattcggctgcagtccgaatggtccccggttcaaacccgggtgggtcct
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+13  tRNA-Leu            c[2433254,2433336]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+14  tRNA-Met            c[2433400,2433471]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+15  tRNA-Pro             [2433544,2433616]	122.1	33  	(tgg)
+ggtcgtttggtctagtggtatgattcctgttttgggtacaggaggtcacgggttcaattcccgtaacgacccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>LTULEM423_SCAF000001 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1138 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000002 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=36636 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000003 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=7954 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000004 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=48130 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000005 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1412 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000006 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=3088 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000007 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=2395 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000008 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1179 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000009 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1481 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000010 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=2481 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000011 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=3966 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000012 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1307 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000013 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1349 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000014 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=3319 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000015 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1967 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000016 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1036 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000017 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=3835 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000018 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=5053 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000019 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1121 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000020 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1067 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000021 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=4421 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000022 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=2748 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000023 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=5625 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000024 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=7371 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000025 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1628 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000026 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1293 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000027 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1395 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000028 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1878 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000029 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=5473 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000030 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=20621 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000031 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1233 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000032 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1619 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000033 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1760 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000034 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1006 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000035 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=4249 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000036 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1495 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000037 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1128 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000038 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=2354 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000039 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=3341 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000040 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=632 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000041 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1529 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000042 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1392 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000043 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1544 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000044 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=2958 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000045 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=959 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000046 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1779 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000047 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=2843 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000048 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=2246 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000049 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1262 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000050 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1414 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000051 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=6041 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000052 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1296 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000053 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=37930 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000054 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1020 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000055 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=12159 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000056 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=65907 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000057 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=8567 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000058 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1590 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000059 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1092 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000060 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=2081 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000061 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=3920 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000062 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=2982 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000063 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=3838 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000064 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=6071 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000065 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1965 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000066 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=10749 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000067 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=19011 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000068 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=3782 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000069 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=2576 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000070 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1194 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000071 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1538 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000072 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1941 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000073 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1181 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000074 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1259 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000075 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=5853 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000076 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=37230 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000077 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1303 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000078 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1981 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000079 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=2221 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000080 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=2480 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000081 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1869 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000082 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1774 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000083 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1668 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000084 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=2400 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000085 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1107 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000086 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1179 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000087 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1184 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000088 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=6678 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000089 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1869 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000090 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=905 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000091 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=3535 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000092 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=3288 | SO=supercontig
+1 genes found
+1   tRNA-Cys                    [940,1080]	100.8	35  	(gca)i(39,50)
+tgatggggtggcctgtggcggcgaggctgccgttgcaagcgacattgtgaatgccccggaacccatggggtccacatgtatccctaacttggtggacggcgttggtgcgccgttgcaggcgatctactcgtcttcgtcgtc
+(((((((   ((((ddddddddd))))(((((  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii )))))                       ((((ttttttt)))))))))))
+>LTULEM423_SCAF000093 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=19157 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000094 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=3359 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000095 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=2131 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000096 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1218 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000097 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=3282 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000098 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=752 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000099 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=37752 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000100 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1167 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000101 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=3356 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000102 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1098 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000103 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1169 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000104 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=872 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000105 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=5129 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000106 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1179 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000107 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1521 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000108 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1204 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000109 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1238 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000110 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1779 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000111 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=2241 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000112 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1283 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000113 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=7732 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000114 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1376 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000115 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1466 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000116 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1262 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000117 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1559 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000118 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1640 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000119 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1002 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000120 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1451 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000121 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1722 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000122 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1979 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000123 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=2063 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000124 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=2071 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000125 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=6161 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000126 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=2495 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000127 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1062 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000128 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=4086 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000129 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=5433 | SO=supercontig
+5 genes found
+1   tRNA-Ser                    c[754,834]	116.9	34  	(tga)
+gtcaacatacccaagtggttacggggtttgacttgaaatcaaatgcgatctcgcgcgcaggttcgaaccctgctgttgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Leu                     [909,988]	119.8	35  	(tag)
+ggcggagtggccgagtggtctaaggcgccagatttaggctctggtctttcgaggcgtgggttcgaaccccacctccgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))          (((((ttttttt))))))))))))
+3   tRNA-Met                  c[1021,1093]	113.6	34  	(cat)
+gcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+4   tRNA-Ile                  c[1154,1228]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Val                   [1466,1540]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LTULEM423_SCAF000130 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=5536 | SO=supercontig
+5 genes found
+1   tRNA-Val                  c[3978,4052]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Ile                   [4290,4364]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Met                   [4425,4497]	113.6	34  	(cat)
+gcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+4   tRNA-Leu                  c[4530,4609]	119.8	35  	(tag)
+ggcggagtggccgagtggtctaaggcgccagatttaggctctggtctttcgaggcgtgggttcgaaccccacctccgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))          (((((ttttttt))))))))))))
+5   tRNA-Ser                   [4684,4764]	116.9	34  	(tga)
+gtcaacatacccaagtggttacggggtttgacttgaaatcaaatgcgatctcgcgcgcaggttcgaaccctgctgttgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>LTULEM423_SCAF000131 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=26585 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000132 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=998 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000133 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1153 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000134 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1192 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000135 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1527 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000136 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=4377 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000137 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=3000 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000138 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1098 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000139 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1755 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000140 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1303 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000141 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1933 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000142 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1093 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000143 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=16602 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000144 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1615 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000145 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1794 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000146 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=2027 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000147 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=2215 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000148 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=2143 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000149 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=2254 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000150 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1459 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000151 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=943 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000152 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1740 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000153 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1270 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000154 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1302 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000155 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1767 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000156 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1235 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000157 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=3306 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000158 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=2423 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000159 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=2992 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000160 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=3129 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000161 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=3920 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000162 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=3469 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000163 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1024 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000164 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=7033 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000165 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=2170 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000166 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=112 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000167 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1583 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000168 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=26455 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000169 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=5586 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000170 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=6909 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000171 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=3341 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000172 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1479 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000173 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=724 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000174 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=3903 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000175 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=5331 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000176 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=741 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000177 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=2541 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000178 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1964 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000179 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1531 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000180 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=2819 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000181 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=2394 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000182 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1188 | SO=supercontig
+0 genes found
+>LTULEM423_SCAF000183 | organism=Leishmania_turanica_strain_LEM423 | version=2014-12-16 | length=1062 | SO=supercontig
+0 genes found
+>end 	219 sequences 106 tRNA genes, nothing found in 191 sequences, (12.79% sensitivity)

@@ -1,0 +1,646 @@
+>LarLEM1108_01 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=264453 | SO=chromosome
+0 genes found
+>LarLEM1108_02 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=286625 | SO=chromosome
+1 genes found
+1   tRNA-Val               [202965,203056]	102.6	30  	(gac)
+cgagcgcgtggtcagatggatgcgacgctgacatcgttgtccccctgtcggcgagagtggtgccgtggctgttcaacttcgtcgcggccgtc
+((..(((   (((ddddd)))((((((  AAA  ))))))        (((((.vvvvv.))))) (((.(ttttttt).))))))..))
+>LarLEM1108_03 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=391143 | SO=chromosome
+1 genes found
+1   tRNA-Lys               [264666,264739]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgacccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>LarLEM1108_04 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=458921 | SO=chromosome
+0 genes found
+>LarLEM1108_05 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=439901 | SO=chromosome
+2 genes found
+1   tRNA-Pro                 [63534,63694]	101.5	113 	(cgg)i(35,78)
+tgcgcgcgtgggccacggaggtaggccggccgctgggcctgcacggcgagcctgtctccgcgctgtggaaactgcggtggctgcagcagcaccttaccacaggtggcgacagcggcgcggccagcactcttctaggtcggctcacgcccgttcgcgcgcaa
+((((((((  ((((ddddddddd))))(((((  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiAAA  )))))             (.(((ttttttt))).)))))))))
+2   tRNA-Arg               [352103,352174]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LarLEM1108_06 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=500272 | SO=chromosome
+1 genes found
+1   tRNA-SeC                c[64105,64192]	108.3	36  	(tca)
+gccgcgatgagctcagctggtgctgggtgcgggcttcaaacccgtaggtgagttgctctcacagccgttcgattcggccttcgtggcg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+>LarLEM1108_07 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=573617 | SO=chromosome
+1 genes found
+1   tRNA-Arg              c[375161,375232]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LarLEM1108_08 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=416307 | SO=chromosome
+0 genes found
+>LarLEM1108_09 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=564529 | SO=chromosome
+13 genes found
+1   tRNA-Met               [257834,257905]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Leu               [257964,258047]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+3   tRNA-Val               [388179,388252]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-His               [388504,388575]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+5   tRNA-Phe              c[388757,388829]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Glu              c[401162,401233]	118.0	34  	(ttc)
+tccgatgtagtataacggttagaacacctggctttcacccaggagatccgggttcgattcccggtatcggag
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+7   tRNA-Val              c[401473,401546]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+8   tRNA-Arg               [401621,401693]	118.6	33  	(ccg)
+gacgttgtggcgcaatggaagcgcgtcggattccggatccgaaggttgtgggttcgacccccatcagcgttgc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+9   tRNA-His               [401759,401830]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+10  tRNA-Glu              c[409897,409968]	118.0	34  	(ttc)
+tccgatgtagtataacggttagaacacctggctttcacccaggagatccgggttcgattcccggtatcggag
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+11  tRNA-Val              c[410208,410281]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+12  tRNA-Arg               [410356,410428]	118.6	33  	(ccg)
+gacgttgtggcgcaatggaagcgcgtcggattccggatccgaaggttgtgggttcgacccccatcagcgttgc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+13  tRNA-His               [410494,410565]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>LarLEM1108_10 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=522747 | SO=chromosome
+3 genes found
+1   tRNA-Lys               [495263,495336]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Gly              c[495384,495456]	122.6	34  	(gcc)
+tgcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgcaa
+((((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt)))))))))))))
+3   tRNA-Asn              c[495509,495582]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>LarLEM1108_11 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=539022 | SO=chromosome
+7 genes found
+1   tRNA-Leu              c[156799,156881]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ala               [156954,157028]	117.5	34  	(cgc)
+tgggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcaatcccctactcgtccatc
+((((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+3   tRNA-Gly              c[162402,162472]	122.0	33  	(ccc)
+gcgccgctggtctagtggcatgatggtaccctcccaaggtattgacccgggttcgattcccgggcggcgca
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+4   tRNA-Ala              c[162533,162605]	117.5	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcaatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+5   tRNA-Leu               [162679,162761]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+6   tRNA-Met              c[361299,361373]	113.6	35  	(cat)
+tgcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgcaa
+(((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).)))))
+7   tRNA-Arg               [361446,361520]	120.3	34  	(acg)
+tgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgac
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+>LarLEM1108_12 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=507824 | SO=chromosome
+0 genes found
+>LarLEM1108_13 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=629443 | SO=chromosome
+0 genes found
+>LarLEM1108_14 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=580985 | SO=chromosome
+0 genes found
+>LarLEM1108_15 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=595534 | SO=chromosome
+2 genes found
+1   tRNA-Asp               [295681,295753]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Glu              c[295792,295865]	118.1	35  	(ctc)
+ttccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaat
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+>LarLEM1108_16 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=685498 | SO=chromosome
+2 genes found
+1   tRNA-Ile              c[105129,105318]	100.2	32  	(gat)i(33,95)
+gccggctgctggtcgggtagttgcgagagctggtgggggggccgtggctgcaggggctaccgctggcgaccgcggtgccccgcttggtgggcggctgatgttgctaccgctgctgcacctggaggacatatcttttgacgcactgagcgggggtggccgtgcgctgttctgcagcagcaccgccggtacc
+((((((.(   (.(ddddd).)  (((((  AiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiAA  ))))) .(.(.vvvvv.).).         .((((tttttttt)))).).))))))
+2   tRNA-Gln              c[437956,438030]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgac
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+>LarLEM1108_17 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=637313 | SO=chromosome
+3 genes found
+1   tRNA-Asp              c[299009,299082]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagcc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Ser               [299159,299240]	122.6	34  	(gct)
+gcaaatgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccatttgcgc
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Ala               [299299,299374]	108.3	35  	(agc)
+tggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctccaac
+((((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+>LarLEM1108_18 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=715545 | SO=chromosome
+2 genes found
+1   tRNA-Arg              c[266552,266661]	100.2	51  	(tcg)i(35,14)
+cagcgtcttgggtgaaggtcgtcagcagcggcacaatggagtgcgcgctttcggcgtacccggcgaattgcgcagtcgaggcgagctcgcgtacgagcacgagtcgctgc
+(((((.(   (.((ddddddddddd)).)((.((iiiiiiiiiiiiii  AAA  )).))          .....vvvv.....  (((.(tttttt).)))).)))))
+2   tRNA-Cys               [543610,543749]	102.1	35  	(gca)i(39,50)
+tgatggggtggcctgtggcggcgaggctgccgttgcaagcgacattgtgaatgccccggaacccatggggtccacatgtatccctaacttggtggacggcgttggtgcgccgttgcaggcgatctactcgtcctcgtcgt
+(((((((   ((((ddddddddd))))(((((  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii )))))                       ((((ttttttt)))))))))))
+>LarLEM1108_19 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=645359 | SO=chromosome
+0 genes found
+>LarLEM1108_20 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=722582 | SO=chromosome
+0 genes found
+>LarLEM1108_21 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=762675 | SO=chromosome
+7 genes found
+1   tRNA-Ser              c[158205,158285]	123.0	34  	(gct)
+gcaaacgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcg
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ile               [185192,185295]	102.4	32  	(gat)i(37,12)
+gcgtctgccggttcggcttgtgcgtcgcgctgatgcacttcgcaagcacgcggttgtgcgcaatcccagcagagcagtcgtagtgcagctccgcgtagatgcgc
+(((((((   ((.ddddddd.)) (((((  AAA  iiiiiiiiiiii)))))        ..(vvvvvvv)..    (((.(ttttttt).))))))))))
+3   tRNA-Ile               [188266,188369]	102.4	32  	(gat)i(37,12)
+gcgtctgccggttcggcttgtgcgtcgcgctgatgcacttcgcaagcacgcggttgtgcgcaatcccagcagagcagtcgtagtgcagctccgcgtagatgcgc
+(((((((   ((.ddddddd.)) (((((  AAA  iiiiiiiiiiii)))))        ..(vvvvvvv)..    (((.(ttttttt).))))))))))
+4   tRNA-Pro               [442518,442589]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+5   tRNA-Val               [442721,442795]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Lys               [442858,442931]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+7   tRNA-Phe               [473314,473472]	104.1	100 	(gaa)i(35,63)
+cagcgtgatggcgggatggtcgacgctgccgccgtagcgctcctctttggcgaggcgaaactccgcaatgaactcctgcagatccaccgagttcgtgctgaacagggagctgaggtcgctcggggtggcctcgccgcgttcgatgcccgacacgctgcc
+(((((((   ((((ddddddddddd))))(.((.iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  .)).)          ..(.vvvv.)..  .((.(ttttttt).)).)))))))
+>LarLEM1108_22 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=568429 | SO=chromosome
+0 genes found
+>LarLEM1108_23 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=772477 | SO=chromosome
+12 genes found
+1   tRNA-Ile               [227197,227270]	118.5	35  	(tat)
+gctcccgtggtctagttggttaggacgctggtcttatgaaccggatgtcgcgggttcgagccccgccgggagca
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Val              c[227316,227388]	111.3	34  	(tac)
+gcgtgggtgatctagtggttatgatgtctgctttacacgcagaacgtcgcgggttcgaaccccgccccgcgta
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Gln              c[227453,227526]	124.9	35  	(ttg)
+tggtcctatagtgtagtggttatcacttcggactttgaatccgaaaacccaggttcgaatcctggtaggaccaa
+((((((((  (((.dddddddd.)))((((((  AAA  ))))))   (((((ttttttt)))))))))))))
+4   tRNA-Arg              c[227772,227845]	120.3	34  	(acg)
+tgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+5   tRNA-Leu              c[228067,228149]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+6   tRNA-Thr              c[228208,228281]	120.1	34  	(tgt)
+aggccgcttagcacagtggcagtgcactggtcttgtaaaccaggggtcccgagttcaattctcggagtggcctt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+7   tRNA-Arg               [228352,228425]	121.1	34  	(tcg)
+tggcctcttggcgcaatggaagcgcatcagacttcggatctgagggttgcaggttcgagtcctgcaggggtcgg
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+8   tRNA-Lys               [228733,228805]	120.7	34  	(ttt)
+gcacttctagctcagttggtagagcgcgtggcttttaacctcgtggtcgtgggttcgagccccacggagtgcg
+(((((((  ((((dddddddd))))(((.((  AAA  )).)))    (((((ttttttt))))))))))))
+9   tRNA-Gly              c[228845,228917]	116.4	34  	(tcc)
+gcaattgtggtccaacggttaagatccccgccttccaagcgggtgacccgggttcgactcccggcaattgcac
+(((((((  (((dddddddddd))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+10  tRNA-Trp               [228993,229065]	115.5	33  	(cca)
+gggggcttagctcagtggtagagcattggattccaaatccaggggtcgtaggttcaatccctgcagctctcac
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+11  tRNA-Gly              c[466194,466275]	103.9	33  	(acc)
+tagctgcttgggtagtgggagattgctgggctaccgctacggcggcgtctttcatcgcgggttctacttcaacagcagctaa
+((((((((  (((dddddddd)))((((.(  AAA  ).))))             (..((ttttttt))..)))))))))
+12  tRNA-His               [734224,734396]	101.6	115 	(gtg)i(36,77)
+aggaagcgtagccgcggcatttaatgacaaaggcaggcgcctatagaaggttcacattggcttctccacttggtcttcatccgcgccagtgacccactccgccttccaccacgtgtgagtgtctttgagttgaccggcagcgacgccgcgtgtgctactcacaccgttttgtg
+(.((((((  (.((dddddddddd)).)  (((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))(.(.vvvv.).)           (.(((ttttttt))).))))))).)
+>LarLEM1108_24 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=844406 | SO=chromosome
+6 genes found
+1   tRNA-Pro               [198962,199033]	124.4	33  	(cgg)
+ggccgcttggtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Gln               [624654,624728]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgac
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+3   tRNA-Leu              c[624937,625020]	111.7	37  	(taa)
+tgctggggttcccgagttggtcaaaggggtgagacttaagttctcatgcgcaagcttcgtgggttcgaaccccacctccagcaa
+((((((((  (((.dddddddddd.)))((((((  AAA  ))))))           (((((ttttttt)))))))))))))
+4   tRNA-Ile               [625104,625178]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Ile               [627273,627347]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Asp              c[685178,685249]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaag
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+>LarLEM1108_25 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=888445 | SO=chromosome
+1 genes found
+1   tRNA-Gly                c[45439,45604]	102.4	109 	(tcc)i(37,72)
+acacgtgtagagtgactgttttcggttcccgcgtatatcgctgccgcgcgggtgaccgccgttgcgtgcgtggctgtcacagcagaggttgctaatctactgtggatgtccaaacgcgagctgaacgaggtgtccttgttgatgagtgccattcttttcgcgagtc
+((.((((  ((((ddddddddddd)))) (((((  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiAAA  ))))) (.((vvvvvvvvvvvvv)).) (.(((ttttttt))).))))).))
+>LarLEM1108_26 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1061209 | SO=chromosome
+1 genes found
+1   tRNA-Glu                 [70435,70543]	103.7	50  	(ttc)i(35,14)
+cggccgtgtcgatgagcttcagcttcctccccttgtacatgcatgcgatttcaatggggtcgcgggtcgtattcgactcgtcagcggcgcggttccgctcgtagccgac
+((((.(((  ((.(dddddddd).))  ((((. iiiiiiiiiiiiii AAA  .))))(.(.vvvvvvvv.).)       (((((ttttttt)))))))).))))
+>LarLEM1108_27 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1057807 | SO=chromosome
+0 genes found
+>LarLEM1108_28 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1141120 | SO=chromosome
+0 genes found
+>LarLEM1108_29 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1206216 | SO=chromosome
+2 genes found
+1   tRNA-Leu              c[813710,813792]	117.8	35  	(caa)
+ggcaggatggccgagtggtctaaggcgggagactcaagttctcttctattcgtaggcgcgggttcgaaccccgctcctgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ser              c[813849,813929]	119.6	34  	(cga)
+gtcaccatacccaagtggttacgggggttgactcgaaatcaactgcgatctcgcgcgcaggttcgaatcctgctggtgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>LarLEM1108_30 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1340958 | SO=chromosome
+2 genes found
+1   tRNA-Thr              c[740428,740499]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Ser              c[757994,758131]	100.9	77  	(gct)i(33,42)
+cagcgtgtggtggacggtgaggccacggcagatgttgtttctctctttgttttttttttgtgcgctgttccctgttgctgctctgatcggtggtaccgtgagggacgccatccctcgttcacatcggcagacgctgcc
+((((((.  ((((ddddddddd)))) .((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))).    (...vvvv...)          ..(((ttttttt)))...))))))
+>LarLEM1108_31 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1266032 | SO=chromosome
+3 genes found
+1   tRNA-Ala               [173044,173116]	108.3	34  	(agc)
+ggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctcca
+(((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+2   tRNA-Phe             [1109126,1109198]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Ser            c[1109251,1109332]	119.6	34  	(aga)
+gtcaccatacccaagtggttacggggactgactagaaatcagttgcgatctcgcgcgcaggttcgaatcctgctggtgacgc
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>LarLEM1108_32 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1540313 | SO=chromosome
+1 genes found
+1   tRNA-Ser             [1420512,1420600]	101.6	33  	(cga)
+cccgtccgtagatagcgtcagtgtgcccgcatcgagggtgggagccgatggcggtagcggtgccgtgcgtgcgccacgcacggacgagg
+(.(((((   .(((ddddddd))).(((((  AAA  ))))) ((((.((vvvv)).))))   (((((ttttttt)))))))))).)
+>LarLEM1108_33 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1326913 | SO=chromosome
+3 genes found
+1   tRNA-Arg              c[101825,101898]	118.9	34  	(cct)
+gcccttgtagcctaatggatatggcgtttgcttcctaagcaaaaggttgcgggttcgagtcccgccaggggtac
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Arg              c[101958,102031]	125.8	34  	(tct)
+gctccagtggcctaatggataaggctttggacttctaatccaaagattgcgggttcgaatcccgcctggagtac
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+3   tRNA-Ala               [102108,102180]	117.5	33  	(tgc)
+gggcgtgtagctcagtggtagagcgcctgttttgcatacaggaggcctagggttcaaacccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+>LarLEM1108_34 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1490950 | SO=chromosome
+6 genes found
+1   tRNA-Asn               [750102,750237]	103.0	32  	(gtt)i(37,44)
+ggcaaagtgcgcgggttgaagcaccgccgttgttgcggcgccgcccacaactgcgcagatgaaagcgagttcatacgaggcggcgtaggcggacgcctcgtccaggccgctagggtgcccattccctttcttgccc
+(((((.(  .((dddddddd)). (((((  AAA  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii))))) .((vvvvvvvvvvvvvvvvv)). .((((tttttttt)))).).)))))
+2   tRNA-Asn            c[1179460,1179533]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+3   tRNA-Tyr            c[1179591,1179674]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagttcgcaggtatcacagggtcgctggttcgattccggccggaagga
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+4   tRNA-Thr            c[1179737,1179808]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Pro             [1179890,1179961]	124.4	33  	(cgg)
+ggccgcttggtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+6   tRNA-Asn             [1180021,1180094]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>LarLEM1108_35 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1976196 | SO=chromosome
+0 genes found
+>LarLEM1108_36 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=2652413 | SO=chromosome
+15 genes found
+1   tRNA-Tyr              c[478110,478194]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagttcgcaggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+2   tRNA-Thr              c[478263,478335]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Thr               [479129,479201]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Tyr               [479270,479354]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagttcgcaggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+5   tRNA-Gly             [1013648,1013718]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+6   tRNA-Thr            c[1014364,1014435]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+7   tRNA-Gly            c[1014500,1014570]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+8   tRNA-Pro             [1014644,1014716]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggacccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+9   tRNA-Gln            c[1585842,1585916]	119.8	35  	(ctg)
+tgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtggc
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+10  tRNA-Gly            c[2145766,2145958]	103.4	134 	(gcc)i(38,95)
+gcgaggactgggaagaggttgtgtgcgtcagcagcgccaagcagctcgagaaactctccggcgtcaccggcgtcacagacatccaccgccagttcgttgacaatatcacgatcccaagtaagcggcctggtatgccgccgctgaagcgtgtgccgatggtgtttgactgctggttcgagtccggctcgatgcc
+(((..((   ((..ddddddddddd..))  ((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))((...vvvvvvvvvv...))     (((((ttttttt)))))))..)))
+11  tRNA-Gly             [2204772,2204956]	100.6	131 	(gcc)i(35,94)
+caggatcttgggttggtttggaatgagcccggtcatgcgcatgtgacggtaaaacttgatgtaggggttcgcgcggcgacgtgctgcgctggtcttcctcttggcggcggtgtgccgcgccttggactttgccacggctgcgatgcgcgtctgtcgaattcgccgcttcaaggcggcggccttgc
+((((.((   ((((ddddddddddd))))(((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))....((vvvvvv))....   (((((tttttt))))))).))))
+12  tRNA-Cys             [2438614,2438685]	122.6	33  	(gca)
+ggattcatagctcagtggtagagcattcggctgcagtccgaatggtccccggttcaaacccgggtgggtcct
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+13  tRNA-Leu            c[2439461,2439542]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+14  tRNA-Met            c[2439606,2439677]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+15  tRNA-Pro             [2439750,2439822]	122.1	33  	(tgg)
+ggtcgtttggtctagtggtatgattcctgttttgggtacaggaggtcacgggttcaattcccgtaacgacccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>LARLEM1108_SCAF000001 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1077 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000002 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=2113 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000003 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1845 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000004 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=3738 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000005 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=2255 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000006 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=2379 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000007 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1163 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000008 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=3063 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000009 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=5640 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000010 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=2352 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000011 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=17644 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000012 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=735 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000013 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=6334 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000014 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=5075 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000015 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=5398 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000016 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1292 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000017 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1150 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000018 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=4489 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000019 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=458 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000020 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1163 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000021 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=4076 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000022 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=2934 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000023 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=3283 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000024 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1336 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000025 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1960 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000026 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1559 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000027 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=2093 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000028 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=3018 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000029 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=8580 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000030 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1323 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000031 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1144 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000032 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=2674 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000033 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=2717 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000034 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1399 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000035 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1303 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000036 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1592 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000037 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1194 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000038 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1717 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000039 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1284 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000040 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=3953 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000041 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=3051 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000042 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1583 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000043 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=5643 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000044 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=3267 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000045 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=2929 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000046 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1274 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000047 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=2022 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000048 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1437 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000049 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1208 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000050 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=3224 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000051 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1183 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000052 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=2248 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000053 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=4607 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000054 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1488 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000055 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1490 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000056 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1568 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000057 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1221 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000058 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=30965 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000059 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1427 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000060 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=3406 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000061 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1500 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000062 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1110 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000063 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=2069 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000064 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=2211 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000065 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=2330 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000066 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=2655 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000067 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1260 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000068 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1123 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000069 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=9604 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000070 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1029 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000071 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=5994 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000072 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=3525 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000073 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1950 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000074 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=4166 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000075 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=3046 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000076 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=35945 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000077 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1326 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000078 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1128 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000079 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1214 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000080 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=3061 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000081 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=2823 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000082 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1518 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000083 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1281 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000084 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=2433 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000085 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=6953 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000086 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=4395 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000087 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1845 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000088 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1003 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000089 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=44147 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000090 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=5158 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000091 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=5786 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000092 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=43348 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000093 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=29415 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000094 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=5917 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000095 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1412 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000096 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1522 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000097 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=22603 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000098 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=5540 | SO=supercontig
+1 genes found
+1   tRNA-Phe                   [1812,2026]	100.2	154 	(aaa)i(38,116)
+tgcagaagtggaagagtgattgatgacttacgtttttttttactggggagagggtctcttcgtttcctttctgacattgttccatcgcccggacaaaaccgcacatgcaccaacactagacctatcaaggccgccctcttttccgagggaagcaaagggagcgggtggacgcgcacagcgtcttctacctgtggagcctctccacacctctgcga
+((((((.(  ((..ddddddddddd..)) (((((  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiAAA  ))))) (((((.(...vvvv...).))))) (((((ttttttt)))))).))))))
+>LARLEM1108_SCAF000099 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1951 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000100 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=2184 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000101 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1691 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000102 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1295 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000103 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1340 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000104 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=4099 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000105 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1030 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000106 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1336 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000107 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=57482 | SO=supercontig
+5 genes found
+1   tRNA-Ser                c[11823,11903]	116.9	34  	(tga)
+gtcaacatacccaagtggttacggggtttgacttgaaatcaaatgcgatctcgcgcgcaggttcgaaccctgctgttgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Leu                 [11979,12058]	119.8	35  	(tag)
+ggcggagtggccgagtggtctaaggcgccagatttaggctctggtctttcgaggcgtgggttcgaaccccacctccgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))          (((((ttttttt))))))))))))
+3   tRNA-Met                c[12090,12162]	113.6	34  	(cat)
+gcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+4   tRNA-Ile                c[12223,12297]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Val                 [12523,12597]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LARLEM1108_SCAF000108 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=2202 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000109 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=2684 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000110 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1159 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000111 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=7113 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000112 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=35036 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000113 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=15623 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000114 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=2033 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000115 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1215 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000116 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=6474 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000117 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=3621 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000118 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=2247 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000119 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=11454 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000120 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=31727 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000121 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=970 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000122 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=2984 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000123 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1900 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000124 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1534 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000125 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=653 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000126 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=4291 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000127 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1009 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000128 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=6363 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000129 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=1345 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000130 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=6441 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000131 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=582 | SO=supercontig
+0 genes found
+>LARLEM1108_SCAF000132 | organism=Leishmania_arabica_strain_LEM1108 | version=2014-12-16 | length=4755 | SO=supercontig
+0 genes found
+>end 	168 sequences 103 tRNA genes, nothing found in 142 sequences, (15.48% sensitivity)

@@ -1,0 +1,382 @@
+>Ld01_v01s1 | organism=Leishmania_donovani_BPK282A1 | version=2016-05-28 | length=283432 | SO=chromosome
+0 genes found
+>Ld02_v01s1 | organism=Leishmania_donovani_BPK282A1 | version=2016-05-28 | length=334314 | SO=chromosome
+1 genes found
+1   tRNA-Val               [225607,225698]	106.0	30  	(gac)
+cgagcgcatggtcagatgggtgcgacgctgacatcgttgtccccgtgtcggcgcgagtggtgccgtggctgttcgactccgtcgcggccgtc
+((..(((   (((ddddd)))((((((  AAA  ))))))        ((((((vvvvv)))))) (((.(ttttttt).))))))..))
+>Ld03_v01s1 | organism=Leishmania_donovani_BPK282A1 | version=2016-05-28 | length=389946 | SO=chromosome
+1 genes found
+1   tRNA-Lys               [261126,261198]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcg
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>Ld04_v01s1 | organism=Leishmania_donovani_BPK282A1 | version=2016-05-28 | length=479467 | SO=chromosome
+0 genes found
+>Ld05_v01s1 | organism=Leishmania_donovani_BPK282A1 | version=2016-05-28 | length=452426 | SO=chromosome
+1 genes found
+1   tRNA-Arg               [361082,361153]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>Ld06_v01s1 | organism=Leishmania_donovani_BPK282A1 | version=2016-05-28 | length=529559 | SO=chromosome
+2 genes found
+1   tRNA-SeC                c[70020,70107]	108.3	36  	(tca)
+gccgcgatgagctcagctggtgctgggtgcgggcttcaaacccgtaggtgagttgctctcacagccgttcgattcggccttcgtggcg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+2   tRNA-Met              c[454719,454815]	101.2	37  	(cat)i(34,2)
+tgccgcgcagggagaggcgtgtccccgccacgtcgtcatagcgtgtgcgtgtgtgtctgtgtgtgtgcgcttgcgcgtccaacgtgcgttgcgggag
+(.(((((  ((((dddddddd))))  .(((( ii AAA  )))).((((((((vvvvvv))))))))    (((((ttttttt)))))))))).)
+>Ld07_v01s1 | organism=Leishmania_donovani_BPK282A1 | version=2016-05-28 | length=604754 | SO=chromosome
+2 genes found
+1   tRNA-Phe              c[109004,109099]	104.4	38  	(gaa)
+gcagcggatggcgtagatgcacttgactgctgctgctgaagtcggcgggcgagggcctctcgtgcgatgaggcggtgcctttccgcctcctctgcg
+((((.(((  ..((ddddddddddd))..((((((  AAA  ))))))(((((vvvvv)))))       (((((ttttttt)))))))).))))
+2   tRNA-Arg              c[380004,380075]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>Ld08_v01s1 | organism=Leishmania_donovani_BPK282A1 | version=2016-05-28 | length=505720 | SO=chromosome
+0 genes found
+>Ld09_v01s1 | organism=Leishmania_donovani_BPK282A1 | version=2016-05-28 | length=588727 | SO=chromosome
+9 genes found
+1   tRNA-Met               [283949,284020]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Leu               [284079,284162]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+3   tRNA-Val               [417089,417165]	112.1	35  	(cac)
+tgcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtaccc
+((((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+4   tRNA-His               [417405,417475]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+5   tRNA-Phe              c[417654,417726]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Glu              c[429810,429881]	118.0	34  	(ttc)
+tccgatgtagtataacggttagaacacctggctttcacccaggagatccgggttcgattcccggtatcggag
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+7   tRNA-Val              c[430117,430193]	112.1	35  	(cac)
+tgcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtaccc
+((((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+8   tRNA-Arg               [430266,430338]	118.6	33  	(ccg)
+gacgttgtggcgcaatggaagcgcgtcggattccggatccgaaggttgtgggttcgacccccatcagcgttgc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+9   tRNA-His               [430404,430474]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>Ld10_v01s1 | organism=Leishmania_donovani_BPK282A1 | version=2016-05-28 | length=558170 | SO=chromosome
+3 genes found
+1   tRNA-Lys               [519824,519897]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Gly              c[519965,520035]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Asn              c[520095,520167]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggag
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>Ld11_v01s1 | organism=Leishmania_donovani_BPK282A1 | version=2016-05-28 | length=580223 | SO=chromosome
+10 genes found
+1   tRNA-Leu              c[156707,156788]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ala               [156862,156934]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+3   tRNA-Ala               [157196,157268]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+4   tRNA-Leu              c[207770,207851]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+5   tRNA-Ala               [207925,207997]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+6   tRNA-Gly               [208055,208125]	122.0	33  	(ccc)
+gcgccgctggtctagtggcatgatggtaccctcccaaggtattgacccgggttcgattcccgggcggcgca
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+7   tRNA-Met              c[371701,371773]	113.6	34  	(cat)
+gcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+8   tRNA-Arg               [371848,371921]	120.3	34  	(acg)
+tgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatga
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+9   tRNA-Arg               [372395,372468]	120.3	34  	(acg)
+tgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatga
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+10  tRNA-Ile              c[552110,552228]	100.5	57  	(gat)i(32,23)
+agtggggcttgtgtacgggataacagggcgcaccgcatgcagcaggatacagcgttgatgcgcgctgcatggagcatcatggcgcaagggggcttcgttgggctcgaggccctgacgcc
+..(((((   .(((dddddddd))).(((((iiiiiiiiiiiiiiiiiiiiiii  AAA  ))))).(.((...vvvvvvv...)).).   (((((ttttttt))))))))))..
+>Ld12_v01s1 | organism=Leishmania_donovani_BPK282A1 | version=2016-05-28 | length=569561 | SO=chromosome
+0 genes found
+>Ld13_v01s1 | organism=Leishmania_donovani_BPK282A1 | version=2016-05-28 | length=649814 | SO=chromosome
+1 genes found
+1   tRNA-???               [409071,409148]	101.0	37  	(gt) 
+tggcgttgtgggcgacgcggacgcctcgcggtgcctgtaggcatcacgccgccgccggatcttctccagcagcgtcac
+(((((((   ((.(ddddddddd).))  (((((  AA  )))))        ((.((ttttttt)).)))))))))
+>Ld14_v01s1 | organism=Leishmania_donovani_BPK282A1 | version=2016-05-28 | length=645099 | SO=chromosome
+0 genes found
+>Ld15_v01s1 | organism=Leishmania_donovani_BPK282A1 | version=2016-05-28 | length=618357 | SO=chromosome
+3 genes found
+1   tRNA-Gly               [260627,260724]	103.6	39  	(ccc)
+gttgccatggcaacatcgcccgaggtgctcgggatgttcccatcataccccggcagcgtcgttggcggcagtccaggtacaagccccggtggcggcac
+(((((((  (((.ddddddddddd.)))  ((.(((  AAA  ))).)) (.((.((vvvvvvv)).)).) ((.((ttttttt)).)))))))))
+2   tRNA-Asp               [312760,312832]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Glu              c[312871,312944]	118.1	35  	(ctc)
+ttccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaag
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+>Ld16_v01s1 | organism=Leishmania_donovani_BPK282A1 | version=2016-05-28 | length=698406 | SO=chromosome
+1 genes found
+1   tRNA-Gln              c[445955,446029]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgac
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+>Ld17_v01s1 | organism=Leishmania_donovani_BPK282A1 | version=2016-05-28 | length=671483 | SO=chromosome
+3 genes found
+1   tRNA-Asp              c[328837,328909]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Ser               [328986,329067]	121.7	34  	(gct)
+gcaaatgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcgc
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Ala               [329126,329201]	108.3	35  	(agc)
+tggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctccaac
+((((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+>Ld18_v01s1 | organism=Leishmania_donovani_BPK282A1 | version=2016-05-28 | length=735610 | SO=chromosome
+2 genes found
+1   tRNA-Arg               [363927,364023]	100.5	35  	(tct)
+gccagccattgtcgagggtgcgtccgctgtggcctctgcctccagccaggacggcggtgtgagtcttgagtcgcggctcaggtccgggtggcaggct
+(((.((((  (.((dddddd)).)  (((.((  AAA  )).))) ((((((.vvvvvvvv.))))))   (.(((ttttttt))).))))).)))
+2   tRNA-Cys               [555438,555578]	102.8	35  	(gca)i(39,50)
+tgatggggtagcctgtggcggcgaggccgccgttgcaagcgacattgtgaatgccccggaacctatgaggcccacatgtatccgtaacttggtggacggcgttggcgcgccgtttcaggcgatctactcgtcttcgtcgtc
+(((((((   ((((ddddddddd))))(((((  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii )))))                       ((((ttttttt)))))))))))
+>Ld19_v01s1 | organism=Leishmania_donovani_BPK282A1 | version=2016-05-28 | length=757180 | SO=chromosome
+0 genes found
+>Ld20_v01s1 | organism=Leishmania_donovani_BPK282A1 | version=2016-05-28 | length=752621 | SO=chromosome
+1 genes found
+1   tRNA-Tyr               [686049,686224]	101.1	117 	(gta)i(32,83)
+gcgccgttggactgcgaggcaagatgcgcctccagaaagcctaccgccagcatgcgctccatatcactgatgactggagctcgccgtagcatcgcgcacgccgctgcaacagccttgtagtaggcgatcgttggcgcggggctgccgacgaggaggttcataaaccccactgtgca
+((((.((  (.((dddddddd)).) (((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))          ..(.vvvvvvv.).. (.((tttttttt)).))).))))
+>Ld21_v01s1 | organism=Leishmania_donovani_BPK282A1 | version=2016-05-28 | length=767234 | SO=chromosome
+5 genes found
+1   tRNA-Ser              c[163818,163898]	123.0	34  	(gct)
+gcaaacgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcg
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Gly               [404713,404844]	102.1	73  	(gcc)i(33,39)
+tggcgcggcgggcagcggaggcgccggcgggcagcgtcgcgaggtgaacacgacgaccggctcgcctattgtgccgacccccgtgacgggcagctccggcgcgctcgatgcgtacaactcgcgctgcgtcat
+(((((((   (((.ddddddd.))) (.((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  ))).)    .((vvvv)).           .((((ttttttt)))).)))))))
+3   tRNA-Pro               [447690,447761]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+4   tRNA-Val               [447893,447967]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Lys               [448030,448103]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>Ld22_v01s1 | organism=Leishmania_donovani_BPK282A1 | version=2016-05-28 | length=704761 | SO=chromosome
+0 genes found
+>Ld23_v01s1 | organism=Leishmania_donovani_BPK282A1 | version=2016-05-28 | length=783272 | SO=chromosome
+11 genes found
+1   tRNA-Ile               [228780,228854]	118.5	35  	(tat)
+gctcccgtggtctagttggttaggacgctggtcttatgaaccggatgtcgcgggttcgagccccgccgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Val              c[228898,228970]	111.3	34  	(tac)
+gcgtgggtgatctagtggttatgatgtctgctttacacgcagaacgtcgcgggttcgaaccccgccccgcgta
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Gln              c[229038,229110]	124.9	34  	(ttg)
+ggtcctatagtgtagtggttatcacttcggactttgaatccgaaaacccaggttcgaatcctggtaggaccac
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+4   tRNA-Arg              c[229351,229424]	120.3	34  	(acg)
+tgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+5   tRNA-Leu              c[229645,229729]	117.1	36  	(cag)
+tggcaagatggtcgagtggtctaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtcaa
+((((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt)))))))))))))
+6   tRNA-Thr              c[229785,229858]	120.1	34  	(tgt)
+aggccgcttagcacagtggcagtgcactggtcttgtaaaccaggggtcccgagttcaattctcggagtggcctt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+7   tRNA-Arg               [229930,230001]	121.1	33  	(tcg)
+ggcctcttggcgcaatggaagcgcatcagacttcggatctgagggttgcaggttcgagtcctgcaggggtcg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+8   tRNA-Lys               [230315,230389]	120.7	35  	(ttt)
+cgcacttctagctcagttggtagagcgcgtggcttttaacctcgtggtcgtgggttcgagccccacggagtgcgg
+((((((((  ((((dddddddd))))(((.((  AAA  )).)))    (((((ttttttt)))))))))))))
+9   tRNA-Gly              c[230437,230509]	116.4	34  	(tcc)
+gcaattgtggtccaacggttaagatccccgccttccaagcgggtgacccgggttcgactcccggcaattgcac
+(((((((  (((dddddddddd))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+10  tRNA-Trp               [230585,230656]	116.8	33  	(cca)
+gggggcttagctcagtggtagagcattggattccaaatccaggggtcgtaggttcaatccctgcagccctca
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+11  tRNA-Asn              c[437605,437675]	100.2	32  	(att)
+agaaaaagtgtccaatggacacgacagcgttattgttgctgtgggcgcgagttctagtctcgattttcttc
+((.((((   ((.dddddddd.))(((((  AAA  )))))     .((((ttttttt)))).)))).))
+>Ld24_v01s1 | organism=Leishmania_donovani_BPK282A1 | version=2016-05-28 | length=877124 | SO=chromosome
+5 genes found
+1   tRNA-Pro               [216780,216851]	124.4	33  	(cgg)
+ggccgcttagtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Gln               [658796,658868]	119.8	34  	(ctg)
+gctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgc
+(((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+3   tRNA-Leu              c[659078,659159]	111.7	36  	(taa)
+gctggggttcccgagttggtcaaaggggtgagacttaagttctcatgcgcaagcttcgtgggttcgaaccccacctccagca
+(((((((  (((.dddddddddd.)))((((((  AAA  ))))))           (((((ttttttt))))))))))))
+4   tRNA-Ile               [659246,659320]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Asp              c[715730,715801]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaag
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+>Ld25_v01s1 | organism=Leishmania_donovani_BPK282A1 | version=2016-05-28 | length=897883 | SO=chromosome
+0 genes found
+>Ld26_v01s1 | organism=Leishmania_donovani_BPK282A1 | version=2016-05-28 | length=1058259 | SO=chromosome
+1 genes found
+1   tRNA-Glu                 [68923,69031]	100.9	50  	(ttc)i(35,14)
+cggccgtgtcgatgagcttcagcttcctccccttgtacgtgcatgcgatttcgatggggtcgcgggtcgtgttcgactcgtcagcggcgcggtttcgctcgtagccgac
+((((.(((  ((.(dddddddd).))  ((((. iiiiiiiiiiiiii AAA  .))))(.(.vvvvvvvv.).)       (((((ttttttt)))))))).))))
+>Ld27_v01s1 | organism=Leishmania_donovani_BPK282A1 | version=2016-05-28 | length=1024085 | SO=chromosome
+0 genes found
+>Ld28_v01s1 | organism=Leishmania_donovani_BPK282A1 | version=2016-05-28 | length=1171725 | SO=chromosome
+0 genes found
+>Ld29_v01s1 | organism=Leishmania_donovani_BPK282A1 | version=2016-05-28 | length=1258350 | SO=chromosome
+3 genes found
+1   tRNA-Ala              c[585790,585874]	100.7	31  	(ggc)
+gccgaagttagtcggggaacggccacggatggcgtccgtgcggagctgctgctgcgtgtactggcgcggagccagctccttggca
+(((((.(.  ((((ddddd))))(((((  AAA  )))))(((.(vvvv).)))     .((((ttttttt))))..).)))))
+2   tRNA-Leu              c[844983,845065]	117.8	35  	(caa)
+ggcaggatggccgagtggtctaaggcgggagactcaagttctcttctattcgtaggcgcgggttcgaaccccgctcctgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Ser              c[845125,845205]	119.2	34  	(cga)
+gtcatcatacccaagtggttacgggggttgactcgaaatcaactgcgatctcgcgcgcaggttcgaatcctgctgatgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>Ld30_v01s1 | organism=Leishmania_donovani_BPK282A1 | version=2016-05-28 | length=1374157 | SO=chromosome
+1 genes found
+1   tRNA-Thr              c[761888,761959]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>Ld31_v01s1 | organism=Leishmania_donovani_BPK282A1 | version=2016-05-28 | length=1531288 | SO=chromosome
+6 genes found
+1   tRNA-Arg                c[64087,64286]	101.5	33  	(gcg)i(38,109)
+cctgctcttccgcgtggaacagcagcggcactgcgatagcgtggagacggtgcgccactggtgtcttcagaaacacctcagctacgacaagctgatggccattgtagacctggagagccacatcaagtacgagctcgcggagttcatgccgttccgcagcatcgttgaggcggagaagctgttggaacagctggacaagc
+(.((.((  (.((dddddddd)).)(((((  AAA  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii)))))       ...(.vvvvvvv.)... (((((tttttt))))))).)).)
+2   tRNA-Ala               [209170,209242]	108.3	34  	(agc)
+ggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctcca
+(((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+3   tRNA-Gly               [495813,495885]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgcacc
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+4   tRNA-Glu              c[495934,496007]	118.1	35  	(ctc)
+ttccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaag
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+5   tRNA-Phe             [1329549,1329621]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Ser            c[1329655,1329736]	119.6	34  	(aga)
+gtcaccatacccaagtggttacggggactgactagaaatcagttgcgatctcgcgcgcaggttcgaatcctgctggtgacgc
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>Ld32_v01s1 | organism=Leishmania_donovani_BPK282A1 | version=2016-05-28 | length=1559911 | SO=chromosome
+1 genes found
+1   tRNA-Glu               [339060,339183]	100.8	33  	(ctc)i(37,34)
+ttggtgctggcgagcgcttgcgtgcgtgcttgctcgagtagcgtttccctcttcgcgggtcgcgcctcctcagtgtcggaggtgacggtctgtgccgctcgcggtgcaacgccgcggcgctaaa
+(((((((  (((dddddddddd)))(((((  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii )))))  (.(..vvvvvvv..).)    (((((ttttttt))))))))))))
+>Ld33_v01s1 | organism=Leishmania_donovani_BPK282A1 | version=2016-05-28 | length=1453978 | SO=chromosome
+4 genes found
+1   tRNA-Arg              c[104560,104633]	118.9	34  	(cct)
+gcccttgtagcctaatggatatggcgtttgcttcctaagcaaaaggttgcgggttcgagtcccgccaggggtac
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Arg              c[104692,104765]	125.8	34  	(tct)
+gctccagtggcctaacggataaggctttggacttctaatccaaagattgcgggttcgaatcccgcctggagtac
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+3   tRNA-Ala               [104841,104914]	117.5	34  	(tgc)
+tgggcgtgtagctcagtggtagagcgcctgttttgcatacaggaggcctagggttcaaacccctactcgtccat
+((((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+4   tRNA-Lys              c[490229,490302]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>Ld34_v01s1 | organism=Leishmania_donovani_BPK282A1 | version=2016-05-28 | length=1750858 | SO=chromosome
+10 genes found
+1   tRNA-Val              c[482132,482206]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Ile               [482431,482505]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Met               [482561,482633]	113.6	34  	(cat)
+gcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+4   tRNA-Leu              c[482667,482746]	119.8	35  	(tag)
+ggcggagtggccgagtggtctaaggcgccagatttaggctctggtctttcgaggcgtgggttcgaaccccacctccgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))          (((((ttttttt))))))))))))
+5   tRNA-Ser               [482821,482901]	116.9	34  	(tga)
+gtcaacatacccaagtggttacggggtttgacttgaaatcaaatgcgatctcgcgcgcaggttcgaaccctgctgttgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+6   tRNA-Asn            c[1387610,1387683]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+7   tRNA-Pro            c[1387747,1387818]	124.4	33  	(cgg)
+ggccgcttagtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+8   tRNA-Thr             [1387899,1387970]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+9   tRNA-Tyr             [1388035,1388118]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagatcgcagatatcacagggtcgctggttcgattccggccggaagga
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+10  tRNA-Asn             [1388180,1388253]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>Ld35_v01s1 | organism=Leishmania_donovani_BPK282A1 | version=2016-05-28 | length=2113966 | SO=chromosome
+2 genes found
+1   tRNA-Gly              c[391141,391316]	100.1	138 	(gcc)i(33,103)
+gccgcagctgcggcggcgttgcgctgacgacgtcgccgccgccgcgaactcttcgttgctttgggattgtggtgatgctggtgcgatgagcggtgctggcggccttgaccgcggtgcagctgagagcggtgccggctgccgccgccgccagtcgagcgcggacctcgactgcggcc
+(((((((   (((dddddddddd))) ((.((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )).))    (((((ttttttt))))))))))))
+2   tRNA-Pro              c[584785,584962]	101.0	32  	(cgg)i(34,95)
+agggtgctggcgcggtagttgcgcatctgctcggccgtcaccttctttacgccttcctccgtaccgtagagcggagtacccacaccgtacggggtgctgtcgaaagcgcagcggtgcaagttgtccatgaccagatcgtcggggcgctcctcgaacaggtgctgatcctggtgcacca
+.(.((((  (((ddddddddd)))(((((  AAiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiA  ))))).(.vvvvvvvvv.).    ((((ttttttt)))))))).).
+>Ld36_v01s1 | organism=Leishmania_donovani_BPK282A1 | version=2016-05-28 | length=2713248 | SO=chromosome
+14 genes found
+1   tRNA-Tyr              c[495611,495695]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagttcgcaggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+2   tRNA-Thr              c[495777,495848]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Thr              c[496177,496248]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Thr               [497126,497197]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Gly             [1041557,1041628]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgcac
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+6   tRNA-Thr            c[1042180,1042251]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+7   tRNA-Gly            c[1042319,1042389]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+8   tRNA-Pro             [1042463,1042534]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+9   tRNA-Gln            c[1630331,1630404]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgt
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+10  tRNA-Gly            c[2195101,2195260]	104.8	101 	(gcc)i(32,68)
+gcatcaagcagctcgaggagctctccggcgtcaccggcatcaccgacatccaccgccagttcgtcgacgatatcacgatcccaagtaagcggcctggcatgccgccgctgaagcgtgtgccgatggtgtttgactgctggttcgagtccggctcgatgcc
+(((((.(   (..(ddddd)..)  ((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))         .((vvvvvvvv)).  (((((ttttttt)))))).)))))
+11  tRNA-Cys             [2496580,2496651]	122.6	33  	(gca)
+ggattcatagctcagtggtagagcattcggctgcagtccgaatggtccccggttcaaacccgggtgggtcct
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+12  tRNA-Leu            c[2497438,2497519]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+13  tRNA-Met            c[2497581,2497652]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+14  tRNA-Pro             [2497726,2497798]	122.1	33  	(tgg)
+ggtcgtttggtctagtggtatgattcctgttttgggtacaggaggtcacgggttcaattcccgtaacgacccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>end 	36 sequences 103 tRNA genes, nothing found in 10 sequences, (72.22% sensitivity)

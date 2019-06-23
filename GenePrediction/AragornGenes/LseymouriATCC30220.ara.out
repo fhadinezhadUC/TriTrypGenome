@@ -1,0 +1,2757 @@
+>Lsey_0001 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=326845 | SO=contig
+0 genes found
+>Lsey_0002 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=289996 | SO=contig
+0 genes found
+>Lsey_0003 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=280173 | SO=contig
+0 genes found
+>Lsey_0004 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=275975 | SO=contig
+0 genes found
+>Lsey_0005 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=265098 | SO=contig
+0 genes found
+>Lsey_0006 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=233382 | SO=contig
+0 genes found
+>Lsey_0007 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=230934 | SO=contig
+2 genes found
+1   tRNA-Val                 [20176,20250]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Ala                c[61454,61526]	108.3	34  	(agc)
+ggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctcca
+(((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+>Lsey_0008 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=229042 | SO=contig
+0 genes found
+>Lsey_0009 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=211517 | SO=contig
+2 genes found
+1   tRNA-Val                 [43972,44045]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Thr                c[61080,61151]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>Lsey_0010 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=192125 | SO=contig
+0 genes found
+>Lsey_0011 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=186541 | SO=contig
+0 genes found
+>Lsey_0012 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=185081 | SO=contig
+0 genes found
+>Lsey_0013 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=169270 | SO=contig
+0 genes found
+>Lsey_0014 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=160581 | SO=contig
+0 genes found
+>Lsey_0015 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=154533 | SO=contig
+0 genes found
+>Lsey_0016 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=152655 | SO=contig
+0 genes found
+>Lsey_0017 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=150723 | SO=contig
+0 genes found
+>Lsey_0018 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=146529 | SO=contig
+1 genes found
+1   tRNA-Glu                 [13861,13935]	118.5	35  	(ctc)
+ttccggtgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcaccggaaac
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+>Lsey_0019 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=145691 | SO=contig
+0 genes found
+>Lsey_0020 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=144737 | SO=contig
+0 genes found
+>Lsey_0021 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=142503 | SO=contig
+1 genes found
+1   tRNA-Ser                c[75975,76056]	121.3	34  	(gct)
+gcaaatatggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttctgtttgcgc
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>Lsey_0022 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=141517 | SO=contig
+0 genes found
+>Lsey_0023 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=141493 | SO=contig
+0 genes found
+>Lsey_0024 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=140537 | SO=contig
+1 genes found
+1   tRNA-Glu                  c[6495,6631]	101.0	32  	(ctc)i(33,43)
+gtgcccgctgtggagctgggtccactatcttcgcttttggcaggcgaccacgccgacatggtacaccaggcatggtcgtggtagcagcagtagatggtttggctgcaattcggctccgctgccgagccggtgcgcca
+(((((.(   ((((dddddd))))(((((  AiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiAA  )))))   ...vvvvv...          (((((tttttttt)))))).)))))
+>Lsey_0025 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=138340 | SO=contig
+0 genes found
+>Lsey_0026 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=138284 | SO=contig
+0 genes found
+>Lsey_0027 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=137095 | SO=contig
+0 genes found
+>Lsey_0028 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=134347 | SO=contig
+0 genes found
+>Lsey_0029 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=133705 | SO=contig
+4 genes found
+1   tRNA-Ile                c[28600,28674]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Leu                 [28756,28837]	111.7	36  	(taa)
+gctggggttcccgagttggtcaaaggggtgagacttaagttctcatgcgcaagcttcgtgggttcgaaccccacctccagca
+(((((((  (((.dddddddddd.)))((((((  AAA  ))))))           (((((ttttttt))))))))))))
+3   tRNA-Ile                 [28911,28985]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Gln                c[29093,29166]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtga
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+>Lsey_0030 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=132577 | SO=contig
+0 genes found
+>Lsey_0031 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=128647 | SO=contig
+0 genes found
+>Lsey_0032 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=128586 | SO=contig
+0 genes found
+>Lsey_0033 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=128569 | SO=contig
+0 genes found
+>Lsey_0034 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=128136 | SO=contig
+1 genes found
+1   tRNA-Ser                  c[9769,9849]	118.3	34  	(cga)
+gtcactatacccaagtggttacgggggttgactcgaaatcaactgcgatctcgcgcgcaggttcgaatcctgctggtgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>Lsey_0035 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=126693 | SO=contig
+0 genes found
+>Lsey_0036 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=123661 | SO=contig
+0 genes found
+>Lsey_0037 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=123110 | SO=contig
+0 genes found
+>Lsey_0038 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=122924 | SO=contig
+0 genes found
+>Lsey_0039 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=122082 | SO=contig
+1 genes found
+1   tRNA-Ile               [115259,115333]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>Lsey_0040 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=120710 | SO=contig
+0 genes found
+>Lsey_0041 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=119529 | SO=contig
+0 genes found
+>Lsey_0042 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=117137 | SO=contig
+0 genes found
+>Lsey_0043 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=114856 | SO=contig
+2 genes found
+1   tRNA-Pro                   [6923,6994]	124.4	33  	(cgg)
+ggccgcttggtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Ala                 [20734,20806]	118.6	33  	(cgc)
+gggcgtatagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctattcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+>Lsey_0044 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=114406 | SO=contig
+0 genes found
+>Lsey_0045 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=111467 | SO=contig
+0 genes found
+>Lsey_0046 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=109964 | SO=contig
+0 genes found
+>Lsey_0047 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=108975 | SO=contig
+0 genes found
+>Lsey_0048 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=107735 | SO=contig
+0 genes found
+>Lsey_0049 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=107668 | SO=contig
+0 genes found
+>Lsey_0050 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=106123 | SO=contig
+1 genes found
+1   tRNA-Gln                c[11307,11380]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtga
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+>Lsey_0051 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=104669 | SO=contig
+2 genes found
+1   tRNA-Met                 [19192,19263]	115.4	33  	(cat)
+agcaccgtagcgcaggggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Leu                 [19326,19409]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+>Lsey_0052 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=102572 | SO=contig
+0 genes found
+>Lsey_0053 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=102387 | SO=contig
+10 genes found
+1   tRNA-Ile                 [12901,12974]	118.1	35  	(tat)
+gctcctgtggtctagtcggttaggacgctggtcttatgaaccggatatcgcgggttcgagccccgccaggagca
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Val                c[13001,13074]	111.3	34  	(tac)
+gcgtgggtgatctagtggttatgatgtctgctttacacgcagaacgtcgcgggttcgaaccccgccccgcgtac
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Gln                c[13133,13205]	121.8	34  	(ttg)
+gctcctatagtgtagtggttatcactttggactttgaatccggaaacccaggttcgaatcctggtaggagcac
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+4   tRNA-Arg                c[13280,13351]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Leu                c[13566,13649]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+6   tRNA-Thr                c[13716,13787]	120.1	33  	(tgt)
+ggccgcttagcacagtggcagtgcactggtcttgtaaaccaggggtcccgagttcaattctcggagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+7   tRNA-Arg                 [13861,13934]	121.1	34  	(tcg)
+tggcctcttggcgcaatggaagcgcatcagacttcggatctgagggttgcaggttcgagtcctgcaggggtcga
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+8   tRNA-Trp                 [14246,14317]	116.8	33  	(cca)
+gggggcttagctcagtggtagagcattggattccaaatccaggggtcgcaggttcaatccctgcagtcctca
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+9   tRNA-Lys                c[14354,14427]	121.6	34  	(ttt)
+gcattcctagctcagttggtagagcgcgtggcttttaacctcgtggtcgtgggttcgagccccacggaatgcgc
+(((((((  ((((dddddddd))))(((.((  AAA  )).)))    (((((ttttttt))))))))))))
+10  tRNA-Gly                 [14511,14584]	116.4	34  	(tcc)
+gcaattgtggtccaacggttaagatccccgccttccaagcgggtgacccgggttcgactcccggcaattgcacc
+(((((((  (((dddddddddd))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>Lsey_0054 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=102154 | SO=contig
+0 genes found
+>Lsey_0055 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=101575 | SO=contig
+1 genes found
+1   tRNA-Cys                 [23889,23961]	122.6	33  	(gca)
+ggattcatagctcagtggtagagcattcggctgcagtccgaatggtccccggttcaaacccgggtgggtcctc
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>Lsey_0056 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=100877 | SO=contig
+0 genes found
+>Lsey_0057 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=100753 | SO=contig
+0 genes found
+>Lsey_0058 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=100062 | SO=contig
+0 genes found
+>Lsey_0059 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=99195 | SO=contig
+1 genes found
+1   tRNA-Gly                 [20415,20540]	101.7	37  	(gcc)i(38,30)
+ggtgctcttcgattacgattcgcagatcgtgcctctgggcgataccaccgccttccgcattgatgatccagaggagggtgatgaggatgactttggcaagtatctgtgcgaagtggatgtgcgccc
+(((((.(   ((((dddddddddd)))) (.(((  AiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiAA  ))).) (.(.(vvvvvvv).).)       (((((ttttttt)))))).)))))
+>Lsey_0060 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=98836 | SO=contig
+0 genes found
+>Lsey_0061 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=96117 | SO=contig
+0 genes found
+>Lsey_0062 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=95023 | SO=contig
+0 genes found
+>Lsey_0063 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=94742 | SO=contig
+0 genes found
+>Lsey_0064 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=94487 | SO=contig
+0 genes found
+>Lsey_0065 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=92607 | SO=contig
+0 genes found
+>Lsey_0066 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=92568 | SO=contig
+0 genes found
+>Lsey_0067 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=92095 | SO=contig
+0 genes found
+>Lsey_0068 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=91161 | SO=contig
+0 genes found
+>Lsey_0069 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=90465 | SO=contig
+1 genes found
+1   tRNA-Arg                 [78736,78807]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>Lsey_0070 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=90017 | SO=contig
+0 genes found
+>Lsey_0071 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=89261 | SO=contig
+0 genes found
+>Lsey_0072 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=88710 | SO=contig
+0 genes found
+>Lsey_0073 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=88685 | SO=contig
+4 genes found
+1   tRNA-Glu                c[84774,84848]	118.5	35  	(ctc)
+ttccggtgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcaccggaagc
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+2   tRNA-Ala                c[84910,84982]	119.3	33  	(tgc)
+gggcgtatagctcagtggtagagcgcctgttttgcatacaggaggactagggttcaatcccctatacgtccac
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Arg                 [85168,85241]	125.8	34  	(tct)
+gctccagtggcctaatggataaggctttggacttctaatccaaagattgcgggttcgagtcccgcctggagtac
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+4   tRNA-Arg                 [85305,85380]	118.5	35  	(cct)
+tgctcttgtagcctaatggatatggcgtttgcttcctaagcaaaaggttgcgggttcgagtcccgccaggagtagc
+((((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+>Lsey_0074 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=88386 | SO=contig
+0 genes found
+>Lsey_0075 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=87905 | SO=contig
+0 genes found
+>Lsey_0076 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=87667 | SO=contig
+0 genes found
+>Lsey_0077 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=87034 | SO=contig
+1 genes found
+1   tRNA-Met                 [19227,19299]	113.6	34  	(cat)
+gcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+>Lsey_0078 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=86957 | SO=contig
+0 genes found
+>Lsey_0079 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=86438 | SO=contig
+1 genes found
+1   tRNA-SeC                 [63747,63834]	108.3	36  	(tca)
+gccgcgatgagctcagctggtgctgggtgcgggcttcaaacccgtaggtgagttgcactcacagccgttcgattcggccttcgtggcg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+>Lsey_0080 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=85433 | SO=contig
+0 genes found
+>Lsey_0081 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=85364 | SO=contig
+0 genes found
+>Lsey_0082 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=85154 | SO=contig
+0 genes found
+>Lsey_0083 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=84869 | SO=contig
+0 genes found
+>Lsey_0084 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=84691 | SO=contig
+0 genes found
+>Lsey_0085 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=84609 | SO=contig
+0 genes found
+>Lsey_0086 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=83842 | SO=contig
+0 genes found
+>Lsey_0087 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=83112 | SO=contig
+0 genes found
+>Lsey_0088 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=82183 | SO=contig
+0 genes found
+>Lsey_0089 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=81354 | SO=contig
+0 genes found
+>Lsey_0090 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=80860 | SO=contig
+0 genes found
+>Lsey_0091 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=80794 | SO=contig
+0 genes found
+>Lsey_0092 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=80702 | SO=contig
+0 genes found
+>Lsey_0093 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=80632 | SO=contig
+0 genes found
+>Lsey_0094 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=80010 | SO=contig
+0 genes found
+>Lsey_0095 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=79990 | SO=contig
+0 genes found
+>Lsey_0096 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=79466 | SO=contig
+0 genes found
+>Lsey_0097 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=79098 | SO=contig
+0 genes found
+>Lsey_0098 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=79062 | SO=contig
+0 genes found
+>Lsey_0099 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=78648 | SO=contig
+2 genes found
+1   tRNA-Met                c[66020,66094]	113.2	35  	(cat)
+tgcgagtgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccagtcgcat
+(((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).)))))
+2   tRNA-Arg                 [66178,66249]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>Lsey_0100 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=78483 | SO=contig
+0 genes found
+>Lsey_0101 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=78207 | SO=contig
+0 genes found
+>Lsey_0102 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=78136 | SO=contig
+0 genes found
+>Lsey_0103 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=78031 | SO=contig
+0 genes found
+>Lsey_0104 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=76956 | SO=contig
+4 genes found
+1   tRNA-Pro                c[39875,39946]	122.1	33  	(tgg)
+ggtcgtttggtctagtggtatgattcctgttttgggtacaggaggtcacgggttcaattcccgtaacgaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Met                 [40019,40090]	115.4	33  	(cat)
+agcaccgtagcgcaggggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Leu                 [40152,40234]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+4   tRNA-Cys                c[40270,40342]	122.6	33  	(gca)
+ggattcatagctcagtggtagagcattcggctgcagtccgaatggtccccggttcaaacccgggtgggtcctc
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>Lsey_0105 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=76672 | SO=contig
+0 genes found
+>Lsey_0106 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=76555 | SO=contig
+5 genes found
+1   tRNA-Pro                c[35701,35772]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Gly                 [35847,35917]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Thr                 [35979,36050]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcacgggttcgatccccgtagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Thr                c[36161,36232]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcacgggttcgatccccgtagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Gly                c[36294,36364]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+>Lsey_0107 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=76486 | SO=contig
+0 genes found
+>Lsey_0108 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=76470 | SO=contig
+0 genes found
+>Lsey_0109 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=75963 | SO=contig
+3 genes found
+1   tRNA-Asn                 [20543,20616]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+2   tRNA-Gly                 [20673,20743]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Lys                c[20781,20854]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>Lsey_0110 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=75659 | SO=contig
+0 genes found
+>Lsey_0111 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=74594 | SO=contig
+0 genes found
+>Lsey_0112 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=74470 | SO=contig
+0 genes found
+>Lsey_0113 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=74176 | SO=contig
+0 genes found
+>Lsey_0114 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=74141 | SO=contig
+0 genes found
+>Lsey_0115 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=73858 | SO=contig
+0 genes found
+>Lsey_0116 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=73571 | SO=contig
+0 genes found
+>Lsey_0117 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=73457 | SO=contig
+0 genes found
+>Lsey_0118 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=73226 | SO=contig
+0 genes found
+>Lsey_0119 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=72373 | SO=contig
+0 genes found
+>Lsey_0120 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=72023 | SO=contig
+0 genes found
+>Lsey_0121 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=70648 | SO=contig
+0 genes found
+>Lsey_0122 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=69754 | SO=contig
+0 genes found
+>Lsey_0123 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=69459 | SO=contig
+0 genes found
+>Lsey_0124 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=68916 | SO=contig
+0 genes found
+>Lsey_0125 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=68881 | SO=contig
+0 genes found
+>Lsey_0126 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=68747 | SO=contig
+0 genes found
+>Lsey_0127 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=68677 | SO=contig
+0 genes found
+>Lsey_0128 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=68643 | SO=contig
+0 genes found
+>Lsey_0129 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=68581 | SO=contig
+0 genes found
+>Lsey_0130 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=68423 | SO=contig
+5 genes found
+1   tRNA-Val                c[11033,11107]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Tyr                 [11182,11266]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagaattagcaggcatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+3   tRNA-Ile                 [11331,11405]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Met                 [11482,11554]	113.2	34  	(cat)
+gcgagtgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccagtcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+5   tRNA-Leu                c[11594,11673]	119.8	35  	(tag)
+ggcggagtggccgagtggtctaaggcgccagatttaggctctggtctttcgaggcgtgggttcgaaccccacctccgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))          (((((ttttttt))))))))))))
+>Lsey_0131 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=67799 | SO=contig
+0 genes found
+>Lsey_0132 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=67764 | SO=contig
+0 genes found
+>Lsey_0133 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=67610 | SO=contig
+1 genes found
+1   tRNA-Val                 [42876,43042]	102.2	30  	(gac)i(34,76)
+aaggagctggtgggggcgtggctgccgctgacaagcgaacactcatcgatgaggatacatccagagagcgcaacacggtcgatgttgaggcgagaaggcactcaaagacgcggcatagcgttgcgacgatttcgcggcgacagcgggcctccgccgctgcccctgcc
+.(((.((  ((.(ddddd).))(((((  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii )))))         (.((vvvvvv)).)   (((((ttttttt))))))).))).
+>Lsey_0134 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=66818 | SO=contig
+0 genes found
+>Lsey_0135 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=66613 | SO=contig
+0 genes found
+>Lsey_0136 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=66028 | SO=contig
+0 genes found
+>Lsey_0137 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=66007 | SO=contig
+0 genes found
+>Lsey_0138 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=65926 | SO=contig
+0 genes found
+>Lsey_0139 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=65636 | SO=contig
+0 genes found
+>Lsey_0140 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=65539 | SO=contig
+0 genes found
+>Lsey_0141 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=65389 | SO=contig
+0 genes found
+>Lsey_0142 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=64603 | SO=contig
+0 genes found
+>Lsey_0143 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=64601 | SO=contig
+0 genes found
+>Lsey_0144 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=64146 | SO=contig
+0 genes found
+>Lsey_0145 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=64143 | SO=contig
+0 genes found
+>Lsey_0146 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=64065 | SO=contig
+0 genes found
+>Lsey_0147 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=63955 | SO=contig
+0 genes found
+>Lsey_0148 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=63927 | SO=contig
+0 genes found
+>Lsey_0149 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=63883 | SO=contig
+0 genes found
+>Lsey_0150 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=63559 | SO=contig
+0 genes found
+>Lsey_0151 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=63063 | SO=contig
+0 genes found
+>Lsey_0152 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=63015 | SO=contig
+0 genes found
+>Lsey_0153 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=62357 | SO=contig
+0 genes found
+>Lsey_0154 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=62111 | SO=contig
+0 genes found
+>Lsey_0155 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=61119 | SO=contig
+0 genes found
+>Lsey_0156 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=60143 | SO=contig
+0 genes found
+>Lsey_0157 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=60125 | SO=contig
+0 genes found
+>Lsey_0158 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=59657 | SO=contig
+0 genes found
+>Lsey_0159 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=59494 | SO=contig
+0 genes found
+>Lsey_0160 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=59120 | SO=contig
+0 genes found
+>Lsey_0161 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=59107 | SO=contig
+0 genes found
+>Lsey_0162 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=58176 | SO=contig
+0 genes found
+>Lsey_0163 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=57481 | SO=contig
+1 genes found
+1   tRNA-Pro                c[39127,39296]	101.4	35  	(cgg)i(36,91)
+cgctggcgacagccggcgggaacggcagcggcctcactgccggtgtgtcttcgcaggtagttcgccctctcgtccgcggggcagcagtgacgctgcatcattcggctgcagagacggcgcactgccgggggccgcagccttctaccggttcatcgcccgtcgtcagcgac
+((((((((   ((((ddddddd)))) (((((  AiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiAA  )))))        ((.((ttttttt)).))))))))))
+>Lsey_0164 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=57106 | SO=contig
+0 genes found
+>Lsey_0165 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=56559 | SO=contig
+0 genes found
+>Lsey_0166 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=56527 | SO=contig
+0 genes found
+>Lsey_0167 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=56423 | SO=contig
+0 genes found
+>Lsey_0168 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=56313 | SO=contig
+2 genes found
+1   tRNA-Glu                 [15334,15405]	118.5	34  	(ctc)
+tccggtgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcaccggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+2   tRNA-Gly                c[15451,15521]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+>Lsey_0169 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=56053 | SO=contig
+1 genes found
+1   tRNA-Arg                 [43100,43171]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>Lsey_0170 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=55711 | SO=contig
+0 genes found
+>Lsey_0171 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=55535 | SO=contig
+0 genes found
+>Lsey_0172 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=55364 | SO=contig
+0 genes found
+>Lsey_0173 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=55338 | SO=contig
+0 genes found
+>Lsey_0174 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=55130 | SO=contig
+0 genes found
+>Lsey_0175 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=55081 | SO=contig
+0 genes found
+>Lsey_0176 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=55057 | SO=contig
+0 genes found
+>Lsey_0177 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=54617 | SO=contig
+0 genes found
+>Lsey_0178 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=54584 | SO=contig
+0 genes found
+>Lsey_0179 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=54558 | SO=contig
+0 genes found
+>Lsey_0180 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=54193 | SO=contig
+0 genes found
+>Lsey_0181 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=54087 | SO=contig
+0 genes found
+>Lsey_0182 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=54069 | SO=contig
+0 genes found
+>Lsey_0183 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=53664 | SO=contig
+0 genes found
+>Lsey_0184 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=53506 | SO=contig
+0 genes found
+>Lsey_0185 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=53338 | SO=contig
+0 genes found
+>Lsey_0186 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=52645 | SO=contig
+0 genes found
+>Lsey_0187 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=52549 | SO=contig
+0 genes found
+>Lsey_0188 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=51459 | SO=contig
+0 genes found
+>Lsey_0189 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=51311 | SO=contig
+0 genes found
+>Lsey_0190 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=51170 | SO=contig
+0 genes found
+>Lsey_0191 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=50952 | SO=contig
+0 genes found
+>Lsey_0192 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=50890 | SO=contig
+0 genes found
+>Lsey_0193 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=50862 | SO=contig
+0 genes found
+>Lsey_0194 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=50803 | SO=contig
+0 genes found
+>Lsey_0195 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=50789 | SO=contig
+0 genes found
+>Lsey_0196 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=50638 | SO=contig
+0 genes found
+>Lsey_0197 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=50476 | SO=contig
+0 genes found
+>Lsey_0198 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=50391 | SO=contig
+0 genes found
+>Lsey_0199 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=50367 | SO=contig
+0 genes found
+>Lsey_0200 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=50364 | SO=contig
+0 genes found
+>Lsey_0201 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=49760 | SO=contig
+0 genes found
+>Lsey_0202 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=49743 | SO=contig
+1 genes found
+1   tRNA-Ala                c[13023,13095]	108.3	34  	(agc)
+ggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctcca
+(((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+>Lsey_0203 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=49592 | SO=contig
+0 genes found
+>Lsey_0204 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=49522 | SO=contig
+0 genes found
+>Lsey_0205 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=49263 | SO=contig
+0 genes found
+>Lsey_0206 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=48879 | SO=contig
+0 genes found
+>Lsey_0207 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=48677 | SO=contig
+0 genes found
+>Lsey_0208 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=48303 | SO=contig
+0 genes found
+>Lsey_0209 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=47889 | SO=contig
+0 genes found
+>Lsey_0210 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=47292 | SO=contig
+2 genes found
+1   tRNA-Ser                 [18679,18761]	119.6	35  	(aga)
+tgtcaccatacccaagtggttacggggactgactagaaatcagttgcgatctcgcgcgcaggttcgaatcctgctggtgacga
+((((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+2   tRNA-Phe                c[18801,18873]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>Lsey_0211 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=46891 | SO=contig
+0 genes found
+>Lsey_0212 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=46722 | SO=contig
+0 genes found
+>Lsey_0213 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=46711 | SO=contig
+0 genes found
+>Lsey_0214 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=46414 | SO=contig
+0 genes found
+>Lsey_0215 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=45876 | SO=contig
+0 genes found
+>Lsey_0216 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=45810 | SO=contig
+0 genes found
+>Lsey_0217 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=45726 | SO=contig
+0 genes found
+>Lsey_0218 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=45575 | SO=contig
+0 genes found
+>Lsey_0219 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=45574 | SO=contig
+0 genes found
+>Lsey_0220 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=45083 | SO=contig
+0 genes found
+>Lsey_0221 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=45055 | SO=contig
+0 genes found
+>Lsey_0222 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=44483 | SO=contig
+0 genes found
+>Lsey_0223 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=44406 | SO=contig
+0 genes found
+>Lsey_0224 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=44395 | SO=contig
+0 genes found
+>Lsey_0225 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=44177 | SO=contig
+0 genes found
+>Lsey_0226 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=43866 | SO=contig
+0 genes found
+>Lsey_0227 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=43789 | SO=contig
+0 genes found
+>Lsey_0228 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=43444 | SO=contig
+0 genes found
+>Lsey_0229 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=42965 | SO=contig
+0 genes found
+>Lsey_0230 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=42748 | SO=contig
+0 genes found
+>Lsey_0231 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=42738 | SO=contig
+0 genes found
+>Lsey_0232 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=42144 | SO=contig
+0 genes found
+>Lsey_0233 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=42110 | SO=contig
+0 genes found
+>Lsey_0234 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=41575 | SO=contig
+0 genes found
+>Lsey_0235 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=41487 | SO=contig
+0 genes found
+>Lsey_0236 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=41323 | SO=contig
+0 genes found
+>Lsey_0237 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=41309 | SO=contig
+0 genes found
+>Lsey_0238 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=41009 | SO=contig
+0 genes found
+>Lsey_0239 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=40741 | SO=contig
+0 genes found
+>Lsey_0240 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=40721 | SO=contig
+0 genes found
+>Lsey_0241 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=40642 | SO=contig
+0 genes found
+>Lsey_0242 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=40639 | SO=contig
+0 genes found
+>Lsey_0243 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=40421 | SO=contig
+0 genes found
+>Lsey_0244 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=40101 | SO=contig
+0 genes found
+>Lsey_0245 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=39714 | SO=contig
+0 genes found
+>Lsey_0246 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=39641 | SO=contig
+0 genes found
+>Lsey_0247 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=39383 | SO=contig
+0 genes found
+>Lsey_0248 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=39358 | SO=contig
+0 genes found
+>Lsey_0249 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=39256 | SO=contig
+0 genes found
+>Lsey_0250 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=39039 | SO=contig
+0 genes found
+>Lsey_0251 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=38990 | SO=contig
+0 genes found
+>Lsey_0252 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=38739 | SO=contig
+0 genes found
+>Lsey_0253 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=38295 | SO=contig
+0 genes found
+>Lsey_0254 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=38217 | SO=contig
+0 genes found
+>Lsey_0255 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=37599 | SO=contig
+0 genes found
+>Lsey_0256 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=37478 | SO=contig
+0 genes found
+>Lsey_0257 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=37198 | SO=contig
+0 genes found
+>Lsey_0258 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=36909 | SO=contig
+0 genes found
+>Lsey_0259 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=36786 | SO=contig
+0 genes found
+>Lsey_0260 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=36766 | SO=contig
+0 genes found
+>Lsey_0261 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=36722 | SO=contig
+0 genes found
+>Lsey_0262 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=36698 | SO=contig
+0 genes found
+>Lsey_0263 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=36687 | SO=contig
+0 genes found
+>Lsey_0264 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=36490 | SO=contig
+0 genes found
+>Lsey_0265 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=36383 | SO=contig
+0 genes found
+>Lsey_0266 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=36335 | SO=contig
+0 genes found
+>Lsey_0267 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=36171 | SO=contig
+0 genes found
+>Lsey_0268 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=36069 | SO=contig
+0 genes found
+>Lsey_0269 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=35969 | SO=contig
+0 genes found
+>Lsey_0270 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=35895 | SO=contig
+0 genes found
+>Lsey_0271 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=35326 | SO=contig
+0 genes found
+>Lsey_0272 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=35190 | SO=contig
+0 genes found
+>Lsey_0273 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=35014 | SO=contig
+0 genes found
+>Lsey_0274 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=34979 | SO=contig
+0 genes found
+>Lsey_0275 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=34903 | SO=contig
+0 genes found
+>Lsey_0276 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=34891 | SO=contig
+0 genes found
+>Lsey_0277 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=34520 | SO=contig
+0 genes found
+>Lsey_0278 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=34215 | SO=contig
+0 genes found
+>Lsey_0279 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=34155 | SO=contig
+0 genes found
+>Lsey_0280 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=34030 | SO=contig
+0 genes found
+>Lsey_0281 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=33477 | SO=contig
+0 genes found
+>Lsey_0282 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=33383 | SO=contig
+0 genes found
+>Lsey_0283 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=33261 | SO=contig
+0 genes found
+>Lsey_0284 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=33144 | SO=contig
+0 genes found
+>Lsey_0285 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=33053 | SO=contig
+0 genes found
+>Lsey_0286 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=33019 | SO=contig
+0 genes found
+>Lsey_0287 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=32924 | SO=contig
+0 genes found
+>Lsey_0288 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=32924 | SO=contig
+1 genes found
+1   tRNA-Leu                 [21884,21967]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+>Lsey_0289 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=32910 | SO=contig
+0 genes found
+>Lsey_0290 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=31814 | SO=contig
+0 genes found
+>Lsey_0291 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=31813 | SO=contig
+0 genes found
+>Lsey_0292 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=31761 | SO=contig
+0 genes found
+>Lsey_0293 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=31316 | SO=contig
+1 genes found
+1   tRNA-Cys                 [24546,24656]	102.0	33  	(gca)i(37,18)
+ggtccgctcgagagggttggcacggagccgctgcagaccgggcaggatagccacacggctgacggagccactacggccatcgccccgccggtgccactcacgcgcggaccg
+(((((((  (.(.dddddd.).)  (((((  AAA iiiiiiiiiiiiiiiiii )))))  ((.(vvvvv).))           ((..(ttttttt)..)))))))))
+>Lsey_0294 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=31256 | SO=contig
+0 genes found
+>Lsey_0295 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=31224 | SO=contig
+0 genes found
+>Lsey_0296 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=31146 | SO=contig
+0 genes found
+>Lsey_0297 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=31066 | SO=contig
+0 genes found
+>Lsey_0298 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=31048 | SO=contig
+4 genes found
+1   tRNA-Glu                  c[6425,6498]	118.0	35  	(ttc)
+ttccgatgtagtataacggttagaacacctggctttcacccaggagatccgggttcgattcccggtatcggagt
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+2   tRNA-Phe                   [6571,6643]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-His                  c[6789,6860]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+4   tRNA-Val                  c[6921,6994]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>Lsey_0299 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=31012 | SO=contig
+0 genes found
+>Lsey_0300 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=30555 | SO=contig
+0 genes found
+>Lsey_0301 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=30504 | SO=contig
+0 genes found
+>Lsey_0302 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=30472 | SO=contig
+0 genes found
+>Lsey_0303 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=30437 | SO=contig
+0 genes found
+>Lsey_0304 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=30067 | SO=contig
+0 genes found
+>Lsey_0305 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=29871 | SO=contig
+3 genes found
+1   tRNA-Asp                  c[6002,6074]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Ser                   [6150,6231]	121.3	34  	(gct)
+gcaaatatggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttctgtttgcgc
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Ala                   [6288,6363]	108.3	35  	(agc)
+tggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctccagc
+((((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+>Lsey_0306 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=29865 | SO=contig
+0 genes found
+>Lsey_0307 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=29703 | SO=contig
+0 genes found
+>Lsey_0308 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=29611 | SO=contig
+0 genes found
+>Lsey_0309 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=29607 | SO=contig
+0 genes found
+>Lsey_0310 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=29407 | SO=contig
+0 genes found
+>Lsey_0311 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=29345 | SO=contig
+0 genes found
+>Lsey_0312 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=28941 | SO=contig
+0 genes found
+>Lsey_0313 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=28887 | SO=contig
+0 genes found
+>Lsey_0314 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=28750 | SO=contig
+0 genes found
+>Lsey_0315 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=28702 | SO=contig
+1 genes found
+1   tRNA-Arg                c[16033,16106]	120.3	34  	(acg)
+tgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatga
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+>Lsey_0316 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=28646 | SO=contig
+0 genes found
+>Lsey_0317 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=28540 | SO=contig
+0 genes found
+>Lsey_0318 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=28229 | SO=contig
+0 genes found
+>Lsey_0319 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=28167 | SO=contig
+0 genes found
+>Lsey_0320 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=27860 | SO=contig
+0 genes found
+>Lsey_0321 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=27763 | SO=contig
+0 genes found
+>Lsey_0322 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=27526 | SO=contig
+0 genes found
+>Lsey_0323 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=27470 | SO=contig
+0 genes found
+>Lsey_0324 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=27415 | SO=contig
+0 genes found
+>Lsey_0325 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=27128 | SO=contig
+0 genes found
+>Lsey_0326 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=26673 | SO=contig
+0 genes found
+>Lsey_0327 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=26534 | SO=contig
+1 genes found
+1   tRNA-Trp                   [2194,2265]	116.8	33  	(cca)
+gggggcttagctcagtggtagagcattggattccaaatccaggggtcgcaggttcaatccctgcagtcctca
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>Lsey_0328 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=26528 | SO=contig
+0 genes found
+>Lsey_0329 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=25976 | SO=contig
+0 genes found
+>Lsey_0330 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=25945 | SO=contig
+0 genes found
+>Lsey_0331 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=25860 | SO=contig
+0 genes found
+>Lsey_0332 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=25804 | SO=contig
+0 genes found
+>Lsey_0333 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=25608 | SO=contig
+0 genes found
+>Lsey_0334 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=25591 | SO=contig
+0 genes found
+>Lsey_0335 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=25388 | SO=contig
+0 genes found
+>Lsey_0336 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=25296 | SO=contig
+0 genes found
+>Lsey_0337 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=25028 | SO=contig
+0 genes found
+>Lsey_0338 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=24908 | SO=contig
+0 genes found
+>Lsey_0339 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=24668 | SO=contig
+0 genes found
+>Lsey_0340 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=24578 | SO=contig
+4 genes found
+1   tRNA-Glu                  c[8368,8441]	118.0	35  	(ttc)
+ttccgatgtagtataacggttagaacacctggctttcacccaggagatccgggttcgattcccggtatcggagt
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+2   tRNA-Val                  c[8514,8587]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Arg                   [8660,8732]	118.6	33  	(ccg)
+gacgttgtggcgcaatggaagcgcgtcggattccggatccgaaggttgtgggttcgacccccatcagcgttgc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-His                   [8791,8862]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>Lsey_0341 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=24483 | SO=contig
+0 genes found
+>Lsey_0342 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=24325 | SO=contig
+0 genes found
+>Lsey_0343 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=23971 | SO=contig
+0 genes found
+>Lsey_0344 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=23897 | SO=contig
+0 genes found
+>Lsey_0345 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=23723 | SO=contig
+0 genes found
+>Lsey_0346 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=23611 | SO=contig
+0 genes found
+>Lsey_0347 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=23590 | SO=contig
+0 genes found
+>Lsey_0348 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=23382 | SO=contig
+0 genes found
+>Lsey_0349 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=23244 | SO=contig
+0 genes found
+>Lsey_0350 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=23176 | SO=contig
+0 genes found
+>Lsey_0351 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=23032 | SO=contig
+1 genes found
+1   tRNA-Cys                c[19259,19337]	101.5	33  	(gca)i(37,3)
+atgaggcctgggaaaggcattccggcccgcctgcagaagagtgggcaggcacatggaggctccgtttctctgcttcatc
+(((((((   ((((ddddd))))  (((((  AAA iii )))))         (((((ttttttt))))))))))))
+>Lsey_0352 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=22817 | SO=contig
+0 genes found
+>Lsey_0353 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=22451 | SO=contig
+0 genes found
+>Lsey_0354 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=22435 | SO=contig
+1 genes found
+1   tRNA-Lys                  c[8432,8505]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>Lsey_0355 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=22212 | SO=contig
+0 genes found
+>Lsey_0356 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=22079 | SO=contig
+0 genes found
+>Lsey_0357 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=21969 | SO=contig
+0 genes found
+>Lsey_0358 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=21910 | SO=contig
+0 genes found
+>Lsey_0359 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=21876 | SO=contig
+0 genes found
+>Lsey_0360 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=21868 | SO=contig
+1 genes found
+1   tRNA-Pro                c[13937,14009]	124.4	33  	(cgg)
+ggccgcttggtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggcccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>Lsey_0361 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=21768 | SO=contig
+0 genes found
+>Lsey_0362 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=21765 | SO=contig
+0 genes found
+>Lsey_0363 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=21758 | SO=contig
+0 genes found
+>Lsey_0364 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=21589 | SO=contig
+0 genes found
+>Lsey_0365 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=21296 | SO=contig
+0 genes found
+>Lsey_0366 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=21165 | SO=contig
+0 genes found
+>Lsey_0367 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=21011 | SO=contig
+0 genes found
+>Lsey_0368 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=20838 | SO=contig
+0 genes found
+>Lsey_0369 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=20655 | SO=contig
+0 genes found
+>Lsey_0370 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=20469 | SO=contig
+0 genes found
+>Lsey_0371 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=20396 | SO=contig
+0 genes found
+>Lsey_0372 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=20271 | SO=contig
+0 genes found
+>Lsey_0373 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=20250 | SO=contig
+0 genes found
+>Lsey_0374 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=20015 | SO=contig
+0 genes found
+>Lsey_0375 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=19895 | SO=contig
+0 genes found
+>Lsey_0376 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=19749 | SO=contig
+1 genes found
+1   tRNA-Val                    c[538,611]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>Lsey_0377 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=19654 | SO=contig
+0 genes found
+>Lsey_0378 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=19486 | SO=contig
+0 genes found
+>Lsey_0379 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=19404 | SO=contig
+0 genes found
+>Lsey_0380 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=19395 | SO=contig
+0 genes found
+>Lsey_0381 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=18964 | SO=contig
+0 genes found
+>Lsey_0382 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=18913 | SO=contig
+0 genes found
+>Lsey_0383 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=18910 | SO=contig
+0 genes found
+>Lsey_0384 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=18727 | SO=contig
+0 genes found
+>Lsey_0385 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=18727 | SO=contig
+1 genes found
+1   tRNA-Leu                   [7496,7578]	117.8	35  	(caa)
+ggcaggatggccgagtggtctaaggcgggagactcaagttctcttctattcgtaggcgcgggttcgaaccccgctcctgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>Lsey_0386 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=18687 | SO=contig
+0 genes found
+>Lsey_0387 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=18581 | SO=contig
+3 genes found
+1   tRNA-Pro                   [6938,7009]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Val                   [7076,7150]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Lys                   [7208,7281]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>Lsey_0388 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=18577 | SO=contig
+0 genes found
+>Lsey_0389 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=18517 | SO=contig
+0 genes found
+>Lsey_0390 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=18401 | SO=contig
+0 genes found
+>Lsey_0391 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=18358 | SO=contig
+0 genes found
+>Lsey_0392 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=18143 | SO=contig
+0 genes found
+>Lsey_0393 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=17910 | SO=contig
+0 genes found
+>Lsey_0394 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=17871 | SO=contig
+0 genes found
+>Lsey_0395 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=17870 | SO=contig
+0 genes found
+>Lsey_0396 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=17355 | SO=contig
+0 genes found
+>Lsey_0397 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=17355 | SO=contig
+0 genes found
+>Lsey_0398 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=17294 | SO=contig
+0 genes found
+>Lsey_0399 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=17130 | SO=contig
+0 genes found
+>Lsey_0400 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=17127 | SO=contig
+0 genes found
+>Lsey_0401 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=17084 | SO=contig
+0 genes found
+>Lsey_0402 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=16842 | SO=contig
+0 genes found
+>Lsey_0403 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=16766 | SO=contig
+4 genes found
+1   tRNA-Asp                   [2290,2362]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Arg                   [2424,2495]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Thr                   [2562,2633]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcacgggttcgatccccgtagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Tyr                   [2722,2806]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagttcgcagggatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+>Lsey_0404 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=16597 | SO=contig
+0 genes found
+>Lsey_0405 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=16573 | SO=contig
+0 genes found
+>Lsey_0406 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=16561 | SO=contig
+0 genes found
+>Lsey_0407 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=16428 | SO=contig
+0 genes found
+>Lsey_0408 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=16407 | SO=contig
+0 genes found
+>Lsey_0409 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=16298 | SO=contig
+0 genes found
+>Lsey_0410 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=16244 | SO=contig
+0 genes found
+>Lsey_0411 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=16140 | SO=contig
+0 genes found
+>Lsey_0412 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=16019 | SO=contig
+0 genes found
+>Lsey_0413 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=15943 | SO=contig
+0 genes found
+>Lsey_0414 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=15869 | SO=contig
+0 genes found
+>Lsey_0415 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=15744 | SO=contig
+0 genes found
+>Lsey_0416 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=15626 | SO=contig
+0 genes found
+>Lsey_0417 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=15439 | SO=contig
+0 genes found
+>Lsey_0418 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=15431 | SO=contig
+0 genes found
+>Lsey_0419 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=15375 | SO=contig
+0 genes found
+>Lsey_0420 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=15334 | SO=contig
+0 genes found
+>Lsey_0421 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=15262 | SO=contig
+0 genes found
+>Lsey_0422 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=15195 | SO=contig
+0 genes found
+>Lsey_0423 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=15179 | SO=contig
+0 genes found
+>Lsey_0424 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=15083 | SO=contig
+1 genes found
+1   tRNA-Asp                c[13562,13634]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+>Lsey_0425 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=14971 | SO=contig
+0 genes found
+>Lsey_0426 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=14920 | SO=contig
+0 genes found
+>Lsey_0427 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=14732 | SO=contig
+0 genes found
+>Lsey_0428 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=14544 | SO=contig
+0 genes found
+>Lsey_0429 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=14525 | SO=contig
+0 genes found
+>Lsey_0430 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=14511 | SO=contig
+0 genes found
+>Lsey_0431 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=14492 | SO=contig
+0 genes found
+>Lsey_0432 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=14484 | SO=contig
+0 genes found
+>Lsey_0433 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=14393 | SO=contig
+0 genes found
+>Lsey_0434 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=14380 | SO=contig
+0 genes found
+>Lsey_0435 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=14317 | SO=contig
+0 genes found
+>Lsey_0436 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=14283 | SO=contig
+0 genes found
+>Lsey_0437 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=14260 | SO=contig
+0 genes found
+>Lsey_0438 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=14256 | SO=contig
+0 genes found
+>Lsey_0439 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=14245 | SO=contig
+0 genes found
+>Lsey_0440 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=14097 | SO=contig
+0 genes found
+>Lsey_0441 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=14050 | SO=contig
+0 genes found
+>Lsey_0442 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=14034 | SO=contig
+0 genes found
+>Lsey_0443 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=14001 | SO=contig
+0 genes found
+>Lsey_0444 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=13974 | SO=contig
+0 genes found
+>Lsey_0445 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=13966 | SO=contig
+0 genes found
+>Lsey_0446 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=13866 | SO=contig
+0 genes found
+>Lsey_0447 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=13734 | SO=contig
+5 genes found
+1   tRNA-Asn                       c[5,78]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+2   tRNA-Tyr                    c[141,225]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagctagcaggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+3   tRNA-Thr                    c[285,356]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Pro                     [441,512]	124.4	33  	(cgg)
+ggccgcttggtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+5   tRNA-Asn                     [570,643]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>Lsey_0448 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=13618 | SO=contig
+0 genes found
+>Lsey_0449 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=13596 | SO=contig
+0 genes found
+>Lsey_0450 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=13497 | SO=contig
+0 genes found
+>Lsey_0451 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=13457 | SO=contig
+0 genes found
+>Lsey_0452 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=13363 | SO=contig
+0 genes found
+>Lsey_0453 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=13141 | SO=contig
+0 genes found
+>Lsey_0454 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=13120 | SO=contig
+0 genes found
+>Lsey_0455 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=13119 | SO=contig
+0 genes found
+>Lsey_0456 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=12834 | SO=contig
+0 genes found
+>Lsey_0457 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=12807 | SO=contig
+0 genes found
+>Lsey_0458 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=12757 | SO=contig
+0 genes found
+>Lsey_0459 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=12602 | SO=contig
+0 genes found
+>Lsey_0460 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=12495 | SO=contig
+0 genes found
+>Lsey_0461 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=12282 | SO=contig
+0 genes found
+>Lsey_0462 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=11979 | SO=contig
+0 genes found
+>Lsey_0463 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=11925 | SO=contig
+0 genes found
+>Lsey_0464 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=11828 | SO=contig
+0 genes found
+>Lsey_0465 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=11815 | SO=contig
+0 genes found
+>Lsey_0466 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=11715 | SO=contig
+0 genes found
+>Lsey_0467 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=11653 | SO=contig
+0 genes found
+>Lsey_0468 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=11634 | SO=contig
+0 genes found
+>Lsey_0469 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=11574 | SO=contig
+0 genes found
+>Lsey_0470 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=11425 | SO=contig
+0 genes found
+>Lsey_0471 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=11408 | SO=contig
+0 genes found
+>Lsey_0472 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=11399 | SO=contig
+0 genes found
+>Lsey_0473 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=11386 | SO=contig
+0 genes found
+>Lsey_0474 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=11252 | SO=contig
+0 genes found
+>Lsey_0475 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=10990 | SO=contig
+0 genes found
+>Lsey_0476 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=10964 | SO=contig
+0 genes found
+>Lsey_0477 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=10864 | SO=contig
+0 genes found
+>Lsey_0478 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=10841 | SO=contig
+0 genes found
+>Lsey_0479 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=10669 | SO=contig
+0 genes found
+>Lsey_0480 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=10611 | SO=contig
+0 genes found
+>Lsey_0481 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=10555 | SO=contig
+0 genes found
+>Lsey_0482 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=10469 | SO=contig
+0 genes found
+>Lsey_0483 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=10233 | SO=contig
+0 genes found
+>Lsey_0484 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=10111 | SO=contig
+1 genes found
+1   tRNA-Ser                   [2344,2443]	101.1	45  	(gga)i(31,12)
+gagggtggtggaggatggccgccgtggtgccaacgcctccagttggaacgcgctgagcggtgggaactcattgctgccgttgctctgcagcgcactctct
+(((((((   (.((ddddddd)).)(((((iiiiiiiiiiii  AAA  )))))                       (((((ttttt))))))))))))
+>Lsey_0485 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=10071 | SO=contig
+0 genes found
+>Lsey_0486 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=10014 | SO=contig
+0 genes found
+>Lsey_0487 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=9953 | SO=contig
+0 genes found
+>Lsey_0488 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=9935 | SO=contig
+0 genes found
+>Lsey_0489 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=9894 | SO=contig
+0 genes found
+>Lsey_0490 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=9882 | SO=contig
+0 genes found
+>Lsey_0491 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=9843 | SO=contig
+0 genes found
+>Lsey_0492 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=9742 | SO=contig
+0 genes found
+>Lsey_0493 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=9738 | SO=contig
+0 genes found
+>Lsey_0494 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=9680 | SO=contig
+0 genes found
+>Lsey_0495 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=9608 | SO=contig
+0 genes found
+>Lsey_0496 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=9571 | SO=contig
+0 genes found
+>Lsey_0497 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=9533 | SO=contig
+0 genes found
+>Lsey_0498 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=9519 | SO=contig
+0 genes found
+>Lsey_0499 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=9362 | SO=contig
+0 genes found
+>Lsey_0500 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=9295 | SO=contig
+0 genes found
+>Lsey_0501 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=9217 | SO=contig
+0 genes found
+>Lsey_0502 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=9125 | SO=contig
+0 genes found
+>Lsey_0503 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=9093 | SO=contig
+0 genes found
+>Lsey_0504 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=9082 | SO=contig
+0 genes found
+>Lsey_0505 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=9065 | SO=contig
+0 genes found
+>Lsey_0506 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=8998 | SO=contig
+0 genes found
+>Lsey_0507 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=8915 | SO=contig
+0 genes found
+>Lsey_0508 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=8902 | SO=contig
+0 genes found
+>Lsey_0509 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=8860 | SO=contig
+0 genes found
+>Lsey_0510 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=8756 | SO=contig
+0 genes found
+>Lsey_0511 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=8732 | SO=contig
+0 genes found
+>Lsey_0512 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=8729 | SO=contig
+0 genes found
+>Lsey_0513 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=8687 | SO=contig
+0 genes found
+>Lsey_0514 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=8662 | SO=contig
+0 genes found
+>Lsey_0515 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=8400 | SO=contig
+0 genes found
+>Lsey_0516 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=8386 | SO=contig
+0 genes found
+>Lsey_0517 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=8306 | SO=contig
+0 genes found
+>Lsey_0518 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=8299 | SO=contig
+0 genes found
+>Lsey_0519 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=8248 | SO=contig
+0 genes found
+>Lsey_0520 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=8223 | SO=contig
+0 genes found
+>Lsey_0521 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=8168 | SO=contig
+0 genes found
+>Lsey_0522 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=8022 | SO=contig
+0 genes found
+>Lsey_0523 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=7973 | SO=contig
+0 genes found
+>Lsey_0524 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=7623 | SO=contig
+0 genes found
+>Lsey_0525 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=7597 | SO=contig
+0 genes found
+>Lsey_0526 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=7570 | SO=contig
+0 genes found
+>Lsey_0527 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=7476 | SO=contig
+0 genes found
+>Lsey_0528 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=7461 | SO=contig
+0 genes found
+>Lsey_0529 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=7410 | SO=contig
+0 genes found
+>Lsey_0530 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=7387 | SO=contig
+0 genes found
+>Lsey_0531 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=7379 | SO=contig
+0 genes found
+>Lsey_0532 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=7364 | SO=contig
+0 genes found
+>Lsey_0533 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=7355 | SO=contig
+0 genes found
+>Lsey_0534 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=7223 | SO=contig
+0 genes found
+>Lsey_0535 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=7216 | SO=contig
+0 genes found
+>Lsey_0536 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=7080 | SO=contig
+0 genes found
+>Lsey_0537 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=7001 | SO=contig
+0 genes found
+>Lsey_0538 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=6992 | SO=contig
+0 genes found
+>Lsey_0539 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=6931 | SO=contig
+0 genes found
+>Lsey_0540 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=6858 | SO=contig
+0 genes found
+>Lsey_0541 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=6845 | SO=contig
+0 genes found
+>Lsey_0542 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=6683 | SO=contig
+0 genes found
+>Lsey_0543 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=6663 | SO=contig
+0 genes found
+>Lsey_0544 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=6640 | SO=contig
+0 genes found
+>Lsey_0545 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=6536 | SO=contig
+0 genes found
+>Lsey_0546 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=6519 | SO=contig
+0 genes found
+>Lsey_0547 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=6319 | SO=contig
+0 genes found
+>Lsey_0548 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=6302 | SO=contig
+0 genes found
+>Lsey_0549 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=6292 | SO=contig
+0 genes found
+>Lsey_0550 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=6288 | SO=contig
+0 genes found
+>Lsey_0551 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=6260 | SO=contig
+0 genes found
+>Lsey_0552 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=6253 | SO=contig
+0 genes found
+>Lsey_0553 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=6236 | SO=contig
+0 genes found
+>Lsey_0554 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=6217 | SO=contig
+0 genes found
+>Lsey_0555 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=6137 | SO=contig
+0 genes found
+>Lsey_0556 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=6133 | SO=contig
+2 genes found
+1   tRNA-Arg                     [130,281]	105.3	31  	(tct)i(32,64)
+ttttggggtagggcggagccctacatttttttttttgtgggcgcctggggatatatatatatatatatatatatattgtgtgtgtgtgtctgtagctgtagctgtgtgtgtgtcccctggtgcacacacggggtccaaaccccccccaaaag
+(((((((   (((ddddd)))  ((.((  AiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiAA  )).))       ((.(.vvvv.).))    ((((ttttttt)))))))))))
+2   tRNA-Thr                  c[3103,3255]	101.5	91  	(ggt)i(29,61)
+tcttgcttgcgcagggtgcggatggtggggggacacgtcttcgcccactcgaggtcctcctcggtgggtggctcgcggcacctttgctgtggtgccaccgtcggcggcgtgtccgcgacgtcgacctccccttccacgggggtggcagggtcc
+(((((((  ((((ddd))))  ((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))               ...vvvv... .((((ttttttt)))).)))))))
+>Lsey_0557 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=6114 | SO=contig
+0 genes found
+>Lsey_0558 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=6085 | SO=contig
+0 genes found
+>Lsey_0559 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=6040 | SO=contig
+0 genes found
+>Lsey_0560 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=6030 | SO=contig
+0 genes found
+>Lsey_0561 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=5977 | SO=contig
+0 genes found
+>Lsey_0562 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=5886 | SO=contig
+0 genes found
+>Lsey_0563 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=5884 | SO=contig
+0 genes found
+>Lsey_0564 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=5822 | SO=contig
+0 genes found
+>Lsey_0565 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=5630 | SO=contig
+0 genes found
+>Lsey_0566 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=5619 | SO=contig
+0 genes found
+>Lsey_0567 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=5574 | SO=contig
+0 genes found
+>Lsey_0568 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=5545 | SO=contig
+0 genes found
+>Lsey_0569 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=5523 | SO=contig
+0 genes found
+>Lsey_0570 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=5522 | SO=contig
+0 genes found
+>Lsey_0571 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=5444 | SO=contig
+0 genes found
+>Lsey_0572 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=5433 | SO=contig
+0 genes found
+>Lsey_0573 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=5373 | SO=contig
+0 genes found
+>Lsey_0574 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=5288 | SO=contig
+0 genes found
+>Lsey_0575 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=5254 | SO=contig
+0 genes found
+>Lsey_0576 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=5124 | SO=contig
+0 genes found
+>Lsey_0577 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=5085 | SO=contig
+0 genes found
+>Lsey_0578 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=5050 | SO=contig
+0 genes found
+>Lsey_0579 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=5012 | SO=contig
+0 genes found
+>Lsey_0580 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=4960 | SO=contig
+0 genes found
+>Lsey_0581 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=4951 | SO=contig
+0 genes found
+>Lsey_0582 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=4869 | SO=contig
+0 genes found
+>Lsey_0583 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=4789 | SO=contig
+0 genes found
+>Lsey_0584 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=4729 | SO=contig
+0 genes found
+>Lsey_0585 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=4729 | SO=contig
+0 genes found
+>Lsey_0586 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=4705 | SO=contig
+0 genes found
+>Lsey_0587 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=4655 | SO=contig
+0 genes found
+>Lsey_0588 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=4595 | SO=contig
+0 genes found
+>Lsey_0589 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=4595 | SO=contig
+0 genes found
+>Lsey_0590 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=4594 | SO=contig
+0 genes found
+>Lsey_0591 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=4528 | SO=contig
+0 genes found
+>Lsey_0592 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=4523 | SO=contig
+0 genes found
+>Lsey_0593 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=4519 | SO=contig
+0 genes found
+>Lsey_0594 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=4513 | SO=contig
+0 genes found
+>Lsey_0595 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=4394 | SO=contig
+0 genes found
+>Lsey_0596 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=4361 | SO=contig
+0 genes found
+>Lsey_0597 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=4360 | SO=contig
+0 genes found
+>Lsey_0598 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=4322 | SO=contig
+0 genes found
+>Lsey_0599 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=4304 | SO=contig
+0 genes found
+>Lsey_0600 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=4299 | SO=contig
+0 genes found
+>Lsey_0601 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=4278 | SO=contig
+0 genes found
+>Lsey_0602 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=4242 | SO=contig
+0 genes found
+>Lsey_0603 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=4227 | SO=contig
+0 genes found
+>Lsey_0604 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=4214 | SO=contig
+0 genes found
+>Lsey_0605 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=4186 | SO=contig
+0 genes found
+>Lsey_0606 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=4160 | SO=contig
+0 genes found
+>Lsey_0607 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=4128 | SO=contig
+0 genes found
+>Lsey_0608 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=4102 | SO=contig
+0 genes found
+>Lsey_0609 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=4058 | SO=contig
+0 genes found
+>Lsey_0610 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=4050 | SO=contig
+0 genes found
+>Lsey_0611 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=4044 | SO=contig
+0 genes found
+>Lsey_0612 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=4017 | SO=contig
+0 genes found
+>Lsey_0613 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3988 | SO=contig
+0 genes found
+>Lsey_0614 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3969 | SO=contig
+0 genes found
+>Lsey_0615 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3946 | SO=contig
+0 genes found
+>Lsey_0616 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3929 | SO=contig
+0 genes found
+>Lsey_0617 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3862 | SO=contig
+0 genes found
+>Lsey_0618 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3857 | SO=contig
+0 genes found
+>Lsey_0619 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3850 | SO=contig
+0 genes found
+>Lsey_0620 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3838 | SO=contig
+0 genes found
+>Lsey_0621 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3833 | SO=contig
+0 genes found
+>Lsey_0622 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3777 | SO=contig
+0 genes found
+>Lsey_0623 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3755 | SO=contig
+0 genes found
+>Lsey_0624 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3748 | SO=contig
+0 genes found
+>Lsey_0625 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3747 | SO=contig
+0 genes found
+>Lsey_0626 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3737 | SO=contig
+0 genes found
+>Lsey_0627 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3721 | SO=contig
+0 genes found
+>Lsey_0628 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3721 | SO=contig
+0 genes found
+>Lsey_0629 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3697 | SO=contig
+0 genes found
+>Lsey_0630 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3669 | SO=contig
+0 genes found
+>Lsey_0631 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3651 | SO=contig
+0 genes found
+>Lsey_0632 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3611 | SO=contig
+0 genes found
+>Lsey_0633 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3611 | SO=contig
+0 genes found
+>Lsey_0634 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3609 | SO=contig
+0 genes found
+>Lsey_0635 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3581 | SO=contig
+0 genes found
+>Lsey_0636 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3561 | SO=contig
+0 genes found
+>Lsey_0637 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3524 | SO=contig
+0 genes found
+>Lsey_0638 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3511 | SO=contig
+0 genes found
+>Lsey_0639 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3510 | SO=contig
+0 genes found
+>Lsey_0640 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3494 | SO=contig
+0 genes found
+>Lsey_0641 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3439 | SO=contig
+0 genes found
+>Lsey_0642 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3433 | SO=contig
+0 genes found
+>Lsey_0643 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3413 | SO=contig
+0 genes found
+>Lsey_0644 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3388 | SO=contig
+0 genes found
+>Lsey_0645 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3376 | SO=contig
+0 genes found
+>Lsey_0646 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3375 | SO=contig
+0 genes found
+>Lsey_0647 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3357 | SO=contig
+0 genes found
+>Lsey_0648 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3346 | SO=contig
+0 genes found
+>Lsey_0649 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3345 | SO=contig
+3 genes found
+1   tRNA-Gly                      [75,145]	122.0	33  	(ccc)
+gcgccgctggtctagtggcatgatggtaccctcccaaggtattgacccgggttcgattcccgggcggcgca
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Ala                  c[2865,2937]	118.6	33  	(cgc)
+gggcgtatagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctattcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+3   tRNA-Leu                   [3011,3093]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>Lsey_0650 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3315 | SO=contig
+0 genes found
+>Lsey_0651 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3311 | SO=contig
+0 genes found
+>Lsey_0652 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3283 | SO=contig
+0 genes found
+>Lsey_0653 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3261 | SO=contig
+0 genes found
+>Lsey_0654 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3254 | SO=contig
+0 genes found
+>Lsey_0655 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3248 | SO=contig
+0 genes found
+>Lsey_0656 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3204 | SO=contig
+0 genes found
+>Lsey_0657 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3148 | SO=contig
+0 genes found
+>Lsey_0658 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3138 | SO=contig
+0 genes found
+>Lsey_0659 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3113 | SO=contig
+0 genes found
+>Lsey_0660 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3108 | SO=contig
+0 genes found
+>Lsey_0661 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3086 | SO=contig
+0 genes found
+>Lsey_0662 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3075 | SO=contig
+0 genes found
+>Lsey_0663 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3052 | SO=contig
+0 genes found
+>Lsey_0664 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3047 | SO=contig
+0 genes found
+>Lsey_0665 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=3044 | SO=contig
+0 genes found
+>Lsey_0666 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2998 | SO=contig
+0 genes found
+>Lsey_0667 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2981 | SO=contig
+0 genes found
+>Lsey_0668 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2958 | SO=contig
+0 genes found
+>Lsey_0669 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2949 | SO=contig
+0 genes found
+>Lsey_0670 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2932 | SO=contig
+0 genes found
+>Lsey_0671 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2927 | SO=contig
+0 genes found
+>Lsey_0672 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2914 | SO=contig
+0 genes found
+>Lsey_0673 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2913 | SO=contig
+0 genes found
+>Lsey_0674 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2909 | SO=contig
+0 genes found
+>Lsey_0675 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2907 | SO=contig
+0 genes found
+>Lsey_0676 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2904 | SO=contig
+0 genes found
+>Lsey_0677 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2898 | SO=contig
+0 genes found
+>Lsey_0678 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2861 | SO=contig
+0 genes found
+>Lsey_0679 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2860 | SO=contig
+0 genes found
+>Lsey_0680 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2851 | SO=contig
+0 genes found
+>Lsey_0681 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2839 | SO=contig
+0 genes found
+>Lsey_0682 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2819 | SO=contig
+0 genes found
+>Lsey_0683 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2796 | SO=contig
+0 genes found
+>Lsey_0684 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2790 | SO=contig
+0 genes found
+>Lsey_0685 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2789 | SO=contig
+0 genes found
+>Lsey_0686 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2778 | SO=contig
+0 genes found
+>Lsey_0687 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2758 | SO=contig
+0 genes found
+>Lsey_0688 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2744 | SO=contig
+0 genes found
+>Lsey_0689 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2740 | SO=contig
+0 genes found
+>Lsey_0690 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2736 | SO=contig
+0 genes found
+>Lsey_0691 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2715 | SO=contig
+0 genes found
+>Lsey_0692 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2700 | SO=contig
+0 genes found
+>Lsey_0693 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2684 | SO=contig
+0 genes found
+>Lsey_0694 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2675 | SO=contig
+0 genes found
+>Lsey_0695 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2656 | SO=contig
+0 genes found
+>Lsey_0696 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2622 | SO=contig
+0 genes found
+>Lsey_0697 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2609 | SO=contig
+0 genes found
+>Lsey_0698 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2586 | SO=contig
+0 genes found
+>Lsey_0699 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2580 | SO=contig
+0 genes found
+>Lsey_0700 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2571 | SO=contig
+0 genes found
+>Lsey_0701 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2556 | SO=contig
+0 genes found
+>Lsey_0702 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2546 | SO=contig
+0 genes found
+>Lsey_0703 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2541 | SO=contig
+0 genes found
+>Lsey_0704 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2540 | SO=contig
+0 genes found
+>Lsey_0705 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2534 | SO=contig
+0 genes found
+>Lsey_0706 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2526 | SO=contig
+0 genes found
+>Lsey_0707 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2526 | SO=contig
+0 genes found
+>Lsey_0708 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2523 | SO=contig
+0 genes found
+>Lsey_0709 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2521 | SO=contig
+0 genes found
+>Lsey_0710 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2502 | SO=contig
+0 genes found
+>Lsey_0711 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2500 | SO=contig
+0 genes found
+>Lsey_0712 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2490 | SO=contig
+0 genes found
+>Lsey_0713 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2486 | SO=contig
+0 genes found
+>Lsey_0714 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2486 | SO=contig
+0 genes found
+>Lsey_0715 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2485 | SO=contig
+0 genes found
+>Lsey_0716 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2485 | SO=contig
+0 genes found
+>Lsey_0717 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2478 | SO=contig
+0 genes found
+>Lsey_0718 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2477 | SO=contig
+0 genes found
+>Lsey_0719 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2448 | SO=contig
+0 genes found
+>Lsey_0720 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2443 | SO=contig
+0 genes found
+>Lsey_0721 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2424 | SO=contig
+0 genes found
+>Lsey_0722 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2419 | SO=contig
+0 genes found
+>Lsey_0723 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2369 | SO=contig
+0 genes found
+>Lsey_0724 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2367 | SO=contig
+0 genes found
+>Lsey_0725 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2364 | SO=contig
+0 genes found
+>Lsey_0726 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2363 | SO=contig
+0 genes found
+>Lsey_0727 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2360 | SO=contig
+0 genes found
+>Lsey_0728 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2357 | SO=contig
+0 genes found
+>Lsey_0729 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2356 | SO=contig
+0 genes found
+>Lsey_0730 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2334 | SO=contig
+0 genes found
+>Lsey_0731 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2333 | SO=contig
+0 genes found
+>Lsey_0732 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2331 | SO=contig
+0 genes found
+>Lsey_0733 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2312 | SO=contig
+0 genes found
+>Lsey_0734 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2311 | SO=contig
+0 genes found
+>Lsey_0735 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2257 | SO=contig
+0 genes found
+>Lsey_0736 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2242 | SO=contig
+0 genes found
+>Lsey_0737 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2224 | SO=contig
+0 genes found
+>Lsey_0738 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2223 | SO=contig
+0 genes found
+>Lsey_0739 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2222 | SO=contig
+0 genes found
+>Lsey_0740 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2179 | SO=contig
+0 genes found
+>Lsey_0741 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2175 | SO=contig
+0 genes found
+>Lsey_0742 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2155 | SO=contig
+0 genes found
+>Lsey_0743 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2151 | SO=contig
+0 genes found
+>Lsey_0744 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2148 | SO=contig
+0 genes found
+>Lsey_0745 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2147 | SO=contig
+0 genes found
+>Lsey_0746 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2136 | SO=contig
+0 genes found
+>Lsey_0747 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2117 | SO=contig
+0 genes found
+>Lsey_0748 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2104 | SO=contig
+0 genes found
+>Lsey_0749 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2095 | SO=contig
+0 genes found
+>Lsey_0750 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2094 | SO=contig
+0 genes found
+>Lsey_0751 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2090 | SO=contig
+0 genes found
+>Lsey_0752 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2088 | SO=contig
+0 genes found
+>Lsey_0753 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2060 | SO=contig
+0 genes found
+>Lsey_0754 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2054 | SO=contig
+0 genes found
+>Lsey_0755 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2045 | SO=contig
+0 genes found
+>Lsey_0756 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2039 | SO=contig
+0 genes found
+>Lsey_0757 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2034 | SO=contig
+0 genes found
+>Lsey_0758 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2032 | SO=contig
+0 genes found
+>Lsey_0759 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2028 | SO=contig
+0 genes found
+>Lsey_0760 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2027 | SO=contig
+0 genes found
+>Lsey_0761 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2026 | SO=contig
+0 genes found
+>Lsey_0762 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2022 | SO=contig
+0 genes found
+>Lsey_0763 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2022 | SO=contig
+0 genes found
+>Lsey_0764 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2017 | SO=contig
+0 genes found
+>Lsey_0765 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=2009 | SO=contig
+0 genes found
+>Lsey_0766 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1967 | SO=contig
+0 genes found
+>Lsey_0767 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1965 | SO=contig
+0 genes found
+>Lsey_0768 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1961 | SO=contig
+0 genes found
+>Lsey_0769 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1960 | SO=contig
+0 genes found
+>Lsey_0770 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1942 | SO=contig
+0 genes found
+>Lsey_0771 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1910 | SO=contig
+0 genes found
+>Lsey_0772 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1901 | SO=contig
+0 genes found
+>Lsey_0773 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1890 | SO=contig
+0 genes found
+>Lsey_0774 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1889 | SO=contig
+0 genes found
+>Lsey_0775 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1889 | SO=contig
+0 genes found
+>Lsey_0776 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1888 | SO=contig
+0 genes found
+>Lsey_0777 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1881 | SO=contig
+0 genes found
+>Lsey_0778 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1881 | SO=contig
+0 genes found
+>Lsey_0779 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1866 | SO=contig
+0 genes found
+>Lsey_0780 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1865 | SO=contig
+0 genes found
+>Lsey_0781 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1848 | SO=contig
+0 genes found
+>Lsey_0782 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1835 | SO=contig
+0 genes found
+>Lsey_0783 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1831 | SO=contig
+0 genes found
+>Lsey_0784 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1831 | SO=contig
+0 genes found
+>Lsey_0785 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1830 | SO=contig
+0 genes found
+>Lsey_0786 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1824 | SO=contig
+0 genes found
+>Lsey_0787 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1818 | SO=contig
+0 genes found
+>Lsey_0788 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1803 | SO=contig
+0 genes found
+>Lsey_0789 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1794 | SO=contig
+0 genes found
+>Lsey_0790 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1782 | SO=contig
+0 genes found
+>Lsey_0791 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1782 | SO=contig
+0 genes found
+>Lsey_0792 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1778 | SO=contig
+0 genes found
+>Lsey_0793 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1774 | SO=contig
+0 genes found
+>Lsey_0794 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1765 | SO=contig
+0 genes found
+>Lsey_0795 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1765 | SO=contig
+0 genes found
+>Lsey_0796 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1764 | SO=contig
+0 genes found
+>Lsey_0797 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1755 | SO=contig
+0 genes found
+>Lsey_0798 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1753 | SO=contig
+0 genes found
+>Lsey_0799 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1746 | SO=contig
+0 genes found
+>Lsey_0800 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1744 | SO=contig
+0 genes found
+>Lsey_0801 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1739 | SO=contig
+0 genes found
+>Lsey_0802 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1731 | SO=contig
+0 genes found
+>Lsey_0803 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1725 | SO=contig
+0 genes found
+>Lsey_0804 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1716 | SO=contig
+0 genes found
+>Lsey_0805 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1715 | SO=contig
+0 genes found
+>Lsey_0806 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1710 | SO=contig
+0 genes found
+>Lsey_0807 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1704 | SO=contig
+0 genes found
+>Lsey_0808 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1703 | SO=contig
+0 genes found
+>Lsey_0809 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1702 | SO=contig
+0 genes found
+>Lsey_0810 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1693 | SO=contig
+0 genes found
+>Lsey_0811 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1686 | SO=contig
+0 genes found
+>Lsey_0812 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1686 | SO=contig
+0 genes found
+>Lsey_0813 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1683 | SO=contig
+0 genes found
+>Lsey_0814 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1678 | SO=contig
+0 genes found
+>Lsey_0815 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1676 | SO=contig
+0 genes found
+>Lsey_0816 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1651 | SO=contig
+0 genes found
+>Lsey_0817 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1643 | SO=contig
+0 genes found
+>Lsey_0818 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1636 | SO=contig
+0 genes found
+>Lsey_0819 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1618 | SO=contig
+0 genes found
+>Lsey_0820 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1612 | SO=contig
+0 genes found
+>Lsey_0821 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1612 | SO=contig
+0 genes found
+>Lsey_0822 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1610 | SO=contig
+0 genes found
+>Lsey_0823 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1599 | SO=contig
+0 genes found
+>Lsey_0824 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1594 | SO=contig
+0 genes found
+>Lsey_0825 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1591 | SO=contig
+0 genes found
+>Lsey_0826 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1589 | SO=contig
+0 genes found
+>Lsey_0827 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1588 | SO=contig
+0 genes found
+>Lsey_0828 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1583 | SO=contig
+0 genes found
+>Lsey_0829 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1565 | SO=contig
+0 genes found
+>Lsey_0830 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1561 | SO=contig
+0 genes found
+>Lsey_0831 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1551 | SO=contig
+0 genes found
+>Lsey_0832 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1550 | SO=contig
+0 genes found
+>Lsey_0833 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1545 | SO=contig
+0 genes found
+>Lsey_0834 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1543 | SO=contig
+0 genes found
+>Lsey_0835 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1539 | SO=contig
+0 genes found
+>Lsey_0836 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1534 | SO=contig
+0 genes found
+>Lsey_0837 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1531 | SO=contig
+0 genes found
+>Lsey_0838 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1527 | SO=contig
+0 genes found
+>Lsey_0839 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1526 | SO=contig
+0 genes found
+>Lsey_0840 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1523 | SO=contig
+0 genes found
+>Lsey_0841 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1520 | SO=contig
+0 genes found
+>Lsey_0842 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1519 | SO=contig
+0 genes found
+>Lsey_0843 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1518 | SO=contig
+0 genes found
+>Lsey_0844 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1517 | SO=contig
+0 genes found
+>Lsey_0845 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1509 | SO=contig
+0 genes found
+>Lsey_0846 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1507 | SO=contig
+0 genes found
+>Lsey_0847 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1499 | SO=contig
+0 genes found
+>Lsey_0848 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1492 | SO=contig
+0 genes found
+>Lsey_0849 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1491 | SO=contig
+0 genes found
+>Lsey_0850 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1486 | SO=contig
+0 genes found
+>Lsey_0851 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1481 | SO=contig
+0 genes found
+>Lsey_0852 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1476 | SO=contig
+0 genes found
+>Lsey_0853 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1472 | SO=contig
+0 genes found
+>Lsey_0854 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1463 | SO=contig
+0 genes found
+>Lsey_0855 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1455 | SO=contig
+0 genes found
+>Lsey_0856 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1446 | SO=contig
+0 genes found
+>Lsey_0857 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1444 | SO=contig
+0 genes found
+>Lsey_0858 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1443 | SO=contig
+0 genes found
+>Lsey_0859 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1439 | SO=contig
+0 genes found
+>Lsey_0860 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1430 | SO=contig
+0 genes found
+>Lsey_0861 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1427 | SO=contig
+0 genes found
+>Lsey_0862 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1423 | SO=contig
+0 genes found
+>Lsey_0863 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1420 | SO=contig
+0 genes found
+>Lsey_0864 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1416 | SO=contig
+0 genes found
+>Lsey_0865 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1416 | SO=contig
+0 genes found
+>Lsey_0866 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1414 | SO=contig
+0 genes found
+>Lsey_0867 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1413 | SO=contig
+0 genes found
+>Lsey_0868 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1408 | SO=contig
+0 genes found
+>Lsey_0869 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1396 | SO=contig
+0 genes found
+>Lsey_0870 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1390 | SO=contig
+0 genes found
+>Lsey_0871 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1381 | SO=contig
+0 genes found
+>Lsey_0872 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1381 | SO=contig
+0 genes found
+>Lsey_0873 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1381 | SO=contig
+0 genes found
+>Lsey_0874 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1375 | SO=contig
+0 genes found
+>Lsey_0875 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1373 | SO=contig
+0 genes found
+>Lsey_0876 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1370 | SO=contig
+0 genes found
+>Lsey_0877 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1366 | SO=contig
+0 genes found
+>Lsey_0878 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1365 | SO=contig
+0 genes found
+>Lsey_0879 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1361 | SO=contig
+0 genes found
+>Lsey_0880 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1352 | SO=contig
+0 genes found
+>Lsey_0881 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1339 | SO=contig
+0 genes found
+>Lsey_0882 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1327 | SO=contig
+0 genes found
+>Lsey_0883 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1326 | SO=contig
+0 genes found
+>Lsey_0884 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1323 | SO=contig
+0 genes found
+>Lsey_0885 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1323 | SO=contig
+0 genes found
+>Lsey_0886 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1322 | SO=contig
+0 genes found
+>Lsey_0887 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1321 | SO=contig
+0 genes found
+>Lsey_0888 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1319 | SO=contig
+0 genes found
+>Lsey_0889 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1316 | SO=contig
+0 genes found
+>Lsey_0890 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1311 | SO=contig
+0 genes found
+>Lsey_0891 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1310 | SO=contig
+0 genes found
+>Lsey_0892 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1308 | SO=contig
+0 genes found
+>Lsey_0893 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1307 | SO=contig
+0 genes found
+>Lsey_0894 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1303 | SO=contig
+0 genes found
+>Lsey_0895 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1295 | SO=contig
+0 genes found
+>Lsey_0896 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1295 | SO=contig
+0 genes found
+>Lsey_0897 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1294 | SO=contig
+0 genes found
+>Lsey_0898 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1288 | SO=contig
+0 genes found
+>Lsey_0899 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1288 | SO=contig
+0 genes found
+>Lsey_0900 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1271 | SO=contig
+0 genes found
+>Lsey_0901 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1270 | SO=contig
+0 genes found
+>Lsey_0902 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1268 | SO=contig
+0 genes found
+>Lsey_0903 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1264 | SO=contig
+0 genes found
+>Lsey_0904 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1258 | SO=contig
+0 genes found
+>Lsey_0905 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1253 | SO=contig
+0 genes found
+>Lsey_0906 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1251 | SO=contig
+0 genes found
+>Lsey_0907 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1249 | SO=contig
+0 genes found
+>Lsey_0908 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1247 | SO=contig
+0 genes found
+>Lsey_0909 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1238 | SO=contig
+0 genes found
+>Lsey_0910 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1238 | SO=contig
+0 genes found
+>Lsey_0911 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1238 | SO=contig
+0 genes found
+>Lsey_0912 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1233 | SO=contig
+0 genes found
+>Lsey_0913 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1232 | SO=contig
+0 genes found
+>Lsey_0914 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1226 | SO=contig
+0 genes found
+>Lsey_0915 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1222 | SO=contig
+0 genes found
+>Lsey_0916 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1222 | SO=contig
+0 genes found
+>Lsey_0917 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1221 | SO=contig
+0 genes found
+>Lsey_0918 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1216 | SO=contig
+0 genes found
+>Lsey_0919 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1214 | SO=contig
+0 genes found
+>Lsey_0920 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1213 | SO=contig
+0 genes found
+>Lsey_0921 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1211 | SO=contig
+0 genes found
+>Lsey_0922 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1206 | SO=contig
+0 genes found
+>Lsey_0923 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1202 | SO=contig
+0 genes found
+>Lsey_0924 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1201 | SO=contig
+0 genes found
+>Lsey_0925 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1199 | SO=contig
+0 genes found
+>Lsey_0926 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1195 | SO=contig
+0 genes found
+>Lsey_0927 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1190 | SO=contig
+0 genes found
+>Lsey_0928 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1190 | SO=contig
+0 genes found
+>Lsey_0929 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1189 | SO=contig
+0 genes found
+>Lsey_0930 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1189 | SO=contig
+0 genes found
+>Lsey_0931 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1188 | SO=contig
+0 genes found
+>Lsey_0932 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1188 | SO=contig
+0 genes found
+>Lsey_0933 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1185 | SO=contig
+0 genes found
+>Lsey_0934 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1184 | SO=contig
+0 genes found
+>Lsey_0935 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1181 | SO=contig
+0 genes found
+>Lsey_0936 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1170 | SO=contig
+0 genes found
+>Lsey_0937 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1157 | SO=contig
+0 genes found
+>Lsey_0938 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1156 | SO=contig
+0 genes found
+>Lsey_0939 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1153 | SO=contig
+0 genes found
+>Lsey_0940 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1153 | SO=contig
+0 genes found
+>Lsey_0941 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1153 | SO=contig
+0 genes found
+>Lsey_0942 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1152 | SO=contig
+0 genes found
+>Lsey_0943 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1150 | SO=contig
+0 genes found
+>Lsey_0944 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1145 | SO=contig
+0 genes found
+>Lsey_0945 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1142 | SO=contig
+0 genes found
+>Lsey_0946 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1142 | SO=contig
+0 genes found
+>Lsey_0947 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1141 | SO=contig
+0 genes found
+>Lsey_0948 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1141 | SO=contig
+0 genes found
+>Lsey_0949 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1140 | SO=contig
+0 genes found
+>Lsey_0950 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1139 | SO=contig
+0 genes found
+>Lsey_0951 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1138 | SO=contig
+0 genes found
+>Lsey_0952 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1137 | SO=contig
+0 genes found
+>Lsey_0953 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1134 | SO=contig
+0 genes found
+>Lsey_0954 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1131 | SO=contig
+0 genes found
+>Lsey_0955 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1130 | SO=contig
+0 genes found
+>Lsey_0956 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1129 | SO=contig
+0 genes found
+>Lsey_0957 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1127 | SO=contig
+0 genes found
+>Lsey_0958 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1119 | SO=contig
+0 genes found
+>Lsey_0959 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1119 | SO=contig
+0 genes found
+>Lsey_0960 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1118 | SO=contig
+0 genes found
+>Lsey_0961 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1109 | SO=contig
+1 genes found
+1   tRNA-Pro                   c[972,1065]	101.2	32  	(tgg)
+ccttgagttatgtgggtttggcatggacttttgggcggtccggggttggtgaggtgcttttggggcggccgggtgttatatctggctttgggac
+(((.(((   (((ddddddd)))((((((  AAA  ))))))            ((((vvvvv)))) (((((ttttttt)))))))).)))
+>Lsey_0962 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1107 | SO=contig
+0 genes found
+>Lsey_0963 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1105 | SO=contig
+0 genes found
+>Lsey_0964 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1103 | SO=contig
+0 genes found
+>Lsey_0965 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1103 | SO=contig
+0 genes found
+>Lsey_0966 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1098 | SO=contig
+0 genes found
+>Lsey_0967 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1097 | SO=contig
+0 genes found
+>Lsey_0968 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1095 | SO=contig
+0 genes found
+>Lsey_0969 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1093 | SO=contig
+0 genes found
+>Lsey_0970 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1092 | SO=contig
+0 genes found
+>Lsey_0971 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1090 | SO=contig
+0 genes found
+>Lsey_0972 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1088 | SO=contig
+0 genes found
+>Lsey_0973 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1088 | SO=contig
+0 genes found
+>Lsey_0974 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1081 | SO=contig
+0 genes found
+>Lsey_0975 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1081 | SO=contig
+0 genes found
+>Lsey_0976 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1077 | SO=contig
+0 genes found
+>Lsey_0977 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1068 | SO=contig
+0 genes found
+>Lsey_0978 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1060 | SO=contig
+0 genes found
+>Lsey_0979 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1059 | SO=contig
+0 genes found
+>Lsey_0980 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1056 | SO=contig
+0 genes found
+>Lsey_0981 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1042 | SO=contig
+0 genes found
+>Lsey_0982 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1040 | SO=contig
+0 genes found
+>Lsey_0983 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1040 | SO=contig
+0 genes found
+>Lsey_0984 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1039 | SO=contig
+0 genes found
+>Lsey_0985 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1038 | SO=contig
+0 genes found
+>Lsey_0986 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1030 | SO=contig
+0 genes found
+>Lsey_0987 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1028 | SO=contig
+0 genes found
+>Lsey_0988 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1028 | SO=contig
+0 genes found
+>Lsey_0989 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1026 | SO=contig
+0 genes found
+>Lsey_0990 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1024 | SO=contig
+0 genes found
+>Lsey_0991 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1016 | SO=contig
+0 genes found
+>Lsey_0992 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1014 | SO=contig
+0 genes found
+>Lsey_0993 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=1008 | SO=contig
+0 genes found
+>Lsey_0994 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=999 | SO=contig
+0 genes found
+>Lsey_0995 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=998 | SO=contig
+0 genes found
+>Lsey_0996 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=998 | SO=contig
+0 genes found
+>Lsey_0997 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=994 | SO=contig
+0 genes found
+>Lsey_0998 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=986 | SO=contig
+0 genes found
+>Lsey_0999 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=984 | SO=contig
+0 genes found
+>Lsey_1000 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=983 | SO=contig
+0 genes found
+>Lsey_1001 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=981 | SO=contig
+0 genes found
+>Lsey_1002 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=980 | SO=contig
+0 genes found
+>Lsey_1003 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=976 | SO=contig
+0 genes found
+>Lsey_1004 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=974 | SO=contig
+0 genes found
+>Lsey_1005 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=974 | SO=contig
+0 genes found
+>Lsey_1006 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=972 | SO=contig
+0 genes found
+>Lsey_1007 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=965 | SO=contig
+0 genes found
+>Lsey_1008 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=962 | SO=contig
+0 genes found
+>Lsey_1009 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=957 | SO=contig
+0 genes found
+>Lsey_1010 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=954 | SO=contig
+0 genes found
+>Lsey_1011 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=953 | SO=contig
+0 genes found
+>Lsey_1012 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=950 | SO=contig
+0 genes found
+>Lsey_1013 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=950 | SO=contig
+0 genes found
+>Lsey_1014 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=948 | SO=contig
+0 genes found
+>Lsey_1015 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=947 | SO=contig
+0 genes found
+>Lsey_1016 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=942 | SO=contig
+0 genes found
+>Lsey_1017 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=941 | SO=contig
+0 genes found
+>Lsey_1018 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=940 | SO=contig
+0 genes found
+>Lsey_1019 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=937 | SO=contig
+0 genes found
+>Lsey_1020 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=935 | SO=contig
+0 genes found
+>Lsey_1021 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=925 | SO=contig
+0 genes found
+>Lsey_1022 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=925 | SO=contig
+0 genes found
+>Lsey_1023 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=922 | SO=contig
+0 genes found
+>Lsey_1024 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=921 | SO=contig
+0 genes found
+>Lsey_1025 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=918 | SO=contig
+0 genes found
+>Lsey_1026 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=917 | SO=contig
+0 genes found
+>Lsey_1027 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=913 | SO=contig
+0 genes found
+>Lsey_1028 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=912 | SO=contig
+0 genes found
+>Lsey_1029 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=911 | SO=contig
+0 genes found
+>Lsey_1030 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=908 | SO=contig
+0 genes found
+>Lsey_1031 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=903 | SO=contig
+0 genes found
+>Lsey_1032 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=902 | SO=contig
+0 genes found
+>Lsey_1033 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=901 | SO=contig
+0 genes found
+>Lsey_1034 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=900 | SO=contig
+0 genes found
+>Lsey_1035 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=897 | SO=contig
+0 genes found
+>Lsey_1036 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=896 | SO=contig
+0 genes found
+>Lsey_1037 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=894 | SO=contig
+0 genes found
+>Lsey_1038 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=890 | SO=contig
+0 genes found
+>Lsey_1039 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=887 | SO=contig
+0 genes found
+>Lsey_1040 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=886 | SO=contig
+0 genes found
+>Lsey_1041 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=883 | SO=contig
+0 genes found
+>Lsey_1042 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=882 | SO=contig
+0 genes found
+>Lsey_1043 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=879 | SO=contig
+0 genes found
+>Lsey_1044 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=875 | SO=contig
+0 genes found
+>Lsey_1045 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=873 | SO=contig
+0 genes found
+>Lsey_1046 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=872 | SO=contig
+0 genes found
+>Lsey_1047 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=869 | SO=contig
+0 genes found
+>Lsey_1048 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=868 | SO=contig
+0 genes found
+>Lsey_1049 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=868 | SO=contig
+0 genes found
+>Lsey_1050 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=867 | SO=contig
+0 genes found
+>Lsey_1051 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=862 | SO=contig
+0 genes found
+>Lsey_1052 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=861 | SO=contig
+0 genes found
+>Lsey_1053 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=860 | SO=contig
+0 genes found
+>Lsey_1054 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=859 | SO=contig
+0 genes found
+>Lsey_1055 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=858 | SO=contig
+0 genes found
+>Lsey_1056 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=854 | SO=contig
+0 genes found
+>Lsey_1057 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=850 | SO=contig
+0 genes found
+>Lsey_1058 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=847 | SO=contig
+0 genes found
+>Lsey_1059 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=845 | SO=contig
+0 genes found
+>Lsey_1060 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=844 | SO=contig
+0 genes found
+>Lsey_1061 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=838 | SO=contig
+0 genes found
+>Lsey_1062 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=835 | SO=contig
+0 genes found
+>Lsey_1063 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=834 | SO=contig
+0 genes found
+>Lsey_1064 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=834 | SO=contig
+0 genes found
+>Lsey_1065 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=832 | SO=contig
+0 genes found
+>Lsey_1066 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=831 | SO=contig
+0 genes found
+>Lsey_1067 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=829 | SO=contig
+0 genes found
+>Lsey_1068 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=828 | SO=contig
+0 genes found
+>Lsey_1069 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=828 | SO=contig
+0 genes found
+>Lsey_1070 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=827 | SO=contig
+0 genes found
+>Lsey_1071 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=823 | SO=contig
+0 genes found
+>Lsey_1072 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=822 | SO=contig
+0 genes found
+>Lsey_1073 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=820 | SO=contig
+0 genes found
+>Lsey_1074 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=810 | SO=contig
+0 genes found
+>Lsey_1075 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=810 | SO=contig
+0 genes found
+>Lsey_1076 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=809 | SO=contig
+0 genes found
+>Lsey_1077 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=801 | SO=contig
+0 genes found
+>Lsey_1078 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=800 | SO=contig
+0 genes found
+>Lsey_1079 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=793 | SO=contig
+0 genes found
+>Lsey_1080 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=787 | SO=contig
+0 genes found
+>Lsey_1081 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=785 | SO=contig
+0 genes found
+>Lsey_1082 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=782 | SO=contig
+0 genes found
+>Lsey_1083 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=781 | SO=contig
+0 genes found
+>Lsey_1084 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=779 | SO=contig
+0 genes found
+>Lsey_1085 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=774 | SO=contig
+0 genes found
+>Lsey_1086 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=768 | SO=contig
+0 genes found
+>Lsey_1087 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=767 | SO=contig
+0 genes found
+>Lsey_1088 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=766 | SO=contig
+0 genes found
+>Lsey_1089 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=766 | SO=contig
+0 genes found
+>Lsey_1090 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=764 | SO=contig
+0 genes found
+>Lsey_1091 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=763 | SO=contig
+0 genes found
+>Lsey_1092 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=762 | SO=contig
+0 genes found
+>Lsey_1093 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=761 | SO=contig
+0 genes found
+>Lsey_1094 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=759 | SO=contig
+0 genes found
+>Lsey_1095 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=758 | SO=contig
+0 genes found
+>Lsey_1096 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=756 | SO=contig
+0 genes found
+>Lsey_1097 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=755 | SO=contig
+0 genes found
+>Lsey_1098 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=753 | SO=contig
+0 genes found
+>Lsey_1099 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=752 | SO=contig
+0 genes found
+>Lsey_1100 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=752 | SO=contig
+0 genes found
+>Lsey_1101 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=752 | SO=contig
+0 genes found
+>Lsey_1102 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=750 | SO=contig
+0 genes found
+>Lsey_1103 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=748 | SO=contig
+0 genes found
+>Lsey_1104 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=748 | SO=contig
+0 genes found
+>Lsey_1105 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=747 | SO=contig
+0 genes found
+>Lsey_1106 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=747 | SO=contig
+0 genes found
+>Lsey_1107 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=747 | SO=contig
+0 genes found
+>Lsey_1108 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=745 | SO=contig
+0 genes found
+>Lsey_1109 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=739 | SO=contig
+0 genes found
+>Lsey_1110 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=737 | SO=contig
+0 genes found
+>Lsey_1111 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=730 | SO=contig
+0 genes found
+>Lsey_1112 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=729 | SO=contig
+0 genes found
+>Lsey_1113 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=726 | SO=contig
+0 genes found
+>Lsey_1114 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=724 | SO=contig
+0 genes found
+>Lsey_1115 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=723 | SO=contig
+0 genes found
+>Lsey_1116 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=723 | SO=contig
+0 genes found
+>Lsey_1117 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=719 | SO=contig
+0 genes found
+>Lsey_1118 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=713 | SO=contig
+0 genes found
+>Lsey_1119 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=706 | SO=contig
+0 genes found
+>Lsey_1120 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=705 | SO=contig
+0 genes found
+>Lsey_1121 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=704 | SO=contig
+0 genes found
+>Lsey_1122 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=703 | SO=contig
+0 genes found
+>Lsey_1123 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=699 | SO=contig
+0 genes found
+>Lsey_1124 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=695 | SO=contig
+0 genes found
+>Lsey_1125 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=694 | SO=contig
+0 genes found
+>Lsey_1126 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=692 | SO=contig
+0 genes found
+>Lsey_1127 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=690 | SO=contig
+0 genes found
+>Lsey_1128 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=685 | SO=contig
+0 genes found
+>Lsey_1129 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=684 | SO=contig
+0 genes found
+>Lsey_1130 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=684 | SO=contig
+0 genes found
+>Lsey_1131 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=683 | SO=contig
+0 genes found
+>Lsey_1132 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=672 | SO=contig
+0 genes found
+>Lsey_1133 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=668 | SO=contig
+0 genes found
+>Lsey_1134 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=665 | SO=contig
+0 genes found
+>Lsey_1135 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=664 | SO=contig
+0 genes found
+>Lsey_1136 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=661 | SO=contig
+0 genes found
+>Lsey_1137 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=661 | SO=contig
+0 genes found
+>Lsey_1138 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=657 | SO=contig
+0 genes found
+>Lsey_1139 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=656 | SO=contig
+0 genes found
+>Lsey_1140 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=656 | SO=contig
+0 genes found
+>Lsey_1141 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=655 | SO=contig
+0 genes found
+>Lsey_1142 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=653 | SO=contig
+0 genes found
+>Lsey_1143 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=649 | SO=contig
+0 genes found
+>Lsey_1144 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=644 | SO=contig
+0 genes found
+>Lsey_1145 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=643 | SO=contig
+0 genes found
+>Lsey_1146 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=643 | SO=contig
+0 genes found
+>Lsey_1147 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=640 | SO=contig
+0 genes found
+>Lsey_1148 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=636 | SO=contig
+0 genes found
+>Lsey_1149 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=635 | SO=contig
+0 genes found
+>Lsey_1150 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=632 | SO=contig
+0 genes found
+>Lsey_1151 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=625 | SO=contig
+0 genes found
+>Lsey_1152 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=625 | SO=contig
+0 genes found
+>Lsey_1153 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=624 | SO=contig
+0 genes found
+>Lsey_1154 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=623 | SO=contig
+0 genes found
+>Lsey_1155 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=623 | SO=contig
+0 genes found
+>Lsey_1156 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=622 | SO=contig
+0 genes found
+>Lsey_1157 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=622 | SO=contig
+0 genes found
+>Lsey_1158 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=616 | SO=contig
+0 genes found
+>Lsey_1159 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=616 | SO=contig
+0 genes found
+>Lsey_1160 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=614 | SO=contig
+0 genes found
+>Lsey_1161 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=611 | SO=contig
+0 genes found
+>Lsey_1162 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=605 | SO=contig
+0 genes found
+>Lsey_1163 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=604 | SO=contig
+0 genes found
+>Lsey_1164 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=600 | SO=contig
+0 genes found
+>Lsey_1165 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=599 | SO=contig
+0 genes found
+>Lsey_1166 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=595 | SO=contig
+0 genes found
+>Lsey_1167 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=593 | SO=contig
+0 genes found
+>Lsey_1168 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=593 | SO=contig
+0 genes found
+>Lsey_1169 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=593 | SO=contig
+0 genes found
+>Lsey_1170 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=592 | SO=contig
+0 genes found
+>Lsey_1171 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=587 | SO=contig
+0 genes found
+>Lsey_1172 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=582 | SO=contig
+0 genes found
+>Lsey_1173 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=582 | SO=contig
+0 genes found
+>Lsey_1174 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=581 | SO=contig
+0 genes found
+>Lsey_1175 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=580 | SO=contig
+0 genes found
+>Lsey_1176 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=579 | SO=contig
+0 genes found
+>Lsey_1177 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=578 | SO=contig
+0 genes found
+>Lsey_1178 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=577 | SO=contig
+0 genes found
+>Lsey_1179 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=575 | SO=contig
+0 genes found
+>Lsey_1180 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=575 | SO=contig
+0 genes found
+>Lsey_1181 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=564 | SO=contig
+0 genes found
+>Lsey_1182 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=561 | SO=contig
+0 genes found
+>Lsey_1183 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=557 | SO=contig
+0 genes found
+>Lsey_1184 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=550 | SO=contig
+0 genes found
+>Lsey_1185 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=548 | SO=contig
+0 genes found
+>Lsey_1186 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=548 | SO=contig
+0 genes found
+>Lsey_1187 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=547 | SO=contig
+0 genes found
+>Lsey_1188 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=545 | SO=contig
+0 genes found
+>Lsey_1189 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=544 | SO=contig
+0 genes found
+>Lsey_1190 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=544 | SO=contig
+0 genes found
+>Lsey_1191 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=544 | SO=contig
+0 genes found
+>Lsey_1192 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=542 | SO=contig
+0 genes found
+>Lsey_1193 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=542 | SO=contig
+0 genes found
+>Lsey_1194 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=540 | SO=contig
+0 genes found
+>Lsey_1195 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=539 | SO=contig
+0 genes found
+>Lsey_1196 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=539 | SO=contig
+0 genes found
+>Lsey_1197 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=537 | SO=contig
+0 genes found
+>Lsey_1198 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=535 | SO=contig
+0 genes found
+>Lsey_1199 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=529 | SO=contig
+0 genes found
+>Lsey_1200 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=526 | SO=contig
+0 genes found
+>Lsey_1201 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=525 | SO=contig
+0 genes found
+>Lsey_1202 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=525 | SO=contig
+0 genes found
+>Lsey_1203 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=525 | SO=contig
+0 genes found
+>Lsey_1204 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=524 | SO=contig
+0 genes found
+>Lsey_1205 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=523 | SO=contig
+0 genes found
+>Lsey_1206 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=522 | SO=contig
+0 genes found
+>Lsey_1207 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=519 | SO=contig
+0 genes found
+>Lsey_1208 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=518 | SO=contig
+0 genes found
+>Lsey_1209 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=517 | SO=contig
+0 genes found
+>Lsey_1210 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=516 | SO=contig
+0 genes found
+>Lsey_1211 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=514 | SO=contig
+0 genes found
+>Lsey_1212 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=514 | SO=contig
+0 genes found
+>Lsey_1213 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=513 | SO=contig
+0 genes found
+>Lsey_1214 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=511 | SO=contig
+0 genes found
+>Lsey_1215 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=510 | SO=contig
+0 genes found
+>Lsey_1216 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=509 | SO=contig
+0 genes found
+>Lsey_1217 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=508 | SO=contig
+0 genes found
+>Lsey_1218 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=507 | SO=contig
+0 genes found
+>Lsey_1219 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=507 | SO=contig
+0 genes found
+>Lsey_1220 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=507 | SO=contig
+0 genes found
+>Lsey_1221 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=505 | SO=contig
+0 genes found
+>Lsey_1222 | organism=Leptomonas_seymouri_ATCC_30220 | version=2015-05-06 | length=500 | SO=contig
+0 genes found
+>end 	1222 sequences 104 tRNA genes, nothing found in 1173 sequences, (4.01% sensitivity)

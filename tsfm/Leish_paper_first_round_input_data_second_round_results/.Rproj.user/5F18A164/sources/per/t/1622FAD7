@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560797454642.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3676680879",
+    "id" : "1622FAD7",
+    "lastKnownWriteTime" : 1557797414,
+    "last_content_update" : 1557797414,
+    "path" : "~/Data/PROJECTS/RIPLA_RIBOTAG/Ripla_Ribotag.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "7,15",
+        "scrollLine" : "20"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

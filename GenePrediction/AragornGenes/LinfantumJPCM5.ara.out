@@ -1,0 +1,385 @@
+>LinJ.01 | organism=Leishmania_infantum_JPCM5 | version=2018-07-13 | length=278267 | SO=chromosome
+0 genes found
+>LinJ.02 | organism=Leishmania_infantum_JPCM5 | version=2018-07-13 | length=356299 | SO=chromosome
+1 genes found
+1   tRNA-Val               [235340,235431]	106.0	30  	(gac)
+cgagcgcgtggtcagatgggtgcgacgctgacatcgttgtccccgtgtcggcgcgagtggtgccgtggctgttcgactccgtcgcggccgtc
+((..(((   (((ddddd)))((((((  AAA  ))))))        ((((((vvvvv)))))) (((.(ttttttt).))))))..))
+>LinJ.03 | organism=Leishmania_infantum_JPCM5 | version=2018-07-13 | length=389657 | SO=chromosome
+1 genes found
+1   tRNA-Lys               [261697,261769]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcg
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>LinJ.04 | organism=Leishmania_infantum_JPCM5 | version=2018-07-13 | length=466507 | SO=chromosome
+0 genes found
+>LinJ.05 | organism=Leishmania_infantum_JPCM5 | version=2018-07-13 | length=467714 | SO=chromosome
+1 genes found
+1   tRNA-Arg               [365349,365420]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LinJ.06 | organism=Leishmania_infantum_JPCM5 | version=2018-07-13 | length=525234 | SO=chromosome
+1 genes found
+1   tRNA-SeC                c[70193,70280]	108.3	36  	(tca)
+gccgcgatgagctcagctggtgctgggtgcgggcttcaaacccgtaggtgagttgctctcacagccgttcgattcggccttcgtggcg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+>LinJ.07 | organism=Leishmania_infantum_JPCM5 | version=2018-07-13 | length=592866 | SO=chromosome
+2 genes found
+1   tRNA-Phe                c[55883,55978]	104.4	38  	(gaa)
+gcagcggatggcgtagatgcacttgactgctgctgctgaagtcggcgggcgagggcctctcgtgcgatgaggcggtgcctttccgcctcctctgcg
+((((.(((  ..((ddddddddddd))..((((((  AAA  ))))))(((((vvvvv)))))       (((((ttttttt)))))))).))))
+2   tRNA-Arg              c[385622,385693]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LinJ.08 | organism=Leishmania_infantum_JPCM5 | version=2018-07-13 | length=515747 | SO=chromosome
+0 genes found
+>LinJ.09 | organism=Leishmania_infantum_JPCM5 | version=2018-07-13 | length=581924 | SO=chromosome
+9 genes found
+1   tRNA-Met               [271965,272036]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Leu               [272095,272178]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+3   tRNA-Val               [404744,404820]	112.1	35  	(cac)
+tgcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtaccc
+((((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+4   tRNA-His               [405060,405130]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+5   tRNA-Phe              c[405308,405380]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Glu              c[417556,417627]	118.0	34  	(ttc)
+tccgatgtagtataacggttagaacacctggctttcacccaggagatccgggttcgattcccggtatcggag
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+7   tRNA-Val              c[417863,417939]	112.1	35  	(cac)
+tgcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtaccc
+((((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+8   tRNA-Arg               [418012,418084]	118.6	33  	(ccg)
+gacgttgtggcgcaatggaagcgcgtcggattccggatccgaaggttgtgggttcgacccccatcagcgttgc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+9   tRNA-His               [418150,418220]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>LinJ.10 | organism=Leishmania_infantum_JPCM5 | version=2018-07-13 | length=588579 | SO=chromosome
+3 genes found
+1   tRNA-Lys               [552096,552169]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Gly              c[552237,552307]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Asn              c[552367,552439]	117.4	34  	(gtt)
+tcctccctggcgcagtcggcagcgtgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggag
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>LinJ.11 | organism=Leishmania_infantum_JPCM5 | version=2018-07-13 | length=568611 | SO=chromosome
+8 genes found
+1   tRNA-Leu              c[158214,158295]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ala               [158369,158441]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+3   tRNA-Gly              c[163876,163946]	123.2	33  	(ccc)
+gcgccgctggtctagtggcatgatgataccctcccaaggtattgacccgggttcgattcccgggcggcgca
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+4   tRNA-Ala              c[164004,164076]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+5   tRNA-Leu               [164150,164231]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+6   tRNA-Met              c[366483,366555]	113.6	34  	(cat)
+gcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+7   tRNA-Arg               [366630,366703]	120.3	34  	(acg)
+tgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatga
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+8   tRNA-Ile              c[542146,542264]	100.5	57  	(gat)i(32,23)
+agtggggcttgtgtacgggataacagggcgcaccgcatgcagcaggatacagcgttgatgcgcgctgcatggagcatcatggcgcaagggggcttcgttgggctcgaggccctgacgcc
+..(((((   .(((dddddddd))).(((((iiiiiiiiiiiiiiiiiiiiiii  AAA  ))))).(.((...vvvvvvv...)).).   (((((ttttttt))))))))))..
+>LinJ.12 | organism=Leishmania_infantum_JPCM5 | version=2018-07-13 | length=593475 | SO=chromosome
+0 genes found
+>LinJ.13 | organism=Leishmania_infantum_JPCM5 | version=2018-07-13 | length=659814 | SO=chromosome
+1 genes found
+1   tRNA-???               [429858,429935]	101.0	37  	(gt) 
+tggcgttgtgggcgacgcggacgcctcgcggtgcctgtgggcatcacgccgccgccggatcttctccagcagcgtcac
+(((((((   ((.(ddddddddd).))  (((((  AA  )))))        ((.((ttttttt)).)))))))))
+>LinJ.14 | organism=Leishmania_infantum_JPCM5 | version=2018-07-13 | length=656132 | SO=chromosome
+0 genes found
+>LinJ.15 | organism=Leishmania_infantum_JPCM5 | version=2018-07-13 | length=650324 | SO=chromosome
+2 genes found
+1   tRNA-Asp               [341449,341521]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Glu              c[341560,341633]	118.1	35  	(ctc)
+ttccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaag
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+>LinJ.16 | organism=Leishmania_infantum_JPCM5 | version=2018-07-13 | length=688184 | SO=chromosome
+1 genes found
+1   tRNA-Gln              c[439371,439445]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgac
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+>LinJ.17 | organism=Leishmania_infantum_JPCM5 | version=2018-07-13 | length=690898 | SO=chromosome
+3 genes found
+1   tRNA-Asp              c[351427,351499]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Ser               [351576,351657]	121.7	34  	(gct)
+gcaaatgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcgc
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Ala               [351716,351791]	108.3	35  	(agc)
+tggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctccaac
+((((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+>LinJ.18 | organism=Leishmania_infantum_JPCM5 | version=2018-07-13 | length=720431 | SO=chromosome
+2 genes found
+1   tRNA-Arg               [359775,359871]	100.5	35  	(tct)
+gccagccattgtcgagggtgcgtccgctgtggcctctgcctccagccaggacggcggtgtgagtcttgagtcgcggctcaggtccgggtggcaggct
+(((.((((  (.((dddddd)).)  (((.((  AAA  )).))) ((((((.vvvvvvvv.))))))   (.(((ttttttt))).))))).)))
+2   tRNA-Cys               [550156,550296]	102.8	35  	(gca)i(39,50)
+tgatggggtagcctgtggcggcgaggccgccgttgcaagcgacattgtgaatgccccggaacctatgaggcccacatgtatccgtaacttggtggacggcgttggcgcgccgtttcaggcgatctactcgtcttcgtcgtc
+(((((((   ((((ddddddddd))))(((((  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii )))))                       ((((ttttttt)))))))))))
+>LinJ.19 | organism=Leishmania_infantum_JPCM5 | version=2018-07-13 | length=706124 | SO=chromosome
+0 genes found
+>LinJ.20 | organism=Leishmania_infantum_JPCM5 | version=2018-07-13 | length=731244 | SO=chromosome
+0 genes found
+>LinJ.21 | organism=Leishmania_infantum_JPCM5 | version=2018-07-13 | length=764861 | SO=chromosome
+6 genes found
+1   tRNA-Ser              c[164630,164710]	123.0	34  	(gct)
+gcaaacgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcg
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Gly               [404616,404747]	102.1	73  	(gcc)i(33,39)
+tggcgcggcgggcagcggaggcgccggcgggcagcgtcgcgaggtgaacacgacgaccggctcgcctattgtgccgacccccgtgacgggcagctccggcgcgctcgatgcgtacaactcgcgctgcgtcat
+(((((((   (((.ddddddd.))) (.((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  ))).)    .((vvvv)).           .((((ttttttt)))).)))))))
+3   tRNA-Pro               [448901,448972]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+4   tRNA-Val               [449104,449178]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Lys               [449241,449314]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+6   tRNA-Gly              c[485935,486028]	102.4	35  	(acc)
+acagcgggtggcagagaggcgttgctcgctcttcaccacggtgtgtgtgtataaattagtgcgcaggtgccgcgttcaacgcctgccgctctcc
+(.(((((   ((((ddddddd)))) (((.((  AAA  )).)))(((((((vvvvvv)))))))     ((.(ttttttt).))))))).)
+>LinJ.22 | organism=Leishmania_infantum_JPCM5 | version=2018-07-13 | length=782154 | SO=chromosome
+0 genes found
+>LinJ.23 | organism=Leishmania_infantum_JPCM5 | version=2018-07-13 | length=786683 | SO=chromosome
+11 genes found
+1   tRNA-Ile               [223028,223102]	118.5	35  	(tat)
+gctcccgtggtctagttggttaggacgctggtcttatgaaccggatgtcgcgggttcgagccccgccgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Val              c[223146,223218]	111.3	34  	(tac)
+gcgtgggtgatctagtggttatgatgtctgctttacacgcagaacgtcgcgggttcgaaccccgccccgcgta
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Gln              c[223286,223358]	124.9	34  	(ttg)
+ggtcctatagtgtagtggttatcacttcggactttgaatccgaaaacccaggttcgaatcctggtaggaccac
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+4   tRNA-Arg              c[223600,223673]	120.3	34  	(acg)
+tgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+5   tRNA-Leu              c[223894,223978]	117.1	36  	(cag)
+tggcaagatggtcgagtggtctaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtcaa
+((((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt)))))))))))))
+6   tRNA-Thr              c[224034,224107]	120.1	34  	(tgt)
+aggccgcttagcacagtggcagtgcactggtcttgtaaaccaggggtcccgagttcaattctcggagtggcctt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+7   tRNA-Arg               [224179,224250]	121.1	33  	(tcg)
+ggcctcttggcgcaatggaagcgcatcagacttcggatctgagggttgcaggttcgagtcctgcaggggtcg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+8   tRNA-Lys               [224563,224637]	120.7	35  	(ttt)
+cgcacttctagctcagttggtagagcgcgtggcttttaacctcgtggtcgtgggttcgagccccacggagtgcgg
+((((((((  ((((dddddddd))))(((.((  AAA  )).)))    (((((ttttttt)))))))))))))
+9   tRNA-Gly              c[224686,224758]	116.4	34  	(tcc)
+gcaattgtggtccaacggttaagatccccgccttccaagcgggtgacccgggttcgactcccggcaattgcac
+(((((((  (((dddddddddd))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+10  tRNA-Trp               [224834,224905]	115.5	33  	(cca)
+gggggcttagctcagtggtagagcattggattccaaatccaggggtcgtaggttcaatccctgcagctctca
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+11  tRNA-Asn              c[428545,428615]	100.2	32  	(att)
+agaaaaagtgtccaatggacacgacagcgttattgttgctgggggcgcgagttctagtctcgattttcttc
+((.((((   ((.dddddddd.))(((((  AAA  )))))     .((((ttttttt)))).)))).))
+>LinJ.24 | organism=Leishmania_infantum_JPCM5 | version=2018-07-13 | length=863815 | SO=chromosome
+6 genes found
+1   tRNA-Pro               [211826,211897]	124.4	33  	(cgg)
+ggccgcttagtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Gln               [644728,644800]	119.8	34  	(ctg)
+gctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgc
+(((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+3   tRNA-Leu              c[645010,645091]	111.7	36  	(taa)
+gctggggttcccgagttggtcaaaggggtgagacttaagttctcatgcgcaagcttcgtgggttcgaaccccacctccagca
+(((((((  (((.dddddddddd.)))((((((  AAA  ))))))           (((((ttttttt))))))))))))
+4   tRNA-Ile               [645178,645252]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Ile               [647190,647264]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Asp              c[704967,705038]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaag
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+>LinJ.25 | organism=Leishmania_infantum_JPCM5 | version=2018-07-13 | length=895083 | SO=chromosome
+1 genes found
+1   tRNA-Ala                c[58551,58736]	100.9	33  	(ggc)i(35,93)
+ggatgctctgcgctagttgatgtggggatgttggattgtgcgtgggcggtgagcagccgtgctgatagccgctgttgagagttatgattctcttgtagctcaagttgaaggtttcctcttggttgagcgccatctctggtgatgacgcaggcatcaggcgcgttggtgcgacgctttctgcgtcgc
+.(((((.   (((.dddddd.))) (((((  AAiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiA  )))))           ...vvvvv...    (..((ttttttt))..).))))).
+>LinJ.26 | organism=Leishmania_infantum_JPCM5 | version=2018-07-13 | length=1055293 | SO=chromosome
+1 genes found
+1   tRNA-Glu                 [69482,69590]	100.9	50  	(ttc)i(35,14)
+cggccgtgtcgatgagcttcagcttcctccccttgtacgtgcatgcgatttcgatggggtcgcgggtcgtgttcgactcgtcagcggcgcggtttcgctcgtagccgac
+((((.(((  ((.(dddddddd).))  ((((. iiiiiiiiiiiiii AAA  .))))(.(.vvvvvvvv.).)       (((((ttttttt)))))))).))))
+>LinJ.27 | organism=Leishmania_infantum_JPCM5 | version=2018-07-13 | length=1175412 | SO=chromosome
+0 genes found
+>LinJ.28 | organism=Leishmania_infantum_JPCM5 | version=2018-07-13 | length=1205031 | SO=chromosome
+1 genes found
+1   tRNA-Asn              c[159187,159283]	100.7	35  	(gtt)
+cgtcgctgggctggagagcttggctgcgctggccgttgcccaccgtgagatgctctaccaacacgctcagcagcggtgcatgctgctggcgtcagcc
+.(.(((( (((ddddddddddd))) ((.(((  AAA  ))).))((((.vvvvvvvvvvvvvv.))))  (((((tttttt))))))))).).
+>LinJ.29 | organism=Leishmania_infantum_JPCM5 | version=2018-07-13 | length=1272419 | SO=chromosome
+3 genes found
+1   tRNA-Ala              c[592781,592865]	100.7	31  	(ggc)
+gccgaagttagtcggggaacggccacggatggcgtccgtgcggagctgctgctgcgtgtactggcgcggagccagctccttggca
+(((((.(.  ((((ddddd))))(((((  AAA  )))))(((.(vvvv).)))     .((((ttttttt))))..).)))))
+2   tRNA-Leu              c[877482,877564]	117.8	35  	(caa)
+ggcaggatggccgagtggtctaaggcgggagactcaagttctcttctattcgtaggcgcgggttcgaaccccgctcctgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Ser              c[877624,877704]	119.2	34  	(cga)
+gtcatcatacccaagtggttacgggggttgactcgaaatcaactgcgatctcgcgcgcaggttcgaatcctgctgatgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>LinJ.30 | organism=Leishmania_infantum_JPCM5 | version=2018-07-13 | length=1353302 | SO=chromosome
+1 genes found
+1   tRNA-Thr              c[748427,748498]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LinJ.31 | organism=Leishmania_infantum_JPCM5 | version=2018-07-13 | length=1529246 | SO=chromosome
+6 genes found
+1   tRNA-Arg                c[65589,65788]	101.5	33  	(gcg)i(38,109)
+cctgctcttccgcgtggaacagcagcggcactgcgatagcgtggagacggtgcgccactggtgtcttcagaaacacctcagctacgacaagctgatggccattgtagacctggagagccacatcaagtacgagctcgcggagttcatgccgttccgcagcatcgttgaggcggagaagctgttggaacagctggacaagc
+(.((.((  (.((dddddddd)).)(((((  AAA  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii)))))       ...(.vvvvvvv.)... (((((tttttt))))))).)).)
+2   tRNA-Ala               [203843,203915]	108.3	34  	(agc)
+ggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctcca
+(((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+3   tRNA-Gly               [510600,510672]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgcacc
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+4   tRNA-Glu              c[510717,510790]	118.1	35  	(ctc)
+ttccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaag
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+5   tRNA-Phe             [1361539,1361611]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Ser            c[1361646,1361727]	119.6	34  	(aga)
+gtcaccatacccaagtggttacggggactgactagaaatcagttgcgatctcgcgcgcaggttcgaatcctgctggtgacgc
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>LinJ.32 | organism=Leishmania_infantum_JPCM5 | version=2018-07-13 | length=1544760 | SO=chromosome
+2 genes found
+1   tRNA-Glu               [337509,337632]	100.8	33  	(ctc)i(37,34)
+ttggtgctggcgagcgcttgcgtgcgtgcttgctcgagtagcgtttccctcttcgcgggtcgcgcctcctcagtgtcggaggtgacggtctgtgccgctcgcggtgcaacgccgcggcgctaaa
+(((((((  (((dddddddddd)))(((((  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii )))))  (.(..vvvvvvv..).)    (((((ttttttt))))))))))))
+2   tRNA-Arg              c[465111,465265]	100.8	30  	(gcg)i(33,68)
+gctgcttggtggaggcattcagcgacactgcgctctctgggctggacaagtctctgcggggcagcatccgcagttgctcctcgagctgctctcgttccatggtgtcgagggggcttccggagccaccgtcgccgttcaggatcgacggggtcgca
+((.(((( (.(dddddd).)  (((((  AAAiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  )))))          (((vvvvv))) ((.((tttttttt)).)))))).))
+>LinJ.33 | organism=Leishmania_infantum_JPCM5 | version=2018-07-13 | length=1532318 | SO=chromosome
+4 genes found
+1   tRNA-Arg              c[110421,110494]	118.9	34  	(cct)
+gcccttgtagcctaatggatatggcgtttgcttcctaagcaaaaggttgcgggttcgagtcccgccaggggtac
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Arg              c[110553,110626]	125.8	34  	(tct)
+gctccagtggcctaacggataaggctttggacttctaatccaaagattgcgggttcgaatcccgcctggagtac
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+3   tRNA-Ala               [110702,110775]	117.5	34  	(tgc)
+tgggcgtgtagctcagtggtagagcgcctgttttgcatacaggaggcctagggttcaaacccctactcgtccat
+((((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+4   tRNA-Lys              c[546240,546313]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>LinJ.34 | organism=Leishmania_infantum_JPCM5 | version=2018-07-13 | length=1852095 | SO=chromosome
+11 genes found
+1   tRNA-His              c[398802,398954]	100.6	94  	(atg)i(36,57)
+agtatacatggagtgggatacttggacacacatagacagggccgcagtcaagcatcgcgtgcacctattcgctgtggtggcatgcgtgcgcgtatgggtgtgtgcgtgtgtgtgtgtgcacgtgtgcacgtgtgcgaattgcatgtgctttgc
+((..(((   (.((ddddddddddd)).)((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))                        (.(((ttttttt))).))))..))
+2   tRNA-Val              c[505491,505565]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Ile               [505790,505864]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Met               [505920,505992]	113.6	34  	(cat)
+gcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+5   tRNA-Leu              c[506024,506105]	119.8	35  	(tag)
+ggcggagtggccgagtggtctaaggcgccagatttaggctctggtctttcgaggcgtgggttcgaaccccacctccgtcacc
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))          (((((ttttttt))))))))))))
+6   tRNA-Ser               [506180,506260]	116.9	34  	(tga)
+gtcaacatacccaagtggttacggggtttgacttgaaatcaaatgcgatctcgcgcgcaggttcgaaccctgctgttgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+7   tRNA-Asn            c[1540361,1540434]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+8   tRNA-Tyr            c[1540496,1540579]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagatcgcagatatcacagggtcgctggttcgattccggccggaagga
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+9   tRNA-Thr            c[1540641,1540712]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+10  tRNA-Pro             [1540793,1540864]	124.4	33  	(cgg)
+ggccgcttagtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+11  tRNA-Asn             [1540927,1541000]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>LinJ.35 | organism=Leishmania_infantum_JPCM5 | version=2018-07-13 | length=2019672 | SO=chromosome
+2 genes found
+1   tRNA-Gly              c[322354,322529]	100.1	138 	(gcc)i(33,103)
+gccgcagctgcggcggcgttgcgctgacgacgtcgccgccgccgcgaactcttcgttgctttgggattgtggtgatgctggtgcgatgagcggtgctggcggccttgaccgcggtgcagctgagagcggtgccggctgccgccgccgccagtcgagcgcggacctcgactgcggcc
+(((((((   (((dddddddddd))) ((.((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )).))    (((((ttttttt))))))))))))
+2   tRNA-Pro              c[516342,516519]	101.0	32  	(cgg)i(34,95)
+agggtgctggcgcggtagttgcgcatctgctcggccgtcaccttctttacgccttcctccgtaccgtagagcggagtacccacaccgtacggggtgctgtcgaaagcgcagcggtgcaagttgtccatgaccagatcgtcggggcgctcctcgaacaggtgctgatcctggtgcacca
+.(.((((  (((ddddddddd)))(((((  AAiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiA  ))))).(.vvvvvvvvv.).    ((((ttttttt)))))))).).
+>LinJ.36 | organism=Leishmania_infantum_JPCM5 | version=2018-07-13 | length=2743073 | SO=chromosome
+14 genes found
+1   tRNA-Tyr              c[493706,493790]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagttcgcaggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+2   tRNA-Thr              c[493872,493943]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Thr               [494822,494893]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Tyr               [494975,495059]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagttcgcaggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+5   tRNA-Gly             [1057731,1057802]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgcac
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+6   tRNA-Thr            c[1058357,1058428]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+7   tRNA-Gly            c[1058495,1058565]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+8   tRNA-Pro             [1058638,1058709]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+9   tRNA-Gln            c[1648079,1648152]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgt
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+10  tRNA-Gly            c[2208989,2209148]	104.8	101 	(gcc)i(32,68)
+gcatcaagcagctcgaggagctctccggcgtcaccggcatcaccgacatccaccgccagttcgtcgacgatatcacgatcccaagtaagcggcctggcatgccgccgctgaagcgtgtgccgatggtgtttgactgctggttcgagtccggctcgatgcc
+(((((.(   (..(ddddd)..)  ((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))         .((vvvvvvvv)).  (((((ttttttt)))))).)))))
+11  tRNA-Cys             [2530973,2531044]	122.6	33  	(gca)
+ggattcatagctcagtggtagagcattcggctgcagtccgaatggtccccggttcaaacccgggtgggtcct
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+12  tRNA-Leu            c[2531835,2531916]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+13  tRNA-Met            c[2531978,2532049]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+14  tRNA-Pro             [2532123,2532195]	122.1	33  	(tgg)
+ggtcgtttggtctagtggtatgattcctgttttgggtacaggaggtcacgggttcaattcccgtaacgacccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>end 	36 sequences 104 tRNA genes, nothing found in 9 sequences, (75.00% sensitivity)

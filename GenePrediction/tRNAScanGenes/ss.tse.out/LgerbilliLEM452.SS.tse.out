@@ -1,0 +1,488 @@
+LgeLEM452_03.trna1 (262010-262082)	Length: 73 bp
+Type: Lys	Anticodon: CTT at 34-36 (262043-262045)	Score: 86.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCATTCCTAGCTCAGTCGGTAGAGCGCACGGCTCTTAACCGTGTGGtCGTGGGTTCGATCCCCACGGAGTGCG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_05.trna1 (355358-355429)	Length: 72 bp
+Type: Arg	Anticodon: ACG at 33-35 (355390-355392)	Score: 72.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GTCCGTGTGGCTCAATGGAAGAGCATCTGACTACGGATCAGAGGGtTGCAGGTTCGAATCCTGTCACGGATG
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_06.trna1 (68855-68768)	Length: 88 bp
+Type: SeC	Anticodon: TCA at 36-38 (68820-68818)	Score: 124.7
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *  
+Seq: GCCGCGATGAGCTCAGCTGGTGCTGGGTGCGGGCTTCAAACCCGTAGGTGAGTTGCtCTCACAGCCGTTCGATTCGGCCTTCGTGGCG
+Str: >>>>>>>.>..>>>>>>....<<<<<<>>>>>>.......<<<<<<.>>>>>.....<<<<<.>>>>.......<<<<<.<<<<<<<.
+
+LgeLEM452_07.trna1 (382346-382275)	Length: 72 bp
+Type: Arg	Anticodon: ACG at 33-35 (382314-382312)	Score: 72.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GTCCGTGTGGCTCAATGGAAGAGCATCTGACTACGGATCAGAGGGtTGCAGGTTCGAATCCTGTCACGGATG
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_09.trna1 (258246-258317)	Length: 72 bp
+Type: iMet	Anticodon: CAT at 33-35 (258278-258280)	Score: 67.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: AGCACCGTAGCGCAGTGGAAGCGCGATGGGCTCATAACCCATAGGtCGTTGGATCGAAACCAATCGGTGCTA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_09.trna2 (258378-258460)	Length: 83 bp
+Type: Leu	Anticodon: CAG at 35-37 (258412-258414)	Score: 75.3
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GGCAAGATGGTCGAGTGGTctAAGACGTCACGTTCAGGTCGTGATCTCCCCTGGAGGCGTGGGTTCAAACCCCACTCTTGTCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_09.trna3 (389013-389085)	Length: 73 bp
+Type: Val	Anticodon: CAC at 34-36 (389046-389048)	Score: 65.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCGATGGTCGTCTAGTGGTtAGGACATTCGCCTCACACGCGAGAGAtCGCGGGTTCAATCCCCGCCCGTCGTA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_09.trna4 (389339-389409)	Length: 71 bp
+Type: His	Anticodon: GTG at 33-35 (389371-389373)	Score: 62.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |
+Seq: GGGGAAATAGTTCAGTGGCAGAACATCAGATTGTGGCTCTGAATaCCCGGGTCCGATTCCCGGTTTCCCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_09.trna5 (402687-402758)	Length: 72 bp
+Type: Arg	Anticodon: CCG at 33-35 (402719-402721)	Score: 66.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GACGTTGTGGCGCAATGGAAGCGCGTCGGATTCCGGATCCGAAGGtTGTGGGTTCGACCCCCATCAGCGTTG
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_09.trna6 (402825-402895)	Length: 71 bp
+Type: His	Anticodon: GTG at 33-35 (402857-402859)	Score: 62.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |
+Seq: GGGGAAATAGTTCAGTGGCAGAACATCAGATTGTGGCTCTGAATaCCCGGGTCCGATTCCCGGTTTCCCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_09.trna7 (402612-402540)	Length: 73 bp
+Type: Val	Anticodon: CAC at 34-36 (402579-402577)	Score: 65.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCGATGGTCGTCTAGTGGTtAGGACATTCGCCTCACACGCGAGAGAtCGCGGGTTCAATCCCCGCCCGTCGTA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_09.trna8 (402301-402230)	Length: 72 bp
+Type: Glu	Anticodon: TTC at 34-36 (402268-402266)	Score: 61.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: TCCGATGTAGTATAACGGTtAGAACACCTGGCTTTCACCCAGGAGaTCCGGGTTCGATTCCCGGTATCGGAG
+Str: >>>>>>>..>>.>........<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_09.trna9 (389663-389591)	Length: 73 bp
+Type: Phe	Anticodon: GAA at 34-36 (389630-389628)	Score: 91.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCCGCGATAGCTCAGTTGGGAGAGCGTCAGACTGAAGATCTGAAGGtCCCTGGTTCGATCCCGGGTCGCGGCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_10.trna1 (498298-498370)	Length: 73 bp
+Type: Lys	Anticodon: CTT at 34-36 (498331-498333)	Score: 86.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCATTCCTAGCTCAGTCGGTAGAGCGCACGGCTCTTAACCGTGTGGtCGTGGGTTCGATCCCCACGGAGTGCG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_10.trna2 (498608-498536)	Length: 73 bp
+Type: Asn	Anticodon: GTT at 34-36 (498575-498573)	Score: 73.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: TCCTCCCTGGCGCAGTCGGCAGCGCGTTAGGCTGTTAACCTACAGGtCGTTGGTTCGAATCCAACGGGAGGAG
+Str: >>>>>>>..>>>>........<<<<..>>>>.......<<<<......>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_10.trna3 (498481-498411)	Length: 71 bp
+Type: Gly	Anticodon: GCC at 33-35 (498449-498447)	Score: 69.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |
+Seq: GCGCAGTTGGTCTAGTGGTAGAATTCTCGCCTGCCACGCGGGAGGCCCGGGTTCGATTCCCGGACTGCGCA
+Str: >>>>>>>..>>.>.......<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_11.trna1 (156805-156876)	Length: 72 bp
+Type: Ala	Anticodon: CGC at 33-35 (156837-156839)	Score: 72.7
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGGCGTGTAGCTCAGTGGTAGAGCGTCCGTTTCGCATACGGAAGGcCTAGGGTTCAATCCCCTACTCGTCCA
+Str: >>>>>.>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<.<<<<<.
+
+LgeLEM452_11.trna2 (204861-204932)	Length: 72 bp
+Type: Ala	Anticodon: CGC at 33-35 (204893-204895)	Score: 72.7
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGGCGTGTAGCTCAGTGGTAGAGCGTCCGTTTCGCATACGGAAGGcCTAGGGTTCAATCCCCTACTCGTCCA
+Str: >>>>>.>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<.<<<<<.
+
+LgeLEM452_11.trna3 (204995-205065)	Length: 71 bp
+Type: Gly	Anticodon: CCC at 33-35 (205027-205029)	Score: 72.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |
+Seq: GCGCCGCTGGTCTAGTGGCATGATGGTACCCTCCCAAGGTATTGaCCCGGGTTCGATTCCCGGGCGGCGCA
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_11.trna4 (362780-362851)	Length: 72 bp
+Type: Arg	Anticodon: ACG at 33-35 (362812-362814)	Score: 72.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GTCCGTGTGGCTCAATGGAAGAGCATCTGACTACGGATCAGAGGGtTGCAGGTTCGAATCCTGTCACGGATG
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_11.trna5 (362704-362632)	Length: 73 bp
+Type: Met	Anticodon: CAT at 34-36 (362671-362669)	Score: 72.5
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCGAGCGTAGCGCAGTCGGCAGCGCGTGGGTCTCATAATCCCAAGGtCGTGAGTTCGATCCTCACCGGTCGCA
+Str: >>>>.>>..>>>>........<<<<.>>>>.........<<<<.....>>>>>.......<<<<<<<.<<<<.
+
+LgeLEM452_11.trna6 (156731-156650)	Length: 82 bp
+Type: Leu	Anticodon: AAG at 35-37 (156697-156695)	Score: 74.7
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGTGAGATGGTCGAGTGGTctAAGACGTTGGATTAAGGTTCCAATCCTTTCGAGGgCGTGGGTTCAAACCCCACTCTCATCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>.>...<.<...>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_15.trna1 (292169-292240)	Length: 72 bp
+Type: Asp	Anticodon: GTC at 34-36 (292202-292204)	Score: 70.6
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: TTCTCGGTAGTATAGTGGTtAGTATACCCGCCTGTCACGCGGGTGaCCCGGGTTCAATTCCCGGCCGGGAAG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_15.trna2 (292353-292282)	Length: 72 bp
+Type: Glu	Anticodon: CTC at 34-36 (292320-292318)	Score: 65.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: TCCGATGTGGTATAGTGGAtAGAACAAGCGGCTCTCACCCGCTAGaCCCGGGTTCGATCCCCGGCATCGGAA
+Str: >>>>>>>..>>.>........<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_16.trna1 (445107-445036)	Length: 72 bp
+Type: Gln	Anticodon: CTG at 34-36 (445074-445072)	Score: 67.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GCTCCTATAGTGTAGCGGTtATCACCTCGGACTCTGAATCCGATAaCCCTGGTTCGAGTCCAGGTAGGAGTG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_21.trna1 (441893-441964)	Length: 72 bp
+Type: Pro	Anticodon: AGG at 33-35 (441925-441927)	Score: 66.6
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGTCCAGTGGTCTAGTGGCATGATTCTCCCTTAGGGTGGGAGAGGtCCCGGGTTCAATTCCCGGCTGGACCC
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_21.trna2 (442101-442174)	Length: 74 bp
+Type: Val	Anticodon: AAC at 35-37 (442135-442137)	Score: 61.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GCGCGGTTGGTCTAGGTGGTtATGACGTCGCTTTAACACGGCGAAGGtCTCGGGTTCGAGTCCCGAACTGCGTA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_21.trna3 (442238-442310)	Length: 73 bp
+Type: Lys	Anticodon: CTT at 34-36 (442271-442273)	Score: 86.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCATTCCTAGCTCAGTCGGTAGAGCGCACGGCTCTTAACCGTGTGGtCGTGGGTTCGATCCCCACGGAGTGCG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_21.trna4 (159656-159576)	Length: 81 bp
+Type: Ser	Anticodon: GCT at 34-36 (159623-159621)	Score: 79.3
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+Seq: GCAAACGTGGCCGAGTGGTtAAGGCGCCTGCCTGCTAAGCAGGTGTGATCTCACGCGAAGGTTCGAACCCTTCCGTTTGCG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>....<<<..>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_23.trna1 (221695-221768)	Length: 74 bp
+Type: Ile	Anticodon: TAT at 35-37 (221729-221731)	Score: 80.6
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GCTCCCGTGGTCTAGTTGGTtAGGACGCTGGTCTTATGAACCGGATGtCGCGGGTTCGAGCCCCGCCGGGAGCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_23.trna2 (222854-222925)	Length: 72 bp
+Type: Arg	Anticodon: TCG at 33-35 (222886-222888)	Score: 73.4
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGCCTCTTGGCGCAATGGAAGCGCATCAGACTTCGGATCTGAGGGtTGCAGGTTCGAGTCCTGCAGGGGTCG
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_23.trna3 (223239-223311)	Length: 73 bp
+Type: Lys	Anticodon: TTT at 34-36 (223272-223274)	Score: 84.6
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCACTCCTAGCTCAGTTGGTAGAGCGCGTGGCTTTTAACCTCGTGGtCGTGGGTTCGAGCCCCACGGAGTGCG
+Str: >>>>>>>..>>>>........<<<<.>>.>>.......<<.<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_23.trna4 (223497-223568)	Length: 72 bp
+Type: Trp	Anticodon: CCA at 33-35 (223529-223531)	Score: 74.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGGGGCTTAGCTCAGTGGTAGAGCATTGGATTCCAAATCCAGGGGtCGTAGGTTCAATCCCTGCAGCTCTCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_23.trna5 (223421-223350)	Length: 72 bp
+Type: Gly	Anticodon: TCC at 34-36 (223388-223386)	Score: 66.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GCAATTGTGGTCCAACGGTtAAGATCCCCGCCTTCCAAGCGGGTGaCCCGGGTTCGACTCCCGGCAATTGCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_23.trna6 (222781-222710)	Length: 72 bp
+Type: Thr	Anticodon: TGT at 33-35 (222749-222747)	Score: 72.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGCCGCTTAGCACAGTGGCAGTGCACTGGTCTTGTAAACCAGGGGtCCCGAGTTCAATTCTCGGAGTGGCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_23.trna7 (222647-222565)	Length: 83 bp
+Type: Leu	Anticodon: CAG at 35-37 (222613-222611)	Score: 75.3
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GGCAAGATGGTCGAGTGGTctAAGACGTCACGTTCAGGTCGTGATCTCCCCTGGAGGCGTGGGTTCAAACCCCACTCTTGTCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>...<<<<..>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_23.trna8 (222342-222271)	Length: 72 bp
+Type: Arg	Anticodon: ACG at 33-35 (222310-222308)	Score: 72.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GTCCGTGTGGCTCAATGGAAGAGCATCTGACTACGGATCAGAGGGtTGCAGGTTCGAATCCTGTCACGGATG
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_23.trna9 (222024-221953)	Length: 72 bp
+Type: Gln	Anticodon: TTG at 34-36 (221991-221989)	Score: 80.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGTCCTATAGTGTAGTGGTtATCACTTCGGACTTTGAATCCGAAAaCCCAGGTTCGAATCCTGGTAGGACCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_23.trna10 (221886-221814)	Length: 73 bp
+Type: Val	Anticodon: TAC at 34-36 (221853-221851)	Score: 71.7
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCGTGGGTGATCTAGTGGTtATGATGTCTGCTTTACACGCAGAACGtCGCGGGTTCGAACCCCGCCCCGCGTA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_24.trna1 (212359-212430)	Length: 72 bp
+Type: Pro	Anticodon: CGG at 33-35 (212391-212393)	Score: 70.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGCCGCTTGGTCTAGTGGTATGATTCCCGCTTCGGGTGCGGGAGGtCAGGGGTTCAATTCCCCTAGCGGCCC
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_24.trna2 (644689-644760)	Length: 72 bp
+Type: Gln	Anticodon: CTG at 34-36 (644722-644724)	Score: 67.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GCTCCTATAGTGTAGCGGTtATCACCTCGGACTCTGAATCCGATAaCCCTGGTTCGAGTCCAGGTAGGAGTG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_24.trna3 (645137-645210)	Length: 74 bp
+Type: Ile	Anticodon: AAT at 35-37 (645171-645173)	Score: 80.1
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GCTCTCATAGCTCAGTCGGTtAGAGCGTGGGTCTAATAAGCCCAAGGtCACAGGTTCGACCCCTGTTGGGAGCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_24.trna4 (647303-647376)	Length: 74 bp
+Type: Ile	Anticodon: AAT at 35-37 (647337-647339)	Score: 80.1
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GCTCTCATAGCTCAGTCGGTtAGAGCGTGGGTCTAATAAGCCCAAGGtCACAGGTTCGACCCCTGTTGGGAGCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_24.trna5 (705704-705633)	Length: 72 bp
+Type: Asp	Anticodon: GTC at 34-36 (705671-705669)	Score: 70.6
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: TTCTCGGTAGTATAGTGGTtAGTATACCCGCCTGTCACGCGGGTGaCCCGGGTTCAATTCCCGGCCGGGAAG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_24.trna6 (645052-644971)	Length: 82 bp
+Type: Leu	Anticodon: TAA at 36-38 (645017-645015)	Score: 62.4
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GCTGGGGTTCCCGAGTTGGTcaAAGGGGTGAGACTTAAGTTCTCATGCGCAAGCTtCGTGGGTTCGAACCCCACCTCCAGCA
+Str: >>>>>>>..>>>............<<<.>>>>>.......<<<<<.>>....<<...>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_29.trna1 (818568-818488)	Length: 81 bp
+Type: Ser	Anticodon: CGA at 34-36 (818535-818533)	Score: 67.6
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+Seq: GTCACCATACCCAAGTGGTtACGGGGGTTGACTCGAAATCAACTGCGATCTCGCGCGCAGGTTCGAATCCTGCTGGTGACG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>....<<<..>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_29.trna2 (818430-818349)	Length: 82 bp
+Type: Leu	Anticodon: CAA at 35-37 (818396-818394)	Score: 75.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGCAGGATGGCCGAGTGGTctAAGGCGGGAGACTCAAGTTCTCTTCTATCCGTAGGCGCGGGTTCGAACCCCGCTCCTGTCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>....<<<..>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_30.trna1 (763535-763464)	Length: 72 bp
+Type: Thr	Anticodon: CGT at 33-35 (763503-763501)	Score: 70.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGCCGCTTAGCACAGTGGCAGTGCACCACTCTCGTAAAGTGGGGGtCGCGAGTTCGATTCTCGCAGTGGCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_31.trna1 (183982-184054)	Length: 73 bp
+Type: Ala	Anticodon: AGC at 34-36 (184015-184017)	Score: 54.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GGGGATGTAGCTCAGATGGTAGAGCGACCGCTTAGCATGCGGTAGGtATTGGGATCGATACCCAACTTCTCCA
+Str: >>>>>.>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<.<<<<<.
+
+LgeLEM452_31.trna2 (1107489-1107561)	Length: 73 bp
+Type: Phe	Anticodon: GAA at 34-36 (1107522-1107524)	Score: 91.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCCGCGATAGCTCAGTTGGGAGAGCGTCAGACTGAAGATCTGAAGGtCCCTGGTTCGATCCCGGGTCGCGGCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_31.trna3 (1107694-1107614)	Length: 81 bp
+Type: Ser	Anticodon: AGA at 34-36 (1107661-1107659)	Score: 69.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+Seq: GTCACCATACCCAAGTGGTtACGGGGACTGACTAGAAATCAGTTGCGATCTCGCGCGCAGGTTCGAATCCTGCTGGTGACG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>....<<<..>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_33.trna1 (102103-102174)	Length: 72 bp
+Type: Ala	Anticodon: TGC at 33-35 (102135-102137)	Score: 72.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGGCGTGTAGCTCAGTGGTAGAGCGCCTGTTTTGCATACAGGAGGcCTAGGGTTCAAACCCCTACTCGTCCA
+Str: >>>>>.>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<.<<<<<.
+
+LgeLEM452_33.trna2 (481354-481282)	Length: 73 bp
+Type: Lys	Anticodon: CTT at 34-36 (481321-481319)	Score: 86.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCATTCCTAGCTCAGTCGGTAGAGCGCACGGCTCTTAACCGTGTGGtCGTGGGTTCGATCCCCACGGAGTGCG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_33.trna3 (102026-101954)	Length: 73 bp
+Type: Arg	Anticodon: TCT at 34-36 (101993-101991)	Score: 75.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCTCCAGTGGCCTAATGGAtAAGGCTTTGGACTTCTAATCCAAAGAtTGCGGGTTCGAATCCCGCCTGGAGTA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_33.trna4 (101894-101822)	Length: 73 bp
+Type: Arg	Anticodon: CCT at 34-36 (101861-101859)	Score: 76.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCCCTTGTAGCCTAATGGAtATGGCGTTTGCTTCCTAAGCAAAAGGtTGCGGGTTCGAGTCCCGCCAGGGGTA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_34.trna1 (1159663-1159734)	Length: 72 bp
+Type: Pro	Anticodon: CGG at 33-35 (1159695-1159697)	Score: 70.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGCCGCTTGGTCTAGTGGTATGATTCCCGCTTCGGGTGCGGGAGGtCAGGGGTTCAATTCCCCTAGCGGCCC
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_34.trna2 (1159796-1159868)	Length: 73 bp
+Type: Asn	Anticodon: GTT at 34-36 (1159829-1159831)	Score: 73.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: TCCTCCCTGGCGCAGTCGGCAGCGCGTTAGGCTGTTAACCTACAGGtCGTTGGTTCGAATCCAACGGGAGGAG
+Str: >>>>>>>..>>>>........<<<<..>>>>.......<<<<......>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_34.trna3 (1159581-1159510)	Length: 72 bp
+Type: Thr	Anticodon: CGT at 33-35 (1159549-1159547)	Score: 70.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGCCGCTTAGCACAGTGGCAGTGCACCACTCTCGTAAAGTGGGGGtCGCGAGTTCGATTCTCGCAGTGGCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_34.trna4 (1159447-1159364)	Length: 84 bp
+Type: Tyr	Anticodon: GTA at 34-36 (1159414-1159412)	Score: 72.4
+Possible intron: 38-48 (1159410-1159400)
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: CCTTCTGTAGCTCAATTGGTAGAGCATGTGACTGTAGagttcgcaggtATCACAGGGtCGCTGGTTCGATTCCGGCCGGAAGGA
+Str: >>>>>>>..>>>>........<<<<.>>>>>..................<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_34.trna5 (1159309-1159237)	Length: 73 bp
+Type: Asn	Anticodon: GTT at 34-36 (1159276-1159274)	Score: 73.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: TCCTCCCTGGCGCAGTCGGCAGCGCGTTAGGCTGTTAACCTACAGGtCGTTGGTTCGAATCCAACGGGAGGAG
+Str: >>>>>>>..>>>>........<<<<..>>>>.......<<<<......>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_36.trna1 (999755-999825)	Length: 71 bp
+Type: Gly	Anticodon: GCC at 33-35 (999787-999789)	Score: 69.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |
+Seq: GCGCAGTTGGTCTAGTGGTAGAATTCTCGCCTGCCACGCGGGAGGCCCGGGTTCGATTCCCGGACTGCGCA
+Str: >>>>>>>..>>.>.......<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_36.trna2 (1000760-1000831)	Length: 72 bp
+Type: Pro	Anticodon: AGG at 33-35 (1000792-1000794)	Score: 66.6
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGTCCAGTGGTCTAGTGGCATGATTCTCCCTTAGGGTGGGAGAGGtCCCGGGTTCAATTCCCGGCTGGACCC
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_36.trna3 (2424369-2424440)	Length: 72 bp
+Type: Cys	Anticodon: GCA at 33-35 (2424401-2424403)	Score: 77.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGATTCATAGCTCAGTGGTAGAGCATTCGGCTGCAGTCCGAATGGtCCCCGGTTCAAACCCGGGTGGGTCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_36.trna4 (2425502-2425573)	Length: 72 bp
+Type: Pro	Anticodon: TGG at 33-35 (2425534-2425536)	Score: 68.7
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGTCGTTTGGTCTAGTGGTATGATTCCTGTTTTGGGTACAGGAGGtCACGGGTTCAATTCCCGTAACGACCC
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_36.trna5 (2425430-2425359)	Length: 72 bp
+Type: iMet	Anticodon: CAT at 33-35 (2425398-2425396)	Score: 67.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: AGCACCGTAGCGCAGTGGAAGCGCGATGGGCTCATAACCCATAGGtCGTTGGATCGAAACCAATCGGTGCTA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_36.trna6 (2425295-2425214)	Length: 82 bp
+Type: Leu	Anticodon: AAG at 35-37 (2425261-2425259)	Score: 74.7
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGTGAGATGGTCGAGTGGTctAAGACGTTGGATTAAGGTTCCAATCCTTTCGAGGgCGTGGGTTCAAACCCCACTCTCATCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>.>...<.<...>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_36.trna7 (1573568-1573497)	Length: 72 bp
+Type: Gln	Anticodon: CTG at 34-36 (1573535-1573533)	Score: 67.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GCTCCTATAGTGTAGCGGTtATCACCTCGGACTCTGAATCCGATAaCCCTGGTTCGAGTCCAGGTAGGAGTG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_36.trna8 (1000686-1000616)	Length: 71 bp
+Type: Gly	Anticodon: GCC at 33-35 (1000654-1000652)	Score: 69.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |
+Seq: GCGCAGTTGGTCTAGTGGTAGAATTCTCGCCTGCCACGCGGGAGGCCCGGGTTCGATTCCCGGACTGCGCA
+Str: >>>>>>>..>>.>.......<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_36.trna9 (1000551-1000480)	Length: 72 bp
+Type: Thr	Anticodon: AGT at 33-35 (1000519-1000517)	Score: 71.4
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGCTGCTTAGCTCAATGGCAGAGCGCCGTCCTAGTAAGACGGAGGtCAGGGGTTCGATCCCCCTAGCGGCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_36.trna10 (477671-477600)	Length: 72 bp
+Type: Thr	Anticodon: AGT at 33-35 (477639-477637)	Score: 71.4
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGCTGCTTAGCTCAATGGCAGAGCGCCGTCCTAGTAAGACGGAGGtCAGGGGTTCGATCCCCCTAGCGGCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LgeLEM452_36.trna11 (477521-477438)	Length: 84 bp
+Type: Tyr	Anticodon: GTA at 34-36 (477488-477486)	Score: 72.4
+Possible intron: 38-48 (477484-477474)
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: CCTTCTGTAGCTCAATTGGTAGAGCATGTGACTGTAGagttcgcaggtATCACAGGGtCGCTGGTTCGATTCCGGCCGGAAGGA
+Str: >>>>>>>..>>>>........<<<<.>>>>>..................<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LGELEM452_SCAF000007.trna1 (10191-10270)	Length: 80 bp
+Type: Leu	Anticodon: TAG at 35-37 (10225-10227)	Score: 76.6
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: GGCGGAGTGGCCGAGTGGTctAAGGCGCCAGATTTAGGCTCTGGTCTTTCGAGgCGTGGGTTCGAACCCCACCTCCGTCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<..>>..<<...>>>>>.......<<<<<<<<<<<<.
+
+LGELEM452_SCAF000007.trna2 (10733-10806)	Length: 74 bp
+Type: Val	Anticodon: AAC at 35-37 (10767-10769)	Score: 61.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GCGCGGTTGGTCTAGGTGGTtATGACGTCGCTTTAACACGGCGAAGGtCTCGGGTTCGAGTCCCGAACTGCGTA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LGELEM452_SCAF000007.trna3 (10510-10437)	Length: 74 bp
+Type: Ile	Anticodon: AAT at 35-37 (10476-10474)	Score: 80.1
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GCTCTCATAGCTCAGTCGGTtAGAGCGTGGGTCTAATAAGCCCAAGGtCACAGGTTCGACCCCTGTTGGGAGCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+LGELEM452_SCAF000007.trna4 (10373-10301)	Length: 73 bp
+Type: Met	Anticodon: CAT at 34-36 (10340-10338)	Score: 72.5
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCGAGCGTAGCGCAGTCGGCAGCGCGTGGGTCTCATAATCCCAAGGtCGTGAGTTCGATCCTCACCGGTCGCA
+Str: >>>>.>>..>>>>........<<<<.>>>>.........<<<<.....>>>>>.......<<<<<<<.<<<<.
+
+LGELEM452_SCAF000007.trna5 (10116-10036)	Length: 81 bp
+Type: Ser	Anticodon: TGA at 34-36 (10083-10081)	Score: 71.3
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+Seq: GTCAACATACCCAAGTGGTtACGGGGTTTGACTTGAAATCAAATGCGATCTCGCGCGCAGGTTCGAACCCTGCTGTTGACG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>....<<<..>>>>>.......<<<<<<<<<<<<.
+
+LGELEM452_SCAF000066.trna1 (444-515)	Length: 72 bp
+Type: Glu	Anticodon: CTC at 34-36 (477-479)	Score: 65.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: TCCGATGTGGTATAGTGGAtAGAACAAGCGGCTCTCACCCGCTAGaCCCGGGTTCGATCCCCGGCATCGGAA
+Str: >>>>>>>..>>.>........<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+LGELEM452_SCAF000066.trna2 (628-558)	Length: 71 bp
+Type: Gly	Anticodon: GCC at 33-35 (596-594)	Score: 69.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |
+Seq: GCGCAGTTGGTCTAGTGGTAGAATTCTCGCCTGCCACGCGGGAGGCCCGGGTTCGATTCCCGGACTGCGCA
+Str: >>>>>>>..>>.>.......<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+LGELEM452_SCAF000082.trna1 (659-730)	Length: 72 bp
+Type: Asp	Anticodon: GTC at 34-36 (692-694)	Score: 70.6
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: TTCTCGGTAGTATAGTGGTtAGTATACCCGCCTGTCACGCGGGTGaCCCGGGTTCAATTCCCGGCCGGGAAG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+LGELEM452_SCAF000082.trna2 (582-502)	Length: 81 bp
+Type: Ser	Anticodon: GCT at 34-36 (549-547)	Score: 77.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+Seq: GCAAATGTGGCCGAGTGGTtAAGGCGCCTGCCTGCTAAGCAGGTGTGATCTCACGCGAAGGTTCGAACCCTTCCGTTTGCG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>....<<<..>>>>>.......<<<<<<<<<<<<.
+
+LGELEM452_SCAF000082.trna3 (442-370)	Length: 73 bp
+Type: Ala	Anticodon: AGC at 34-36 (409-407)	Score: 54.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GGGGATGTAGCTCAGATGGTAGAGCGACCGCTTAGCATGCGGTAGGtATTGGGATCGATACCCAACTTCTCCA
+Str: >>>>>.>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<.<<<<<.
+

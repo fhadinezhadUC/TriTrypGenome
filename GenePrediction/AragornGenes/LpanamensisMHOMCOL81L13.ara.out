@@ -1,0 +1,2016 @@
+>LpaL13_01 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=216899 | SO=chromosome
+0 genes found
+>LpaL13_02 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=234648 | SO=chromosome
+0 genes found
+>LpaL13_03 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=389229 | SO=chromosome
+0 genes found
+>LpaL13_04 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=441484 | SO=chromosome
+1 genes found
+1   tRNA-Arg                 [13301,13372]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LpaL13_05 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=401652 | SO=chromosome
+1 genes found
+1   tRNA-Arg               [332495,332566]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LpaL13_06 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=517917 | SO=chromosome
+2 genes found
+1   tRNA-SeC                c[71486,71573]	108.3	36  	(tca)
+gccgcgatgagctcagctggtgctgggtgcgggcttcaaacccgtaggtgagttgctctcacagccgttcgattcggccttcgtggcg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+2   tRNA-Asp              c[305955,306051]	101.8	37  	(gtc)
+gtcgggatggcggggttgagtaccgcactagcgcttgtcatgagataggaatagcgtggctggtgtttctgcatgtgtgcagccgcatagcccgtcg
+(.((((.( ((((ddddddddd))))  ((.(.(  AAA  ).).))((((((vvvvvvvvvv))))))   (((((tttttt)))))).)))).)
+>LpaL13_07 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=525245 | SO=chromosome
+0 genes found
+>LpaL13_08 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=293974 | SO=chromosome
+0 genes found
+>LpaL13_09 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=530223 | SO=chromosome
+8 genes found
+1   tRNA-Met               [264966,265037]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Leu               [265097,265180]	117.1	35  	(cag)
+ggcaagatggtcgagtggtccaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+3   tRNA-Val               [364765,364838]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-His               [365096,365167]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+5   tRNA-Glu              c[377966,378039]	118.0	34  	(ttc)
+tccgatgtagtataacggttagaacacctggctttcacccaggagatccgggttcgattcccggtatcggagcc
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+6   tRNA-Val              c[378280,378353]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+7   tRNA-Arg               [378428,378499]	118.6	33  	(ccg)
+gacgttgtggcgcaatggaagcgcgtcggattccggatccgaaggttgtgggttcgacccccatcagcgttg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+8   tRNA-His               [378561,378632]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>LpaL13_10 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=500501 | SO=chromosome
+2 genes found
+1   tRNA-Lys               [460940,461013]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Asn              c[461177,461249]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggag
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>LpaL13_11 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=520303 | SO=chromosome
+5 genes found
+1   tRNA-Leu                c[86239,86321]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ala                 [86393,86464]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtcca
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+3   tRNA-Gly                 [86521,86592]	122.0	33  	(ccc)
+gcgccgctggtctagtggcatgatggtaccctcccaaggtattgacccgggttcgattcccgggcggcgcac
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+4   tRNA-Met              c[332355,332427]	113.6	34  	(cat)
+gcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+5   tRNA-Arg               [332497,332571]	120.3	34  	(acg)
+cgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgac
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+>LpaL13_12 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=428131 | SO=chromosome
+0 genes found
+>LpaL13_13 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=574302 | SO=chromosome
+0 genes found
+>LpaL13_14 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=576890 | SO=chromosome
+0 genes found
+>LpaL13_15 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=548850 | SO=chromosome
+5 genes found
+1   tRNA-Gly               [213812,214008]	102.7	35  	(acc)i(40,104)
+tggcgttggccgacttgaccaacggcagcgtgctaccgcacagctcctccttgcacaacaaggacgtgggagactccgccgcgccacccacaccactgcacttgactggcggcggtggaaacccctacacgcagccgagctcgtacgcaaaccacgacggccctggggtggctggtggcatgcctgtagtgccatcc
+((((((( ((((dddddddddd)))) (((((  AAA  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii))))) ..(.vvvv.)..         ((.((ttttttt)).)))))))))
+2   tRNA-Asp               [274218,274290]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Glu              c[274321,274392]	118.1	34  	(ctc)
+tccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+4   tRNA-Asp               [274503,274575]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+5   tRNA-Glu              c[274606,274677]	118.1	34  	(ctc)
+tccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>LpaL13_16 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=633537 | SO=chromosome
+4 genes found
+1   tRNA-Gln              c[389426,389500]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgtc
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+2   tRNA-Leu               [389756,389837]	111.7	36  	(taa)
+gctggggttcccgagttggtcaaaggggtgagacttaagttctcatgcgcaagcttcgtgggttcgaaccccacctccagca
+(((((((  (((.dddddddddd.)))((((((  AAA  ))))))           (((((ttttttt))))))))))))
+3   tRNA-Gln              c[390023,390097]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgtc
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+4   tRNA-Gln              c[391370,391444]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgtc
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+>LpaL13_17 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=610172 | SO=chromosome
+3 genes found
+1   tRNA-Asp              c[292534,292606]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Ser               [292682,292766]	121.7	35  	(gct)
+tgcaaatgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcgacc
+((((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+3   tRNA-Ala               [292822,292897]	108.3	35  	(agc)
+tggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctccagc
+((((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+>LpaL13_18 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=571145 | SO=chromosome
+0 genes found
+>LpaL13_19 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=621370 | SO=chromosome
+1 genes found
+1   tRNA-Ala              c[253102,253175]	103.1	34  	(ggc)
+agcgcgctagaggagcggggccgcggccgcgctggcgacgtggccgtgtaggtgttctgtgcaccagcgtccca
+.(.((((  (.((ddddddd)).) ((((((  AAA  ))))))     .((((ttttttt)))).)))).).
+>LpaL13_20.1 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1641339 | SO=chromosome
+11 genes found
+1   tRNA-Val              c[396728,396802]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Ile               [396952,397026]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Met               [397088,397161]	113.6	34  	(cat)
+gcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgcac
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+4   tRNA-Leu              c[397216,397296]	119.8	35  	(tag)
+ggcggagtggccgagtggtctaaggcgccagatttaggctctggtctttcgaggcgtgggttcgaaccccacctccgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))          (((((ttttttt))))))))))))
+5   tRNA-Ser               [397372,397452]	116.9	34  	(tga)
+gtcaacatacccaagtggttacggggtttgacttgaaatcaaatgcgatctcgcgcgcaggttcgaaccctgctgttgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+6   tRNA-Ala              c[675141,675212]	101.3	33  	(ggc)
+tgtcctctggcgcggcggaacaccttggcgttggcaacgctgacggtgtcgttttgctcgagagggggacgg
+(((((((( (.(dddddddd).) ((((((  AAA  ))))))   (.(((ttttttt))).)))))))))
+7   tRNA-Asn            c[1245121,1245194]	116.5	34  	(gtt)
+tcccccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((.(((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt)))))))).)))
+8   tRNA-Pro            c[1245253,1245324]	124.4	33  	(cgg)
+ggccgcttggtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+9   tRNA-Thr             [1245404,1245476]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+10  tRNA-Tyr             [1245534,1245618]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagactgcaggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+11  tRNA-Asn             [1245682,1245755]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>LpaL13_20.2 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=666532 | SO=chromosome
+0 genes found
+>LpaL13_21 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=675135 | SO=chromosome
+3 genes found
+1   tRNA-Ser              c[149880,149960]	123.0	34  	(gct)
+gcaaacgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcg
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Val               [388374,388448]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Lys               [388510,388583]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>LpaL13_22 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=579292 | SO=chromosome
+0 genes found
+>LpaL13_23 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=792703 | SO=chromosome
+11 genes found
+1   tRNA-Ile               [221244,221320]	118.5	36  	(tat)
+tgctcccgtggtctagttggttaggacgctggtcttatgaaccggatatcgcgggttcgagccccgccgggagcagc
+((((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+2   tRNA-Val              c[221375,221447]	111.3	34  	(tac)
+gcgtgggtgatctagtggttatgatgtctgctttacacgcagaacgtcgcgggttcgaaccccgccccgcgta
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Gln              c[221514,221585]	124.9	34  	(ttg)
+ggtcctatggtgtagtggttatcacttcggactttgaatccgaaaacccaggttcgaatcctggtaggacca
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+4   tRNA-Arg              c[221845,221918]	118.0	34  	(acg)
+cgtccgtgtggctcaatggacgagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgt
+((((((((  (((ddddddddd))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+5   tRNA-Leu              c[222145,222228]	117.1	35  	(cag)
+ggcaagatggtcgagtggtccaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+6   tRNA-Thr              c[222287,222360]	119.3	34  	(tgt)
+aggccgcttagcacagtggcagtgcattggtcttgtaaaccaagggtcccgagttcaattctcggagtggcctt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+7   tRNA-Arg               [222432,222505]	121.1	34  	(tcg)
+tggcctcttggcgcaatggaagcgcatcagacttcggatctgagggttgcaggttcgagtcctgcaggggtcgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+8   tRNA-Lys               [222831,222905]	122.0	35  	(ttt)
+cgcactcctagctcagttggtagagcgcgtggcttttaacctcgtggtcgtgggttcgagccccacggagtgcgt
+((((((((  ((((dddddddd))))(((.((  AAA  )).)))    (((((ttttttt)))))))))))))
+9   tRNA-Gly              c[222939,223012]	116.4	34  	(tcc)
+gcaattgtggtccaacggttaagatccccgccttccaagcgggtgacccgggttcgactcccggcaattgcacc
+(((((((  (((dddddddddd))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+10  tRNA-Trp               [223088,223159]	116.8	33  	(cca)
+gggggcttagctcagtggtagagcattggattccaaatccaggggtcgcaggttcaatccctgcagctctca
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+11  tRNA-Asp              c[790390,790532]	100.1	35  	(atc)i(40,44)
+ctcttcgcccggggggtggggcgctttcgacgttatcgcgcctcgaaagtagatgctgaactcatccactctcgccgcgttggcgtcgagctttgattcctctatgaagggcgctggcgttcagcaccgcgggcggacggccc
+((.(((((   ((((dddddddd))))(((((  AAA  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii))))) (..vvvvv..)              (.(((tttttttt))).)))))).))
+>LpaL13_24 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=830763 | SO=chromosome
+6 genes found
+1   tRNA-Cys                 [70869,70971]	100.6	45  	(gca)i(35,9)
+cggcgaggtggctgagttggagcagcccagagtcaaggctctgtgcagagcgctcgagtgcgagtcgcgagcgcgcactcagctccacaccaggccttgctgg
+((((((((  ((((dddddddd))))  ((.(( iiiiiiiii AAA  )).))     (((.(vvvvvvv).))) ((..(ttttttt)..))))))))))
+2   tRNA-Pro               [112881,112952]	124.4	33  	(cgg)
+ggccgcttggtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+3   tRNA-Ile              c[543344,543433]	102.8	34  	(gat)
+ccggcggtggcgcacgagcttgtgggcggcaccgatattgccgagtgcatgcgtcgcgcagggcttgttgtgccagacaacatcaccggc
+((((.((  .((dddddddddd)). (((((  AAA  )))))    (.(((vvvvv))).)   (((((ttttttt))))))).))))
+4   tRNA-Leu              c[616616,616697]	111.7	36  	(taa)
+gctggggttcccgagttggtcaaaggggtgagacttaagttctcatgcgcaagcttcgtgggttcgaaccccacctccagca
+(((((((  (((.dddddddddd.)))((((((  AAA  ))))))           (((((ttttttt))))))))))))
+5   tRNA-Ile               [616775,616849]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Asp              c[674080,674152]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+>LpaL13_25 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=749923 | SO=chromosome
+0 genes found
+>LpaL13_26 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=983630 | SO=chromosome
+0 genes found
+>LpaL13_27 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1044852 | SO=chromosome
+1 genes found
+1   tRNA-Ala              c[238338,238445]	100.2	37  	(ggc)i(38,9)
+gcagcgggattggataggctcaatgatcttgctactgttgttgcaggcaaaggcgaaccgcgttgtgctgctgtgtagctccattgtgcgacgcaatgcctgctgcgc
+((((((((   ((((dddddddddd))))((((.  AiiiiiiiiiAA  .))))  (.((vvvvv)).)           (((((ttttttt)))))))))))))
+>LpaL13_28 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1122428 | SO=chromosome
+2 genes found
+1   tRNA-Pro                c[52833,52926]	100.6	34  	(cgg)
+tgcacatggcttgtggcacctggggctcctcctcggaggaggagggtccgtcaagcggggtgcacacctgccgatcctcatcagtaatgggcat
+(((.((( ((((dddddddddd))))(((((  AAA  )))))   ((((vvvvv))))         (((.(tttttttt).)))))).)))
+2   tRNA-Ser              c[224620,224702]	101.5	43  	(cga)i(32,10)
+ggcggcgctgctcaagattgtggaggaggtcaaggcggttgtcgaggacttcaagccgtgggtgccattcctatcgtcgctgc
+(((((((   (((ddddddddd)))((((( iiiiiiiiii AAA  )))))     (((((ttttttt))))))))))))
+>LpaL13_29 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1036039 | SO=chromosome
+0 genes found
+>LpaL13_30 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1252305 | SO=chromosome
+1 genes found
+1   tRNA-Thr              c[670399,670470]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LpaL13_31 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1302037 | SO=chromosome
+6 genes found
+1   tRNA-Ala               [193062,193137]	108.3	35  	(agc)
+tggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctccaac
+((((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+2   tRNA-Gly               [517047,517117]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Glu              c[517165,517236]	118.1	34  	(ctc)
+tccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+4   tRNA-Glu              c[517447,517518]	118.1	34  	(ctc)
+tccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+5   tRNA-Phe             [1150058,1150130]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Ser            c[1150172,1150253]	118.3	34  	(aga)
+gtcaccatacccaagtggttacggggactgactagaaatcagttgcgatctcgcgcgtaggttcgaatcctgctggtgacgc
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>LpaL13_32 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1522865 | SO=chromosome
+1 genes found
+1   tRNA-Val               [768392,768531]	101.3	80  	(cac)i(30,48)
+cggccccgtgcaacggacgaattgacttgccttgcgccggtgtcgctgcgagtgtcagtgaggaagcaagaaacaagttcacgagaagtgcgatgacagcaagaaggaagtgccgctggttccgctgcagcggggccagc
+.((((((   (((dddddddd)))((((.iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  .))))      ...vvvv...         ((((.ttttttt.)))))))))).
+>LpaL13_33 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1394786 | SO=chromosome
+6 genes found
+1   tRNA-Arg                c[74485,74558]	118.9	34  	(cct)
+gcccttgtagcctaatggatatggcgtttgcttcctaagcaaaaggttgcgggttcgagtcccgccaggggtac
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Arg                c[74619,74691]	125.8	34  	(tct)
+gctccagtggcctaatggataaggctttggacttctaatccaaagattgcgggttcgaatcccgcctggagta
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+3   tRNA-Ala                 [74768,74839]	117.5	33  	(tgc)
+gggcgtgtagctcagtggtagagcgcctgttttgcatacaggaggcctagggttcaaacccctactcgtcca
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+4   tRNA-Lys              c[464412,464485]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+5   tRNA-Lys              c[472993,473066]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+6   tRNA-Ala              c[961909,962014]	101.5	46  	(tgc)i(34,11)
+gcagcagctgccaaaggtgttgtcagccaggacaaacaaccgcattgcgcttgtggggcagtgcgggttgtccatcgccgcagtgtgagtccgcgctgccgcccca
+((.((((   (..(dddddddd)..) ((.(( iiiiiiiiiii AAA  )).))        (((.vvvvvv.))) (((.(ttttttt).))))))).))
+>LpaL13_34 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1896241 | SO=chromosome
+0 genes found
+>LpaL13_35 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2585327 | SO=chromosome
+12 genes found
+1   tRNA-Thr               [463938,464012]	117.1	34  	(agt)
+aggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcctac
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+2   tRNA-Tyr               [464078,464162]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagtccgcaggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+3   tRNA-Ala               [755928,756131]	102.6	37  	(ggc)i(38,108)
+caggcagtggagaatagctgccatttcgtcagttttgaatgtgtcgtccctacaacggagtttggcgctgttgcgctgtacgacatagttgagcgtctgtccgcgcttgatccgctcttctgcagtataacgtggggcaatgatggccgaaccgcagagaccttcatcgaggtcgcctcagtgtgccagtcgctgctgtctgtc
+(((((((  ((((dddddddddd))))  (.(((  AiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiAA  ))).)     ..((vvvvvvv))..    (((((ttttttt))))))))))))
+4   tRNA-Pro              c[972254,972325]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+5   tRNA-Gly               [972399,972470]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgcac
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+6   tRNA-Thr               [972532,972603]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+7   tRNA-Thr              c[972908,972979]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+8   tRNA-Gly              c[973041,973112]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgcac
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+9   tRNA-Cys             [2375255,2375327]	122.6	33  	(gca)
+ggattcatagctcagtggtagagcattcggctgcagtccgaatggtccccggttcaaacccgggtgggtcctc
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+10  tRNA-Leu            c[2377396,2377478]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+11  tRNA-Met            c[2377545,2377616]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+12  tRNA-Pro             [2377689,2377760]	122.1	33  	(tgg)
+ggtcgtttggtctagtggtatgattcctgttttgggtacaggaggtcacgggttcaattcccgtaacgaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>LPAL13_SCAF000001 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1854 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000002 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1948 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000003 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=10030 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000004 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=458 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000005 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1058 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000006 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=655 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000007 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1076 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000008 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=338 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000009 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1671 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000010 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=4519 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000011 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=9473 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000012 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1951 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000013 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=203 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000014 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1131 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000015 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=706 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000016 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=634 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000017 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2067 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000018 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=477 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000019 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=287 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000020 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=652 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000021 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=5792 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000022 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1785 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000023 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=534 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000024 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=613 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000025 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1049 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000026 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=400 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000027 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=16753 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000028 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=581 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000029 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1409 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000030 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=275 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000031 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=516 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000032 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1035 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000033 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=13190 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000034 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=810 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000035 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=275 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000036 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2342 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000037 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=529 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000038 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=711 | SO=supercontig
+3 genes found
+1   tRNA-Lys                     c[55,128]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Val                    c[190,264]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Pro                    c[364,435]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>LPAL13_SCAF000039 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2420 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000040 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=948 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000041 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=61326 | SO=supercontig
+2 genes found
+1   tRNA-Leu                c[23034,23115]	117.8	35  	(caa)
+ggcaggatggccgagtggtctaaggcgggagactcaagttctcttctattcgtaggcgcgggttcgaaccccgctcctgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ser                c[23170,23250]	119.6	34  	(cga)
+gtcaccatacccaagtggttacgggggttgactcgaaatcaactgcgatctcgcgcgcaggttcgaatcctgctggtgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>LPAL13_SCAF000042 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1354 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000043 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1124 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000044 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1315 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000045 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=327 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000046 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=241 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000047 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1054 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000048 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=774 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000049 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=801 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000050 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=3174 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000051 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=17602 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000052 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=376 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000053 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1629 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000054 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2310 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000055 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=587 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000056 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=673 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000057 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=559 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000058 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2369 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000059 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=585 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000060 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=215 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000061 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=812 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000062 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=9726 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000063 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2736 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000064 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=3533 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000065 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1945 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000066 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=819 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000067 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1139 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000068 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1305 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000069 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=321 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000070 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=987 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000071 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=3516 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000072 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=259 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000073 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1085 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000074 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=722 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000075 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=11041 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000076 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=3100 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000077 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=593 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000078 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1175 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000079 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=594 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000080 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2167 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000081 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=694 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000082 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1141 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000083 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1364 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000084 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1102 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000085 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=811 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000086 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=268 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000087 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=647 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000088 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1889 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000089 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=6941 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000090 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2298 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000091 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=726 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000092 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2015 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000093 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=603 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000094 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1025 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000095 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1866 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000096 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=961 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000097 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=29119 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000098 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1274 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000099 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=521 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000100 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1430 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000101 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=3996 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000102 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=635 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000103 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1767 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000104 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=588 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000105 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2078 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000106 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=403 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000107 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=303 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000108 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=587 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000109 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=819 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000110 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1358 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000111 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=4643 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000112 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1070 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000113 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=349 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000114 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=5437 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000115 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=6525 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000116 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=279 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000117 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=4611 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000118 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2981 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000119 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=10070 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000120 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=629 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000121 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1606 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000122 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=28357 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000123 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=600 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000124 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=44079 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000125 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=481 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000126 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=237 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000127 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=647 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000128 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1032 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000129 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=637 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000130 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=606 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000131 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=647 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000132 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=694 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000133 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=202 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000134 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=339 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000135 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=637 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000136 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=631 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000137 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=7835 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000138 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=354 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000139 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=872 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000140 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=765 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000141 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=398 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000142 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=9799 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000143 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=469 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000144 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1289 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000145 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=216 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000146 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1232 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000147 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=6362 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000148 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=949 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000149 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=620 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000150 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=910 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000151 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1135 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000152 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=963 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000153 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2808 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000154 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=396 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000155 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1365 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000156 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=650 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000157 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=225 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000158 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=972 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000159 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=326 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000160 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=410 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000161 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=291 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000162 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=598 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000163 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=3473 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000164 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1973 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000165 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1633 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000166 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=871 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000167 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1039 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000168 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=806 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000169 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1814 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000170 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=218 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000171 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=3357 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000172 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=22633 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000173 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=332 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000174 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2423 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000175 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=687 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000176 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=3639 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000177 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1249 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000178 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=712 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000179 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=720 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000180 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=731 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000181 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=601 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000182 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1018 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000183 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=214 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000184 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=202 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000185 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=818 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000186 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=606 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000187 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=606 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000188 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1205 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000189 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=946 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000190 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=523 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000191 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=917 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000192 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=870 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000193 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=236 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000194 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=3341 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000195 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=305 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000196 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1015 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000197 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=15565 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000198 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=229 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000199 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=472 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000200 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=8560 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000201 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=958 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000202 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2336 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000203 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=705 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000204 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2888 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000205 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=585 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000206 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=4910 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000207 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=403 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000208 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=231 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000209 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=36187 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000210 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=535 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000211 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1773 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000212 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=496 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000213 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1134 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000214 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=209 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000215 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=324 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000216 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=204 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000217 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=623 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000218 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1518 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000219 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=4585 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000220 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=644 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000221 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2039 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000222 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=528 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000223 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1451 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000224 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=665 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000225 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=454 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000226 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=883 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000227 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=22110 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000228 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=587 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000229 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=8892 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000230 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=595 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000231 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1236 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000232 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=239 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000233 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=7577 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000234 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1133 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000235 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2879 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000236 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1223 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000237 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2850 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000238 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=414 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000239 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2350 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000240 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2245 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000241 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=296 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000242 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2914 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000243 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=200 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000244 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=989 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000245 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2978 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000246 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=599 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000247 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2022 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000248 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1951 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000249 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=763 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000250 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1912 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000251 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=3017 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000252 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=261 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000253 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=5964 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000254 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1473 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000255 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1661 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000256 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=620 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000257 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1582 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000258 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1564 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000259 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=647 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000260 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=564 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000261 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=5381 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000262 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=886 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000263 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1521 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000264 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=3091 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000265 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1443 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000266 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=5478 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000267 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=12022 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000268 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=351 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000269 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=725 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000270 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1111 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000271 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1425 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000272 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=557 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000273 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1352 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000274 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1345 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000275 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=9050 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000276 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1343 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000277 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1303 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000278 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1270 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000279 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1220 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000280 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=683 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000281 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=650 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000282 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1279 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000283 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1041 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000284 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1180 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000285 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=641 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000286 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1154 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000287 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=8035 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000288 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1102 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000289 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1049 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000290 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1014 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000291 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=646 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000292 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=26627 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000293 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1008 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000294 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1924 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000295 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2404 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000296 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=605 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000297 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1014 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000298 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=877 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000299 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=931 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000300 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=278 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000301 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=895 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000302 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=8312 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000303 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=3582 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000304 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=653 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000305 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=712 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000306 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=854 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000307 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2588 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000308 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=482 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000309 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=647 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000310 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=820 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000311 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=813 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000312 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=996 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000313 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=241 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000314 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=760 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000315 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=706 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000316 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=7481 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000317 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=621 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000318 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=691 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000319 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=15743 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000320 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=606 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000321 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=453 | SO=supercontig
+2 genes found
+1   tRNA-Leu                    c[213,294]	111.7	36  	(taa)
+gctggggttcccgagttggtcaaaggggtgagacttaagttctcatgcgcaagcttcgtgggttcgaaccccacctccagca
+(((((((  (((.dddddddddd.)))((((((  AAA  ))))))           (((((ttttttt))))))))))))
+2   tRNA-Ile                     [372,446]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LPAL13_SCAF000322 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1573 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000323 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=604 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000324 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=577 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000325 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=3525 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000326 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=643 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000327 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=574 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000328 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=562 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000329 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=262 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000330 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=683 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000331 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=262 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000332 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=530 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000333 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=528 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000334 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1237 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000335 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=517 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000336 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=320 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000337 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=231 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000338 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=629 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000339 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=242 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000340 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=602 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000341 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=502 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000342 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=497 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000343 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=497 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000344 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1223 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000345 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=462 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000346 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=453 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000347 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=32038 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000348 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=11748 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000349 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=432 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000350 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=427 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000351 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=3751 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000352 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1306 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000353 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=322 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000354 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=421 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000355 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=411 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000356 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=410 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000357 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=400 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000358 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1497 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000359 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=450 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000360 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=399 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000361 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=396 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000362 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=923 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000363 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=582 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000364 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1135 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000365 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=373 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000366 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=281 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000367 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=445 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000368 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1245 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000369 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=838 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000370 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=606 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000371 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=609 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000372 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=411 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000373 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=350 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000374 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=652 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000375 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=328 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000376 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=200 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000377 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1194 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000378 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=517 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000379 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1625 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000380 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=312 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000381 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=308 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000382 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1821 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000383 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1493 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000384 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=263 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000385 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=663 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000386 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=307 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000387 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1307 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000388 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1239 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000389 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=297 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000390 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=294 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000391 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=3109 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000392 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=293 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000393 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2034 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000394 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=648 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000395 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=891 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000396 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=291 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000397 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=4793 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000398 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1142 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000399 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1714 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000400 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2104 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000401 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=581 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000402 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=285 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000403 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=21199 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000404 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=286 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000405 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=647 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000406 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=266 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000407 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=265 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000408 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=261 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000409 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=259 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000410 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=536 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000411 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=259 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000412 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=431 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000413 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=258 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000414 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=254 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000415 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=248 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000416 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=243 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000417 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=7427 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000418 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2330 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000419 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=243 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000420 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=6020 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000421 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=7043 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000422 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=239 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000423 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=238 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000424 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=14654 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000425 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=236 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000426 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=8272 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000427 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1082 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000428 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=230 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000429 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=230 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000430 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=228 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000431 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1683 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000432 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=650 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000433 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=223 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000434 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=33812 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000435 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=228 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000436 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=662 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000437 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=218 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000438 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=217 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000439 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=227 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000440 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=648 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000441 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=638 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000442 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=561 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000443 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=205 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000444 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=968 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000445 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=204 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000446 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2064 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000447 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=8488 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000448 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=601 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000449 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=3511 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000450 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=928 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000451 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=321 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000452 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=468 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000453 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=608 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000454 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=202 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000455 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1014 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000456 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=206 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000457 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1325 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000458 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=825 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000459 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1506 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000460 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=278 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000461 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=20616 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000462 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1397 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000463 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1276 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000464 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=3208 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000465 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1637 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000466 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1977 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000467 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1115 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000468 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=581 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000469 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=212 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000470 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=32323 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000471 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=215 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000472 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=216 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000473 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=221 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000474 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=295 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000475 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1646 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000476 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1593 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000477 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=12761 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000478 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=222 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000479 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=223 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000480 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=215 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000481 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2134 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000482 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=237 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000483 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1251 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000484 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=245 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000485 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=252 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000486 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=329 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000487 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=558 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000488 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=264 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000489 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=268 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000490 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=270 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000491 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=275 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000492 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=7414 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000493 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=367 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000494 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=291 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000495 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1588 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000496 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=3664 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000497 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=395 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000498 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=727 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000499 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=291 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000500 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1038 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000501 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=293 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000502 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1405 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000503 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=21255 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000504 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2594 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000505 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=604 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000506 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=596 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000507 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=330 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000508 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=335 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000509 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=478 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000510 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=335 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000511 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1643 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000512 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1899 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000513 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2387 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000514 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=340 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000515 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2194 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000516 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1055 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000517 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=344 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000518 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=369 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000519 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=370 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000520 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=523 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000521 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=715 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000522 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=21586 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000523 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=358 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000524 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=453 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000525 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=462 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000526 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=799 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000527 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=518 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000528 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=522 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000529 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=569 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000530 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=300 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000531 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=287 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000532 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1021 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000533 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=577 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000534 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=999 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000535 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=647 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000536 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=578 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000537 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=580 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000538 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=212 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000539 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=381 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000540 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=586 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000541 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2806 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000542 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=587 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000543 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=917 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000544 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1002 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000545 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=703 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000546 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=510 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000547 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=590 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000548 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=605 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000549 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=590 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000550 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1008 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000551 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=938 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000552 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=218 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000553 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=653 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000554 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=3798 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000555 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=7687 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000556 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=593 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000557 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1077 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000558 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=594 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000559 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=232 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000560 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=598 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000561 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=384 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000562 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=598 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000563 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=628 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000564 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=600 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000565 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1427 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000566 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=600 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000567 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=630 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000568 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=602 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000569 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2277 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000570 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=604 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000571 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=330 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000572 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=604 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000573 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1360 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000574 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=590 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000575 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1222 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000576 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=11155 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000577 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=25227 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000578 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=606 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000579 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=361 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000580 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=608 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000581 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=208 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000582 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=888 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000583 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=368 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000584 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=954 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000585 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=3887 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000586 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=609 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000587 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=609 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000588 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1557 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000589 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=618 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000590 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=9952 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000591 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=7515 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000592 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1740 | SO=supercontig
+2 genes found
+1   tRNA-Ala                  c[1248,1320]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+2   tRNA-Leu                   [1392,1474]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>LPAL13_SCAF000593 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=4894 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000594 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=610 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000595 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=794 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000596 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1000 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000597 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=598 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000598 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1236 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000599 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=9493 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000600 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1454 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000601 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2439 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000602 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=813 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000603 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=617 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000604 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=411 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000605 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=9669 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000606 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=923 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000607 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=619 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000608 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1513 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000609 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2412 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000610 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=877 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000611 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=12562 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000612 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=727 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000613 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1294 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000614 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=624 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000615 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1476 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000616 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=611 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000617 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=588 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000618 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1904 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000619 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=903 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000620 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=971 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000621 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=946 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000622 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=601 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000623 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=504 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000624 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1491 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000625 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=634 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000626 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=634 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000627 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2368 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000628 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=636 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000629 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=361 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000630 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=214 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000631 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1253 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000632 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=607 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000633 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1260 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000634 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=657 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000635 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=6915 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000636 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=639 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000637 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=32474 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000638 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=204 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000639 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=640 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000640 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=877 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000641 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=641 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000642 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1219 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000643 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=64137 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000644 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1015 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000645 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2817 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000646 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=643 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000647 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=416 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000648 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=601 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000649 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=841 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000650 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=3488 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000651 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1533 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000652 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=3165 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000653 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=971 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000654 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=8254 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000655 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=610 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000656 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=897 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000657 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=302 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000658 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2720 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000659 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=609 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000660 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=401 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000661 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=590 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000662 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1145 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000663 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=336 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000664 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=653 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000665 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2960 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000666 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1034 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000667 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2460 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000668 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=659 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000669 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=659 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000670 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=874 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000671 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=519 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000672 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=210 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000673 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=851 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000674 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=336 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000675 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=430 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000676 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1170 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000677 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2567 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000678 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=713 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000679 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=636 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000680 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2455 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000681 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=638 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000682 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1431 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000683 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=726 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000684 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=726 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000685 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=241 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000686 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=721 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000687 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=720 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000688 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=314 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000689 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=779 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000690 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1167 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000691 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=850 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000692 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=851 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000693 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=885 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000694 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=3000 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000695 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=899 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000696 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=243 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000697 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=44951 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000698 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=322 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000699 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=926 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000700 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=56221 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000701 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1311 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000702 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1892 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000703 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=201 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000704 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=735 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000705 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1217 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000706 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=680 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000707 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=649 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000708 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1877 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000709 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=399 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000710 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=3538 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000711 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=617 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000712 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=288 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000713 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=3663 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000714 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=574 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000715 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2645 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000716 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=406 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000717 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2055 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000718 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1456 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000719 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=855 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000720 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1318 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000721 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=977 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000722 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=607 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000723 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=8654 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000724 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1992 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000725 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=277 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000726 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=626 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000727 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2729 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000728 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=880 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000729 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=208 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000730 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1128 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000731 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=941 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000732 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1736 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000733 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2927 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000734 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2298 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000735 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2228 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000736 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=3582 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000737 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2639 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000738 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=37922 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000739 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=963 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000740 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1694 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000741 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2211 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000742 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1744 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000743 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1272 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000744 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=608 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000745 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1066 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000746 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=978 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000747 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1376 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000748 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=215 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000749 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1452 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000750 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=628 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000751 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=791 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000752 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=922 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000753 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=341 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000754 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1851 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000755 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1273 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000756 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1394 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000757 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1373 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000758 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1053 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000759 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1430 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000760 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=3934 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000761 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1758 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000762 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=3527 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000763 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1021 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000764 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=5997 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000765 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=23693 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000766 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=697 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000767 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2003 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000768 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=561 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000769 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=729 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000770 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=4438 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000771 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1097 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000772 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2344 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000773 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=831 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000774 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=389 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000775 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=754 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000776 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=804 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000777 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=960 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000778 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2400 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000779 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1341 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000780 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=7978 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000781 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2553 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000782 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2565 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000783 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=17579 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000784 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=3135 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000785 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=256 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000786 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=823 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000787 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=923 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000788 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=598 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000789 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=903 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000790 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=438 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000791 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1918 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000792 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=642 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000793 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=748 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000794 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=3503 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000795 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1993 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000796 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1008 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000797 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1765 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000798 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=2564 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000799 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=710 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000800 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=954 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000801 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=651 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000802 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=913 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000803 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1037 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000804 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=6253 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000805 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1651 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000806 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=6064 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000807 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=660 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000808 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=372 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000809 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1000 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000810 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=7372 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000811 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1301 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000812 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=1213 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000813 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=8356 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000814 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=388 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000815 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=4609 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000816 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=22477 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000817 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=880 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000818 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=680 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000819 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=938 | SO=supercontig
+0 genes found
+>LPAL13_SCAF000820 | organism=Leishmania_panamensis_MHOM/COL/81/L13 | version=2014-12-16 | length=558 | SO=supercontig
+0 genes found
+>end 	856 sequences 101 tRNA genes, nothing found in 831 sequences, (2.92% sensitivity)

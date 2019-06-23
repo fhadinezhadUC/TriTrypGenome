@@ -1,0 +1,642 @@
+>LaeL147_01 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=278194 | SO=chromosome
+0 genes found
+>LaeL147_02 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=314752 | SO=chromosome
+1 genes found
+1   tRNA-Val               [211743,211834]	106.0	30  	(gac)
+cgagcgcgtggtcagatgggtgcgacgctgacatcgttgtccccgtgtcggcgcgagtggtgccgtggctgttcgactccgtcgcggccgtc
+((..(((   (((ddddd)))((((((  AAA  ))))))        ((((((vvvvv)))))) (((.(ttttttt).))))))..))
+>LaeL147_03 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=382467 | SO=chromosome
+2 genes found
+1   tRNA-Glu                 [24009,24202]	100.6	133 	(ctc)i(30,101)
+aggccgctgggctgcggcggtgccggctggtatttgcgggctcgtgcatagttggctgttcgcatgttttgtccgttcgccctcgccctcccacccgttatttccgcctcatcatctcgcgtgtggtgctttctcgtctgtcgtggcgcgtagcctccgcgttacgccacggttccatgagcgtggcggttcgc
+.((((((  (((.ddddddd.)))(((.(iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  ).)))  (...vvvvvvvvvv...)     ((((.tttttttt.)))))))))).
+2   tRNA-Lys               [253738,253811]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>LaeL147_04 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=461064 | SO=chromosome
+0 genes found
+>LaeL147_05 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=493452 | SO=chromosome
+2 genes found
+1   tRNA-Arg               [406486,406557]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Ser               [409104,409193]	102.0	39  	(gct)i(33,4)
+tttcagcctagagcatgcggctggccccgcgcaaccctgctatgcgcgatgggtttgtggagcggttcccttcggtcgggaagctgaaaa
+(((((((   (.((ddddddddd)).)(((((iiii  AAA  )))))      (..vvvv..) (((((ttttttt))))))))))))
+>LaeL147_06 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=512194 | SO=chromosome
+3 genes found
+1   tRNA-SeC                c[60934,61021]	108.3	36  	(tca)
+gccgcgatgagctcagctggtgctgggtgcgggcttcaaacccgtaggtgagttgctctcacagccgttcgattcggccttcgtggcg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+2   tRNA-Asp                c[99327,99417]	102.5	34  	(gtc)
+ttcggtcatggtgcgcgggggcacagcggcgccgtcgccgccaccagtgtcagagctgaacggtgccgcttcttgcacggctgatcaaggc
+((.(((((  ((((dddddd)))) (.((((  AAA  )))).)(.((.(vvvvvvv).)).) ((((.ttttttt.))))))))).))
+3   tRNA-Pro               [128504,128594]	100.9	36  	(ggg)
+cggggtgtctgggttgtggccgccgtttcctggttggggctcgggggcggggggcgccaaagccaagcggcccgggtccgttggaccccga
+((((((.(   .(.dddddddd.).  ((((((  AAA  ))))))((...(vvvvv)...))  (((((ttttttt)))))).))))))
+>LaeL147_07 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=593687 | SO=chromosome
+2 genes found
+1   tRNA-Arg                 [66090,66272]	100.8	34  	(ccg)i(38,102)
+ggtgagcatggtgcaggagctgcacccacgcctccgactcctcacgcggcgccagaaagcagcgcagcgatgacggatgagcatcttcgccaacgtcatcgtcctcgtcaacgccgtcgtgggtcgccgtcgtcgctatcgcgtgtgatccgtcgagcgggtgttccagacgccgactcgctc
+((((((.   (((ddddddddd))) (((((  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii )))))             .((((ttttttt))))..))))))
+2   tRNA-Arg              c[370442,370513]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LaeL147_08 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=447583 | SO=chromosome
+1 genes found
+1   tRNA-Gly               [153219,153424]	100.8	32  	(acc)i(36,113)
+tggtggagggggggttcggtccaccagcggtaccgatgcgtccctgtcaaacgagcagcagcagccgcacggtccatcgtgcgcaacgggccttccgccgacagcggccagtatggccacactgaagacgacaacgcctgcaccgcaaccgctgctaacttcggcgaacgcgctggagttgtacgtgccaagcgtggttcgccagc
+((((((( (((dddddddd)))  (((((  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii ))))).(..(..vvvvvvvvvvv..)..). .((((ttttttt)))).)))))))
+>LaeL147_09 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=562263 | SO=chromosome
+9 genes found
+1   tRNA-Met               [262754,262825]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Leu               [262886,262969]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+3   tRNA-Val               [394793,394866]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-His               [395120,395191]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+5   tRNA-Phe              c[395372,395444]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Glu              c[407398,407469]	118.0	34  	(ttc)
+tccgatgtagtataacggttagaacacctggctttcacccaggagatccgggttcgattcccggtatcggag
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+7   tRNA-Val              c[407708,407781]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+8   tRNA-Arg               [407856,407928]	118.6	33  	(ccg)
+gacgttgtggcgcaatggaagcgcgtcggattccggatccgaaggttgtgggttcgacccccatcagcgttgc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+9   tRNA-His               [407994,408065]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>LaeL147_10 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=523456 | SO=chromosome
+3 genes found
+1   tRNA-Lys               [497973,498046]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Gly              c[498086,498156]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Asn              c[498210,498283]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>LaeL147_11 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=559223 | SO=chromosome
+7 genes found
+1   tRNA-Ala                c[63413,63530]	102.1	36  	(cgc)i(39,39)
+gttggggtggttgaggtccttcataacctcgacctcgcgctgcaggttacgcgtcttgtccgccaccgtcgtgaacggggtcgacggtgtctggcggtgcttgctccgcctccgagtc
+(((.(((  ((((dddddddddd)))) (((((  AAAiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  )))))        (((((tttttttt)))))))).)))
+2   tRNA-Leu              c[150000,150082]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Ala               [150156,150228]	117.5	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcaatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+4   tRNA-Gly              c[155687,155757]	122.0	33  	(ccc)
+gcgccgctggtctagtggcatgatggtaccctcccaaggtattgacccgggttcgattcccgggcggcgca
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+5   tRNA-Ala              c[155818,155890]	117.5	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcaatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+6   tRNA-Met              c[363326,363398]	113.6	34  	(cat)
+gcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+7   tRNA-Arg               [363473,363547]	120.3	34  	(acg)
+tgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatggc
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+>LaeL147_12 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=507865 | SO=chromosome
+0 genes found
+>LaeL147_13 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=637847 | SO=chromosome
+0 genes found
+>LaeL147_14 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=635518 | SO=chromosome
+0 genes found
+>LaeL147_15 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=578644 | SO=chromosome
+2 genes found
+1   tRNA-Asp               [287606,287678]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Glu              c[287717,287790]	118.1	35  	(ctc)
+ttccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaat
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+>LaeL147_16 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=647981 | SO=chromosome
+1 genes found
+1   tRNA-Gln              c[393512,393586]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgac
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+>LaeL147_17 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=644997 | SO=chromosome
+3 genes found
+1   tRNA-Asp              c[304471,304543]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Ser               [304620,304701]	121.7	34  	(gct)
+gcaaatgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcgc
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Ala               [304760,304835]	108.3	35  	(agc)
+tggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctccaac
+((((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+>LaeL147_18 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=708324 | SO=chromosome
+0 genes found
+>LaeL147_19 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=670995 | SO=chromosome
+0 genes found
+>LaeL147_20 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=737812 | SO=chromosome
+0 genes found
+>LaeL147_21 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=765912 | SO=chromosome
+7 genes found
+1   tRNA-Ser              c[158901,158981]	123.0	34  	(gct)
+gcaaacgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcg
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ile               [185185,185288]	105.7	32  	(gat)i(37,12)
+gcgtctgctggttcggcttgtgcgtcgcgctgatgcacttcgcaagcacgcggttatgcgcgatcccagcagagcagtcgtagtgcagctccgcgtagatgcgc
+(((((((   ((.ddddddd.)) (((((  AAA  iiiiiiiiiiii)))))        ..(vvvvvvv)..    (((.(ttttttt).))))))))))
+3   tRNA-Ile               [186367,186470]	105.7	32  	(gat)i(37,12)
+gcgtctgctggttcggcttgtgcgtcgcgctgatgcacttcgcaagcacgcggttatgcgcgatcccagcagagcagtcgtagtgcagctccgcgtagatgcgc
+(((((((   ((.ddddddd.)) (((((  AAA  iiiiiiiiiiii)))))        ..(vvvvvvv)..    (((.(ttttttt).))))))))))
+4   tRNA-Ile               [188665,188768]	105.7	32  	(gat)i(37,12)
+gcgtctgctggttcggcttgtgcgtcgcgctgatgcacttcgcaagcacgcggttatgcgcgatcccagcagagcagtcgtagtgcagctccgcgtagatgcgc
+(((((((   ((.ddddddd.)) (((((  AAA  iiiiiiiiiiii)))))        ..(vvvvvvv)..    (((.(ttttttt).))))))))))
+5   tRNA-Pro               [438389,438460]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+6   tRNA-Val               [438590,438664]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+7   tRNA-Lys               [438727,438800]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>LaeL147_22 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=607974 | SO=chromosome
+0 genes found
+>LaeL147_23 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=777175 | SO=chromosome
+12 genes found
+1   tRNA-Ser               [187630,187791]	101.8	102 	(gct)i(33,68)
+attatcggtattctggttatgcagacgctcgccttcaccgtgcctggcacagcggtcggtgtgctactcgcgtgcgcgacgaacgcgatcctcgaggggatgctggcgagcatcaccaaggcgccagcccgcttgggcaacgtgccgatcgctgcgatagtg
+(((((((   .((dddddddddd)).((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))        (..vvvvvvv..)     ((.((ttttttt)).)))))))))
+2   tRNA-Ile               [244840,244913]	118.5	35  	(tat)
+gctcccgtggtctagttggttaggacgctggtcttatgaaccggatgtcgcgggttcgagccccgccgggagca
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Val              c[244959,245031]	111.3	34  	(tac)
+gcgtgggtgatctagtggttatgatgtctgctttacacgcagaacgtcgcgggttcgaaccccgccccgcgta
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Gln              c[245098,245169]	124.9	34  	(ttg)
+ggtcctatagtgtagtggttatcacttcggactttgaatccgaaaacccaggttcgaatcctggtaggacca
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+5   tRNA-Arg              c[245411,245484]	120.3	34  	(acg)
+tgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+6   tRNA-Leu              c[245706,245788]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+7   tRNA-Thr              c[245849,245922]	120.1	34  	(tgt)
+gggccgcttagcacagtggcagtgcactggtcttgtaaaccaggggtcccgagttcaattctcggagtggcctt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+8   tRNA-Arg               [245993,246066]	121.1	34  	(tcg)
+tggcctcttggcgcaatggaagcgcatcagacttcggatctgagggttgcaggttcgagtcctgcaggggtcgg
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+9   tRNA-Lys               [246365,246437]	120.7	34  	(ttt)
+gcacttctagctcagttggtagagcgcgtggcttttaacctcgtggtcgtgggttcgagccccacggagtgcg
+(((((((  ((((dddddddd))))(((.((  AAA  )).)))    (((((ttttttt))))))))))))
+10  tRNA-Gly              c[246476,246548]	116.4	34  	(tcc)
+gcaattgtggtccaacggttaagatccccgccttccaagcgggtgacccgggttcgactcccggcaattgcac
+(((((((  (((dddddddddd))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+11  tRNA-Trp               [246624,246696]	115.5	33  	(cca)
+gggggcttagctcagtggtagagcattggattccaaatccaggggtcgtaggttcaatccctgcagctctcac
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+12  tRNA-Gly              c[479187,479268]	103.9	33  	(acc)
+tagctgcttgggtagtgggagattgctgggctaccgctacggcggcgtctttcatcgcgggttctacttcaacagcagctaa
+((((((((  (((dddddddd)))((((.(  AAA  ).))))             (..((ttttttt))..)))))))))
+>LaeL147_24 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=839498 | SO=chromosome
+7 genes found
+1   tRNA-Pro               [195258,195329]	124.4	33  	(cgg)
+ggccgcttagtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Ala              c[548566,548727]	100.7	118 	(cgc)i(30,86)
+tgcgctgacaggctggttgggctgcgctgactagcagccgctcctgcagtgccgatggaggtcgagaggcgatactgacgctccaccgccttggtctgctcaggtggtgtcagctctcgcagcagcgcgctacgacgtaggtgcgagtcccacctagggcga
+(((.(((.  (((ddddddd))) (((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))         ((.((ttttttt)).)).))).)))
+3   tRNA-Gln               [619351,619425]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgac
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+4   tRNA-Leu              c[619637,619720]	111.7	37  	(taa)
+tgctggggttcccgagttggtcaaaggggtgagacttaagttctcatgcgcaagcttcgtgggttcgaaccccacctccagcaa
+((((((((  (((.dddddddddd.)))((((((  AAA  ))))))           (((((ttttttt)))))))))))))
+5   tRNA-Ile               [619804,619878]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Ile               [621901,621975]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+7   tRNA-Asp              c[679300,679371]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaag
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+>LaeL147_25 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=908702 | SO=chromosome
+1 genes found
+1   tRNA-Thr              c[408009,408160]	100.6	94  	(ggt)i(30,63)
+atcgctgtcgtggtggtgggcgccgcctccgtgacgttgaaagtgctttggtggttcacataaggcgagcgccgctgcaggggttgccgaggtggtgcaggcggcgatggtggcaacagctgttgcacctttgttcgagttgagtagtggta
+(((((((  (((dddddddd)))((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))               (..vvvv..) ((((ttttttt)))))))))))
+>LaeL147_26 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1044277 | SO=chromosome
+1 genes found
+1   tRNA-Glu                 [68916,69024]	103.7	50  	(ttc)i(35,14)
+cggccgtgtcgatgagcttcagcttcctccccttgtacatgcatgcgatttcgatggggtcgcgggtcgtattcgactcgtcagcggcgcggttccgctcgtagccgac
+((((.(((  ((.(dddddddd).))  ((((. iiiiiiiiiiiiii AAA  .))))(.(.vvvvvvvv.).)       (((((ttttttt)))))))).))))
+>LaeL147_27 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1001864 | SO=chromosome
+1 genes found
+1   tRNA-Arg              c[395356,395448]	100.6	34  	(gcg)
+caggcctttggcgaaggtcagcgctttccttctgcggtgggagacgagtactctccgatgagtggcggaagctcagtctttttcagatctgac
+((((.((   (((dddddddd))) ((.(((  AAA  ))).))    (((((vvvvvv)))))  (((((tttttttt))))))).))))
+>LaeL147_28 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1136995 | SO=chromosome
+0 genes found
+>LaeL147_29 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1223085 | SO=chromosome
+2 genes found
+1   tRNA-Leu              c[832241,832323]	117.8	35  	(caa)
+ggcaggatggccgagtggtctaaggcgggagactcaagttctcttctattcgtaggcgcgggttcgaaccccgctcctgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ser              c[832381,832461]	119.6	34  	(cga)
+gtcaccatacccaagtggttacgggggttgactcgaaatcaactgcgatctcgcgcgcaggttcgaatcctgctggtgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>LaeL147_30 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1355153 | SO=chromosome
+1 genes found
+1   tRNA-Thr              c[759193,759264]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LaeL147_31 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1286249 | SO=chromosome
+5 genes found
+1   tRNA-Ala               [173970,174042]	108.3	34  	(agc)
+ggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctcca
+(((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+2   tRNA-Gly               [416013,416084]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgcac
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Glu              c[416131,416204]	118.1	35  	(ctc)
+ttccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaat
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+4   tRNA-Phe             [1145617,1145689]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Ser            c[1145745,1145826]	119.6	34  	(aga)
+gtcaccatacccaagtggttacggggactgactagaaatcagttgcgatctcgcgcgcaggttcgaatcctgctggtgacgc
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>LaeL147_32 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1545324 | SO=chromosome
+1 genes found
+1   tRNA-Leu            c[1338548,1338678]	102.8	73  	(aag)i(33,38)
+aagaagtctgggtagtcgtcgatgccctcggcacagagcgcctcgatgacgttgcagagctgcctgccgtctaaggagtcgaggtagcggaggcagtgctccgcgagcaggtgccacacctgcacatcttc
+((((.((   ((((dddddddd)))) (((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))                        (((((ttttttt))))))).))))
+>LaeL147_33 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1431815 | SO=chromosome
+4 genes found
+1   tRNA-Arg              c[101084,101157]	118.9	34  	(cct)
+gcccttgtagcctaatggatatggcgtttgcttcctaagcaaaaggttgcgggttcgagtcccgccaggggtac
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Arg              c[101217,101290]	125.8	34  	(tct)
+gctccagtggcctaacggataaggctttggacttctaatccaaagattgcgggttcgaatcccgcctggagtac
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+3   tRNA-Ala               [101365,101438]	117.5	34  	(tgc)
+tgggcgtgtagctcagtggtagagcgcctgttttgcatacaggaggcctagggttcaaacccctactcgtccat
+((((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+4   tRNA-Gly             [1059250,1059325]	100.4	38  	(gcc)
+cttcactgtcgtcgatgcttccgacgaccggcgtgctgccgtcaggctacgtgagtgcgacgctcttggagagggc
+((((.((   ((((dddddddddd))))  ((.((  AAA  )).))   (.(((ttttttt))).))).))))
+>LaeL147_34 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1646406 | SO=chromosome
+11 genes found
+1   tRNA-Val              c[459475,459549]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Ile               [459789,459863]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Met               [459924,459996]	113.6	34  	(cat)
+gcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+4   tRNA-Leu              c[460032,460111]	119.8	35  	(tag)
+ggcggagtggccgagtggtctaaggcgccagatttaggctctggtctttcgaggcgtgggttcgaaccccacctccgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))          (((((ttttttt))))))))))))
+5   tRNA-Ser               [460186,460266]	116.9	34  	(tga)
+gtcaacatacccaagtggttacggggtttgacttgaaatcaaatgcgatctcgcgcgcaggttcgaaccctgctgttgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+6   tRNA-Arg               [894756,894891]	104.4	75  	(acg)i(32,42)
+ggcaaagtgcgcgggttgaagcaccgccgctgttgcggcgccgcccacaactgtgcagatgaaaacgagttcatacgaggcggcgtgggcggacgcctcgtccaggccgctggggtgcccattccctttcttgcca
+(((((.(  .((dddddddd)).  ((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))..(vvvvvvvvvvvvvvvvvvv).. .((((tttttttt)))).).)))))
+7   tRNA-Asn            c[1330416,1330489]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+8   tRNA-Pro            c[1330550,1330621]	124.4	33  	(cgg)
+ggccgcttagtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+9   tRNA-Thr             [1330705,1330776]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+10  tRNA-Tyr             [1330840,1330924]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagtttgcaggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+11  tRNA-Asn             [1330982,1331055]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>LaeL147_35 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1993181 | SO=chromosome
+1 genes found
+1   tRNA-Gln               [782590,782721]	101.6	71  	(ctg)i(31,38)
+tgggtactggactgctgtgggtctggctgtggagggctacgaggttgtggtgacgtgccggtcggctgttctgacacagcagacggctgagcggattcagcaggaagcggagcgccgccgtcgtgcccagcc
+(((((((  ((((dddddd))))  (((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  ))))) ((..vvvvvvvv..))        .((((ttttttt)))).)))))))
+>LaeL147_36 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=2678989 | SO=chromosome
+16 genes found
+1   tRNA-Tyr              c[486299,486383]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagttcgcaggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+2   tRNA-Thr              c[486460,486532]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Thr               [487336,487408]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Tyr               [487485,487569]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagttcgcaggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+5   tRNA-Ser              c[914818,914978]	108.6	100 	(gct)i(34,64)
+aagtaggtggatgagccagttacgtctttcgcggatcgtctgcaactcctgcacaagcttctgctgcgcattcgcggctgtggaagcggcgctggcgctgctgtcgcggtggggcgaagcgactgttgcacccagttcggtgccgaggccgtttctgctgc
+.((((((  ((((ddddddddd))))  (((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))                          ..(((tttttttt)))..)))))).
+6   tRNA-Gly             [1032618,1032688]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+7   tRNA-Thr            c[1033636,1033707]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+8   tRNA-Gly            c[1033770,1033840]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+9   tRNA-Pro             [1033914,1033985]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+10  tRNA-Pro            c[1228551,1228725]	100.2	115 	(ggg)i(37,78)
+acaccgtgatggcgggtgattaccagtgccgcatttagcgcacgctgtgtgtgccgccgtgtgtgtagaactgcacccgctgctcccccattcaaggcaccatccgctctacatggggcgtgcgtgtgcgtgcatgtgtgcataggtgctcttcttcgaatgcagacatggtgtg
+((((((((   (((.dddddddddd.)))(((((  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiAAA  ))))) (((((vvvvvvvv)))))      (((.(ttttttt).)))))))))))
+11  tRNA-Gln            c[1607778,1607852]	119.8	35  	(ctg)
+tgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgtc
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+12  tRNA-Gly            c[2165609,2165768]	102.5	101 	(gcc)i(32,68)
+gcaccaagcagctcgaggagctctccggcgtcaccggcatcacagacatccaccgccagttcgttgacaatatcacgatcccaagtaagcggcctggtatgccgccgctgaagcgtgtgccgatggtgtttgactgctggttcgagtccggctcgatgcc
+(((.(.(   (..(ddddd)..)  ((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))         .((vvvvvvvv)).  (((((ttttttt)))))).).)))
+13  tRNA-Cys             [2464126,2464197]	122.6	33  	(gca)
+ggattcatagctcagtggtagagcattcggctgcagtccgaatggtccccggttcaaacccgggtgggtcct
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+14  tRNA-Leu            c[2464982,2465064]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+15  tRNA-Met            c[2465128,2465199]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+16  tRNA-Pro             [2465274,2465346]	122.1	33  	(tgg)
+ggtcgtttggtctagtggtatgattcctgttttgggtacaggaggtcacgggttcaattcccgtaacgacccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>LAEL147_SCAF000001 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=3612 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000002 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=6535 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000003 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=6219 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000004 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=2631 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000005 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=5222 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000006 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=2396 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000007 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=2667 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000008 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=2527 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000009 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=3128 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000010 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=16185 | SO=supercontig
+1 genes found
+1   tRNA-Ala                  c[8929,9046]	102.1	36  	(cgc)i(39,39)
+gttggggtggttgaggtccttcataacctcgacctcgcgctgcaggttacgcgtcttgtccgccaccgtcgtgaacggggtcgacggtgtctggcggtgcttgctccgcctccgagtc
+(((.(((  ((((dddddddddd)))) (((((  AAAiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  )))))        (((((tttttttt)))))))).)))
+>LAEL147_SCAF000011 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=6596 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000012 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1097 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000013 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1308 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000014 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1491 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000015 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1113 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000016 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=5323 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000017 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=3277 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000018 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1152 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000019 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=2046 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000020 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1589 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000021 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=39677 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000022 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1916 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000023 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=3796 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000024 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1202 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000025 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1217 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000026 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=233 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000027 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=4876 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000028 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=2408 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000029 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=5043 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000030 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1335 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000031 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=2903 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000032 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=2794 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000033 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1427 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000034 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=10774 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000035 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1473 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000036 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=3575 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000037 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=24148 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000038 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1672 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000039 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1980 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000040 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=2310 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000041 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1031 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000042 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1280 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000043 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1188 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000044 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=2128 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000045 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=14236 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000046 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=2464 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000047 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=2567 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000048 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=4510 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000049 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=5039 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000050 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=2947 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000051 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=4902 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000052 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=8681 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000053 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=3433 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000054 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=5473 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000055 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1613 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000056 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=3567 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000057 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1485 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000058 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=3469 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000059 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=2757 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000060 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=3869 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000061 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1054 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000062 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=2090 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000063 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=4210 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000064 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=7419 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000065 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1987 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000066 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1358 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000067 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=2943 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000068 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1008 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000069 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=4981 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000070 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=4484 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000071 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1204 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000072 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1875 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000073 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=2004 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000074 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=4566 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000075 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=2192 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000076 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=2596 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000077 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1818 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000078 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=9833 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000079 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=6071 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000080 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1091 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000081 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=6703 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000082 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1399 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000083 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1220 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000084 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=10034 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000085 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=985 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000086 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=6017 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000087 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=3715 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000088 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=6156 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000089 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=6948 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000090 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1664 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000091 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=3267 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000092 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1271 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000093 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=4841 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000094 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=3284 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000095 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1275 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000096 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1311 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000097 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=10164 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000098 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1709 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000099 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1199 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000100 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1216 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000101 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1254 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000102 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1982 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000103 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1264 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000104 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1334 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000105 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=3138 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000106 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=15394 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000107 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=9005 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000108 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=2427 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000109 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=3909 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000110 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=2454 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000111 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=3099 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000112 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1351 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000113 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1982 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000114 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=2748 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000115 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=4602 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000116 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=2984 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000117 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=5066 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000118 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=4897 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000119 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=2123 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000120 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1461 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000121 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=3561 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000122 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=3682 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000123 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=1159 | SO=supercontig
+0 genes found
+>LAEL147_SCAF000124 | organism=Leishmania_aethiopica_L147 | version=2014-12-16 | length=2393 | SO=supercontig
+0 genes found
+>end 	160 sequences 107 tRNA genes, nothing found in 133 sequences, (16.88% sensitivity)

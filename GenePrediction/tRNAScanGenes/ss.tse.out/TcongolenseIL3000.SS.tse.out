@@ -1,0 +1,475 @@
+T.congo.pschr.4.trna1 (1258231-1258303)	Length: 73 bp
+Type: Gly	Anticodon: TCC at 33-35 (1258263-1258265)	Score: 54.4
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCGCGGTTGGTCTAGTGGAAAAACATCCGCATTCCAttAGCGGAAGaCCCGGGTTCGATCCCCGGACTGCGCG
+Str: >>>>>>>..>>.>.......<.<<.>>>>>.........<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+T.congo.pschr.4.trna2 (1258427-1258355)	Length: 73 bp
+Type: Val	Anticodon: CAC at 34-36 (1258394-1258392)	Score: 66.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCGATGGTCGTCTAGTGGTtAGGACATTCGCCTCACACGCGAGAGAtCGCGGGTTCGATCCCCGCCCGTCGTA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo.pschr.5.trna1 (780636-780565)	Length: 72 bp
+Type: Glu	Anticodon: CTC at 34-36 (780603-780601)	Score: 65.4
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: TCCGGTGTGGTATAGTGGCtAGAACAAGCGGCTCTCACCCGCTAGaCCCGGGTTCGATCCCCGGCACCGGAA
+Str: >>>>>>>..>>.>........<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+T.congo.pschr.8.trna1 (751755-751826)	Length: 72 bp
+Type: Gln	Anticodon: TTG at 34-36 (751788-751790)	Score: 72.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGTCCTATAGTGTAGGGGTtATCACTTCGGACTTTGAATCCGAAAaCCTAGGTTCGAATCCTGGTAGGACCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+T.congo.pschr.8.trna2 (751887-751959)	Length: 73 bp
+Type: Val	Anticodon: TAC at 34-36 (751920-751922)	Score: 69.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCGTGGGTGATCTAGTGGTtATGATGTCTGCTTTACACGCAGAAAGtCGCGGGTTCGAACCCCGCCCCGCGTA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo.pschr.8.trna3 (752019-752091)	Length: 73 bp
+Type: Lys	Anticodon: CTT at 34-36 (752052-752054)	Score: 80.3
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCCCTTCTAGCTCAGTCGGTAGAGCGCACGGCTCTTAACCGTGTGGtCGTGGGTTCGAGCCCCACGGGGGGTG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo.pschr.8.trna4 (755502-755573)	Length: 72 bp
+Type: Gly	Anticodon: TCC at 34-36 (755535-755537)	Score: 69.6
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GCAACCGTGGTCCAACGGTcAAGATTTCCGCCTTCCAAGCGGGAGaCCCGGGTTCGACTCCCGGCGGTTGCA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+T.congo.pschr.8.trna5 (755652-755733)	Length: 82 bp
+Type: Leu	Anticodon: CAG at 35-37 (755686-755688)	Score: 74.5
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGCAAGATGGTCGAGTGGTctAAGACGTGACGTTCAGGTCGTCATCTCCTCGGAGGCGTGGGTTCGAACCCCACTCTTGTCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>>..<<<<..>>>>>.......<<<<<<<<<<<<.
+
+T.congo.pschr.8.trna6 (755934-756005)	Length: 72 bp
+Type: Arg	Anticodon: TCG at 33-35 (755966-755968)	Score: 73.3
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGTCTCGTGGCGCAATGGAAGCGCATCAGACTTCGGATCTGAGGGtTGCAGGTTCGAGTCCTGCCGGGATCG
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo.pschr.8.trna7 (758409-758481)	Length: 73 bp
+Type: Lys	Anticodon: CTT at 34-36 (758442-758444)	Score: 80.3
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCCCTTCTAGCTCAGTCGGTAGAGCGCACGGCTCTTAACCGTGTGGtCGTGGGTTCGAGCCCCACGGGGGGTG
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo.pschr.8.trna8 (1841527-1841600)	Length: 74 bp
+Type: Ile	Anticodon: AAT at 35-37 (1841561-1841563)	Score: 80.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GCTCCTATAGCTCAGTCGGTtAGAGCGTGGGTCTAATAAGCCCAAGGtCACAGGTTCGACCCCTGTTGGGAGCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo.pschr.8.trna9 (1841844-1841915)	Length: 72 bp
+Type: Gln	Anticodon: CTG at 34-36 (1841877-1841879)	Score: 67.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GCTCCCATAGTGTAGCGGTtATCACCTCGGACTCTGAATCCGATAaCCCTGGTTCGAGTCCAGGTGGGAGTG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+T.congo.pschr.8.trna10 (1841976-1842049)	Length: 74 bp
+Type: Ile	Anticodon: AAT at 35-37 (1842010-1842012)	Score: 80.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GCTCCTATAGCTCAGTCGGTtAGAGCGTGGGTCTAATAAGCCCAAGGtCACAGGTTCGACCCCTGTTGGGAGCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo.pschr.8.trna11 (1841741-1841660)	Length: 82 bp
+Type: Leu	Anticodon: TAA at 36-38 (1841706-1841704)	Score: 48.7
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GCTGGGGTTCCCGAGTTGTTcaAAGGGGGGAGACTTAAGTTCTCTTGCGTtacgttcggGGGTTCGAACCCCACCCCCAGCA
+Str: >>>>>>>..>>>............<<<.>>>>>.......<<<<<...>>.........>>>.......<<<<<<<<<<<<.
+
+T.congo.pschr.8.trna12 (758608-758537)	Length: 72 bp
+Type: Arg	Anticodon: ACG at 33-35 (758576-758574)	Score: 69.5
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GTCCGTGTGGCTCAACGGAAGAGCATCTGACTACGGATCAGAGGGtTGCAGGTTCGAATCCTGTCACGGATG
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo.pschr.8.trna13 (755850-755779)	Length: 72 bp
+Type: Thr	Anticodon: TGT at 33-35 (755818-755816)	Score: 72.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGCCTCGTAGCACAGTGGCAGTGCACTGGTCTTGTAAACCAGGGGtCCCGAGTTCAATTCTCGGCGGGGCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo.pschr.10.trna1 (1756115-1756185)	Length: 71 bp
+Type: Gly	Anticodon: GCC at 33-35 (1756147-1756149)	Score: 69.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |
+Seq: GCGCAGTTGGTCTAGTGGTAGAATTCTCGCCTGCCACGCGGGAGGCCCGGGTTCGATTCCCGGACTGCGCA
+Str: >>>>>>>..>>.>.......<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+T.congo.pschr.10.trna2 (1806363-1806444)	Length: 82 bp
+Type: Leu	Anticodon: AAG at 35-37 (1806397-1806399)	Score: 75.6
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGCGAGATGGTCGAGTGGTctAAGACGTTGGATTAAGGTTCCAATCCTTCCGAGGgCGTGGGTTCAAACCCCACTCTCGTCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>.>...<.<...>>>>>.......<<<<<<<<<<<<.
+
+T.congo.pschr.10.trna3 (1806646-1806717)	Length: 72 bp
+Type: Pro	Anticodon: TGG at 33-35 (1806678-1806680)	Score: 73.4
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGCCGCTTGGTCTAGTGGTATGATTCCTGCTTTGGGTGCAGGAGGtCACGGGTTCAATTCCCGTAGCGGCCC
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo.pschr.10.trna4 (2511725-2511797)	Length: 73 bp
+Type: Asn	Anticodon: GTT at 34-36 (2511758-2511760)	Score: 73.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: TCCTCCCTGGCGCAGTCGGCAGCGCGTTAGGCTGTTAACCTACAGGtCGTTGGTTCGAATCCAACGGGAGGAG
+Str: >>>>>>>..>>>>........<<<<..>>>>.......<<<<......>>>>>.......<<<<<<<<<<<<.
+
+T.congo.pschr.10.trna5 (2512002-2512074)	Length: 73 bp
+Type: Arg	Anticodon: TCT at 34-36 (2512035-2512037)	Score: 73.1
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCTCCAGTGGCCTAATGGAtATGGCTTTGGACTTCTAATCCAAGGGtTGCGGGTTCGAGTCCCGTCTGGAGTA
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo.pschr.10.trna6 (2512155-2512227)	Length: 73 bp
+Type: Lys	Anticodon: TTT at 33-35 (2512187-2512189)	Score: 83.7
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCCTTCCTAGCTCAGTGGTAGAGCGCACGGCTTTTAACCGTGTGGtCGTGGGTTCGATCCCCACgGGAAGGCG
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<.<<<<<<<.
+
+T.congo.pschr.10.trna7 (2512285-2512357)	Length: 73 bp
+Type: Arg	Anticodon: CCT at 34-36 (2512318-2512320)	Score: 69.7
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCCCCCGTAGCCCAATGGAtAAGGCGTTCGCTTCCTAAGCGAAAGAtTGCGGGTTCGAGTCCCGCCGGAGGTA
+Str: >>>.>>>..>>>..........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<.<<<.
+
+T.congo.pschr.10.trna8 (2511908-2511837)	Length: 72 bp
+Type: Ala	Anticodon: TGC at 33-35 (2511876-2511874)	Score: 73.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGGCGTGTAGCTCAGTGGTAGAGCGCCTGTTTTGCATACAGGAGGcCTAGGGTTCGATCCCCTACTCGTCCA
+Str: >>>>>.>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<.<<<<<.
+
+T.congo.pschr.10.trna9 (1806571-1806500)	Length: 72 bp
+Type: iMet	Anticodon: CAT at 33-35 (1806539-1806537)	Score: 67.1
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: AGCACCGTGGCGCAGGGGAAGCGCGATGGGCTCATAACCCATAGGaCGTTGGATCGAAACCAACCGGTGCTA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo.pschr.10.trna10 (1760560-1760489)	Length: 72 bp
+Type: Pro	Anticodon: AGG at 33-35 (1760528-1760526)	Score: 66.6
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGTCCAGTGGTCTAGTGGCATGATTCTCCCTTAGGGTGGGAGAGGtCCCGGGTTCAATTCCCGGCTGGACCC
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo.pschr.10.trna11 (1760426-1760355)	Length: 72 bp
+Type: Thr	Anticodon: AGT at 33-35 (1760394-1760392)	Score: 73.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGCCGCTTAGCTCAATGGCAGAGCGCCGTCCTAGTAAGACGGAGGtCGGGGGTTCGATCCCCCCAGTGGCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo.pschr.11.trna1 (3643218-3643288)	Length: 71 bp
+Type: His	Anticodon: GTG at 33-35 (3643250-3643252)	Score: 69.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |
+Seq: GGGAAGATAGTTCAGTGGCAGAACATCAGATTGTGGCTCTGAATaCCCGGGTTCGATTCCCGGTCTTCCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+T.congo.pschr.11.trna2 (3643349-3643420)	Length: 72 bp
+Type: Glu	Anticodon: TTC at 34-36 (3643382-3643384)	Score: 65.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: TCCGGTATAGTATAACGGTtAGAACATCTGGCTTTCACCCAGAAGaTCCGGGTTCGATTCCCGGTACCGGAA
+Str: >>>>>>>..>>.>........<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+T.congo.pschr.11.trna3 (3643475-3643547)	Length: 73 bp
+Type: Phe	Anticodon: GAA at 34-36 (3643508-3643510)	Score: 91.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCCGCGATAGCTCAGTTGGGAGAGCGTCAGACTGAAGATCTGAAGGtCCCTGGTTCGATCCCGGGTCGCGGCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_1071.trna1 (220-303)	Length: 84 bp
+Type: Tyr	Anticodon: GTA at 34-36 (253-255)	Score: 72.4
+Possible intron: 38-48 (257-267)
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: CCTTCTGTAGCTCAATTGGTAGAGCATGTGACTGTAGagcttgcgggtATCACAGGGtCGCTGGTTCGATTCCGGCCGGAAGGA
+Str: >>>>>>>..>>>>........<<<<.>>>>>..................<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_1071.trna2 (422-351)	Length: 72 bp
+Type: Thr	Anticodon: CGT at 33-35 (390-388)	Score: 70.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGCCGCTTAGCACAGTGGCAGTGCACCACTCTCGTAAAGTGGGGGtCGCGAGTTCGATTCTCGCAGTGGCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_1174.trna1 (12952-13024)	Length: 73 bp
+Type: Phe	Anticodon: GAA at 34-36 (12985-12987)	Score: 91.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCCGCGATAGCTCAGTTGGGAGAGCGTCAGACTGAAGATCTGAAGGtCCCTGGTTCGATCCCGGGTCGCGGCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_1174.trna2 (12769-12698)	Length: 72 bp
+Type: Arg	Anticodon: CCG at 33-35 (12737-12735)	Score: 67.3
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GACGTTGTGGCGCAATGGAAGCGCGTCGGATTCCGGATCCGAAGGtTGCGGGTTCGACCCCCGTCAGCGTTG
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_1174.trna3 (12623-12552)	Length: 72 bp
+Type: Ala	Anticodon: CGC at 33-35 (12591-12589)	Score: 73.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGGCGTGTAGCTCAGTGGTAGAGCGTCCGTTTCGCATACGGAAGGcCTAGGGTTCGATCCCCTACTCGTCCA
+Str: >>>>>.>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<.<<<<<.
+
+T.congo_bin_contig_1205.trna1 (17627-17692)	Length: 66 bp
+Type: Gly	Anticodon: GCC at 29-31 (17655-17657)	Score: 28.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *
+Seq: GaTGGCTCAGTGGTtaAGAGCACTGACTGCCCTTCAAGGGGtTCTGAGTTCAAATCCCAGcaACCA
+Str: >...>>>>.........<<<<.>>>>.......<<.<<.....>>>.>.......<.<<<....<.
+
+T.congo_bin_contig_1248.trna1 (3903-3833)	Length: 71 bp
+Type: Gly	Anticodon: GCC at 33-35 (3871-3869)	Score: 69.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |
+Seq: GCGCAGTTGGTCTAGTGGTAGAATTCTCGCCTGCCACGCGGGAGGCCCGGGTTCGATTCCCGGACTGCGCA
+Str: >>>>>>>..>>.>.......<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_1321.trna1 (13473-13545)	Length: 73 bp
+Type: Val	Anticodon: CAC at 34-36 (13506-13508)	Score: 66.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCGATGGTCGTCTAGTGGTtAGGACATTCGCCTCACACGCGAGAGAtCGCGGGTTCGATCCCCGCCCGTCGTA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_1321.trna2 (13669-13597)	Length: 73 bp
+Type: Gly	Anticodon: TCC at 33-35 (13637-13635)	Score: 54.4
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCGCGGTTGGTCTAGTGGAAAAACATCCGCATTCCAttAGCGGAAGaCCCGGGTTCGATCCCCGGACTGCGCG
+Str: >>>>>>>..>>.>.......<.<<.>>>>>.........<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_1482.trna1 (23283-23214)	Length: 70 bp
+Type: Ser	Anticodon: GCT at 33-35 (23251-23249)	Score: 22.7
+Possible pseudogene
+         *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: GaGAaGTGGCTCAGCGGTtaAGAGCACAGACTGCTCTTCCAaAGGtTCTGAGTTCAAATCCCAGCAACCA
+Str: >....>..>>>>.........<<<<...>>.......<<........>>>.>.......<.<<<<...<.
+
+T.congo_bin_contig_1495.trna1 (319-249)	Length: 71 bp
+Type: Gly	Anticodon: CCC at 33-35 (287-285)	Score: 73.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |
+Seq: GCGCCGTTGGTCTAGTGGCATGATGGTACCCTCCCAAGGTATTGaCCCGGGTTCGATTCCCGGACGGCGCA
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_1586.trna1 (1842-1914)	Length: 73 bp
+Type: Gly	Anticodon: TCC at 33-35 (1874-1876)	Score: 54.4
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCGCGGTTGGTCTAGTGGAAAAACATCCGCATTCCAttAGCGGAAGaCCCGGGTTCGATCCCCGGACTGCGCG
+Str: >>>>>>>..>>.>.......<.<<.>>>>>.........<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_1586.trna2 (2038-1966)	Length: 73 bp
+Type: Val	Anticodon: CAC at 34-36 (2005-2003)	Score: 66.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCGATGGTCGTCTAGTGGTtAGGACATTCGCCTCACACGCGAGAGAtCGCGGGTTCGATCCCCGCCCGTCGTA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_162.trna1 (7628-7698)	Length: 71 bp
+Type: His	Anticodon: GTG at 33-35 (7660-7662)	Score: 69.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |
+Seq: GGGAAGATAGTTCAGTGGCAGAACATCAGATTGTGGCTCTGAATaCCCGGGTTCGATTCCCGGTCTTCCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_162.trna2 (7759-7830)	Length: 72 bp
+Type: Glu	Anticodon: TTC at 34-36 (7792-7794)	Score: 65.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: TCCGGTATAGTATAACGGTtAGAACATCTGGCTTTCACCCAGAAGaTCCGGGTTCGATTCCCGGTACCGGAA
+Str: >>>>>>>..>>.>........<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_162.trna3 (7885-7957)	Length: 73 bp
+Type: Phe	Anticodon: GAA at 34-36 (7918-7920)	Score: 91.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCCGCGATAGCTCAGTTGGGAGAGCGTCAGACTGAAGATCTGAAGGtCCCTGGTTCGATCCCGGGTCGCGGCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_1637.trna1 (191-125)	Length: 67 bp
+Type: Ser	Anticodon: GCT at 30-32 (162-160)	Score: 22.6
+Possible pseudogene
+         *    |    *    |    *    |    *    |    *    |    *    |    * 
+Seq: GaTGGCTCAATGGGTaAGAGCACCCGACTGCTCTTCGGAAGGtTGGGAGTTCAAATCCCAGCAAcCA
+Str: >...>>>>.........<<<<..>>>>.......<<<<......>...>.......<<.......<.
+
+T.congo_bin_contig_1714.trna1 (216-297)	Length: 82 bp
+Type: Leu	Anticodon: TAA at 36-38 (251-253)	Score: 65.1
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GCTGGGGTTCCCGAGTTGGTcaAAGGGGTGAGACTTAAGTTCTCATGCGTTAGCTtCGTGGGTTCGAACCCCACCCCCAGCA
+Str: >>>>>>>..>>>............<<<.>>>>>.......<<<<<.>>....<<...>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_1714.trna2 (430-357)	Length: 74 bp
+Type: Ile	Anticodon: AAT at 35-37 (396-394)	Score: 80.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GCTCCTATAGCTCAGTCGGTtAGAGCGTGGGTCTAATAAGCCCAAGGtCACAGGTTCGACCCCTGTTGGGAGCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_1714.trna3 (113-42)	Length: 72 bp
+Type: Gln	Anticodon: CTG at 34-36 (80-78)	Score: 67.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GCTCCCATAGTGTAGCGGTtATCACCTCGGACTCTGAATCCGATAaCCCTGGTTCGAGTCCAGGTGGGAGTG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_1745.trna1 (5413-5342)	Length: 72 bp
+Type: Cys	Anticodon: GCA at 33-35 (5381-5379)	Score: 77.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGATTCATAGCTCAGTGGTAGAGCATTCGGCTGCAGTCCGAATGGtCCCCGGTTCAAACCCGGGTGGGTCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_1907.trna1 (1044-1115)	Length: 72 bp
+Type: Cys	Anticodon: GCA at 33-35 (1076-1078)	Score: 77.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGATTCATAGCTCAGTGGTAGAGCATTCGGCTGCAGTCCGAATGGtCCCCGGTTCAAACCCGGGTGGGTCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_1948.trna1 (892-957)	Length: 66 bp
+Type: Gly	Anticodon: GCC at 29-31 (920-922)	Score: 28.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *
+Seq: GaTGGCTCAGTGGTtaAGAGCACTGACTGCCCTTCAAGGGGtTCTGAGTTCAAATCCCAGcaACCA
+Str: >...>>>>.........<<<<.>>>>.......<<.<<.....>>>.>.......<.<<<....<.
+
+T.congo_bin_contig_2070.trna1 (5601-5531)	Length: 71 bp
+Type: Gly	Anticodon: CCC at 33-35 (5569-5567)	Score: 73.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |
+Seq: GCGCCGTTGGTCTAGTGGCATGATGGTACCCTCCCAAGGTATTGaCCCGGGTTCGATTCCCGGACGGCGCA
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_2083.trna1 (5277-5206)	Length: 72 bp
+Type: Ser	Anticodon: GCT at 33-35 (5245-5243)	Score: 25.4
+Possible pseudogene
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GTGagaTGGCTCAGTGGTtaAGAGCGCCGACTGCTCTTCCAaAGGtCCTGAGTTCAAATCCCAGCAACCACA
+Str: >>>.....>>>>.........<<<<...>>.......<<........>>>.>.......<.<<<....<<<.
+
+T.congo_bin_contig_253.trna1 (2991-3062)	Length: 72 bp
+Type: Trp	Anticodon: CCA at 33-35 (3023-3025)	Score: 79.5
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGGGGCTTAGCTCAGTGGTAGAGCATTGGATTCCAAATCCAGGGGtCGCAGGTTCAATCCCTGCAGTCCTCA
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_253.trna2 (3175-3103)	Length: 73 bp
+Type: Asn	Anticodon: GTT at 34-36 (3142-3140)	Score: 73.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: TCCTCCCTGGCGCAGTCGGCAGCGCGTTAGGCTGTTAACCTACAGGtCGTTGGTTCGAATCCAACGGGAGGAG
+Str: >>>>>>>..>>>>........<<<<..>>>>.......<<<<......>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_2629.trna1 (11785-11714)	Length: 72 bp
+Type: Pro	Anticodon: CGG at 33-35 (11753-11751)	Score: 70.4
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGCCGTTTGGTCTAGTGGTATGATTCCTGTTTCGGGTACAGGAGGtCACGGGTTCAATTCCCGTAACGGCCC
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_2630.trna1 (4473-4544)	Length: 72 bp
+Type: Thr	Anticodon: CGT at 33-35 (4505-4507)	Score: 70.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGCCGCTTAGCACAGTGGCAGTGCACCACTCTCGTAAAGTGGGGGtCGCGAGTTCGATTCTCGCAGTGGCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_2630.trna2 (4675-4592)	Length: 84 bp
+Type: Tyr	Anticodon: GTA at 34-36 (4642-4640)	Score: 72.4
+Possible intron: 38-48 (4638-4628)
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: CCTTCTGTAGCTCAATTGGTAGAGCATGTGACTGTAGagcttgcgggtATCACAGGGtCGCTGGTTCGATTCCGGCCGGAAGGA
+Str: >>>>>>>..>>>>........<<<<.>>>>>..................<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_2630.trna3 (1068-997)	Length: 72 bp
+Type: Pro	Anticodon: CGG at 33-35 (1036-1034)	Score: 70.4
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGCCGTTTGGTCTAGTGGTATGATTCCTGTTTCGGGTACAGGAGGtCACGGGTTCAATTCCCGTAACGGCCC
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_2769.trna1 (25771-25683)	Length: 89 bp
+Type: SeC	Anticodon: TCA at 36-38 (25736-25734)	Score: 109.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *   
+Seq: GCCACAATGAGCTCAGCTGGTGCTGGGTGCGGGCTTCAAACCCGTAGGCGAGtTGGACTCGCAGCCGTTCGATTCGGgCCTTTGTGGCG
+Str: >>>>>>>.>..>>>>>>....<<<<<<>>>>>>.......<<<<<<.>>>>>.....<<<<<.>>>>.......<<<.<<.<<<<<<<.
+
+T.congo_bin_contig_2769.trna2 (21967-21880)	Length: 88 bp
+Type: SeC	Anticodon: TCA at 36-38 (21932-21930)	Score: 120.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *  
+Seq: GCCACAATGAGCTCAGCTGGTGCTGGGTGCGGGCTTCAAACCCGTAGGCGAGtTGGACTCGCAGCCGTTCGATTCGGCCTTTGTGGCG
+Str: >>>>>>>.>..>>>>>>....<<<<<<>>>>>>.......<<<<<<.>>>>>.....<<<<<.>>>>.......<<<<<.<<<<<<<.
+
+T.congo_bin_contig_2819.trna1 (3254-3324)	Length: 71 bp
+Type: Gly	Anticodon: GCC at 33-35 (3286-3288)	Score: 69.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |
+Seq: GCGCAGTTGGTCTAGTGGTAGAATTCTCGCCTGCCACGCGGGAGGCCCGGGTTCGATTCCCGGACTGCGCA
+Str: >>>>>>>..>>.>.......<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_307.trna1 (468-396)	Length: 73 bp
+Type: Met	Anticodon: CAT at 34-36 (435-433)	Score: 70.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCGAGCGTGGCGCAGTCGGCAGCGCGTGGGTTTCATAATCCCAAGGtCGTGAGTTCGAGCCTCACCGATCGCA
+Str: >>>>.>>..>>>>........<<<<.>>>>.........<<<<.....>>>>>.......<<<<<<<.<<<<.
+
+T.congo_bin_contig_307.trna2 (339-260)	Length: 80 bp
+Type: Leu	Anticodon: TAG at 35-37 (305-303)	Score: 77.0
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: GGCGGCGTGGCCGAGTGGTctAAGGCGCCAGATTTAGGCTCTGGTCTTTCGGGgCGTGGGTTCGAACCCCACCGCCGTCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>...<<...>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_307.trna3 (188-115)	Length: 74 bp
+Type: Val	Anticodon: AAC at 35-37 (154-152)	Score: 61.5
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GCGCTGATGGTCTAGGTGGTtATGACGTCGCTTTAACACGGCGAAGGtCTCGGGTTCGAGTCCCGATCGGCGTA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_345.trna1 (4538-4467)	Length: 72 bp
+Type: Glu	Anticodon: CTC at 34-36 (4505-4503)	Score: 65.4
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: TCCGGTGTGGTATAGTGGCtAGAACAAGCGGCTCTCACCCGCTAGaCCCGGGTTCGATCCCCGGCACCGGAA
+Str: >>>>>>>..>>.>........<.<<.>>>>>.......<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_363.trna1 (1418-1347)	Length: 72 bp
+Type: Arg	Anticodon: ACG at 33-35 (1386-1384)	Score: 69.5
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GTCCGTGTGGCTCAACGGAAGAGCATCTGACTACGGATCAGAGGGtTGCAGGTTCGAATCCTGTCACGGATG
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_397.trna1 (25771-25683)	Length: 89 bp
+Type: SeC	Anticodon: TCA at 36-38 (25736-25734)	Score: 109.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *   
+Seq: GCCACAATGAGCTCAGCTGGTGCTGGGTGCGGGCTTCAAACCCGTAGGCGAGtTGGACTCGCAGCCGTTCGATTCGGgCCTTTGTGGCG
+Str: >>>>>>>.>..>>>>>>....<<<<<<>>>>>>.......<<<<<<.>>>>>.....<<<<<.>>>>.......<<<.<<.<<<<<<<.
+
+T.congo_bin_contig_397.trna2 (21967-21880)	Length: 88 bp
+Type: SeC	Anticodon: TCA at 36-38 (21932-21930)	Score: 120.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *  
+Seq: GCCACAATGAGCTCAGCTGGTGCTGGGTGCGGGCTTCAAACCCGTAGGCGAGtTGGACTCGCAGCCGTTCGATTCGGCCTTTGTGGCG
+Str: >>>>>>>.>..>>>>>>....<<<<<<>>>>>>.......<<<<<<.>>>>>.....<<<<<.>>>>.......<<<<<.<<<<<<<.
+
+T.congo_bin_contig_505.trna1 (438-367)	Length: 72 bp
+Type: Cys	Anticodon: GCA at 33-35 (406-404)	Score: 77.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGATTCATAGCTCAGTGGTAGAGCATTCGGCTGCAGTCCGAATGGtCCCCGGTTCAAACCCGGGTGGGTCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_565.trna1 (439-510)	Length: 72 bp
+Type: Cys	Anticodon: GCA at 33-35 (471-473)	Score: 77.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGATTCATAGCTCAGTGGTAGAGCATTCGGCTGCAGTCCGAATGGtCCCCGGTTCAAACCCGGGTGGGTCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_614.trna1 (318-389)	Length: 72 bp
+Type: Pro	Anticodon: CGG at 33-35 (350-352)	Score: 70.4
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGCCGTTTGGTCTAGTGGTATGATTCCTGTTTCGGGTACAGGAGGtCACGGGTTCAATTCCCGTAACGGCCC
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_634.trna1 (5982-6065)	Length: 84 bp
+Type: Tyr	Anticodon: GTA at 34-36 (6015-6017)	Score: 72.4
+Possible intron: 38-48 (6019-6029)
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: CCTTCTGTAGCTCAATTGGTAGAGCATGTGACTGTAGagcttgcgggtATCACAGGGtCGCTGGTTCGATTCCGGCCGGAAGGA
+Str: >>>>>>>..>>>>........<<<<.>>>>>..................<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_634.trna2 (9589-9660)	Length: 72 bp
+Type: Pro	Anticodon: CGG at 33-35 (9621-9623)	Score: 70.4
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGCCGTTTGGTCTAGTGGTATGATTCCTGTTTCGGGTACAGGAGGtCACGGGTTCAATTCCCGTAACGGCCC
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_634.trna3 (6184-6113)	Length: 72 bp
+Type: Thr	Anticodon: CGT at 33-35 (6152-6150)	Score: 70.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGCCGCTTAGCACAGTGGCAGTGCACCACTCTCGTAAAGTGGGGGtCGCGAGTTCGATTCTCGCAGTGGCCT
+Str: >>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+T.congo_bin_contig_668.trna1 (1879-1944)	Length: 66 bp
+Type: Undet	Anticodon: NNN at 0-0 (0-0)	Score: 29.3
+Possible pseudogene
+         *    |    *    |    *    |    *    |    *    |    *    |    *
+Seq: GATGGCTCAGTGGTtaAGAGCACTGGCTGCTCTTCCAGAGGtCCTGAGTTCAATTCCCAGcaATCA
+Str: >>..>>>>.........<<<<.>>>>........<<<<.....>>>.>.......<.<<<...<<.
+

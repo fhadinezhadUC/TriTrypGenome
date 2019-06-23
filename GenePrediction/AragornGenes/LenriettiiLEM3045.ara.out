@@ -1,0 +1,1282 @@
+>LenLEM3045_01 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=257560 | SO=chromosome
+0 genes found
+>LenLEM3045_02 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=254006 | SO=chromosome
+1 genes found
+1   tRNA-Ser              c[118000,118091]	101.5	33  	(gct)
+gaacccttggcgccgttggcgccgccgccgccgctaccggtggcggcatcggcggtggggctctcggtgcggcgccgaccgcacaggatttg
+(((.(((. ((((ddddd))))  ((((((  AAA  )))))) (((.(((vvvv))).)))     (((((tttttt))))).))).)))
+>LenLEM3045_03 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=380839 | SO=chromosome
+1 genes found
+1   tRNA-Lys               [252119,252192]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>LenLEM3045_04 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=445619 | SO=chromosome
+1 genes found
+1   tRNA-Val               [278906,278996]	100.1	33  	(aac)
+ggtccctgtggataagggcaccgcgcacctccaacgcagttgcgctattagtattggtttcgctgctgcggttcggtgccgcgaggtgccg
+(((.(((   (.(.dddd.).)  (((.((  AAA  )).)))     ((((vvvvvvvvv)))) (((((ttttttt)))))))).)))
+>LenLEM3045_05 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=436548 | SO=chromosome
+2 genes found
+1   tRNA-Glu              c[236883,237049]	101.7	106 	(ttc)i(33,72)
+attgctgctggcacgcggaaaactgtaggcggcggcggttggcgcctgcgagctgtgcgccagacctgactcaatgtcgtaggcaccaggtccgaccccgcctgtttcagcgtcttcagcagccaaatcggtttggcgggccgccgttccgaatcggtgcgccgacc
+.(((.((   (((.dddddddd.)))((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))       ((...(vvvvvv)...)) (((((tttttttt))))))).))).
+2   tRNA-Arg               [352674,352745]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LenLEM3045_06 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=501070 | SO=chromosome
+1 genes found
+1   tRNA-SeC                c[68836,68923]	108.3	36  	(tca)
+gccgcgatgagctcagctggtgctgggtgcgggcttcaaacccgtaggtgagttgcactcacagccgttcgattcggccttcgtggcg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+>LenLEM3045_07 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=577615 | SO=chromosome
+1 genes found
+1   tRNA-Arg              c[377391,377463]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LenLEM3045_08 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=424964 | SO=chromosome
+1 genes found
+1   tRNA-Arg                 [92549,92666]	100.5	37  	(tcg)i(41,25)
+tgctgcgtggtcggaggaggccatcgctgaggctcttcgacagtacgctctcgcagcgcttgcagaggcttccggtgaggcagtgaagggcagaggttcgtccccttctgcagctgcc
+.((((((  ((.(dddddddddd).))  (((((  AAA iiiiiiiiiiiiiiiiiiiiiiiii )))))                    .((((ttttttt)))).)))))).
+>LenLEM3045_09 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=558049 | SO=chromosome
+11 genes found
+1   tRNA-Ala                c[23016,23108]	100.7	36  	(tgc)
+ggagtagtcttgtggaaggctcgcaatgtacacattgcgagtgaatggagatgggtacgacatcttcgagagttcgaagcgcttgttgctctt
+((((((((   ((.(dddddddd).)) (.(((  AAA  ))).)  ((((((.vvvvv.)))))) (((.(ttttttt).)))))))))))
+2   tRNA-Met               [260980,261051]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Leu               [261112,261195]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+4   tRNA-Glu              c[346949,347020]	118.0	34  	(ttc)
+tccgatgtagtataacggttagaacacctggctttcacccaggagatccgggttcgattcccggtatcggag
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+5   tRNA-Val               [393552,393625]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Glu               [393875,393946]	118.0	34  	(ttc)
+tccgatgtagtataacggttagaacacctggctttcacccaggagatccgggttcgattcccggtatcggag
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+7   tRNA-Phe               [407050,407122]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+8   tRNA-His              c[407295,407366]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+9   tRNA-Val              c[407629,407702]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+10  tRNA-Arg               [407777,407849]	118.6	33  	(ccg)
+gacgttgtggcgcaatggaagcgcgtcggattccggatccgaaggttgtgggttcgacccccatcagcgttgc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+11  tRNA-His               [407915,407986]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>LenLEM3045_10 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=507213 | SO=chromosome
+2 genes found
+1   tRNA-Lys               [482859,482932]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Asn              c[483066,483138]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggag
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>LenLEM3045_11 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=578231 | SO=chromosome
+7 genes found
+1   tRNA-Leu              c[173289,173371]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ala               [173445,173517]	117.5	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcaatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+3   tRNA-Gly               [173573,173644]	122.0	33  	(ccc)
+gcgccgctggtctagtggcatgatggtaccctcccaaggtattgacccgggttcgattcccgggcggcgcac
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+4   tRNA-Ala              c[179986,180058]	117.5	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcaatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+5   tRNA-Leu               [180132,180214]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+6   tRNA-Met              c[389713,389785]	113.6	34  	(cat)
+gcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+7   tRNA-Arg               [389889,389960]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LenLEM3045_12 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=505211 | SO=chromosome
+0 genes found
+>LenLEM3045_13 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=583554 | SO=chromosome
+0 genes found
+>LenLEM3045_14 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=575686 | SO=chromosome
+0 genes found
+>LenLEM3045_15 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=600638 | SO=chromosome
+3 genes found
+1   tRNA-Asp               [297224,297296]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Glu              c[297341,297412]	118.1	34  	(ctc)
+tccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+3   tRNA-Arg               [419517,419649]	100.5	93  	(cct)i(35,56)
+gcggtggtgggcgaggcgggccagctcctcgcggtcgatgccctgcgggtcatgcagagaggcagatatatccaccatgccgaccatcttctccttgctgcgcagcacctcgttcgagccgaggtcaccgtcc
+(((((((  ((.(ddddddddddd).)) (((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))     (((((ttttttt))))))))))))
+>LenLEM3045_16 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=645524 | SO=chromosome
+1 genes found
+1   tRNA-Glu              c[207456,207543]	102.9	30  	(ttc)
+gcgcacgtggcagagttgccgtgcttctcttctgcatgcgtggtagagatgatatgtcatgaccggcgtgcgcgtcgtcgtgtgcgcg
+(((((((  ((.(ddddd).))((.(.  AAA  .).))((((((.(vvvvv).))))))   (((((ttttttt))))))))))))
+>LenLEM3045_17 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=599418 | SO=chromosome
+4 genes found
+1   tRNA-Ala                c[19482,19687]	101.4	31  	(cgc)i(35,114)
+gccatccgcgcgctggcgagcggtggtgctcgcagtcatgggggcgcagcgcctgctgtacgtacagaaaatgcagcgtctagtgcgcctcggctacgccggatttccgattttgcgcgactaccggtatctcgtgacgggagactacgtaccggcaagcgcgtctttagagtgcagccacatgttccacgcatgtccgatggcgc
+((((((.(  (((dddddd))) (((((  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii )))))            .(.(vvvv).). (((((ttttttt)))))).))))))
+2   tRNA-Asp              c[268894,268965]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaag
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Ser               [269043,269123]	121.7	34  	(gct)
+gcaaatgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcg
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+4   tRNA-Ala               [269183,269257]	108.3	35  	(agc)
+tggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctccat
+((((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+>LenLEM3045_18 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=701483 | SO=chromosome
+0 genes found
+>LenLEM3045_19 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=600147 | SO=chromosome
+0 genes found
+>LenLEM3045_20 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=729228 | SO=chromosome
+0 genes found
+>LenLEM3045_21 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=731007 | SO=chromosome
+5 genes found
+1   tRNA-Arg                 [65304,65508]	100.5	36  	(acg)i(40,111)
+ccactacttggtggagctgcacgtgcgagcgggctacgacccaagcggcctgtggcaggaaatgaagcagctggtgccggaggtggccccgctacctgccacggtgcagacattcatgctgcgcgtggtgccgtacagcgcagacccgtccctcgtggtggaggtgacgcgcgccgccctgcggttcggcaccgccgtcgtggac
+((((.((   (((dddddddddd)))  (((((  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii )))))    (..((vvvvv))..)    .((((ttttttt)))).)).))))
+2   tRNA-Ser              c[146187,146267]	123.0	34  	(gct)
+gcaaacgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcg
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Pro               [405388,405460]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggacccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+4   tRNA-Val               [405588,405662]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Lys               [405727,405800]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgacccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>LenLEM3045_22 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=633270 | SO=chromosome
+0 genes found
+>LenLEM3045_23 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=742178 | SO=chromosome
+10 genes found
+1   tRNA-Ile               [210475,210548]	118.5	35  	(tat)
+gctcccgtggtctagttggttaggacgctggtcttatgaaccggatgtcgcgggttcgagccccgccgggagca
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Val              c[210593,210665]	111.3	34  	(tac)
+gcgtgggtgatctagtggttatgatgtctgctttacacgcagaacgtcgcgggttcgaaccccgccccgcgta
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Gln              c[210733,210804]	124.9	34  	(ttg)
+ggtcctatagtgtagtggttatcacttcggactttgaatccgaaaacccaggttcgaatcctggtaggacca
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+4   tRNA-Arg              c[211069,211140]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Leu              c[211366,211448]	117.1	35  	(cag)
+ggcaagatggtcgagtggtccaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+6   tRNA-Thr              c[211516,211589]	120.1	34  	(tgt)
+gggccgcttagcacagtggcagtgcactggtcttgtaaaccaggggtcccgagttcaattctcggagtggcctt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+7   tRNA-Arg               [211660,211734]	121.1	34  	(tcg)
+tggcctcttggcgcaatggaagcgcatcagacttcggatctgagggttgcaggttcgagtcctgcaggggtcgac
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+8   tRNA-Lys               [212049,212121]	122.0	34  	(ttt)
+gcactcctagctcagttggtagagcgcgtggcttttaacctcgtggtcgtgggttcgagccccacggagtgcg
+(((((((  ((((dddddddd))))(((.((  AAA  )).)))    (((((ttttttt))))))))))))
+9   tRNA-Gly              c[212181,212253]	116.4	34  	(tcc)
+gcaattgtggtccaacggttaagatccccgccttccaagcgggtgacccgggttcgactcccggcaattgcac
+(((((((  (((dddddddddd))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+10  tRNA-Trp               [212328,212399]	118.0	33  	(cca)
+gggggcttagctcagtggtagagcattggattccaaatccaagggtcgcaggttcaatccctgcagctctca
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LenLEM3045_24 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=806429 | SO=chromosome
+6 genes found
+1   tRNA-Pro               [195106,195177]	124.4	33  	(cgg)
+ggccgcttggtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Gln               [604774,604848]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgac
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+3   tRNA-Leu              c[605004,605087]	111.7	37  	(taa)
+tgctggggttcccgagttggtcaaaggggtgagacttaagttctcatgcgcaagcttcgtgggttcgaaccccacctccagcaa
+((((((((  (((.dddddddddd.)))((((((  AAA  ))))))           (((((ttttttt)))))))))))))
+4   tRNA-Ile               [605167,605241]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Ile               [606201,606274]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagca
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Asp              c[663706,663777]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaag
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+>LenLEM3045_25 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=868233 | SO=chromosome
+0 genes found
+>LenLEM3045_26 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1032596 | SO=chromosome
+0 genes found
+>LenLEM3045_27 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1014881 | SO=chromosome
+1 genes found
+1   tRNA-Ala              c[272769,272911]	100.8	82  	(cgc)i(35,47)
+aacggggtgggtgggtgaagagaccgcatgcgcttttcgccttcatccgcattcactctcatatgtgcctgagcgtgcgtgcgcaacacacacatatatatatatatgtgtgtgtgtgcgtgttcttctcccgccctccttcc
+((.((((  (((dddddddddd)))  .((.(  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiAAA  ).)).                          (((.(ttttttt).))))))).))
+>LenLEM3045_28 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1153175 | SO=chromosome
+0 genes found
+>LenLEM3045_29 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1128482 | SO=chromosome
+2 genes found
+1   tRNA-Leu              c[755791,755873]	117.8	35  	(caa)
+ggcaggatggccgagtggtctaaggcgggagactcaagttctcttctattcgtaggcgcgggttcgaaccccgctcctgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ser              c[755929,756009]	119.6	34  	(cga)
+gtcaccatacccaagtggttacgggggttgactcgaaatcaactgcgatctcgcgcgcaggttcgaatcctgctggtgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>LenLEM3045_30 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1324515 | SO=chromosome
+1 genes found
+1   tRNA-Thr              c[732810,732881]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LenLEM3045_31 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=437616 | SO=chromosome
+6 genes found
+1   tRNA-Ala                 [98759,98831]	108.3	34  	(agc)
+ggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctcca
+(((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+2   tRNA-Gly               [162276,162346]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Glu              c[162400,162471]	118.1	34  	(ctc)
+tccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+4   tRNA-Phe              c[209724,209856]	100.7	75  	(gaa)i(35,38)
+tcggcggcgtggagtgggacgccgacagcgcgctgccgcgttaccgcgcgcggctggctggcgatgcggccactgaagcggtgcacgacgggtgcgtgcacggcgagcgtctgttccatcaggtgcagtcggg
+(((((.((   ..((ddddddddd)).. (((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  ))))).((..vvvvvvvvv..)).     (((((tttttt))))))).)))))
+5   tRNA-Phe               [362739,362811]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Ser              c[362865,362946]	119.6	34  	(aga)
+gtcaccatacccaagtggttacggggactgactagaaatcagttgcgatctcgcgcgcaggttcgaatcctgctggtgacgc
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>LenLEM3045_32 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1498068 | SO=chromosome
+0 genes found
+>LenLEM3045_33 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1394890 | SO=chromosome
+5 genes found
+1   tRNA-Arg              c[107297,107371]	118.9	35  	(cct)
+tgcccttgtagcctaatggatatggcgtttgcttcctaagcaaaaggttgcgggttcgagtcccgccaggggtaa
+((((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+2   tRNA-Arg              c[107426,107499]	124.5	34  	(tct)
+gctccagtggcctaatggataaggctttggacttctaatccaaagattgcgggttcgaatcccgtctggagtac
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+3   tRNA-Ala               [107574,107647]	117.5	34  	(tgc)
+tgggcgtgtagctcagtggtagagcgcctgttttgcatacaggaggcctagggttcaaacccctactcgtccat
+((((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+4   tRNA-Lys              c[479170,479243]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+5   tRNA-Arg             [1329785,1329981]	100.7	36  	(tcg)i(37,103)
+gcgtgtgctcgccgggttgacatgggtgcgtgacttgactgatgccagccttgcggcggagcgagtgcacaacgcatttgtacaagtgattttcagccatctgtcagaagacgacgacggcgacggcgatgcggcgcatcgcctcgtgactgcggcggagcggcagaaggaggtggagcgcgaccgccgcctgcgcg
+(((((.((  (((ddddddddddd))) (((((  AiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiAA  )))))          ..(vvvv)..   (((((ttttttt))))))).)))))
+>LenLEM3045_34 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1520177 | SO=chromosome
+11 genes found
+1   tRNA-Val              c[401170,401244]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Ile               [401492,401565]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagca
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Met               [401626,401698]	113.6	34  	(cat)
+gcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+4   tRNA-Leu              c[401753,401832]	119.8	35  	(tag)
+ggcggagtggccgagtggtctaaggcgccagatttaggctctggtctttcgaggcgtgggttcgaaccccacctccgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))          (((((ttttttt))))))))))))
+5   tRNA-Ser               [401907,401987]	116.9	34  	(tga)
+gtcaacatacccaagtggttacggggtttgacttgaaatcaaatgcgatctcgcgcgcaggttcgaaccctgctgttgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+6   tRNA-Leu               [717528,717619]	101.6	32  	(cag)
+cgccgttgtcgtgtaggtgcaccaggccgctcagaacgtccagcaagaactcctggagtgccgggagcgaggtgccactcttcaacggcggc
+(((((((   ((((dddd)))) .((.((  AAA  )).)).       (((((((vvvv))))))) ((((ttttttt)))))))))))
+7   tRNA-Asn            c[1211487,1211559]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggag
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+8   tRNA-Tyr            c[1211623,1211706]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagaggctgcaggtatcacagggtcgctggttcgattccggccggaagga
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+9   tRNA-Thr            c[1211775,1211846]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+10  tRNA-Pro             [1211930,1212001]	124.4	33  	(cgg)
+ggccgcttggtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+11  tRNA-Asn             [1212065,1212137]	119.3	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctataggtcgttggttcgaatccaacgggaggag
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>LenLEM3045_35 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1951112 | SO=chromosome
+1 genes found
+1   tRNA-Gln             [1236408,1236522]	102.0	32  	(ctg)i(35,31)
+actgtggatggcgcagttgcgcgtgcagcttctgcgttcgaatatcccacacacagacatccccgctgctgcatgccgcatacaggcagccgccgtgcgggtcgacgtcaaggtc
+(((.(((   (((dddddd)))  (((((  AAAiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  )))))    (...vvvvv...) ((.((ttttttt)).))))).)))
+>LenLEM3045_36 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2596710 | SO=chromosome
+13 genes found
+1   tRNA-Tyr              c[466831,466915]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtggagcatgtgactgtagagttggcaggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+2   tRNA-Thr              c[466995,467066]	117.1	33  	(agt)
+ggccgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Tyr               [467146,467230]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagttggcaggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+4   tRNA-Gly             [1001543,1001614]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgcac
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+5   tRNA-Thr             [1001681,1001752]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Gly            c[1001942,1002013]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgcac
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+7   tRNA-Pro             [1002087,1002158]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+8   tRNA-His            c[1257543,1257698]	101.3	95  	(gtg)i(35,58)
+ctcgtgttgtggtgcaggcgcttaagtattacctcgtcttgtacgcaccgatttcctgtacttcgtttcagtgtcatgtgccgccggacgggctgtgcgaggtggctgtgtggttggaggggaatgcagtcgtcgtgctgatcgagaggcgcgagg
+((((((((   ((((dddddddddd))))(((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))         (((.(.vvvv.).))) ..(((ttttttt)))..))))))))
+9   tRNA-Gln            c[1558858,1558929]	119.8	34  	(ctg)
+gctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtg
+(((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+10  tRNA-Cys             [2387359,2387430]	122.6	33  	(gca)
+ggattcatagctcagtggtagagcattcggctgcagtccgaatggtccccggttcaaacccgggtgggtcct
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+11  tRNA-Leu            c[2388228,2388309]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+12  tRNA-Met            c[2388369,2388440]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+13  tRNA-Pro             [2388513,2388584]	122.1	33  	(tgg)
+ggtcgtttggtctagtggtatgattcctgttttgggtacaggaggtcacgggttcaattcccgtaacgaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>LENLEM3045_SCAF000001 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1782 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000002 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=4818 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000003 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1537 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000004 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1179 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000005 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2751 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000006 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2090 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000007 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2341 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000008 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2797 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000009 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1533 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000010 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1572 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000011 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2980 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000012 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3212 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000013 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2561 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000014 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=6133 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000015 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1100 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000016 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1050 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000017 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1619 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000018 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1218 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000019 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1529 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000020 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1982 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000021 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3583 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000022 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=4502 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000023 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2831 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000024 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=6395 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000025 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2645 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000026 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=4964 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000027 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3225 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000028 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=4513 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000029 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2391 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000030 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2479 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000031 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3731 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000032 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2192 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000033 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=5769 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000034 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=7441 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000035 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2444 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000036 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1646 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000037 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=4540 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000038 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2344 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000039 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1449 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000040 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=5062 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000041 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2160 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000042 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2168 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000043 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2397 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000044 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1668 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000045 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1845 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000046 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1889 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000047 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1087 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000048 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3518 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000049 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=7631 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000050 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3015 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000051 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2720 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000052 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3101 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000053 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3336 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000054 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=8311 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000055 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1263 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000056 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1543 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000057 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3470 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000058 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2050 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000059 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1095 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000060 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=6486 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000061 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2763 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000062 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1469 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000063 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=4573 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000064 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2397 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000065 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1864 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000066 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2251 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000067 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2862 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000068 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2421 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000069 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=13369 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000070 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1652 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000071 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2425 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000072 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=5477 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000073 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2999 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000074 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1506 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000075 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2749 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000076 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3623 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000077 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=795 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000078 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1490 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000079 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=7591 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000080 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1917 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000081 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3661 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000082 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=6126 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000083 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2176 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000084 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1714 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000085 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2580 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000086 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1452 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000087 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2838 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000088 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1261 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000089 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1605 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000090 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2229 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000091 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1803 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000092 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1635 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000093 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2601 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000094 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=8967 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000095 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3172 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000096 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3310 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000097 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=988 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000098 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1131 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000099 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1543 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000100 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2177 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000101 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1448 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000102 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1701 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000103 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=7551 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000104 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1225 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000105 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1247 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000106 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3243 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000107 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1633 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000108 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2164 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000109 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=12367 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000110 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1217 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000111 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2948 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000112 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=6813 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000113 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=4832 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000114 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1855 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000115 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=5604 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000116 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1323 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000117 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1514 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000118 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2238 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000119 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2593 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000120 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1655 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000121 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1396 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000122 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1431 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000123 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1406 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000124 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=5351 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000125 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=5382 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000126 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1018 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000127 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1411 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000128 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1472 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000129 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1348 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000130 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1486 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000131 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3360 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000132 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1904 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000133 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1491 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000134 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1523 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000135 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=11944 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000136 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1738 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000137 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1536 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000138 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1631 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000139 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1727 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000140 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1043 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000141 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1338 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000142 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=5029 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000143 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1402 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000144 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1206 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000145 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=4746 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000146 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1865 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000147 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1193 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000148 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1704 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000149 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=13999 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000150 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2506 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000151 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1741 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000152 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2286 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000153 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3249 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000154 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1781 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000155 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2031 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000156 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2621 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000157 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1269 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000158 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1920 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000159 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1181 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000160 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2040 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000161 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1043 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000162 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1949 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000163 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=4698 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000164 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1969 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000165 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1999 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000166 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3244 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000167 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1824 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000168 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1895 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000169 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2068 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000170 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=648 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000171 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=4226 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000172 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1220 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000173 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=7439 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000174 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2068 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000175 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2138 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000176 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=6082 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000177 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1175 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000178 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1228 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000179 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2138 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000180 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2889 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000181 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1635 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000182 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=22715 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000183 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2186 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000184 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1711 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000185 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3869 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000186 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2161 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000187 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3421 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000188 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=5017 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000189 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2314 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000190 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2434 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000191 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2398 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000192 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2460 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000193 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2733 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000194 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=4442 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000195 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2756 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000196 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2796 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000197 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=6863 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000198 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2271 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000199 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2932 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000200 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2949 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000201 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2088 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000202 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2963 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000203 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=5651 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000204 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1885 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000205 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3060 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000206 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2164 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000207 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3211 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000208 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3151 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000209 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1658 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000210 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3396 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000211 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=6532 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000212 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3433 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000213 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3510 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000214 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3754 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000215 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2138 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000216 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1317 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000217 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3774 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000218 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2446 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000219 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1838 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000220 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=501 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000221 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1652 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000222 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3927 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000223 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=4103 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000224 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=4202 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000225 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1541 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000226 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3126 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000227 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1638 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000228 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=4302 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000229 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=4399 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000230 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=8261 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000231 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=4874 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000232 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=5114 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000233 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1153 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000234 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=4609 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000235 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1719 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000236 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2341 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000237 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1201 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000238 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=5479 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000239 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=5479 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000240 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3451 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000241 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1264 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000242 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1369 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000243 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2165 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000244 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=6899 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000245 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=6376 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000246 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=933 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000247 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2149 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000248 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=6426 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000249 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=6459 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000250 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3493 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000251 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=6793 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000252 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1028 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000253 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1541 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000254 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2712 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000255 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=4217 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000256 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=7630 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000257 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2189 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000258 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=7661 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000259 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=9951 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000260 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1578 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000261 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2569 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000262 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1015 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000263 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1168 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000264 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=4036 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000265 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1016 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000266 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1156 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000267 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2945 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000268 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1650 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000269 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1031 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000270 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2532 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000271 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1039 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000272 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=5704 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000273 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1045 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000274 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1056 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000275 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1368 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000276 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3774 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000277 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1071 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000278 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1087 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000279 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1932 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000280 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1427 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000281 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2953 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000282 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1818 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000283 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=6654 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000284 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1470 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000285 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1635 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000286 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1099 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000287 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1023 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000288 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=4011 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000289 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=7132 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000290 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2619 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000291 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2219 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000292 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1138 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000293 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3947 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000294 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2635 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000295 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1140 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000296 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=5320 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000297 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=6211 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000298 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2554 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000299 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2174 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000300 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=10204 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000301 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1124 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000302 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1180 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000303 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3083 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000304 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1213 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000305 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1218 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000306 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1895 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000307 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1737 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000308 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=5986 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000309 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1236 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000310 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1263 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000311 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1256 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000312 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2728 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000313 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2930 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000314 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=6485 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000315 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3202 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000316 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=4348 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000317 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1248 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000318 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=4042 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000319 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=5937 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000320 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1266 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000321 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1266 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000322 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1267 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000323 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=4193 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000324 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1268 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000325 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1446 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000326 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2129 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000327 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=14687 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000328 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=20757 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000329 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1277 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000330 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1288 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000331 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1825 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000332 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2200 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000333 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3713 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000334 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2507 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000335 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1063 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000336 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1406 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000337 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3203 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000338 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3956 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000339 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2306 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000340 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1295 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000341 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1317 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000342 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1819 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000343 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2907 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000344 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2722 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000345 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2989 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000346 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1314 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000347 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2306 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000348 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3843 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000349 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1308 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000350 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3860 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000351 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=9979 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000352 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1649 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000353 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=11540 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000354 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1359 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000355 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3568 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000356 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1293 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000357 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=4251 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000358 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=5965 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000359 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=5145 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000360 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1391 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000361 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1392 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000362 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1591 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000363 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1392 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000364 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1234 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000365 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2628 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000366 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1459 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000367 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1123 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000368 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1429 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000369 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1273 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000370 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2551 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000371 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1447 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000372 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2931 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000373 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1463 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000374 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=11950 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000375 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1474 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000376 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=4724 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000377 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1827 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000378 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2478 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000379 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1490 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000380 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1504 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000381 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1519 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000382 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=7311 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000383 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1606 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000384 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=4613 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000385 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2104 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000386 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=8576 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000387 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1355 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000388 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=4988 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000389 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1359 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000390 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1655 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000391 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1658 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000392 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=6920 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000393 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3184 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000394 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1659 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000395 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1803 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000396 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=7623 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000397 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1695 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000398 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=5170 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000399 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1708 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000400 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1970 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000401 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2808 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000402 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1735 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000403 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=11184 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000404 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3914 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000405 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1259 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000406 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=4973 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000407 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1330 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000408 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=9945 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000409 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1387 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000410 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1260 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000411 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1777 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000412 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=6258 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000413 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1293 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000414 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2797 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000415 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2147 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000416 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2368 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000417 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=4879 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000418 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3477 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000419 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1704 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000420 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1068 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000421 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=6802 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000422 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2449 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000423 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2579 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000424 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1907 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000425 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1476 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000426 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=8856 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000427 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=6353 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000428 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2932 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000429 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1401 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000430 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=7586 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000431 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1313 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000432 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1930 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000433 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=4474 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000434 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1741 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000435 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3169 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000436 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1503 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000437 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=4035 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000438 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3137 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000439 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2152 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000440 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=12099 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000441 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=4415 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000442 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=11815 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000443 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2246 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000444 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2311 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000445 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3716 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000446 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2357 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000447 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=3285 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000448 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1004 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000449 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=5545 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000450 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1871 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000451 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=2487 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000452 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1153 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000453 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=7953 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000454 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=4667 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000455 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=6924 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000456 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=1531 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000457 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=8567 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000458 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=8223 | SO=supercontig
+0 genes found
+>LENLEM3045_SCAF000459 | organism=Leishmania_enriettii_strain_LEM3045 | version=2014-12-16 | length=5427 | SO=supercontig
+0 genes found
+>end 	495 sequences 97 tRNA genes, nothing found in 471 sequences, (4.85% sensitivity)

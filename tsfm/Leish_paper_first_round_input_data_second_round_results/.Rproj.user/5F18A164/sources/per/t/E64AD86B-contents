@@ -1,0 +1,190 @@
+---
+title: "R Notebook"
+output:
+  pdf_document: default
+  word_document: default
+  html_notebook: default
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+# Density Plots  
+
+```{r plot}
+library(ggplot2)
+geneDF <- read.table("integrated_tse_ara.txt",header = TRUE)
+geneDF2 <- geneDF[geneDF$foundby == "ara" | geneDF$foundby == "both",]
+geneDF2$arascore <- as.double(geneDF2$arascore)
+geneDF2$Foundby <- "Aragorn-only"
+geneDF2[geneDF2$foundby!="ara",]$Foundby <- "Both"
+geneDF2[geneDF2$tsenote!="notfound",]$Foundby <- "Pseudo/Truncated"
+geneDF2$Foundby <- factor(geneDF2$Foundby,levels=c("Both","Aragorn-only","Pseudo/Truncated"))
+#"Aragorn score of genes found by both genefinders TSE and ARA, and genes found by only ARA"
+araplot <- ggplot(geneDF2,
+         aes(
+           x = arascore,
+           fill = Foundby
+         )) + theme_bw() +
+    geom_density(alpha=0.3) + xlab("Aragorn Score") + ggtitle("Aragorn Score Distributions") +    theme(legend.title=element_blank())
+
+geneDF3 <- geneDF[geneDF$foundby == "tse" | geneDF$foundby == "both",]
+geneDF3$tsescore <- as.double(geneDF3$tsescore)
+geneDF3$Foundby <- "tRNAscan-SE2-only"
+geneDF3[geneDF3$foundby =="both",]$Foundby <- "Both Gene-Finders"
+geneDF2$Foundby <- factor(geneDF2$Foundby,levels=c("Both Gene-Finders","tRNAscan-SE2-only"))
+tseplot <- ggplot(geneDF3,
+         aes(
+           x = tsescore,
+           fill = Foundby
+         )) + theme_bw() +
+    geom_density(alpha=0.3) + xlab("tRNAscan-SE2 Score") + ggtitle("tRNAscan-SE2 Score Distributions") + theme(legend.title=element_blank())
+library(gridExtra)
+grid.arrange(araplot, tseplot, ncol=1)
+```
+
+# Summary of Gene Annotation
+
+```{r summary}
+gcContent <- function(x) {
+  x <- DNAString(toupper(x))
+  alf <- alphabetFrequency(x, as.prob = TRUE)
+  sum(alf[c("G", "C")]) * 100
+}
+Apercentage <- function(x) {
+  x <- DNAString(toupper(x))
+  alf <- alphabetFrequency(x, as.prob = TRUE)
+  sum(alf[c("A")]) * 100
+}
+Cpercentage <- function(x) {
+  x <- DNAString(toupper(x))
+  alf <- alphabetFrequency(x, as.prob = TRUE)
+  sum(alf[c("C")]) * 100
+}
+Gpercentage <- function(x) {
+  x <- DNAString(toupper(x))
+  alf <- alphabetFrequency(x, as.prob = TRUE)
+  sum(alf[c("G")]) * 100
+}
+Tpercentage <- function(x) {
+  x <- DNAString(toupper(x))
+  alf <- alphabetFrequency(x, as.prob = TRUE)
+  sum(alf[c("T")]) * 100
+}
+geneDF <- read.table("integrated_tse_ara.txt",header = TRUE, colClasses = "character")
+
+  # cuttoff score for TSE 50, for ARA 107
+  geneDF$arascore <- as.double(geneDF$arascore)
+  geneDF$tsescore <- as.double(geneDF$tsescore)
+  
+  dismiss0 <-
+    (geneDF$foundby == "both") &
+    (geneDF$arascore < 107 | geneDF$tsescore < 50)
+  dismiss1 <-
+    (geneDF$foundby == "ara") &
+    (geneDF$arascore < 107) # most of these genes were pseudo or truncated or both
+  dismiss2 <- (geneDF$foundby == "tse") & (geneDF$tsescore < 50)
+  geneDF <- geneDF[(!dismiss0 & !dismiss1 & !dismiss2), ]
+  
+  # genefunc column is added which shows the presented gene identity in table
+  # Genes marked as ?? include: pseudo|truncated genes, genes with unmatched identity, genes with unassigned identity|anticodon by any of genefinders.
+  
+  geneDF$tsefunc <- factor(geneDF$tsefunc,levels=union(levels(geneDF$tsefunc),levels(geneDF$arafunc)))
+  geneDF$arafunc <- factor(geneDF$arafunc,levels=union(levels(geneDF$tsefunc),levels(geneDF$arafunc)))
+  
+  ambiguty1 <-
+    geneDF$tsefunc == "" &  geneDF$arafunc == "" # 2 genes
+  ambiguty2 <-
+    geneDF$tsenote != "notfound" # 2 genes not the same 2 genes in ambiguty1
+
+  # THIS BELOW CAUSED ERRORS FOR ME. "level sets of factors are different"
+  # > levels(geneDF$tsefunc)
+  # [1] ""  "?" "A" "C" "D" "E" "F" "G" "H" "I" "K" "L" "M" "N" "P" "Q" "R" "S" "T" "V" "W" "X" "Y" "Z"
+  # > levels(geneDF$arafunc)
+  # [1] ""  "#" "A" "C" "D" "E" "F" "G" "H" "I" "K" "L" "M" "N" "O" "P" "Q" "R" "S" "T" "V" "W" "X" "Y" "Z"
+  # Here is how I fixed it: but note that for later, we should do something else for example with genes that aragorn classifies as O
+
+  ambiguty3 <-
+    geneDF$foundby == "both" &
+    geneDF$tsefunc != geneDF$arafunc # 22 genes  
+
+  
+  ambiguty4 <- logical(length = nrow(geneDF))
+  for (i in 1:nrow(geneDF)) {
+    if (geneDF$foundby[i] != "ara")
+      ambiguty4[i] <- length(grep("n|N", geneDF$tsegeneseq[i])) == 1
+    else
+      ambiguty4[i] <- length(grep("n|N", geneDF$arageneseq[i])) == 1
+  }
+  
+  ambiguties <- ambiguty1 | ambiguty2 | ambiguty3 | ambiguty4
+  geneDF$genefunc <- ""
+  geneDF[ambiguties, ]$genefunc <- "??"
+  
+  #table(geneDF[!ambiguties, ]$foundby)
+  #ara both 
+  #36 3525 
+  
+  geneDF[!ambiguties, ]$genefunc <-
+    geneDF[!ambiguties, ]$arafunc
+  
+  firstcol <- c("#tRNA","#N/#G","Min Gene Length","Max Gene Length","%intron","%G" ,"%C" ,"%T" ,"%A","A",  "C",  "D",  "E",  "F",  "G",  "H",  "I",  "K",  "L",  "M",  "N",  "P",  "Q",  "R",  "S",  "T",  "V",  "W",  "X",  "Y",  "Z", "?")
+  resulttable <- data.frame(firstcol,rep(0,length(firstcol)),rep(0,length(firstcol)),rep(0,length(firstcol)))
+  names(resulttable) <- c("Annotation", "Both", "Aragorn-Only", "Union")
+  
+  isboth <- geneDF$foundby=="both"
+  isaraonly <- geneDF$foundby=="ara"
+  intersectDF <- geneDF[isboth,]
+  ARAonlyDF <- geneDF[isaraonly,]
+  geneDF$geneseq <- ""
+  geneDF[isaraonly,]$geneseq <- geneDF[isaraonly,]$arageneseq
+  geneDF[!isaraonly,]$geneseq <- geneDF[!isaraonly,]$tsegeneseq
+  
+  resulttable[1,2:4] <- c(nrow(intersectDF),nrow(ARAonlyDF),nrow(geneDF))
+  resulttable[2,2:4] <- c(sum(nchar(intersectDF$tsegeneseq))/nrow(intersectDF),sum(nchar(ARAonlyDF$arageneseq))/nrow(ARAonlyDF),sum(nchar(geneDF$geneseq))/nrow(geneDF)) # sum of gene length / # genes from the first row
+  resulttable[3,2:4] <- c(min(nchar(intersectDF$tsegeneseq)),min(nchar(ARAonlyDF$arageneseq)),min(nchar(geneDF$geneseq)))
+  resulttable[4,2:4] <- c(max(nchar(intersectDF$tsegeneseq)),max(nchar(ARAonlyDF$arageneseq)),max(nchar(geneDF$geneseq)))
+  resulttable[5, 2:4] <-
+    c(
+      100 * nrow(bothdf[bothdf$tseintronbegin != 0, ]) / nrow(bothdf),
+      100 * nrow(ARAonlyDF[ARAonlyDF$araintronbegin != "nointron", ]) / nrow(ARAonlyDF),
+      100 * (nrow(bothdf[bothdf$tseintronbegin != 0, ]) + nrow(ARAonlyDF[ARAonlyDF$araintronbegin !=
+                                                                           "nointron", ])) / nrow(geneDF)
+    )
+  resulttable[6,2:4] <- c(Gpercentage(paste(intersectDF$tsegeneseq,collapse = "")),Gpercentage(paste(ARAonlyDF$arageneseq,collapse = "")),Gpercentage(paste(geneDF$geneseq,collapse = "")))
+  resulttable[7,2:4] <- c(Cpercentage(paste(intersectDF$tsegeneseq,collapse = "")),Cpercentage(paste(ARAonlyDF$arageneseq,collapse = "")),Cpercentage(paste(geneDF$geneseq,collapse = "")))
+  resulttable[8,2:4] <- c(Tpercentage(paste(intersectDF$tsegeneseq,collapse = "")),Tpercentage(paste(ARAonlyDF$arageneseq,collapse = "")),Tpercentage(paste(geneDF$geneseq,collapse = "")))
+  resulttable[9,2:4] <- c(Apercentage(paste(intersectDF$tsegeneseq,collapse = "")),Apercentage(paste(ARAonlyDF$arageneseq,collapse = "")),Apercentage(paste(geneDF$geneseq,collapse = "")))
+  
+  # make a table of Class frequencies for each set:
+  intersect_ClassFreq <- as.data.frame(table(intersectDF$genefunc))
+  names(intersect_ClassFreq) <- c("class","freq")
+  AraOnly_ClassFreq <- as.data.frame(table(ARAonlyDF$genefunc))
+  names(AraOnly_ClassFreq) <- c("class","freq")
+  Union_ClassFreq <- as.data.frame(table(geneDF$genefunc))
+  names(Union_ClassFreq) <- c("class","freq")
+  intersect_ClassFreq$class <- as.character(intersect_ClassFreq$class)
+  AraOnly_ClassFreq$class <- as.character(AraOnly_ClassFreq$class)
+  Union_ClassFreq$class <- as.character(Union_ClassFreq$class)
+  
+  for (i in 1:nrow(intersect_ClassFreq)) {
+    curr_class <- intersect_ClassFreq$class[i]
+    resulttable[resulttable$Annotation==curr_class,][,2] <- intersect_ClassFreq$freq[i]
+  }
+  for (i in 1:nrow(AraOnly_ClassFreq)) {
+    curr_class <- AraOnly_ClassFreq$class[i]
+    resulttable[resulttable$Annotation==curr_class,][,3] <- AraOnly_ClassFreq$freq[i]
+  }
+  for (i in 1:nrow(Union_ClassFreq)) {
+    curr_class <- Union_ClassFreq$class[i]
+    resulttable[resulttable$Annotation==curr_class,][,4] <- Union_ClassFreq$freq[i]
+  }
+  
+  resulttable$Intersection <- round(resulttable$Intersection,digits = 0)
+  resulttable$ARAonly <- round(resulttable$ARAonly,digits = 0)
+  resulttable$Union <- round(resulttable$Union,digits = 0)
+  resulttable$Annotation <- as.character(resulttable$Annotation)
+  resulttable
+```
+
+
+

@@ -1,0 +1,588 @@
+>LgeLEM452_01 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=270642 | SO=chromosome
+0 genes found
+>LgeLEM452_02 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=280737 | SO=chromosome
+1 genes found
+1   tRNA-Val               [197853,197944]	105.4	30  	(gac)
+cgagcgcgtggtcagatggatgcgacgctgacatcgttgtccccgtgtcggcgagagtggtgccgtggctgttcaactccgtcgcggccgtc
+((..(((   (((ddddd)))((((((  AAA  ))))))        (((((.vvvvv.))))) (((.(ttttttt).))))))..))
+>LgeLEM452_03 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=390562 | SO=chromosome
+2 genes found
+1   tRNA-Lys               [262010,262083]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Val              c[291697,291793]	104.1	37  	(gac)
+ctggtggctgctgcagtggtcgtggcggtctcacctgacgtgcgtggaggacaggctggagacgggcgatgcggcggttctcatctgcctcacctcc
+..(((((   ((((dddddddddd))))((.(.(  AAA  ).).))  (.(.(.(vvvv).).).)     (((((ttttttt))))))))))..
+>LgeLEM452_04 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=458322 | SO=chromosome
+0 genes found
+>LgeLEM452_05 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=444088 | SO=chromosome
+2 genes found
+1   tRNA-Ala                 [70635,70780]	100.6	86  	(tgc)i(33,52)
+agtggagacttcatgcgggagaataacacaccgagagagatgatgatgatggtgttgtgtgcggtcgtggttagcatgcatgcattgcgcgtgtgaacctgcctaagggacggggaggggggggggctctgctcccccctcccctc
+((.((((   (.((dddddddd)).)((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))                          (((((ttttttt))))))))).))
+2   tRNA-Arg               [355358,355429]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LgeLEM452_06 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=489946 | SO=chromosome
+1 genes found
+1   tRNA-SeC                c[68768,68855]	108.3	36  	(tca)
+gccgcgatgagctcagctggtgctgggtgcgggcttcaaacccgtaggtgagttgctctcacagccgttcgattcggccttcgtggcg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+>LgeLEM452_07 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=594080 | SO=chromosome
+1 genes found
+1   tRNA-Arg              c[382275,382346]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LgeLEM452_08 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=458943 | SO=chromosome
+1 genes found
+1   tRNA-Gly               [335065,335225]	102.1	33  	(gcc)i(37,68)
+gcacatcgaggggcggcgtggccgccgccgctgccgtcgccgagacacgcccgcgcttgcgatgagcgccgcggcgatggcgcaacttcgtccccgttgacaaggcggcgacggcagcagcagcagaagcggcggcagcagttgcgtcagctgatgtgctc
+(((((((  (.((dddddddd)).)(((((  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii )))))         .(..(.vvvv.)..). (((.(tttttt).))))))))))
+>LgeLEM452_09 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=557210 | SO=chromosome
+9 genes found
+1   tRNA-Met               [258246,258317]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Leu               [258378,258461]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+3   tRNA-Val               [389013,389086]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-His               [389339,389410]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+5   tRNA-Phe              c[389591,389663]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Glu              c[402230,402301]	118.0	34  	(ttc)
+tccgatgtagtataacggttagaacacctggctttcacccaggagatccgggttcgattcccggtatcggag
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+7   tRNA-Val              c[402539,402612]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+8   tRNA-Arg               [402687,402759]	118.6	33  	(ccg)
+gacgttgtggcgcaatggaagcgcgtcggattccggatccgaaggttgtgggttcgacccccatcagcgttgc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+9   tRNA-His               [402825,402896]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>LgeLEM452_10 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=532081 | SO=chromosome
+3 genes found
+1   tRNA-Lys               [498298,498371]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Gly              c[498411,498481]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Asn              c[498535,498608]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>LgeLEM452_11 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=534234 | SO=chromosome
+6 genes found
+1   tRNA-Leu              c[156649,156731]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ala               [156805,156877]	117.5	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcaatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+3   tRNA-Ala               [204861,204933]	117.5	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcaatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+4   tRNA-Gly               [204995,205066]	122.0	33  	(ccc)
+gcgccgctggtctagtggcatgatggtaccctcccaaggtattgacccgggttcgattcccgggcggcgcac
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+5   tRNA-Met              c[362631,362705]	113.6	35  	(cat)
+tgcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgcaa
+(((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).)))))
+6   tRNA-Arg               [362779,362852]	120.3	34  	(acg)
+tgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+>LgeLEM452_12 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=508916 | SO=chromosome
+0 genes found
+>LgeLEM452_13 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=642220 | SO=chromosome
+0 genes found
+>LgeLEM452_14 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=608463 | SO=chromosome
+0 genes found
+>LgeLEM452_15 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=593227 | SO=chromosome
+2 genes found
+1   tRNA-Asp               [292169,292241]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Glu              c[292281,292354]	118.1	35  	(ctc)
+ttccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaat
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+>LgeLEM452_16 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=699109 | SO=chromosome
+2 genes found
+1   tRNA-Gln              c[445034,445108]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgac
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+2   tRNA-Pro              c[672325,672415]	101.8	33  	(ggg)
+attgcgcctgggcaatgagcagctcttcgcctggggtgcgagggcctgccgatgggaagccgtattggctgttcttctcagccgtgaaaac
+.((.(((   (((dddddddd)))((((((  AAA  ))))))  ((.((vvvv)).))       (((((ttttttt)))))))).)).
+>LgeLEM452_17 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=492662 | SO=chromosome
+0 genes found
+>LgeLEM452_18 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=713217 | SO=chromosome
+1 genes found
+1   tRNA-Arg              c[264601,264710]	100.2	51  	(tcg)i(35,14)
+cagcgtcttgggtgaaggtcgtcagcagcggcacaatggagcgcgcgctttcggcgtacccggcgaattgcgcagtcgaggcgagctcgcgtacgagcacgagtcgctgc
+(((((.(   (.((ddddddddddd)).)((.((iiiiiiiiiiiiii  AAA  )).))          .....vvvv.....  (((.(tttttt).)))).)))))
+>LgeLEM452_19 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=672196 | SO=chromosome
+1 genes found
+1   tRNA-Gly              c[256506,256608]	101.3	46  	(gcc)i(29,15)
+gatcgtggtagggcggcccgtcccttgtgcttttctttttcgtttgccgaacaaggaggtggtagatgttcgccgtgcggggttcggacttttcgcatgctcg
+((.((((   (((ddddddd)))(((((iiiiiiiiiiiiiii  AAA  ))))) ..(.vvvvvvvvv.)..    (((((tttttttt))))))))).))
+>LgeLEM452_20 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=725564 | SO=chromosome
+0 genes found
+>LgeLEM452_21 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=727543 | SO=chromosome
+7 genes found
+1   tRNA-Ser              c[159576,159656]	123.0	34  	(gct)
+gcaaacgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcg
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ile               [185969,186072]	105.7	32  	(gat)i(37,12)
+gcgtctgctggttcggcttgtgcgtcgcgctgatgcacttcgcaagcacgcggttgtgcgcaatcccagcagagcagtcgtagtgcagctccgcgtagatgcgc
+(((((((   ((.ddddddd.)) (((((  AAA  iiiiiiiiiiii)))))        ..(vvvvvvv)..    (((.(ttttttt).))))))))))
+3   tRNA-Ile               [189046,189149]	105.7	32  	(gat)i(37,12)
+gcgtctgctggttcggcttgtgcgtcgcgctgatgcacttcgcaagcacgcggttgtgcgcaatcccagcagagcagtcgtagtgcagctccgcgtagatgcgc
+(((((((   ((.ddddddd.)) (((((  AAA  iiiiiiiiiiii)))))        ..(vvvvvvv)..    (((.(ttttttt).))))))))))
+4   tRNA-Pro               [441893,441964]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+5   tRNA-Val               [442101,442175]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Lys               [442238,442311]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+7   tRNA-Phe               [473066,473224]	104.1	100 	(gaa)i(35,63)
+cagcgtgatggcgggatggtcgacgctgccgccgtagcgctcctctttggcgaggcgaaactccgcaatgaactcctgcagatccaccgagttcgtgctgaacagggagctgaggtcgcttggggtggcctcgccgcgttcgatgcccgacacgctgcc
+(((((((   ((((ddddddddddd))))(.((.iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  .)).)          ..(.vvvv.)..  .((.(ttttttt).)).)))))))
+>LgeLEM452_22 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=586430 | SO=chromosome
+0 genes found
+>LgeLEM452_23 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=757719 | SO=chromosome
+12 genes found
+1   tRNA-Ile               [221695,221768]	118.5	35  	(tat)
+gctcccgtggtctagttggttaggacgctggtcttatgaaccggatgtcgcgggttcgagccccgccgggagca
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Val              c[221814,221886]	111.3	34  	(tac)
+gcgtgggtgatctagtggttatgatgtctgctttacacgcagaacgtcgcgggttcgaaccccgccccgcgta
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Gln              c[221952,222025]	124.9	35  	(ttg)
+tggtcctatagtgtagtggttatcacttcggactttgaatccgaaaacccaggttcgaatcctggtaggaccag
+((((((((  (((.dddddddd.)))((((((  AAA  ))))))   (((((ttttttt)))))))))))))
+4   tRNA-Arg              c[222270,222343]	120.3	34  	(acg)
+tgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+5   tRNA-Leu              c[222565,222647]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+6   tRNA-Thr              c[222709,222782]	120.1	34  	(tgt)
+gggccgcttagcacagtggcagtgcactggtcttgtaaaccaggggtcccgagttcaattctcggagtggcctt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+7   tRNA-Arg               [222853,222926]	121.1	34  	(tcg)
+tggcctcttggcgcaatggaagcgcatcagacttcggatctgagggttgcaggttcgagtcctgcaggggtcgg
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+8   tRNA-Lys               [223239,223311]	122.0	34  	(ttt)
+gcactcctagctcagttggtagagcgcgtggcttttaacctcgtggtcgtgggttcgagccccacggagtgcg
+(((((((  ((((dddddddd))))(((.((  AAA  )).)))    (((((ttttttt))))))))))))
+9   tRNA-Gly              c[223349,223421]	116.4	34  	(tcc)
+gcaattgtggtccaacggttaagatccccgccttccaagcgggtgacccgggttcgactcccggcaattgcac
+(((((((  (((dddddddddd))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+10  tRNA-Trp               [223497,223569]	115.5	33  	(cca)
+gggggcttagctcagtggtagagcattggattccaaatccaggggtcgtaggttcaatccctgcagctctcac
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+11  tRNA-Gly              c[458504,458585]	102.6	33  	(acc)
+tagctgcttgggtagtgggagattgctgggctaccgctacggcggcgtctttcatcgcgggttctacttcaacagtagctaa
+((((((((  (((dddddddd)))((((.(  AAA  ).))))             (..((ttttttt))..)))))))))
+12  tRNA-His               [718165,718337]	103.5	115 	(gtg)i(36,77)
+aggaagcgtagccgcgccatttaatggcaaaggcaggcgcgtttagaaggttcaccttggcttctccacttggtctccatccgcgccagtgacccactccgcctgccaccacgtgtgagtgtctttgagttgaccggcagcgacgccgcgtgtgctactcacaccgttttctg
+((((((((  ((((dddddddddd))))  (((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  ))))) (..(vvvv)..)          (.(((ttttttt))).)))))))))
+>LgeLEM452_24 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=866794 | SO=chromosome
+6 genes found
+1   tRNA-Pro               [212359,212430]	124.4	33  	(cgg)
+ggccgcttggtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Gln               [644688,644762]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgac
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+3   tRNA-Leu              c[644970,645053]	111.7	37  	(taa)
+tgctggggttcccgagttggtcaaaggggtgagacttaagttctcatgcgcaagcttcgtgggttcgaaccccacctccagcaa
+((((((((  (((.dddddddddd.)))((((((  AAA  ))))))           (((((ttttttt)))))))))))))
+4   tRNA-Ile               [645137,645211]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Ile               [647303,647377]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Asp              c[705633,705704]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaag
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+>LgeLEM452_25 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=890375 | SO=chromosome
+0 genes found
+>LgeLEM452_26 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1058844 | SO=chromosome
+1 genes found
+1   tRNA-Glu                 [63677,63785]	103.7	50  	(ttc)i(35,14)
+cggccgtgtcgatgagcttcagcttcctccccttgtacatgcatgcgatttcgatggggtcgcgggtcgtattcgactcgtcagcggcgcggttccgctcgtagccgac
+((((.(((  ((.(dddddddd).))  ((((. iiiiiiiiiiiiii AAA  .))))(.(.vvvvvvvv.).)       (((((ttttttt)))))))).))))
+>LgeLEM452_27 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1046314 | SO=chromosome
+0 genes found
+>LgeLEM452_28 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1135950 | SO=chromosome
+0 genes found
+>LgeLEM452_29 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1211103 | SO=chromosome
+2 genes found
+1   tRNA-Leu              c[818349,818430]	117.8	35  	(caa)
+ggcaggatggccgagtggtctaaggcgggagactcaagttctcttctatccgtaggcgcgggttcgaaccccgctcctgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ser              c[818488,818568]	119.6	34  	(cga)
+gtcaccatacccaagtggttacgggggttgactcgaaatcaactgcgatctcgcgcgcaggttcgaatcctgctggtgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>LgeLEM452_30 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1351617 | SO=chromosome
+2 genes found
+1   tRNA-Thr              c[763464,763535]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Arg            c[1204466,1204597]	101.7	36  	(gcg)i(39,37)
+gctggggcagggcgtccgcttgccttgcccgccttgcgatttccgccgccgctacctgatcgcttcgaggaagaggaggcggcaagcggcaccgcgccgcggacgtgggtggtgccactgcgtcccccagct
+(((((((   ((.(dddddddd).))  (((((  AAAiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  )))))  .((vvvvvvvv)).         ((((.ttttttt.)))))))))))
+>LgeLEM452_31 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1261154 | SO=chromosome
+3 genes found
+1   tRNA-Ala               [183982,184054]	108.3	34  	(agc)
+ggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctcca
+(((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+2   tRNA-Phe             [1107489,1107561]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Ser            c[1107613,1107694]	119.6	34  	(aga)
+gtcaccatacccaagtggttacggggactgactagaaatcagttgcgatctcgcgcgcaggttcgaatcctgctggtgacgc
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>LgeLEM452_32 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1525705 | SO=chromosome
+1 genes found
+1   tRNA-Ser             [1407016,1407104]	101.6	33  	(cga)
+cccgtccgtagatagcgccagtgtgcccgcatcgagggtgggagccgatggcggtagcggtgccgtgcgtgcgccacgcacggacgagg
+(.(((((   .(((ddddddd))).(((((  AAA  ))))) ((((.((vvvv)).))))   (((((ttttttt)))))))))).)
+>LgeLEM452_33 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1409669 | SO=chromosome
+4 genes found
+1   tRNA-Arg              c[101821,101894]	118.9	34  	(cct)
+gcccttgtagcctaatggatatggcgtttgcttcctaagcaaaaggttgcgggttcgagtcccgccaggggtac
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Arg              c[101953,102026]	125.8	34  	(tct)
+gctccagtggcctaatggataaggctttggacttctaatccaaagattgcgggttcgaatcccgcctggagtac
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+3   tRNA-Ala               [102103,102175]	117.5	33  	(tgc)
+gggcgtgtagctcagtggtagagcgcctgttttgcatacaggaggcctagggttcaaacccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+4   tRNA-Lys              c[481281,481354]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>LgeLEM452_34 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1470178 | SO=chromosome
+5 genes found
+1   tRNA-Asn            c[1159236,1159309]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+2   tRNA-Tyr            c[1159364,1159447]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagttcgcaggtatcacagggtcgctggttcgattccggccggaagga
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+3   tRNA-Thr            c[1159510,1159581]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Pro             [1159663,1159734]	124.4	33  	(cgg)
+ggccgcttggtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+5   tRNA-Asn             [1159796,1159869]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>LgeLEM452_35 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1971966 | SO=chromosome
+1 genes found
+1   tRNA-Glu             [1916798,1916969]	101.9	112 	(ctc)i(34,78)
+gggtgtctgcagtggcacttgcgctgttactttggctctgaggtggagccccctgtgtacaagaaggcgcgcattcggtttttcgcgaactccactttactagtcatcaggctcacggtggagagaggtctcgtgcgtgggatatccggcgtgcgatgcgctggcaacaacc
+.(.((((  (((ddddddddddd)))(((((  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiAAA  ))))).(.(.(vvvvvv).).).        ((((ttttttt)))))))).).
+>LgeLEM452_36 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=2639259 | SO=chromosome
+15 genes found
+1   tRNA-His                c[80645,80836]	100.3	130 	(gtg)i(31,98)
+ggcggggtggggagggatggtcctgcgtgtcaaccagtgccttcggcgttgtgtaacaagcccctcctcctctgtggcgtaaagaagctaggctgcacttggagaaatgaggcgctgtgtggatcacatgtgtatgcgcttatatatatgtatgtatgtgtgtgcgcgtgtgcgggtcgcgcacagcgctgc
+((((..(( ((((ddddddd))))((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))     (((((vvvvvv)))))     (((((ttttttt)))))))..))))
+2   tRNA-Tyr              c[477437,477521]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagttcgcaggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+3   tRNA-Thr              c[477599,477671]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Ser              c[885784,885944]	102.4	100 	(gct)i(34,64)
+aagtagatgaatgagccagttacgtctttcgcggatcgcctgcaactcctgcacaagcttctgctgcgcattcgcggctgtggaagcggcactggcgctgctgtcgcggtggggcgaagcgactgttgcacccagttcggtgccgaggccgtttctgctgc
+.((((((  .(((ddddddddd))).  (((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))            ..(vvvvv)..   ..(((tttttttt)))..)))))).
+5   tRNA-Gly               [999755,999825]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+6   tRNA-Thr            c[1000480,1000551]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+7   tRNA-Gly            c[1000616,1000686]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+8   tRNA-Pro             [1000760,1000832]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggacccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+9   tRNA-Gln            c[1573495,1573569]	119.8	35  	(ctg)
+tgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtggc
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+10  tRNA-Gly            c[2132976,2133168]	103.4	134 	(gcc)i(38,95)
+gcgaggactgggaagaggttgtgtgcgtcagcagcgccaagcagctcgaggagctctccggcgtcaccggcgtcacagacatccaccgccagttcgttgacaatatcacgatcccaagtaagcggcctggtatgccgccgctgaagcgtgtgccgatggtgtttgactgctggttcgagtccggctcgatgcc
+(((..((   ((..ddddddddddd..))  ((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))((...vvvvvvvvvv...))     (((((ttttttt)))))))..)))
+11  tRNA-Gly             [2191752,2191936]	100.6	131 	(gcc)i(35,94)
+caggatcttgggttggtttggaatgagcccggtcatgcgcatgtgacggtaaaacttgatgtaggggttcgcgcggcgacgtgctgcgctggtcttcctcttggcggcggtgtgccgcgccttggactttgccacggctgcgatgcgcgtctgtcgaattcgccgcttcaaggcggcggccttgc
+((((.((   ((((ddddddddddd))))(((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))....((vvvvvv))....   (((((tttttt))))))).))))
+12  tRNA-Cys             [2424369,2424440]	122.6	33  	(gca)
+ggattcatagctcagtggtagagcattcggctgcagtccgaatggtccccggttcaaacccgggtgggtcct
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+13  tRNA-Leu            c[2425213,2425295]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+14  tRNA-Met            c[2425359,2425430]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+15  tRNA-Pro             [2425502,2425575]	122.1	33  	(tgg)
+ggtcgtttggtctagtggtatgattcctgttttgggtacaggaggtcacgggttcaattcccgtaacgaccccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>LGELEM452_SCAF000001 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=18593 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000002 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1469 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000003 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=95468 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000004 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1768 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000005 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=126248 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000006 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=2758 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000007 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=60967 | SO=supercontig
+5 genes found
+1   tRNA-Ser                c[10036,10116]	116.9	34  	(tga)
+gtcaacatacccaagtggttacggggtttgacttgaaatcaaatgcgatctcgcgcgcaggttcgaaccctgctgttgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Leu                 [10191,10270]	119.8	35  	(tag)
+ggcggagtggccgagtggtctaaggcgccagatttaggctctggtctttcgaggcgtgggttcgaaccccacctccgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))          (((((ttttttt))))))))))))
+3   tRNA-Met                c[10301,10373]	113.6	34  	(cat)
+gcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+4   tRNA-Ile                c[10436,10510]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Val                 [10733,10807]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LGELEM452_SCAF000008 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=2087 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000009 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=6181 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000010 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=6860 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000011 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=2139 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000012 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1257 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000013 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1990 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000014 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=4942 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000015 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1121 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000016 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=20552 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000017 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=737 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000018 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1039 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000019 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1769 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000020 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=3737 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000021 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=3646 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000022 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1100 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000023 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1139 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000024 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1152 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000025 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1119 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000026 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=2039 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000027 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1394 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000028 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1416 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000029 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1234 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000030 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=6954 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000031 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=6226 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000032 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1833 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000033 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1583 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000034 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1058 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000035 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=4630 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000036 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1630 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000037 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1382 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000038 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1803 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000039 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=2060 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000040 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=2167 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000041 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1185 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000042 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=3920 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000043 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=4732 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000044 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=8672 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000045 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=8714 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000046 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1924 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000047 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1654 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000048 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1027 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000049 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=4015 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000050 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=4621 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000051 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1405 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000052 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=6359 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000053 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=6242 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000054 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=14875 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000055 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=4539 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000056 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1187 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000057 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1217 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000058 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1048 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000059 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=6687 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000060 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=4279 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000061 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1844 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000062 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=11705 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000063 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1113 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000064 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=5398 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000065 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1535 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000066 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=7609 | SO=supercontig
+2 genes found
+1   tRNA-Glu                     [443,516]	118.1	35  	(ctc)
+ttccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaat
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+2   tRNA-Gly                    c[558,628]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+>LGELEM452_SCAF000067 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=8438 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000068 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1180 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000069 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=9404 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000070 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=2909 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000071 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=12564 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000072 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=3677 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000073 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1109 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000074 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=2451 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000075 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=2551 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000076 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=2287 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000077 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1223 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000078 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1353 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000079 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=9387 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000080 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=2589 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000081 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=2038 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000082 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1209 | SO=supercontig
+3 genes found
+1   tRNA-Ala                    c[368,443]	108.3	35  	(agc)
+tggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctccaac
+((((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+2   tRNA-Ser                    c[501,582]	121.7	34  	(gct)
+gcaaatgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcgc
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Asp                     [659,731]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+>LGELEM452_SCAF000083 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1399 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000084 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=33094 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000085 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1139 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000086 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1641 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000087 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1396 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000088 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=2621 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000089 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=2954 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000090 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=3425 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000091 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=3342 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000092 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1805 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000093 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=2033 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000094 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1437 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000095 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=7425 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000096 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=5190 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000097 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=11885 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000098 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=3157 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000099 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1063 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000100 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1220 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000101 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=2287 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000102 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=2857 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000103 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1189 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000104 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1630 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000105 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=33226 | SO=supercontig
+0 genes found
+>LGELEM452_SCAF000106 | organism=Leishmania_gerbilli_strain_LEM452 | version=2014-12-16 | length=1036 | SO=supercontig
+0 genes found
+>end 	142 sequences 101 tRNA genes, nothing found in 114 sequences, (19.72% sensitivity)

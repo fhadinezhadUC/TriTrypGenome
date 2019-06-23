@@ -1,0 +1,326 @@
+>TcX10_chr1 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=3116433 | SO=chromosome
+9 genes found
+1   tRNA-Ser                 [42776,42855]	116.4	33  	(aga)
+gtcaccataccaagtggttacggggactgactagaaatcagttgcgatctcgcgcgcaggttcgaatcctgctggtgacg
+(((((((  ((.dddddddd.)) ((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ser               [538622,538702]	119.6	34  	(cga)
+gtcaccatacccaagtggttacggggactgactcgaaatcagttgcgatctcgcgcgcaggttcgaatcctgctggtgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Leu               [538758,538840]	117.0	35  	(caa)
+ggcaagatggccgagtggtctaaggcgggagactcaagttctcttctattcgtaggcgtgggttcgaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+4   tRNA-Ser              c[718634,718714]	119.6	34  	(aga)
+gtcaccatacccaagtggttacggggactgactagaaatcagttgcgatctcgcgcgcaggttcgaatcctgctggtgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+5   tRNA-Asn             [1680360,1680432]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggag
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+6   tRNA-Ala            c[1680473,1680545]	117.5	33  	(tgc)
+gggcgtgtagctcagtggtagagcgcctgttttgcatacaggaggcctagggttcaaacccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+7   tRNA-Arg             [1680630,1680702]	123.3	34  	(tct)
+gctccagtggcctaatggataaggctttggacttctaatccaaggattgcgggttcgagtcccgtctggagta
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+8   tRNA-Lys             [1680759,1680831]	119.9	34  	(ttt)
+tgccttcctagctcagcggtagagcgcacggcttttaaccgtgtggtcgtgggttcgatcccacggatggcgt
+((((.(((  ((((ddddddd))))((((((  AAA  ))))))    (((((tttttt)))))))).))))
+9   tRNA-Arg             [1680895,1680967]	123.1	34  	(cct)
+gccctcgtagcctaatggataaggcgttcgcttcctaagcgaaagattgcgggttcgagtcccgccgagggta
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>TcX10_chr2 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=1784007 | SO=chromosome
+0 genes found
+>TcX10_chr3 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=1639454 | SO=chromosome
+2 genes found
+1   tRNA-His            c[1102742,1102813]	120.7	33  	(gtg)
+gggaagatagttcagtggcagaacatcagattgtggctctgaatacccgggttcgattcccggtcttccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+2   tRNA-His             [1104837,1104908]	120.7	33  	(gtg)
+gggaagatagttcagtggcagaacatcagattgtggctctgaatacccgggttcgattcccggtcttccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>TcX10_chr4 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=1537348 | SO=chromosome
+1 genes found
+1   tRNA-Leu             [1521277,1521408]	101.1	72  	(gag)i(29,42)
+acggaaagggcgtcttggcgcacctggtgatgtgttcgcctcgagtacagctgggtgtggtggaaggagatgagggctgtgttccgcaggagtgcatgcatgtgggcatgggtgccattcccattcttcgta
+(((((.(  (((dddddd))) (.((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  ))).)                          (((((ttttttt)))))).)))))
+>TcX10_chr5 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=1372610 | SO=chromosome
+3 genes found
+1   tRNA-Asn              c[527415,527488]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+2   tRNA-Thr              c[527562,527632]	121.7	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+3   tRNA-Pro               [527894,527965]	122.8	33  	(cgg)
+ggccgcttggtctagtggtatgattcctgtttcgggtacaggaggtcacgggttcaattcccgtagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>TcX10_chr6 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=1314612 | SO=chromosome
+0 genes found
+>TcX10_chr7 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=2182748 | SO=chromosome
+2 genes found
+1   tRNA-Ser              c[128309,128512]	101.1	35  	(gga)i(39,109)
+ccgtggtggtgaccggcgggctgggctccgtcctggagatgcaggcgctcggcgtgttgcgaggatgtcatgcgcccggcgcaggagcgtgcgagcaccgttgcgctgccgtacttcctgtcgtgttcgctgcccttgacccgctgtggatggtggtgggcaacgcgctgctcgccgctgtgtttcgggtgcgtgcactgcggt
+((((((((   .((ddddddddd)). (((((  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii )))))     (..(.(vvvvv).)..)   (((((ttttttt)))))))))))))
+2   tRNA-???               [627307,627377]	112.7	34  	(ct) 
+tccggtgtggtatagtggctagaacaagcggctctcaccgctagacccgggttcgatccccggcatcggaa
+(((((((  ((.(dddddddd).)) (((((  AA  )))))    (((((ttttttt))))))))))))
+>TcX10_chr8 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=1158187 | SO=chromosome
+6 genes found
+1   tRNA-Phe              c[138295,138367]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Glu              c[138430,138502]	118.9	34  	(ttc)
+tccgatatggtataacggttagaacacctggctttcacccaggagatccgggttcgattcccggtatcggaac
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+3   tRNA-Val               [138592,138664]	113.6	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcgatccccgcccgtcgta
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Gly               [775112,775182]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+5   tRNA-Thr              c[807279,807350]	116.9	33  	(agt)
+ggccgcttagctcaatggcagagcgccgtcctagtaagacggaggtcgggggttcgatcccccagtggcctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))      ((((ttttttt)))))))))))
+6   tRNA-Gly               [807432,807502]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+>TcX10_chr9 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=1138728 | SO=chromosome
+2 genes found
+1   tRNA-Gly               [389316,389387]	121.6	33  	(ccc)
+gcgccgttggtctagtggcatgatggtaccctcccaaggtattgacccgggttcgattcccggacggcgcac
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Leu               [389467,389550]	116.7	36  	(aag)
+tggcgagatggtcgagtggtctaagacgttggattaaggttccaatccttccgagggcgtgggttcaaaccccactctcgtcag
+((((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+>TcX10_chr10 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=1072534 | SO=chromosome
+0 genes found
+>TcX10_chr11 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=1064585 | SO=chromosome
+2 genes found
+1   tRNA-Glu               [248340,248430]	102.0	34  	(ttc)
+ggtggcggtggcggtggtggcggtggcgcggttttcgattgcgcaacgctggccgcgttgaatttcggttcctgtcctgttgtcaccgcca
+(((((((   ((.(dddddd).)) ((((((  AAA  ))))))(((((vvvvv)))))    .(.((ttttttt)).).)))))))
+2   tRNA-Arg              c[774313,774384]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>TcX10_chr12 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=1046063 | SO=chromosome
+0 genes found
+>TcX10_chr13 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=1001117 | SO=chromosome
+0 genes found
+>TcX10_chr14 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=965775 | SO=chromosome
+1 genes found
+1   tRNA-Gln              c[865522,865593]	116.9	34  	(ctg)
+gctcccatagtgtagcggttatcacctcggactctgaatccgataaccctggtttgagtccaggtgggagca
+(((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>TcX10_chr15 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=953345 | SO=chromosome
+11 genes found
+1   tRNA-SeC              c[152305,152392]	107.9	36  	(tca)
+gccacgatgagctcagctggtgctgggtgcgggcttcaaacccgtaggcgagttggactcgcagccgttcgattcggcctttgtggtg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+2   tRNA-SeC              c[155790,155877]	107.9	36  	(tca)
+gccacgatgagctcagctggtgctgggtgcgggcttcaaacccgtaggcgagttggactcgcagccgttcgattcggcctttgtggtg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+3   tRNA-SeC              c[159268,159355]	107.9	36  	(tca)
+gccacgatgagctcagctggtgctgggtgcgggcttcaaacccgtaggcgagttggactcgcagccgttcgattcggcctttgtggtg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+4   tRNA-SeC              c[162746,162833]	107.9	36  	(tca)
+gccacgatgagctcagctggtgctgggtgcgggcttcaaacccgtaggcgagttggactcgcagccgttcgattcggcctttgtggtg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+5   tRNA-SeC              c[166224,166311]	107.9	36  	(tca)
+gccacgatgagctcagctggtgctgggtgcgggcttcaaacccgtaggcgagttggactcgcagccgttcgattcggcctttgtggtg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+6   tRNA-Asp              c[382790,382861]	116.2	34  	(gtc)
+ttctcggtagtatagtggtaagtatacccgcctgtcacgcgggtgacccgggttcaattccgcgccgggaag
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (..((ttttttt))..))))))))
+7   tRNA-Ser               [382966,383046]	123.0	34  	(gct)
+gcaaacgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgtaggttcgaaccctaccgtttgcg
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+8   tRNA-Ala               [383115,383185]	106.2	33  	(agc)
+gggatgtagctcagatggtagagcgcccgcttagcatgcgggaggtattgggatcgatacccaacttctcc
+((((.(( ((((dddddddd)))) (((((  AAA  )))))      ((((ttttttt)))))).))))
+9   tRNA-Leu              c[779003,779085]	116.7	35  	(aag)
+ggcgagatggtcgagtggtctaagacgttggattaaggttccaatccttccgagggcgtgggttcaaaccccactctcgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+10  tRNA-Met              c[779142,779213]	116.7	33  	(cat)
+agcaccgtggcgcagtggaagcgcgatgggctcataacccataggacgttggatcgaaaccaaccggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+11  tRNA-Pro               [779290,779361]	122.8	33  	(tgg)
+ggccgcttggtctagtggtatgattcctgttttgggtacaggaggtcacgggttcaattcccgtagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>TcX10_chr16 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=1462404 | SO=chromosome
+3 genes found
+1   tRNA-Glu               [642526,642597]	117.2	34  	(ctc)
+tccggtgtggtatagtggctagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+2   tRNA-Pyl               [672044,672115]	112.4	33  	(cta)i(34,2)
+gcgcagttggtccagtgggagaattcccgcatcattaaagcgggggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).)) (((((  AiiAA  )))))   (((((ttttttt))))))))))))
+3   tRNA-Thr             [1087455,1087548]	101.2	39  	(ggt)
+gatgcgtatggtttgtactcgaaaggaacgctgttgctggtggtggcagctcgctgtacacgcggtactgcagcttcgatggctacatgcatct
+(((((((   ((((ddddddddddd)))) ((((((  AAA  ))))))      ((((vvvvv)))) (.(((ttttttt))).))))))))
+>TcX10_chr17 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=880979 | SO=chromosome
+0 genes found
+>TcX10_chr18 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=783911 | SO=chromosome
+0 genes found
+>TcX10_chr19 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=782831 | SO=chromosome
+0 genes found
+>TcX10_chr20 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=730582 | SO=chromosome
+0 genes found
+>TcX10_chr21 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=704788 | SO=chromosome
+3 genes found
+1   tRNA-Leu                  c[8948,9033]	112.7	38  	(taa)
+ttgctggggttcccgagttggtcaaaggggtgagacttaagttctcatgcgtaagcttcgtgggttcgaaccccaccccagcaatc
+((((((((   (((.dddddddddd.)))((((((  AAA  ))))))           (((((ttttttt)))))))))))))
+2   tRNA-Gln                  c[9091,9161]	121.5	33  	(ctg)
+gctcccatagtgtagggttatcacctcggactctgaatccgataaccctggttcgagtccaggtgggagca
+(((((((  (((.ddddddd.))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+3   tRNA-Ile                   [9246,9322]	112.2	37  	(aat)
+gggctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttggagcact
+(.(((((.   ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))).))))).)
+>TcX10_chr22 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=703915 | SO=chromosome
+1 genes found
+1   tRNA-Ile               [688049,688123]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>TcX10_chr23 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=698928 | SO=chromosome
+0 genes found
+>TcX10_chr24 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=697074 | SO=chromosome
+3 genes found
+1   tRNA-Phe              c[261303,261373]	117.7	33  	(gaa)
+gccgcgatagctcagttgggaagcgtcagactgaagatctgaaggtcctggttcgatcccgggtcgcggca
+(((((((  (((ddddddddd))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+2   tRNA-Glu              c[261436,261508]	118.9	34  	(ttc)
+tccgatatggtataacggttagaacacctggctttcacccaggagatccgggttcgattcccggtatcggaac
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+3   tRNA-Val               [261596,261670]	113.6	35  	(cac)
+cgcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcgatccccgcccgtcgtgt
+((((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+>TcX10_chr25 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=691987 | SO=chromosome
+1 genes found
+1   tRNA-Cys                  c[2924,2997]	122.6	34  	(gca)
+aggattcatagctcagtggtagagcattcggctgcagtccgaatggtccccggttcaaacccgggtgggtccta
+((((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt)))))))))))))
+>TcX10_chr26 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=673981 | SO=chromosome
+0 genes found
+>TcX10_chr27 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=586256 | SO=chromosome
+0 genes found
+>TcX10_chr28 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=587246 | SO=chromosome
+1 genes found
+1   tRNA-Gly               [232145,232313]	100.0	34  	(gcc)i(36,76)
+ggaggagcagctggtggtggtggtggtggtgatgcctctgcgttgagcgctccggcactggccagtaccggggtaaaatttaaggcaataggtgatagtgtgtaccgcaatcttcgccatgaaattggggttcataaggtgcagcgggttcctct.ccccccccctccg
+(((((.(  ((((ddddddd))))  (((((  AAiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiA  )))))                        (.(((tttttttt))).)).)))))
+>TcX10_chr29 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=562299 | SO=chromosome
+1 genes found
+1   tRNA-Pro               [123347,123419]	116.2	33  	(agg)
+cggccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctgggcccc
+.(.((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))).).
+>TcX10_chr30 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=548615 | SO=chromosome
+0 genes found
+>TcX10_chr31 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=547210 | SO=chromosome
+1 genes found
+1   tRNA-Ile              c[156991,157065]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>TcX10_chr32 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=1006492 | SO=chromosome
+5 genes found
+1   tRNA-Pyl                 [25700,25771]	112.4	33  	(cta)i(34,2)
+gcgcagttggtccagtgggagaattcccgcatcattaaagcgggggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).)) (((((  AiiAA  )))))   (((((ttttttt))))))))))))
+2   tRNA-Ser              c[390582,390787]	100.8	35  	(gga)i(39,112)
+ccgtggtggtgaccggcgggctgggctccatcctggagatgcaggcgctcggcgtgtttgcgaggatgtcatgcgcctcggcgcaggagcgtgcgagcaccgttgcgctgccgtacttcctgtcggtgttcgctgcccttgatccgctgtggatggtggtgggcaacgcgctgctcaccgctgtgttcggctgcgtgcactacggt
+((((((((   .((ddddddddd)). (((((  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii )))))     .(....(vvvvv)....). ((((tttttttt))))))))))))
+3   tRNA-Ala              c[648386,648461]	109.1	35  	(agc)
+tggggatgtagctcagatggtagagcgcccgcttagcatgcgggaggtattgggatcgatacccaacttctccaac
+((((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+4   tRNA-Ser              c[648530,648610]	123.0	34  	(gct)
+gcaaacgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgtaggttcgaaccctaccgtttgcg
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+5   tRNA-Asp               [648716,648787]	124.0	34  	(gtc)
+ttctcggtagtatagtggtaagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaag
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+>TcX10_chr33 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=526761 | SO=chromosome
+0 genes found
+>TcX10_chr34 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=524902 | SO=chromosome
+0 genes found
+>TcX10_chr35 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=525419 | SO=chromosome
+0 genes found
+>TcX10_chr36 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=515211 | SO=chromosome
+0 genes found
+>TcX10_chr37 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=508239 | SO=chromosome
+11 genes found
+1   tRNA-Ile              c[217620,217692]	110.9	35  	(tat)
+gctcctgtggtctagttggttaggacgttggtcttatgagccgaatatcgcgggttcgagcccgccaggagca
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((tttttt))))))))))))
+2   tRNA-Gln               [217778,217850]	124.9	34  	(ttg)
+ggtcctatagtgtagtggttatcacttcggactttgaatccgaaaacccaggttcgaatcctggtaggaccac
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Val               [217916,217988]	113.6	34  	(tac)
+gcgtgggtgatctagtggttatgatgtctgctttacacgcagaaagtcgcgggttcgaaccccgccccgcgta
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Lys               [218058,218131]	118.9	35  	(ctt)
+agcccttctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacgggggtgc
+.((((((   ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))).
+5   tRNA-Gly               [218381,218452]	116.7	34  	(tcc)
+gcaatcgtggtccaacggttaagatccccgccttccaagcgggtgacccgggttcgactcccggcgattgca
+(((((((  (((dddddddddd))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+6   tRNA-Leu              c[218496,218577]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtgacgttcaggtcgtcatctctccggaggcgtgggttcaaaccccactcttgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+7   tRNA-Thr              c[218641,218714]	120.5	34  	(tgt)
+aggcctcgtagcacagtggcagtgcactggtcttgtaaaccaggggtcccgagttcaattctcggcggggcctt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+8   tRNA-Arg               [218802,218874]	122.0	33  	(tcg)
+gatctcgtggcgcaatggaagcgcatcagacttcggatctgagggttgcaggttcgagtcctgccgggatcgc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+9   tRNA-Lys               [219350,219423]	118.9	35  	(ctt)
+agcccttctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacgggggtgg
+.((((((   ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))).
+10  tRNA-Arg              c[219467,219538]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+11  tRNA-Trp              c[328257,328328]	112.9	33  	(cca)
+tggggcttagctcagtggtagagcattggattccaaatccaggggtcgcaggttcaatccctgcagtcctca
+.((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))).
+>TcX10_chr38 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=488350 | SO=chromosome
+0 genes found
+>TcX10_chr39 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=482673 | SO=chromosome
+0 genes found
+>TcX10_chr40 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=433625 | SO=chromosome
+0 genes found
+>TcX10_chr41 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=428253 | SO=chromosome
+0 genes found
+>TcX10_chr42 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=854564 | SO=chromosome
+1 genes found
+1   tRNA-Ser              c[283526,283730]	102.1	35  	(gga)i(39,112)
+ccgtggtggtgaccggcgggctgggctccatcctggagatgcaggcgctcggcgtgtttgcgaggatgtcatgtgcctcggcacaggagcgtgcgagcaccgttgcgctgccgtacttcctgtcggtgttcgctgcccttgacccgctgtggatggtggtgggcaacgcgctgctcgccgctgtgttcggtgcgtgcactgcggt
+((((((((   .((ddddddddd)). (((((  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii )))))     .(....(vvvvv)....). ((((ttttttt))))))))))))
+>TcX10_chr43 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=426998 | SO=chromosome
+7 genes found
+1   tRNA-Val              c[123495,123569]	118.0	35  	(aac)
+gcgctgatggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgatcggcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Asn               [123665,123750]	108.4	34  	(gtt)i(36,13)
+ccttctgtagctcaattggtagagcatgtgactgtagaacttcggcagtaatcacagggtcgctggttcgattccggccggaagga
+(((((((  ((((dddddddd)))) (((((  AAiiiiiiiiiiiiiA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Met              c[123785,123857]	113.2	34  	(cat)
+gcgagcatggcgcagtcggcagcgcgtgggtttcataatcccaaggtcgtgagttcgagcctcactgatcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+4   tRNA-Glu               [123938,124011]	117.2	35  	(ctc)
+ttccggtgtggtatagtggttagaacaagcggctctcacccgctagacccgggttcaattcccggcatcggaat
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+5   tRNA-Met               [124091,124163]	113.2	34  	(cat)
+gcgagcatggcgcagtcggcagcgcgtgggtttcataatcccaaggtcgtgagttcgagcctcactgatcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+6   tRNA-Ser              c[124183,124263]	117.3	34  	(tga)
+gtcgacatacccaagtggttacggggtttgacttgaaatcaaatgcgatctcgcgcgcaggttcgaaccctgctgtcgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+7   tRNA-Leu               [124345,124425]	119.9	36  	(tag)
+tggcggtgtggccgagtggtctaaggcgccagatttaggctctggtctctagggcgtgggttcgaaccccaccaccgtcag
+((((((((  (((ddddddddddd)))((((((  AAA  ))))))         (((((ttttttt)))))))))))))
+>TcX10_chr44 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=425812 | SO=chromosome
+0 genes found
+>TcX10_chr45 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=424862 | SO=chromosome
+0 genes found
+>TcX10_chr46 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=416149 | SO=chromosome
+0 genes found
+>TcX10_chr47 | organism=Trypanosoma_cruzi_Sylvio_X10/1 | version=2017-03-18 | length=404009 | SO=chromosome
+0 genes found
+>end 	47 sequences 77 tRNA genes, nothing found in 25 sequences, (46.81% sensitivity)

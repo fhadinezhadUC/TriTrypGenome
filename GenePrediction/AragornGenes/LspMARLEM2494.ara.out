@@ -1,0 +1,791 @@
+>LMARLEM2494_01 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=244601 | SO=chromosome
+0 genes found
+>LMARLEM2494_02 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=268255 | SO=chromosome
+0 genes found
+>LMARLEM2494_03 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=374685 | SO=chromosome
+0 genes found
+>LMARLEM2494_04 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=431987 | SO=chromosome
+1 genes found
+1   tRNA-Ala              c[338445,338592]	101.2	37  	(cgc)i(42,56)
+agtcggtgtgggcgatgtcgtttggcgccggcggcccgcgcgctttgggtcggcacccggccctggcggctgcgacatcactgatgtgtacgtgcctccgccggaagatgaccttttcgtcgttgtgcagacgctgcgatcgactacc
+(((((((   ((((ddddddddddd))))(((((  AAA  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii)))))                  (((.(tttttttt).))))))))))
+>LMARLEM2494_05 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=433152 | SO=chromosome
+2 genes found
+1   tRNA-Ser               [104262,104394]	100.0	74  	(cga)i(29,43)
+cgggctcctggccgacgcgcctcggcatcccgggcgatgagctgtgcatcacgagcaacgaggccttttacctcgagaatgtcccgaagcgcactctttgcgttggtggcggttacatctccgtcgagtttgc
+(((((((   (.((ddd)).)  (((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  ))))) (.((.vvvvvvvvvvvv.)).) (((((tttttttt))))))))))))
+2   tRNA-Arg               [347054,347125]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LMARLEM2494_06 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=495072 | SO=chromosome
+1 genes found
+1   tRNA-SeC                c[66996,67083]	108.3	36  	(tca)
+gccgcgatgagctcagctggtgctgggtgcgggcttcaaacccgtaggtgagttgctctcacagccgttcgattcggccttcgtggcg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+>LMARLEM2494_07 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=571795 | SO=chromosome
+2 genes found
+1   tRNA-Arg              c[371097,371168]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Tyr              c[481209,481359]	100.8	38  	(ata)i(43,57)
+cgacgtgttggtgcagcatgggcaagcacacgcacctataaagcacttcaaacagctccgtccgcgtgtaagccggccggcacgctgctgggcgcagcggtgcgccggtggggcaccacgcaacgtgcaggttcacgtcccaccacggcac
+.(.((((   ((((ddddddddddd)))) (((((  AAA  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii)))))                      (..((ttttttt))..))))).).
+>LMARLEM2494_08 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=446446 | SO=chromosome
+0 genes found
+>LMARLEM2494_09 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=571143 | SO=chromosome
+9 genes found
+1   tRNA-Met               [274053,274124]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Leu               [274180,274263]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+3   tRNA-Val               [400661,400734]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-His               [400975,401046]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+5   tRNA-Phe              c[401198,401270]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Glu              c[413579,413650]	118.0	34  	(ttc)
+tccgatgtagtataacggttagaacacctggctttcacccaggagatccgggttcgattcccggtatcggag
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+7   tRNA-Val              c[413889,413962]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+8   tRNA-Arg               [414037,414109]	118.6	33  	(ccg)
+gacgttgtggcgcaatggaagcgcgtcggattccggatccgaaggttgtgggttcgacccccatcagcgttgc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+9   tRNA-His               [414172,414243]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>LMARLEM2494_10 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=502565 | SO=chromosome
+2 genes found
+1   tRNA-Ala              c[380971,381064]	100.0	35  	(tgc)
+tcacgaagtggctcaaggagttgcagccggcgtctgcggcattgccggggcggtggcgcaaaggtgtattgcagttcaattcggtgctcatggc
+(((.((.   (((.ddddddddd.)))(((.(  AAA  ).)))((...(((vvvv)))...))     (((.(ttttttt).))).)).)))
+2   tRNA-Asn              c[474665,474738]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>LMARLEM2494_11 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=542777 | SO=chromosome
+7 genes found
+1   tRNA-Leu              c[161985,162067]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ala               [162141,162213]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+3   tRNA-Gly              c[172526,172596]	122.0	33  	(ccc)
+gcgccgctggtctagtggcatgatggtaccctcccaaggtattgacccgggttcgattcccgggcggcgca
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+4   tRNA-Ala              c[172652,172724]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+5   tRNA-Leu               [172798,172880]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+6   tRNA-Met              c[367767,367839]	113.6	34  	(cat)
+gcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+7   tRNA-Arg               [367915,367986]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LMARLEM2494_12 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=470409 | SO=chromosome
+0 genes found
+>LMARLEM2494_13 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=622171 | SO=chromosome
+0 genes found
+>LMARLEM2494_14 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=584683 | SO=chromosome
+0 genes found
+>LMARLEM2494_15 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=570908 | SO=chromosome
+3 genes found
+1   tRNA-Gly              c[201702,201786]	100.5	40  	(gcc)
+tcgtggtgtggccgacgcgtctgcacggtggtggtggttgccaccgaccgggcctcggccgcgggatcggcacctgcgccaagga
+((.((((   ((((ddddddddddd))))  ((((.(  AAA  ).))))          (((((ttttttt))))))))).))
+2   tRNA-Asp               [284448,284519]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaag
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Glu              c[284563,284634]	118.1	34  	(ctc)
+tccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>LMARLEM2494_16 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=637797 | SO=chromosome
+1 genes found
+1   tRNA-Gln              c[404199,404272]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtga
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+>LMARLEM2494_17 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=615405 | SO=chromosome
+3 genes found
+1   tRNA-Asp              c[294278,294350]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Ser               [294430,294510]	121.7	34  	(gct)
+gcaaatgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcg
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Ala               [294568,294641]	108.3	34  	(agc)
+ggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctccac
+(((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+>LMARLEM2494_18 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=689136 | SO=chromosome
+0 genes found
+>LMARLEM2494_19 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=638234 | SO=chromosome
+1 genes found
+1   tRNA-Val              c[298987,299058]	100.6	30  	(gac)
+gtggtaatgtgggaggggttctcgtcgctgacggtgacgatcgccattggctcccctccagctttgccacgc
+(((((((.   (((dddd)))((((((  AAA  ))))))     .((((ttttttt))))..)))))))
+>LMARLEM2494_20 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=712016 | SO=chromosome
+0 genes found
+>LMARLEM2494_21 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=721524 | SO=chromosome
+6 genes found
+1   tRNA-Ser              c[149092,149176]	123.0	35  	(gct)
+tgcaaacgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcgtcc
+((((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+2   tRNA-Ile               [175289,175392]	103.0	32  	(gat)i(37,12)
+gtgtctgctggttcggcttgtacgtcgcgctgatacacttcgcaagcacgcggttgtgcgcgatcccggcggagcagtcgtagtgcagctccgcgtagatgcgc
+(((((((   ((.ddddddd.)) (((((  AAA  iiiiiiiiiiii)))))   (......vvvvvvv......) (((.(ttttttt).))))))))))
+3   tRNA-Ile               [178363,178466]	103.0	32  	(gat)i(37,12)
+gtgtctgctggttcggcttgtacgtcgcgctgatacacttcgcaagcacgcggttgtgcgcgatcccggcggagcagtcgtagtgcagctccgcgtagatgcgc
+(((((((   ((.ddddddd.)) (((((  AAA  iiiiiiiiiiii)))))   (......vvvvvvv......) (((.(ttttttt).))))))))))
+4   tRNA-Pro               [411598,411670]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggacccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+5   tRNA-Val               [411804,411878]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Lys               [411938,412011]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>LMARLEM2494_22 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=633148 | SO=chromosome
+0 genes found
+>LMARLEM2494_23 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=759779 | SO=chromosome
+11 genes found
+1   tRNA-Ile               [224820,224893]	118.5	35  	(tat)
+gctcccgtggtctagttggttaggacgctggtcttatgaaccggatgtcgcgggttcgagccccgccgggagca
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Val              c[224937,225009]	111.3	34  	(tac)
+gcgtgggtgatctagtggttatgatgtctgctttacacgcagaacgtcgcgggttcgaaccccgccccgcgta
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Gln              c[225071,225142]	124.9	34  	(ttg)
+ggtcctatagtgtagtggttatcacttcggactttgaatccgaaaacccaggttcgaatcctggtaggacca
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+4   tRNA-Arg              c[225384,225456]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Leu              c[225708,225790]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+6   tRNA-Thr              c[225875,225946]	120.1	33  	(tgt)
+ggccgcttagcacagtggcagtgcactggtcttgtaaaccaggggtcccgagttcaattctcggagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+7   tRNA-Arg               [226019,226092]	121.1	34  	(tcg)
+tggcctcttggcgcaatggaagcgcatcagacttcggatctgagggttgcaggttcgagtcctgcaggggtcgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+8   tRNA-Lys               [226441,226514]	120.7	34  	(ttt)
+gcacttctagctcagttggtagagcgcgtggcttttaacctcgtggtcgtgggttcgagccccacggagtgcgc
+(((((((  ((((dddddddd))))(((.((  AAA  )).)))    (((((ttttttt))))))))))))
+9   tRNA-Gly              c[226572,226644]	116.4	34  	(tcc)
+gcaattgtggtccaacggttaagatccccgccttccaagcgggtgacccgggttcgactcccggcaattgcac
+(((((((  (((dddddddddd))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+10  tRNA-Trp               [226720,226792]	115.5	33  	(cca)
+gggggcttagctcagtggtagagcattggattccaaatccaggggtcgtaggttcaatccctgcagctctcac
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+11  tRNA-Gly              c[453215,453294]	101.6	32  	(acc)
+agttgtctgggcagtgggaagctgctgggctaccgcttcggcggtgtctttcatcgcgggttccacttccaaagcaccta
+((.(((.  (((dddddddd)))((((((  AAA  )))))) (((vvvvv))) ..(((ttttttt)))...))).))
+>LMARLEM2494_24 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=824354 | SO=chromosome
+5 genes found
+1   tRNA-Pro               [202388,202459]	124.4	33  	(cgg)
+ggccgcttggtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Gln               [614405,614479]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgac
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+3   tRNA-Leu              c[614603,614685]	111.7	36  	(taa)
+gctggggttcccgagttggtcaaaggggtgagacttaagttctcatgcgcaagcttcgtgggttcgaaccccacctccagcac
+(((((((  (((.dddddddddd.)))((((((  AAA  ))))))           (((((ttttttt))))))))))))
+4   tRNA-Ile               [614769,614843]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Asp              c[672694,672765]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaag
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+>LMARLEM2494_25 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=873628 | SO=chromosome
+1 genes found
+1   tRNA-Ser              c[147748,147925]	100.2	35  	(tga)i(39,86)
+cgcggcgtggacgacggcgcggcaacggagtgcttgaaacgccggcgcggagggcagagtctccggcagagttttcgaggcgggaacgccgcaacccggaggggctgatgttgacgcgtccacgccactccccatgccgaggaagggcagtcgctggttccagtccagcacccggtga
+(((.(.(( (..(ddddddddd)..) (((((  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii ))))).(..(.(vvvvvvv).)..). (((((ttttttt))))))).).)))
+>LMARLEM2494_26 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=967504 | SO=chromosome
+0 genes found
+>LMARLEM2494_27 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1026784 | SO=chromosome
+1 genes found
+1   tRNA-His              c[422430,422601]	100.2	33  	(gtg)i(37,81)
+gtgtgctttgccggacggatggcttgcggggtgtgggtgggggaggtgtagggcactctctgccgtgcttccccatgcgctggcacagcactgcctccctctgtctctgtctctctctcccgcctcgcttcttcgccaaaggagcgtcgcgttgtgcccgcggtgcacgcac
+((((((.  ((((dddddd))))  (((((  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii )))))      ((((.vvvv.))))   (((((ttttttt))))).))))))
+>LMARLEM2494_28 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1158465 | SO=chromosome
+0 genes found
+>LMARLEM2494_29 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1161258 | SO=chromosome
+2 genes found
+1   tRNA-Leu              c[779603,779685]	117.8	35  	(caa)
+ggcaggatggccgagtggtctaaggcgggagactcaagttctcttctattcgtaggcgcgggttcgaaccccgctcctgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ser              c[779744,779824]	118.3	34  	(cga)
+gtcatcatacccaagtggttacgggggttgactcgaaatcaactgcgatctcgcgcgcaggttcgaatcctgctggtgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>LMARLEM2494_30 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1341420 | SO=chromosome
+1 genes found
+1   tRNA-Thr              c[733951,734022]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LMARLEM2494_31 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=625104 | SO=chromosome
+4 genes found
+1   tRNA-Ala               [112225,112297]	108.3	34  	(agc)
+ggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctcca
+(((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+2   tRNA-Phe               [480482,480554]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Ser              c[480600,480681]	119.6	34  	(aga)
+gtcaccatacccaagtggttacggggactgactagaaatcagttgcgatctcgcgcgcaggttcgaatcctgctggtgacgc
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+4   tRNA-Ala               [522465,522551]	100.4	40  	(cgc)
+tgtcggtgctggcctcgcgtggcgaaacgtcgcgctcctcgcgggggcgtttgtgggtcgccggcggtcgctgcgccgcggcgacgg
+(((((.((   ((.(ddddddddddd).)) ((((((  AAA  ))))))           (((((ttttttt))))))).)))))
+>LMARLEM2494_32 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1533849 | SO=chromosome
+0 genes found
+>LMARLEM2494_33 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1421109 | SO=chromosome
+5 genes found
+1   tRNA-Arg              c[104059,104134]	118.9	34  	(cct)
+gcccttgtagcctaatggatatggcgtttgcttcctaagcaaaaggttgcgggttcgagtcccgccaggggtacca
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Arg              c[104190,104263]	125.8	34  	(tct)
+gctccagtggcctaatggataaggctttggacttctaatccaaagattgcgggttcgaatcccgcctggagtac
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+3   tRNA-Ala               [104339,104410]	117.5	33  	(tgc)
+gggcgtgtagctcagcggtagagcgcctgttttgcatacaggaggcctagggttcaatcccctactcgtcca
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+4   tRNA-Lys              c[481346,481419]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+5   tRNA-Gly             [1386933,1387083]	103.6	34  	(acc)i(36,60)
+gccgacgatgggaaggtgcttatccgcctggatacgtcggggctggagagccggctcaacgcgctgacagaacgatgggaaatggctcagaaaagccttcaggataaagtcggggtatgcgcggccgacgtgcgatccgtcgccgccgacg
+(.((.((.  (((ddddddddd))) (((((  AAiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiA  )))))                      (((((ttttttt))))).)).)).)
+>LMARLEM2494_34 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1609142 | SO=chromosome
+10 genes found
+1   tRNA-Val              c[442974,443048]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Ile               [443289,443363]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Met               [443424,443496]	113.6	34  	(cat)
+gcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+4   tRNA-Leu              c[443551,443630]	119.8	35  	(tag)
+ggcggagtggccgagtggtctaaggcgccagatttaggctctggtcttccgaggcgtgggttcgaaccccacctccgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))          (((((ttttttt))))))))))))
+5   tRNA-Ser               [443704,443786]	116.9	35  	(tga)
+tgtcaacatacccaagtggttacggggtttgacttgaaatcaaatgcgatctcgcgcgcaggttcgaaccctgctgttgacgt
+((((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+6   tRNA-Asn            c[1301827,1301900]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+7   tRNA-Tyr            c[1301960,1302043]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagaattagcagggatcacagggtcgctggttcgattccggccggaagga
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+8   tRNA-Thr            c[1302113,1302184]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+9   tRNA-Pro             [1302270,1302341]	124.4	33  	(cgg)
+ggccgcttggtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+10  tRNA-Asn             [1302402,1302475]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>LMARLEM2494_35 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1946801 | SO=chromosome
+0 genes found
+>LMARLEM2494_36 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=2618838 | SO=chromosome
+15 genes found
+1   tRNA-Tyr              c[476258,476341]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagcgagcaggtatcacagggtcgctggttcgattccggccggaagga
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+2   tRNA-Thr              c[476414,476486]	117.1	33  	(agt)
+ggccgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagtggcctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Thr               [476602,476674]	117.1	33  	(agt)
+ggccgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagtggcctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Tyr               [476747,476830]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagcgagcaggtatcacagggtcgctggttcgattccggccggaagga
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+5   tRNA-Gly               [714391,714473]	100.4	37  	(gcc)
+agctgctatagctcagcaggtagccctcgtacgcctgccgcgccgacgtgcgcaggtagtagttcgagcccactagctgctcc
+(((.(((   (..(dddddddd)..)  ((..((  AAA  ))..))          (((.(ttttttt).)))))).)))
+6   tRNA-Gly             [1015184,1015254]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+7   tRNA-Thr            c[1015371,1015444]	117.1	34  	(agt)
+aggctgcttagctcaatggtagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcctt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+8   tRNA-Gly            c[1015508,1015578]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+9   tRNA-Pro             [1015652,1015723]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+10  tRNA-Gln            c[1570141,1570215]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgac
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+11  tRNA-Gly            c[2109552,2109711]	103.9	101 	(gcc)i(32,68)
+gcatcaagcagctggaggagctctccggggtcaccggcatcacagacatccaccgagagtttgtcgacaacatcaccatccctagtaagcgtcccggtatgccgccactgaagcgggtgccgatggtgttcgactgctggttcgagtccggctcgatgcc
+(((((.(   (..(dddddd)..) (((.( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  ).)))        (.((vvvvvvvv)).) (((((ttttttt)))))).)))))
+12  tRNA-Cys             [2406450,2406522]	122.6	33  	(gca)
+ggattcatagctcagtggtagagcattcggctgcagtccgaatggtccccggttcaaacccgggtgggtcctc
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+13  tRNA-Leu            c[2408100,2408181]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+14  tRNA-Met            c[2408245,2408316]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+15  tRNA-Pro             [2408390,2408461]	122.1	33  	(tgg)
+ggtcgtttggtctagtggtatgattcctgttttgggtacaggaggtcacgggttcaattcccgtaacgaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>LMARLEM2494_SCAF000001 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=2227 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000002 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1459 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000003 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1963 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000004 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1352 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000005 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=11358 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000006 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=2518 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000007 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=6912 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000008 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=2848 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000009 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=2252 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000010 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1814 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000011 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1980 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000012 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=3966 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000013 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=5324 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000014 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1579 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000015 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=6616 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000016 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=16275 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000017 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1461 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000018 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=3809 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000019 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=29387 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000020 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=9541 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000021 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=10130 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000022 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=10544 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000023 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=4057 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000024 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=3230 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000025 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=3819 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000026 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=3221 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000027 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=9823 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000028 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=3036 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000029 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=5179 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000030 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=24057 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000031 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=2396 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000032 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=5920 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000033 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1195 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000034 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=2596 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000035 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=2037 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000036 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=2320 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000037 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=2209 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000038 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=2147 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000039 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=15621 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000040 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=6040 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000041 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=3968 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000042 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=4744 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000043 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=16865 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000044 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=4863 | SO=supercontig
+1 genes found
+1   tRNA-Arg                  c[4177,4348]	100.2	114 	(ccg)i(38,76)
+tgttatcctgcacggaggcatgctcgtggacgcgccttgcctattcgacgatcctcttcggcacctcccaggtgaacccgcccttgcccgactcgtccttgcggccgaagtggccgaagcgcgacgtctcgtagtagatggggcggcgcaggttcagctcctggatgatgtc
+(((((((   ((((dddddddddd))))  (((((  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiAAA  )))))        ....vvvvvvvv.... ((((ttttttt)))))))))))
+>LMARLEM2494_SCAF000045 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=4484 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000046 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=5857 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000047 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=9000 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000048 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=3914 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000049 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=7377 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000050 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=2270 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000051 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=10228 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000052 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=3559 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000053 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=5460 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000054 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1138 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000055 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=2004 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000056 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=2911 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000057 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1112 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000058 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=12332 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000059 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=9673 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000060 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=2563 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000061 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=5958 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000062 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1529 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000063 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1029 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000064 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=2308 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000065 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=9461 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000066 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=5667 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000067 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=9305 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000068 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1139 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000069 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=971 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000070 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1645 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000071 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=8878 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000072 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=9803 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000073 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=14118 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000074 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=2607 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000075 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=3402 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000076 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1637 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000077 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=27563 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000078 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=9765 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000079 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=3548 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000080 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1177 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000081 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1270 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000082 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1321 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000083 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1393 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000084 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=12493 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000085 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=13526 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000086 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1411 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000087 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1284 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000088 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1249 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000089 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1506 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000090 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=9343 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000091 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=10369 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000092 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=7981 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000093 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=2721 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000094 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1553 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000095 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=3022 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000096 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1635 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000097 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=3568 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000098 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1837 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000099 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1679 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000100 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1693 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000101 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=6571 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000102 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=3527 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000103 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1843 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000104 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=2563 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000105 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1861 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000106 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1698 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000107 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=986 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000108 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=3489 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000109 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=3612 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000110 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1887 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000111 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=21926 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000112 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=5123 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000113 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=3772 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000114 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=2120 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000115 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=2668 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000116 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=5520 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000117 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=16582 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000118 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=2974 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000119 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=4722 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000120 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=3155 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000121 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=3846 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000122 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=3191 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000123 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=7629 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000124 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=2463 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000125 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1175 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000126 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=3146 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000127 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=6386 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000128 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=3306 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000129 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=7329 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000130 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1632 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000131 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1703 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000132 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=2315 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000133 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=3570 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000134 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=3754 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000135 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1624 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000136 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=4333 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000137 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=4349 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000138 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=10594 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000139 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=4365 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000140 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=4399 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000141 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=4465 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000142 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=4571 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000143 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=4734 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000144 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=4649 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000145 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1623 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000146 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=2761 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000147 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=4921 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000148 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=5845 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000149 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1373 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000150 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=6972 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000151 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1148 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000152 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=2943 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000153 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1452 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000154 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=2904 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000155 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=9092 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000156 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=11200 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000157 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=38207 | SO=supercontig
+2 genes found
+1   tRNA-Glu                   [4312,4383]	118.1	34  	(ctc)
+tccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+2   tRNA-Asp                  c[4427,4498]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaag
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+>LMARLEM2494_SCAF000158 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=4193 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000159 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=6894 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000160 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1135 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000161 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1196 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000162 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1562 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000163 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=16503 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000164 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=5893 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000165 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=7302 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000166 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=6380 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000167 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1271 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000168 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1476 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000169 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1508 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000170 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=3908 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000171 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1513 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000172 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1532 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000173 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1586 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000174 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1657 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000175 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1692 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000176 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=9679 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000177 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=6001 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000178 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=3471 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000179 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=2990 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000180 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1708 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000181 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=12241 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000182 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=16375 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000183 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=7137 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000184 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1812 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000185 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1811 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000186 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=8593 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000187 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1623 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000188 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1919 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000189 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=2035 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000190 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=14626 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000191 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=13396 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000192 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=3239 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000193 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=5451 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000194 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=3770 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000195 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=2068 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000196 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=5516 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000197 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1709 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000198 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=2355 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000199 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=1128 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000200 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=2830 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000201 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=5680 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000202 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=2092 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000203 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=2710 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000204 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=24505 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000205 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=9582 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000206 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=32885 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000207 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=4353 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000208 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=4018 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000209 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=4429 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000210 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=12198 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000211 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=8508 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000212 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=2113 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000213 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=4210 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000214 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=4489 | SO=supercontig
+0 genes found
+>LMARLEM2494_SCAF000215 | organism=Leishmania_sp._MAR_LEM2494 | version=2014-12-16 | length=8098 | SO=supercontig
+0 genes found
+>end 	251 sequences 96 tRNA genes, nothing found in 227 sequences, (9.56% sensitivity)

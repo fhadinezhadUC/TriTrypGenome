@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560280975427.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2410039793",
+    "id" : "7552E49C",
+    "lastKnownWriteTime" : 1560363188,
+    "last_content_update" : 1560363188790,
+    "path" : "~/Data/PROJECTS/Leishmania/Leish_paper_first_round_input_data/CIF_Analysis_Workflow_v2.Rmd",
+    "project_path" : "CIF_Analysis_Workflow_v2.Rmd",
+    "properties" : {
+        "cursorPosition" : "14,31",
+        "last_setup_crc32" : "",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

@@ -1,0 +1,81 @@
+Sequence        		tRNA   	Bounds 	tRNA	Anti	Intron Bounds	Inf	      
+Name            	tRNA #	Begin  	End    	Type	Codon	Begin	End	Score	Note
+--------        	------	-----  	------ 	----	-----	-----	----	------	------
+T.congo.pschr.4 	1	1258231	1258303	Gly	TCC	0	0	54.4	
+T.congo.pschr.4 	2	1258427	1258355	Val	CAC	0	0	66.2	
+T.congo.pschr.5 	1	780636 	780565 	Glu	CTC	0	0	65.4	
+T.congo.pschr.8 	1	751755 	751826 	Gln	TTG	0	0	72.2	
+T.congo.pschr.8 	2	751887 	751959 	Val	TAC	0	0	69.9	
+T.congo.pschr.8 	3	752019 	752091 	Lys	CTT	0	0	80.3	
+T.congo.pschr.8 	4	755502 	755573 	Gly	TCC	0	0	69.6	
+T.congo.pschr.8 	5	755652 	755733 	Leu	CAG	0	0	74.5	
+T.congo.pschr.8 	6	755934 	756005 	Arg	TCG	0	0	73.3	
+T.congo.pschr.8 	7	758409 	758481 	Lys	CTT	0	0	80.3	
+T.congo.pschr.8 	8	1841527	1841600	Ile	AAT	0	0	80.9	
+T.congo.pschr.8 	9	1841844	1841915	Gln	CTG	0	0	67.9	
+T.congo.pschr.8 	10	1841976	1842049	Ile	AAT	0	0	80.9	
+T.congo.pschr.8 	11	1841741	1841660	Leu	TAA	0	0	48.7	
+T.congo.pschr.8 	12	758608 	758537 	Arg	ACG	0	0	69.5	
+T.congo.pschr.8 	13	755850 	755779 	Thr	TGT	0	0	72.9	
+T.congo.pschr.10	1	1756115	1756185	Gly	GCC	0	0	69.8	
+T.congo.pschr.10	2	1806363	1806444	Leu	AAG	0	0	75.6	
+T.congo.pschr.10	3	1806646	1806717	Pro	TGG	0	0	73.4	
+T.congo.pschr.10	4	2511725	2511797	Asn	GTT	0	0	73.2	
+T.congo.pschr.10	5	2512002	2512074	Arg	TCT	0	0	73.1	
+T.congo.pschr.10	6	2512155	2512227	Lys	TTT	0	0	83.7	
+T.congo.pschr.10	7	2512285	2512357	Arg	CCT	0	0	69.7	
+T.congo.pschr.10	8	2511908	2511837	Ala	TGC	0	0	73.9	
+T.congo.pschr.10	9	1806571	1806500	iMet	CAT	0	0	67.1	
+T.congo.pschr.10	10	1760560	1760489	Pro	AGG	0	0	66.6	
+T.congo.pschr.10	11	1760426	1760355	Thr	AGT	0	0	73.9	
+T.congo.pschr.11	1	3643218	3643288	His	GTG	0	0	69.9	
+T.congo.pschr.11	2	3643349	3643420	Glu	TTC	0	0	65.8	
+T.congo.pschr.11	3	3643475	3643547	Phe	GAA	0	0	91.0	
+T.congo_bin_contig_1071	1	220    	303    	Tyr	GTA	257	267	72.4	
+T.congo_bin_contig_1071	2	422    	351    	Thr	CGT	0	0	70.2	
+T.congo_bin_contig_1174	1	12952  	13024  	Phe	GAA	0	0	91.0	
+T.congo_bin_contig_1174	2	12769  	12698  	Arg	CCG	0	0	67.3	
+T.congo_bin_contig_1174	3	12623  	12552  	Ala	CGC	0	0	73.8	
+T.congo_bin_contig_1205	1	17627  	17692  	Gly	GCC	0	0	28.0	
+T.congo_bin_contig_1248	1	3903   	3833   	Gly	GCC	0	0	69.8	
+T.congo_bin_contig_1321	1	13473  	13545  	Val	CAC	0	0	66.2	
+T.congo_bin_contig_1321	2	13669  	13597  	Gly	TCC	0	0	54.4	
+T.congo_bin_contig_1482	1	23283  	23214  	Ser	GCT	0	0	22.7	pseudo
+T.congo_bin_contig_1495	1	319    	249    	Gly	CCC	0	0	73.2	
+T.congo_bin_contig_1586	1	1842   	1914   	Gly	TCC	0	0	54.4	
+T.congo_bin_contig_1586	2	2038   	1966   	Val	CAC	0	0	66.2	
+T.congo_bin_contig_162	1	7628   	7698   	His	GTG	0	0	69.9	
+T.congo_bin_contig_162	2	7759   	7830   	Glu	TTC	0	0	65.8	
+T.congo_bin_contig_162	3	7885   	7957   	Phe	GAA	0	0	91.0	
+T.congo_bin_contig_1637	1	191    	125    	Ser	GCT	0	0	22.6	pseudo
+T.congo_bin_contig_1714	1	216    	297    	Leu	TAA	0	0	65.1	
+T.congo_bin_contig_1714	2	430    	357    	Ile	AAT	0	0	80.9	
+T.congo_bin_contig_1714	3	113    	42     	Gln	CTG	0	0	67.9	
+T.congo_bin_contig_1745	1	5413   	5342   	Cys	GCA	0	0	77.9	
+T.congo_bin_contig_1907	1	1044   	1115   	Cys	GCA	0	0	77.9	
+T.congo_bin_contig_1948	1	892    	957    	Gly	GCC	0	0	28.0	
+T.congo_bin_contig_2070	1	5601   	5531   	Gly	CCC	0	0	73.2	
+T.congo_bin_contig_2083	1	5277   	5206   	Ser	GCT	0	0	25.4	pseudo
+T.congo_bin_contig_253	1	2991   	3062   	Trp	CCA	0	0	79.5	
+T.congo_bin_contig_253	2	3175   	3103   	Asn	GTT	0	0	73.2	
+T.congo_bin_contig_2629	1	11785  	11714  	Pro	CGG	0	0	70.4	
+T.congo_bin_contig_2630	1	4473   	4544   	Thr	CGT	0	0	70.2	
+T.congo_bin_contig_2630	2	4675   	4592   	Tyr	GTA	4638	4628	72.4	
+T.congo_bin_contig_2630	3	1068   	997    	Pro	CGG	0	0	70.4	
+T.congo_bin_contig_2769	1	25771  	25683  	SeC	TCA	0	0	109.9	
+T.congo_bin_contig_2769	2	21967  	21880  	SeC	TCA	0	0	120.9	
+T.congo_bin_contig_2819	1	3254   	3324   	Gly	GCC	0	0	69.8	
+T.congo_bin_contig_307	1	468    	396    	Met	CAT	0	0	70.0	
+T.congo_bin_contig_307	2	339    	260    	Leu	TAG	0	0	77.0	
+T.congo_bin_contig_307	3	188    	115    	Val	AAC	0	0	61.5	
+T.congo_bin_contig_345	1	4538   	4467   	Glu	CTC	0	0	65.4	
+T.congo_bin_contig_363	1	1418   	1347   	Arg	ACG	0	0	69.5	
+T.congo_bin_contig_397	1	25771  	25683  	SeC	TCA	0	0	109.9	
+T.congo_bin_contig_397	2	21967  	21880  	SeC	TCA	0	0	120.9	
+T.congo_bin_contig_505	1	438    	367    	Cys	GCA	0	0	77.9	
+T.congo_bin_contig_565	1	439    	510    	Cys	GCA	0	0	77.9	
+T.congo_bin_contig_614	1	318    	389    	Pro	CGG	0	0	70.4	
+T.congo_bin_contig_634	1	5982   	6065   	Tyr	GTA	6019	6029	72.4	
+T.congo_bin_contig_634	2	9589   	9660   	Pro	CGG	0	0	70.4	
+T.congo_bin_contig_634	3	6184   	6113   	Thr	CGT	0	0	70.2	
+T.congo_bin_contig_668	1	1879   	1944   	Undet	NNN	0	0	29.3	pseudo

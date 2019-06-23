@@ -1,0 +1,388 @@
+>LmjSD75_01 | organism=Leishmania_major_strain_SD_75.1 | version=2015-01-16 | length=268207 | SO=chromosome
+0 genes found
+>LmjSD75_02 | organism=Leishmania_major_strain_SD_75.1 | version=2015-01-16 | length=309784 | SO=chromosome
+1 genes found
+1   tRNA-Val               [213625,213716]	103.0	30  	(gac)
+cgagcgcgtggtcagatggatgcgtcgctgacatcgttgtccccgtgtcggcgcgagtggtgccgtggctgttcgactccgtcgcggccgtc
+((..(((   (((ddddd)))(((.((  AAA  )).)))        ((((((vvvvv)))))) (((.(ttttttt).))))))..))
+>LmjSD75_03 | organism=Leishmania_major_strain_SD_75.1 | version=2015-01-16 | length=383730 | SO=chromosome
+1 genes found
+1   tRNA-Lys               [258678,258751]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>LmjSD75_04 | organism=Leishmania_major_strain_SD_75.1 | version=2015-01-16 | length=459825 | SO=chromosome
+2 genes found
+1   tRNA-Arg                c[95010,95093]	100.1	39  	(tct)
+gcagcagtggcgcaggtgcgcacggtgccgcggacgtttctggcgtgggtgggtgggttttgggctctggccccgtcttctgcc
+((((.((  ((((ddddddddddd))))  (..(((  AAA  )))..)          .((((ttttttt)))).)).))))
+2   tRNA-Gly              c[219786,219990]	104.5	146 	(ccc)i(31,113)
+tcgacatggtgcacaggttcgatgcgtacgagccgctgctgcgccctgtcgcatcaggcggcgccgaaacctccccagcaagcgccggtcaggacgctctggacgccgggtccgcggcggcctacttgctagtggggctcctgttcccgtcgtgcctgaacgtgtggcatgaggttgaggctcgtgcgatgcgcgccgtgtcgga
+((((((((   ((.ddddddd.)) (((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))         (.(.vvvvvv.).) ((.((ttttttt)).))))))))))
+>LmjSD75_05 | organism=Leishmania_major_strain_SD_75.1 | version=2015-01-16 | length=443595 | SO=chromosome
+1 genes found
+1   tRNA-Arg               [352241,352312]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LmjSD75_06 | organism=Leishmania_major_strain_SD_75.1 | version=2015-01-16 | length=506217 | SO=chromosome
+2 genes found
+1   tRNA-SeC                c[68767,68854]	108.3	36  	(tca)
+gccgcgatgagctcagctggtgctgggtgcgggcttcaaacccgtaggtgagttgctctcacagccgttcgattcggccttcgtggcg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+2   tRNA-Asp              c[108237,108327]	101.2	34  	(gtc)
+ttcggtcatggtgcgcgggggtacagcggcgccgtcgccgccaccagtgtcagagctgaacggtgccgcttcttgcacggctgatcaaggc
+((.(((((  ((((dddddd)))) (.((((  AAA  )))).)(.((.(vvvvvvv).)).) ((((.ttttttt.))))))))).))
+>LmjSD75_07 | organism=Leishmania_major_strain_SD_75.1 | version=2015-01-16 | length=577742 | SO=chromosome
+1 genes found
+1   tRNA-Arg              c[372575,372646]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LmjSD75_08 | organism=Leishmania_major_strain_SD_75.1 | version=2015-01-16 | length=461387 | SO=chromosome
+0 genes found
+>LmjSD75_09 | organism=Leishmania_major_strain_SD_75.1 | version=2015-01-16 | length=556597 | SO=chromosome
+9 genes found
+1   tRNA-Met               [260600,260671]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Leu               [260730,260813]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+3   tRNA-Val               [388445,388520]	112.1	35  	(cac)
+tgcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtaac
+((((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+4   tRNA-His               [388772,388843]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+5   tRNA-Phe              c[389023,389095]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Glu              c[401421,401492]	118.0	34  	(ttc)
+tccgatgtagtataacggttagaacacctggctttcacccaggagatccgggttcgattcccggtatcggag
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+7   tRNA-Val              c[401729,401804]	112.1	35  	(cac)
+tgcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtaac
+((((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+8   tRNA-Arg               [401878,401950]	118.6	33  	(ccg)
+gacgttgtggcgcaatggaagcgcgtcggattccggatccgaaggttgtgggttcgacccccatcagcgttgc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+9   tRNA-His               [402016,402087]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>LmjSD75_10 | organism=Leishmania_major_strain_SD_75.1 | version=2015-01-16 | length=545572 | SO=chromosome
+3 genes found
+1   tRNA-Lys               [508887,508960]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Gly              c[509001,509071]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Asn              c[509127,509200]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>LmjSD75_11 | organism=Leishmania_major_strain_SD_75.1 | version=2015-01-16 | length=558244 | SO=chromosome
+8 genes found
+1   tRNA-Leu              c[156510,156592]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ala               [156666,156738]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+3   tRNA-Gly               [156799,156870]	122.0	33  	(ccc)
+gcgccgctggtctagtggcatgatggtaccctcccaaggtattgacccgggttcgattcccgggcggcgcac
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+4   tRNA-Ala              c[163163,163235]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+5   tRNA-Leu               [163309,163391]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+6   tRNA-Met              c[368173,368247]	113.6	35  	(cat)
+tgcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgcaa
+(((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).)))))
+7   tRNA-Arg               [368322,368396]	120.3	34  	(acg)
+tgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgac
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+8   tRNA-Ala               [487794,487973]	101.9	120 	(tgc)i(30,88)
+gaggctcgccgcgctgggaagcgccgtggccgtgtatgggcgatcgtggagctgcgacagatcggcgaggcggggctggatcttgtgctgcacatgaacaactccgccctgccgtcgtttgcgaccacgtacgacgatgcgtacagcggcggggtgctgttcgacacggcggagctgtac
+(.(((((  (((dddddddd))) (((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  ))))) ..(..vvvv..)..          (((((ttttttt)))))))))).)
+>LmjSD75_12 | organism=Leishmania_major_strain_SD_75.1 | version=2015-01-16 | length=533899 | SO=chromosome
+0 genes found
+>LmjSD75_13 | organism=Leishmania_major_strain_SD_75.1 | version=2015-01-16 | length=629805 | SO=chromosome
+1 genes found
+1   tRNA-Leu              c[244878,244965]	103.2	34  	(cag)
+gcgctacgagcagctgcggcagctgcaccacctcagctatggtatcttggcgcaggaaaagaccgccgttgctgtcggcagtggcgcc
+(((((((  ((((ddddddddd))))((((.  AAA  .)))) ((((..(vvvv)..)))) .((((ttttttt)))).)))))))
+>LmjSD75_14 | organism=Leishmania_major_strain_SD_75.1 | version=2015-01-16 | length=607984 | SO=chromosome
+0 genes found
+>LmjSD75_15 | organism=Leishmania_major_strain_SD_75.1 | version=2015-01-16 | length=592451 | SO=chromosome
+2 genes found
+1   tRNA-Asp               [294500,294572]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Glu              c[294611,294683]	118.1	34  	(ctc)
+tccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaac
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>LmjSD75_16 | organism=Leishmania_major_strain_SD_75.1 | version=2015-01-16 | length=679792 | SO=chromosome
+2 genes found
+1   tRNA-Arg               [138069,138140]	102.3	30  	(tcg)
+cgtgaagtggcggaggtactgctcgctcttcgtgagccacggcgccgacacttcgactgcgtctttcgcagc
+.((((((  ((((ddddd))))(.(((  AAA  ))).)       (((.(ttttttt).))))))))).
+2   tRNA-Gln              c[434113,434187]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgac
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+>LmjSD75_17 | organism=Leishmania_major_strain_SD_75.1 | version=2015-01-16 | length=651716 | SO=chromosome
+3 genes found
+1   tRNA-Asp              c[315498,315570]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Ser               [315648,315728]	121.7	34  	(gct)
+gcaaatgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcg
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Ala               [315789,315864]	108.3	35  	(agc)
+tggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctccaac
+((((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+>LmjSD75_18 | organism=Leishmania_major_strain_SD_75.1 | version=2015-01-16 | length=709666 | SO=chromosome
+2 genes found
+1   tRNA-Arg              c[270161,270270]	100.2	51  	(tcg)i(35,14)
+cagcgtcttgggtgaaggtcgtcagcagcggcacaatggagcgcgcgctttcggcgtacccggcgaattgcgcggtcgaggcgagctcgcgtacgagcacgagtcgctgc
+(((((.(   (.((ddddddddddd)).)((.((iiiiiiiiiiiiii  AAA  )).))          .....vvvv.....  (((.(tttttt).)))).)))))
+2   tRNA-Cys               [543157,543297]	100.8	35  	(gca)i(39,50)
+tgatggggtggcctgtggcggcgaggctgccgttgcaagcgacattgtgaatgccccggaacccatggggtccacatgcatccctaacttggtggacggcgttggtgcgccgttgcaggcgatctactcgtcttcgtcgtc
+(((((((   ((((ddddddddd))))(((((  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii ))))).(.vvvv.).             ((((ttttttt)))))))))))
+>LmjSD75_19 | organism=Leishmania_major_strain_SD_75.1 | version=2015-01-16 | length=663967 | SO=chromosome
+0 genes found
+>LmjSD75_20 | organism=Leishmania_major_strain_SD_75.1 | version=2015-01-16 | length=718954 | SO=chromosome
+0 genes found
+>LmjSD75_21 | organism=Leishmania_major_strain_SD_75.1 | version=2015-01-16 | length=758514 | SO=chromosome
+8 genes found
+1   tRNA-Ser              c[156567,156647]	123.0	34  	(gct)
+gcaaacgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcg
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ile               [183428,183531]	105.7	32  	(gat)i(37,12)
+gcgtctgctggttcggcttgtgcgtcgcgctgatgcacttcgcaagcacgcggttgtgcgcaatcccagcagagcagtcgtagtgcagctccgcgtagatgcgc
+(((((((   ((.ddddddd.)) (((((  AAA  iiiiiiiiiiii)))))        ..(vvvvvvv)..    (((.(ttttttt).))))))))))
+3   tRNA-Ile               [186483,186586]	105.7	32  	(gat)i(37,12)
+gcgtctgctggttcggcttgtgcgtcgcgctgatgcacttcgcaagcacgcggttgtgcgcaatcccagcagagcagtcgtagtgcagctccgcgtagatgcgc
+(((((((   ((.ddddddd.)) (((((  AAA  iiiiiiiiiiii)))))        ..(vvvvvvv)..    (((.(ttttttt).))))))))))
+4   tRNA-Ser              c[215789,215921]	102.0	33  	(gct)i(36,41)
+gccgtgctgtccgatggctgggtcggcgcattgctgtggcgcgtgtgtgtctacggttgccatcgggccacgcgaggttgggcctgcgacactggcggggcgtagagaggcgttcgactcgtgttgcatggca
+(((((((.   (((dddddddd)))((.((  AAAiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  )).))((.vvvvvvvvvv.))        (.(((ttttttt))).).)))))))
+5   tRNA-Pro               [441030,441101]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+6   tRNA-Val               [441253,441327]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+7   tRNA-Lys               [441389,441462]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+8   tRNA-Phe               [472025,472183]	100.2	100 	(gaa)i(35,63)
+caatgtgatggcgggatggtcaacgctgccgccgtagcgctcctctttggcgaggcgaaaatccgcaatgaattcctgcagatccaccgagttcgtgctgaacagggagctgaggtcgctcggggtggcctcgccgcgttcgatgcccgacacgctgcc
+((.((((   ((((ddddddddddd))))(.((.iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  .)).)           .((vvvvv)).  .((.(ttttttt).)).)))).))
+>LmjSD75_22 | organism=Leishmania_major_strain_SD_75.1 | version=2015-01-16 | length=697208 | SO=chromosome
+1 genes found
+1   tRNA-His              c[401626,401767]	100.1	35  	(gtg)i(37,47)
+ccgtggccttgtcggcgggctgcggatgccgcgtgtactgcgcatagagctgcgggagtgcatcgacaacggagaaaggggaggaggtggcagcgctcatgagcgtggggtgctcggtcgggttcagctcacggtccacggc
+((((((.   (((ddddddddddd)))(((((  AAiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiA  )))))...vvvvv...               (((.(ttttttt).))).))))))
+>LmjSD75_23 | organism=Leishmania_major_strain_SD_75.1 | version=2015-01-16 | length=759479 | SO=chromosome
+13 genes found
+1   tRNA-Gly              c[147439,147551]	101.6	52  	(ccc)i(32,18)
+tgcccgtggtgaggaaaaccaactcgcgcagcagccggcgcgactcgcgttcccagcggtgagatacggttgcactcgaggtcgtgctggtgttcggcgcgccaacggctggc
+((.(((( (.(ddddddddddd).) (((.(iiiiiiiiiiiiiiiiii  AAA  ).)))   .((..(.vvvvv.)..)).    (((((ttttttt))))))))).))
+2   tRNA-Ser              c[208475,208657]	101.7	35  	(gct)i(39,86)
+ggggcgccgtagcttggttgcaggggctgctgttgctgagctgggggtgcgttttgcggctgtgattgcagaggcggcgccgctggtgtttcacggctgctctcagtgacacctagtgagttcgacggtggtgcttgcattggcacttccagtgaaggcggtgcaacgttcgctggtgccgca
+(.((((((   (((dddddddddd)))(((((  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii )))))(.(..vvvvvvvv..).)        (((((tttttttt))))))))))).)
+3   tRNA-Ile               [223244,223317]	118.5	35  	(tat)
+gctcccgtggtctagttggttaggacgctggtcttatgaaccggatgtcgcgggttcgagccccgccgggagca
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Val              c[223362,223434]	111.3	34  	(tac)
+gcgtgggtgatctagtggttatgatgtctgctttacacgcagaacgtcgcgggttcgaaccccgccccgcgta
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Gln              c[223501,223574]	124.9	35  	(ttg)
+tggtcctatagtgtagtggttatcacttcggactttgaatccgaaaacccaggttcgaatcctggtaggaccag
+((((((((  (((.dddddddd.)))((((((  AAA  ))))))   (((((ttttttt)))))))))))))
+6   tRNA-Arg              c[223820,223893]	120.3	34  	(acg)
+tgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+7   tRNA-Leu              c[224117,224199]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+8   tRNA-Thr              c[224259,224332]	120.1	34  	(tgt)
+aggccgcttagcacagtggcagtgcactggtcttgtaaaccaggggtcccgagttcaattctcggagtggcctt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+9   tRNA-Arg               [224404,224476]	121.1	33  	(tcg)
+ggcctcttggcgcaatggaagcgcatcagacttcggatctgagggttgcaggttcgagtcctgcaggggtcgc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+10  tRNA-Lys               [224790,224862]	122.0	34  	(ttt)
+gcactcctagctcagttggtagagcgcgtggcttttaacctcgtggtcgtgggttcgagccccacggagtgcg
+(((((((  ((((dddddddd))))(((.((  AAA  )).)))    (((((ttttttt))))))))))))
+11  tRNA-Gly              c[224900,224972]	116.4	34  	(tcc)
+gcaattgtggtccaacggttaagatccccgccttccaagcgggtgacccgggttcgactcccggcaattgcac
+(((((((  (((dddddddddd))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+12  tRNA-Trp               [225048,225119]	115.5	33  	(cca)
+gggggcttagctcagtggtagagcattggattccaaatccaggggtcgtaggttcaatccctgcagctctca
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+13  tRNA-His               [719818,719990]	104.5	115 	(gtg)i(36,77)
+aggaagcgtagccgtggcatttaatggcaaaggcaggcgcgtttcgaaggctcaccttggcttctccacttcgtctccatctgcgccagtgacccactccgcctgccaccacgtgtgagtgtctttgagttgaccggcagcgacgccgcatgtgctactcgcaccgttttctg
+((((((((  ((((dddddddddd))))  (((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))        .(...vvvv...). (..((ttttttt))..)))))))))
+>LmjSD75_24 | organism=Leishmania_major_strain_SD_75.1 | version=2015-01-16 | length=838683 | SO=chromosome
+6 genes found
+1   tRNA-Pro               [198606,198677]	124.4	33  	(cgg)
+ggccgcttggtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Gln               [619176,619250]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgac
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+3   tRNA-Leu              c[619460,619543]	111.7	37  	(taa)
+tgctggggttcccgagttggtcaaaggggtgagacttaagttctcatgcgcaagcttcgtgggttcgaaccccacctccagcaa
+((((((((  (((.dddddddddd.)))((((((  AAA  ))))))           (((((ttttttt)))))))))))))
+4   tRNA-Ile               [619622,619696]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Ile               [621017,621091]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Asp              c[678750,678821]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaag
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+>LmjSD75_25 | organism=Leishmania_major_strain_SD_75.1 | version=2015-01-16 | length=891870 | SO=chromosome
+0 genes found
+>LmjSD75_26 | organism=Leishmania_major_strain_SD_75.1 | version=2015-01-16 | length=1022794 | SO=chromosome
+1 genes found
+1   tRNA-Glu                 [65282,65387]	103.7	49  	(ttc)i(34,14)
+ggccgtgtcgatgagcttaagcttcctccccttgtacatgcatgcgatttcgatggggtcgcgggtcgtattcgactcgtcagcggcgcggttccgctcgtagcca
+(((.(((  ((.(dddddddd).))  ((((. iiiiiiiiiiiiii AAA  .))))(.(.vvvvvvvv.).)       (((((ttttttt)))))))).)))
+>LmjSD75_27 | organism=Leishmania_major_strain_SD_75.1 | version=2015-01-16 | length=1055470 | SO=chromosome
+0 genes found
+>LmjSD75_28 | organism=Leishmania_major_strain_SD_75.1 | version=2015-01-16 | length=1150758 | SO=chromosome
+0 genes found
+>LmjSD75_29 | organism=Leishmania_major_strain_SD_75.1 | version=2015-01-16 | length=1194340 | SO=chromosome
+2 genes found
+1   tRNA-Leu              c[799327,799408]	117.8	35  	(caa)
+ggcaggatggccgagtggtctaaggcgggagactcaagttctcttctattcgtaggcgcgggttcgaaccccgctcctgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ser              c[799467,799547]	119.6	34  	(cga)
+gtcaccatacccaagtggttacgggggttgactcgaaatcaactgcgatctcgcgcgcaggttcgaatcctgctggtgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>LmjSD75_30 | organism=Leishmania_major_strain_SD_75.1 | version=2015-01-16 | length=1347715 | SO=chromosome
+1 genes found
+1   tRNA-Thr              c[745331,745402]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LmjSD75_31 | organism=Leishmania_major_strain_SD_75.1 | version=2015-01-16 | length=1412558 | SO=chromosome
+6 genes found
+1   tRNA-Ala               [192994,193066]	108.3	34  	(agc)
+ggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctcca
+(((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+2   tRNA-Gly               [469104,469174]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Glu              c[469219,469292]	118.1	35  	(ctc)
+ttccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaaa
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+4   tRNA-Gly               [963211,963287]	100.6	36  	(ccc)
+tgcgtctcgggagccgtccagttggcttgccgcttcccgttcggcagttcgcgtgtgcgggggccacgtagacgcgg
+(((((((   ((((dddddddddd))))((((.  AAA  .))))     (((((ttttttttt))))))))))))
+5   tRNA-Phe             [1247476,1247548]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Ser            c[1247600,1247681]	119.6	34  	(aga)
+gtcaccatacccaagtggttacggggactgactagaaatcagttgcgatctcgcgcgcaggttcgaatcctgctggtgacgc
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>LmjSD75_32 | organism=Leishmania_major_strain_SD_75.1 | version=2015-01-16 | length=1542872 | SO=chromosome
+0 genes found
+>LmjSD75_33 | organism=Leishmania_major_strain_SD_75.1 | version=2015-01-16 | length=1431952 | SO=chromosome
+5 genes found
+1   tRNA-Arg              c[104646,104719]	118.9	34  	(cct)
+gcccttgtagcctaatggatatggcgtttgcttcctaagcaaaaggttgcgggttcgagtcccgccaggggtac
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Arg              c[104778,104851]	125.8	34  	(tct)
+gctccagtggcctaacggataaggctttggacttctaatccaaagattgcgggttcgaatcccgcctggagtac
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+3   tRNA-Ala               [104928,105000]	117.5	33  	(tgc)
+gggcgtgtagctcagtggtagagcgcctgttttgcatacaggaggcctagggttcaaacccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+4   tRNA-Lys              c[492091,492165]	103.0	35  	(ctt)
+cgcattgctagctgagtcggtggggcgtatggctcttaagcgtgtggctgtgggttcgatccccatggagtgcgt
+((((((.(  (((dddddddddd))) ((((.  AAA  .))))     (((((ttttttt)))))).))))))
+5   tRNA-Arg             [1055937,1056026]	101.0	31  	(ccg)
+agcggtcgtgggctcggcaacccgctttctccgacagagcagcagctggagcagctgacactggagaggttccacgccttccaccgccgc
+.(((((.  (((dddddddd)))(((((  AAA  ))))) .(((((vvvvv))))).      .((((ttttttt))))..))))).
+>LmjSD75_34 | organism=Leishmania_major_strain_SD_75.1 | version=2015-01-16 | length=1640498 | SO=chromosome
+11 genes found
+1   tRNA-Val              c[462491,462565]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Ile               [462799,462873]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Met               [462933,463005]	113.6	34  	(cat)
+gcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+4   tRNA-Leu              c[463041,463120]	119.8	35  	(tag)
+ggcggagtggccgagtggtctaaggcgccagatttaggctctggtctttcgaggcgtgggttcgaaccccacctccgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))          (((((ttttttt))))))))))))
+5   tRNA-Ser               [463195,463275]	116.9	34  	(tga)
+gtcaacatacccaagtggttacggggtttgacttgaaatcaaatgcgatctcgcgcgcaggttcgaaccctgctgttgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+6   tRNA-Thr             [1182046,1182141]	100.8	34  	(tgt)
+ctttcgtatgggtagggagcatatcgtgccttctgtagagacatcaaggaacagagtgactggcacagaatgtgttccggtcatatacgtgaagcc
+.((.(((   ((((ddddddd))))(((.((  AAA  )).)))(.((..(vvvvv)..)).)      (((((ttttttt)))))))).)).
+7   tRNA-Asn            c[1328494,1328567]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+8   tRNA-Tyr            c[1328626,1328709]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagttcgcaggtatcacagggtcgctggttcgattccggccggaagga
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+9   tRNA-Thr            c[1328774,1328845]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+10  tRNA-Pro             [1328927,1328998]	124.4	33  	(cgg)
+ggccgcttggtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+11  tRNA-Asn             [1329062,1329135]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>LmjSD75_35 | organism=Leishmania_major_strain_SD_75.1 | version=2015-01-16 | length=1990289 | SO=chromosome
+0 genes found
+>LmjSD75_36 | organism=Leishmania_major_strain_SD_75.1 | version=2015-01-16 | length=2648580 | SO=chromosome
+13 genes found
+1   tRNA-Thr               [473832,473904]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Tyr               [473987,474071]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagttcgcgggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+3   tRNA-Ser              c[890196,890356]	109.5	100 	(gct)i(34,64)
+aagtagatggatgagccagttacgtctttcgcggatcgcctgcaactcctgcacaagcttctgctgcgcattcgcggctgtggaagcggcactggcgctgctgtcgcggtggggcgaagcgactgttgcacccagttcggtgccgaggccgtttctgctgc
+.((((((  ((((ddddddddd))))  (((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))                          ..(((tttttttt)))..)))))).
+4   tRNA-Gly             [1008435,1008505]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+5   tRNA-Thr            c[1009145,1009216]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Gly            c[1009279,1009349]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+7   tRNA-Pro             [1009423,1009495]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggacccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+8   tRNA-Gln            c[1582007,1582081]	119.8	35  	(ctg)
+tgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgtc
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+9   tRNA-Gly             [2201630,2201814]	101.8	131 	(gcc)i(35,94)
+caggatcttgggttggtttggaatgagcccagtcatgcgcatgtgacggtaaaacttgatgtaggggttcgcgcggcgacgggctgcgctggtcttcctcttggcggcggtgcgccgcgcctttgactttgccacggctgcgatgcgcgtctgtcgaattcgccgcttcaaggcggcggccttgc
+((((.((   ((((ddddddddddd))))(((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))....((vvvvvv))....   (((((tttttt))))))).))))
+10  tRNA-Cys             [2437939,2438010]	122.6	33  	(gca)
+ggattcatagctcagtggtagagcattcggctgcagtccgaatggtccccggttcaaacccgggtgggtcct
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+11  tRNA-Leu            c[2438800,2438882]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+12  tRNA-Met            c[2438945,2439016]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+13  tRNA-Pro             [2439089,2439161]	122.1	33  	(tgg)
+ggtcgtttggtctagtggtatgattcctgttttgggtacaggaggtcacgggttcaattcccgtaacgacccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>end 	36 sequences 105 tRNA genes, nothing found in 11 sequences, (69.44% sensitivity)

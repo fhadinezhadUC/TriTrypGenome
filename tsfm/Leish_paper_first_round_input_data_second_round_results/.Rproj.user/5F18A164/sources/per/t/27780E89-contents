@@ -1,0 +1,618 @@
+---
+title: "Analysis of Primary Cilium Proteomic Data from Ge Lab"
+author: "David H. Ardell"
+date: "May 13, 2019"
+output:
+  word_document:
+    toc: yes
+  pdf_document:
+    number_sections: yes
+    toc: yes
+  html_document:
+    highlight: tango
+    number_sections: yes
+    theme: united
+    toc: yes
+editor_options:
+  chunk_output_type: inline
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(readxl)
+library(writexl)
+library(eulerr)
+library(data.table)
+library(reshape2)
+library(stringr)
+library(limma)
+library(ggplot2)
+library(edgeR)
+library(statmod)
+library(gridExtra)
+library(org.Mm.eg.db)
+library(GO.db)
+library(glue)
+options(digits=3)
+```
+
+# About this Document
+
+This file is an [R Markdown](http://rmarkdown.rstudio.com) Notebook written in RStudio. It contains reproducible bioinformatic research in RMarkdown on Label-Free Shotgun Proteomics Data produced by TurboID with either $\Delta$Arl13b-EGFP (targeting the primary cilium in the developing mouse brain) or PR-Arl13b-EGFP (targeting non-cilium) produced by the lab of Xuecai (Susan) Ge and Xiaoliang Liu at UC Merced and shared in the Spring of 2019.
+
+# Data
+
+## Input sample files
+
+Samples were processed at the Stanford University Mass Spectrometry Core Facility with strong documentation to quantify based on spectral counts of rolled-up proteins.
+
+The primary data files are as follows:
+
+1. 1st Mass Spec
+Files are dated July 20, 2018.
+  + 20180629_XGe_UCM_25fmol_ul_6x5spike_8791_CiliaTurboID_SAG_Biotin_1.raw_20180703_Byonic.xlsx
+  + 20180629_XGe_UCM_25fmol_ul_6x5spike_8791_NonCiliaTurboID_SAG_Biotin_4.raw_20180705_Byonic.xlsx
+  + 20180629_XGe_UCM_25fmol_ul_6x5spike_8791_CiliaTurboID_SAG_2.raw_20180703_Byonic.xlsx
+2. 3rd Mass Spec
+Files are dated November 13, 2018.
+  + 20181108_XGe_UCM_9284_CiliaturboID_SAG_Biotin_1.raw_20181113_Byonic.xlsx
+  + 20181108_XGe_UCM_9284_NonCiliaturboID_SAG_Biotin_4.raw_20181113_Byonic.xlsx
+  + 20181108_XGe_UCM_9284_CiliaturboID_SAG_2.raw_20181113_Byonic.xlsx
+3. 4th Mass Spec
+Files are dated January 17, 2019.
+  + 20190117_XGe_UCM_9534_Cilia_TurboID_SAG_Biotin.raw_20190123_Byonic.xlsx
+  + 20190117_XGe_UCM_9534_NonCilia_TurboID_SAG_Biotin.raw_20190123_Byonic.xlsx
+  + 20190117_XGe_UCM_9534_Cilia_TurboID_SAG.raw_20190123_Byonic.xlsx
+
+## Documentation about the data from SUMSCF
+
+Director Ryan Lieb wrote: 
+
+>Please find attached data for the above project. These data are present in four .xlsx files. The file contains three tabs: 1) a summary of the observed proteins and analysis conditions, including a list of searched-for post-translational modifications and their masses, 2) a spectrum-level list of observed peptides and their specific PTMs, probabilities, and cleavage sites, and 3) a protein-level list of the observed species, in order of the probability of a correct fit to the data, including associated spectral counts. The third tab is likely of most use to you. I have also included HeatMaps in separate .xlsx filse to aid interpretation. These heat maps is derived from the same data based on spectral counts. Spectral counts should correspond very roughly with concentration, although there are a number of factors beyond concentration which can influence observations and assignments of spectra. The ‘Global’ map compares all samples as a function of percentile, with the highest 10% of values darkest red, next 10% slightly lighter red, and so on. I’ve put reverse sequences and common contaminants in gray text at the bottom of the list, so they can be easily ignored, but there are likely other proteins that are not of particular interest that are just observed due to high abundance in the starting sample. Assignments of “NaN” mean that that the protein was not observed and assigned to a spectrum in that sample. Please feel free to contact us with any questions that come up as you analyze.
+
+>First, here’s a link to the full Byonic manual - it’s a handy resource for these terms and how they are used in this particular software tool: <https://www.proteinmetrics.com/support-information/>
+
+>I’ll quote from there for reference:
+
+>* Total Intensity – Sum of all fragment peak intensities over all MS/MS spectra
+>* number of spectra – Total number of PSMs, including duplicate PSMs
+
+>So, number of spectra are often used as a rough proxy of concentration. This is very rough for a lot of reasons (the manual goes into a few, and I’m happy to discuss others, but things like ionization efficiency of particular peptides and protein length differences are good examples). This tends to work best with highly comparable samples (for instance, two samples from the same cell type with and without treatment), where relative changes across conditions are key. It works less well when the background protein amounts or character is expected to change significantly. In some cases, people correct elements of the # of spectra term using Normalized Spectral Abundance Factors. These come in a variety of flavors, but the simplest versions divide # of spectra by a term for mass or length (for instance, the # of AAs in the protein). Total Intensity is more of a summary statement of how many of fragments you might expect to see can be accounted for, and while concentration certainly effects these values, it has many other factors such that the end result can be quite unrelated to solution concentration. The important thing is that while # of spectra is more often and widely used as a proxy for concentration, it certainly isn’t exact (it can’t be changed into ug/ul), and there are many confounds that should be considered.
+
+
+# Initial Processing and Characterization of Data
+
+The third sheets of excel files, corresponding to whole "rolled-up" protein summaries, were loaded directly into R.
+
+```{r load}
+Cil.1 <- read_xlsx("20180629_XGe_UCM_25fmol_ul_6x5spike_8791_CiliaTurboID_SAG_Biotin_1.raw_20180703_Byonic.xlsx",sheet=3)
+Cil.3 <- read_xlsx("20181108_XGe_UCM_9284_CiliaturboID_SAG_Biotin_1.raw_20181113_Byonic.xlsx",sheet=3)
+Cil.4 <- read_xlsx("20190117_XGe_UCM_9534_Cilia_TurboID_SAG_Biotin.raw_20190123_Byonic.xlsx",sheet=3)
+
+Non.1 <- read_xlsx("20180629_XGe_UCM_25fmol_ul_6x5spike_8791_NonCiliaTurboID_SAG_Biotin_4.raw_20180705_Byonic.xlsx",sheet=3)
+Non.3 <- read_xlsx("20181108_XGe_UCM_9284_NonCiliaturboID_SAG_Biotin_4.raw_20181113_Byonic.xlsx",sheet=3)
+Non.4 <- read_xlsx("20190117_XGe_UCM_9534_NonCilia_TurboID_SAG_Biotin.raw_20190123_Byonic.xlsx",sheet=3)
+
+NoB.1 <- read_xlsx("20180629_XGe_UCM_25fmol_ul_6x5spike_8791_CiliaTurboID_SAG_2.raw_20180703_Byonic.xlsx",sheet=3)
+NoB.3 <- read_xlsx("20181108_XGe_UCM_9284_CiliaturboID_SAG_2.raw_20181113_Byonic.xlsx",sheet=3)
+NoB.4 <- read_xlsx("20190117_XGe_UCM_9534_Cilia_TurboID_SAG.raw_20190123_Byonic.xlsx",sheet=3)
+```
+
+Single matrices of spectral counts over replicates and conditions were created by filtering and merging data.tables.
+
+```{r filtermerge}
+Cil.1.f <- data.table(Cil.1[,c(2,7)],key="Description")
+names(Cil.1.f) <- c("Description","SpC.1c")
+Cil.3.f <- data.table(Cil.3[,c(2,7)],key="Description")
+names(Cil.3.f) <- c("Description","SpC.3c")
+Cil.4.f <- data.table(Cil.4[,c(2,7)],key="Description")
+names(Cil.4.f) <- c("Description","SpC.4c")
+
+Cil.SpC   <- merge(merge(Cil.1.f,Cil.3.f,all=TRUE),Cil.4.f,all=TRUE)
+
+Non.1.f <- data.table(Non.1[,c(2,7)],key="Description")
+names(Non.1.f) <- c("Description","SpC.1nc")
+Non.3.f <- data.table(Non.3[,c(2,7)],key="Description")
+names(Non.3.f) <- c("Description","SpC.3nc")
+Non.4.f <- data.table(Non.4[,c(2,7)],key="Description")
+names(Non.4.f) <- c("Description","SpC.4nc")
+
+Non.SpC   <- merge(merge(Non.1.f,Non.3.f,all=TRUE),Non.4.f,all=TRUE)
+
+NoB.1.f <- data.table(NoB.1[,c(2,7)],key="Description")
+names(NoB.1.f) <- c("Description","SpC.1nB")
+NoB.3.f <- data.table(NoB.3[,c(2,7)],key="Description")
+names(NoB.3.f) <- c("Description","SpC.3nB")
+NoB.4.f <- data.table(NoB.4[,c(2,7)],key="Description")
+names(NoB.4.f) <- c("Description","SpC.4nB")
+
+NoB.SpC   <- merge(merge(NoB.1.f,NoB.3.f,all=TRUE),NoB.4.f,all=TRUE)
+```
+
+## Filtering Low Abundance Proteins
+
+Filtering low-abundance proteins reserves more power to detect differentially abundant proteins with little risk, since it is naturally very difficult to detect differentially abundance of very low-expressed proteins.
+
+Gordon Smyth writes:
+
+>Whatever pipeline you use, you should filter out low count proteins, as Aaron and Bernd have already discussed. How much filtering to do? The mean-variance plots will guide you. For voom, have a look at the plot produced by voom(plot=TRUE). Ideally the trend line should be monotonically decreasing. If it goes sharply up before trending down, then you haven't filtered enough. For limma and log-counts, look at plotSA(fit) where fit is output from lmFit and eBayes. The trend line should be smooth. If it increases sharply at the low count end, then you haven't filtered enough.
+
+```{r filter}
+SpC.cutoff       <- 6
+Non.SpC.filtered <- Non.SpC[apply(Non.SpC[,2:4] < SpC.cutoff,1,function(x) sum(x,na.rm=TRUE)) == 0,]
+Cil.SpC.filtered <- Cil.SpC[apply(Cil.SpC[,2:4] < SpC.cutoff,1,function(x) sum(x,na.rm=TRUE)) == 0,]
+```
+
+Before filtering, among `r sum(apply(is.na(Cil.SpC),1,sum) >= 3)` Primary Cilium proteins with spectral counts listed (not all blank), there were `r dim(Cil.SpC.filtered)[1]` proteins with all spectral counts greater than or equal to the cutoff, which was `r SpC.cutoff`. Among `r sum(apply(is.na(Non.SpC),1,sum) >= 3)` Non-Cilium Proteins with spectral counts, there are `r dim(Non.SpC.filtered)[1]` proteins with all spectral counts greater than or equal to the cutoff.
+
+## Missingness over Replicates of Cilium-TurboID
+
+After merging, among 5577 proteins identified in at least one replicate, there were 2400 identified proteins with no spectral counts given in any of the replicates for Cilium-Turbo-ID. Among the 3177 proteins with spectral counts in at least one replicate, 1426 had spectral counts in all three replicates, or 44.8%. 
+
+```{r missing.rep.cil}
+Cil.SpC.NA.tab <- table(lapply(Cil.SpC, is.na))
+Cil.SpC.NA.venn <- euler(c("1"=Cil.SpC.NA.tab[1,1,2,2], 
+                         "3"=Cil.SpC.NA.tab[1,2,1,2], 
+                         "4"=Cil.SpC.NA.tab[1,2,2,1], 
+                         "1&3"=Cil.SpC.NA.tab[1,1,1,2], 
+                         "1&4"=Cil.SpC.NA.tab[1,1,2,1], 
+                         "3&4"=Cil.SpC.NA.tab[1,2,1,1],
+                         "1&3&4"=Cil.SpC.NA.tab[1,1,1,1]),
+                       shape="ellipse")
+plot(Cil.SpC.NA.venn,quantities=TRUE)
+```
+
+Among the 3177 proteins with spectral counts in at least one replicate, 2066 had spectral counts in at least two replicates, or 62.6%. 
+
+```{r missing.rep.cil.2}
+Cil.SpC.R23  <- Cil.SpC[apply(is.na(Cil.SpC[,2:4]),1,sum) <= 1,]
+Cil.SpC.R123 <- Cil.SpC[apply(is.na(Cil.SpC[,2:4]),1,sum) <= 2,]
+Cil.SpC.filtered.R23 <- Cil.SpC.filtered[apply(is.na(Cil.SpC.filtered[,2:4]),1,sum) <= 1,]
+```
+
+## Missingness over Replicates of NonCilium-TurboID
+
+After merging, among 6105 proteins identified in at least one replicate, there were 2807 identified proteins with no spectral counts given in any of the replicates for NonCilium-Turbo-ID. Among the 3298 proteins with spectral counts in at least one replicate, 1580 had spectral counts in all three replicates, or 47.9%. 2231 had spectral counts in at least two replicates, or 67.6%.
+
+```{r missing.rep.non}
+Non.SpC.NA.tab <- table(lapply(Non.SpC, is.na))
+Non.SpC.NA.venn <- euler(c("1"=Non.SpC.NA.tab[1,1,2,2], 
+                         "3"=Non.SpC.NA.tab[1,2,1,2], 
+                         "4"=Non.SpC.NA.tab[1,2,2,1], 
+                         "1&3"=Non.SpC.NA.tab[1,1,1,2], 
+                         "1&4"=Non.SpC.NA.tab[1,1,2,1], 
+                         "3&4"=Non.SpC.NA.tab[1,2,1,1],
+                         "1&3&4"=Non.SpC.NA.tab[1,1,1,1]),
+                       shape="ellipse")
+plot(Non.SpC.NA.venn,quantities=TRUE)
+Non.SpC.R23  <- Non.SpC[apply(is.na(Non.SpC[,2:4]),1,sum) <= 1,]
+Non.SpC.filtered.R23 <- Non.SpC.filtered[apply(is.na(Non.SpC.filtered[,2:4]),1,sum) <= 1,]
+Non.SpC.R123 <- Non.SpC[apply(is.na(Non.SpC[,2:4]),1,sum) <= 2,]
+```
+
+## Missingness over Replicates of Cilium-NoBiotin-TurboID
+
+Replicate 4 had many more unique proteins than the other replicates. 
+
+```{r missing.rep.noB}
+NoB.SpC.NA.tab <- table(lapply(NoB.SpC, is.na))
+NoB.SpC.NA.venn <- euler(c("1"=NoB.SpC.NA.tab[1,1,2,2], 
+                         "3"=NoB.SpC.NA.tab[1,2,1,2], 
+                         "4"=NoB.SpC.NA.tab[1,2,2,1], 
+                         "1&3"=NoB.SpC.NA.tab[1,1,1,2], 
+                         "1&4"=NoB.SpC.NA.tab[1,1,2,1], 
+                         "3&4"=NoB.SpC.NA.tab[1,2,1,1],
+                         "1&3&4"=NoB.SpC.NA.tab[1,1,1,1]),
+                       shape="ellipse")
+plot(NoB.SpC.NA.venn,quantities=TRUE)
+NoB.SpC.R23  <- NoB.SpC[apply(is.na(NoB.SpC[,2:4]),1,sum) <= 1,]
+```
+
+## Missingness between Cilium-TurboID and NonCilium-TurboID
+
+```{r missing.treat.1}
+Merge.SpC.R3   <- merge(na.omit(Cil.SpC),na.omit(Non.SpC),all=TRUE)
+Merge.SpC.NA.tab <- table(lapply(Merge.SpC.R3, is.na))
+Merge.SpC.NA.venn <- euler(c("Cilium"=351, 
+                          "NonCilium"=505, 
+                          "Cilium&NonCilium"=1075),
+                        shape="ellipse")
+plot(Merge.SpC.NA.venn,quantities=TRUE)
+Both.SpC.R3 <- na.omit(Merge.SpC.R3)
+```
+Considering only those 1931 proteins that were present in all replicates of either the Cilium or Non-Cilium treatment, 1075 were detected in both treatments.
+
+
+```{r missing.treat.2}
+Merge.SpC.R23   <- merge(Cil.SpC.R23,Non.SpC.R23,all=TRUE)
+Merge.SpC.R23.NA.venn <- euler(c("Cilium"=sum(apply(is.na(Merge.SpC.R23[,5:7]),1,sum) == 3), 
+                          "NonCilium"=sum(apply(is.na(Merge.SpC.R23[,2:4]),1,sum) == 3), 
+                          "Cilium&NonCilium"=sum(apply(is.na(Merge.SpC.R23[,2:7]),1,sum) <= 2)),
+                        shape="ellipse")
+plot(Merge.SpC.R23.NA.venn,quantities=TRUE)
+Both.SpC.R23 <- Merge.SpC.R23[apply(is.na(Merge.SpC.R23[,2:7]),1,sum) <= 2,]
+write_xlsx(Merge.SpC.R23[apply(is.na(Merge.SpC.R23[,5:7]),1,sum) == 3,],path="R23.CiliumOnly.xlsx")
+```
+Considering 2691 proteins that were present in at least 2 replicates of either the Cilium or Non-Cilium treatment, 1606 were detected in both treatments. In the end, this (R23) was the best version of the analysis, and Susan wanted information on the Cilium-only proteins, so I exported them to Excel. Some preliminary analysis shows that Cilium-only proteins are less abundant than proteins shared across compartments.
+
+```{r missing.treat.2.filt}
+Merge.SpC.filtered.R23         <- merge(Cil.SpC.filtered.R23,Non.SpC.filtered.R23,all=TRUE)
+Merge.SpC.filtered.R23.NA.venn <- euler(c("Cilium" = sum(apply(is.na(Merge.SpC.filtered.R23[,5:7]),1,sum) == 3), 
+                                          "NonCilium" = sum(apply(is.na(Merge.SpC.filtered.R23[,2:4]),1,sum) == 3), 
+                                          "Cilium&NonCilium" = sum(apply(is.na(Merge.SpC.filtered.R23[,5:7]),1,sum) != 3 & apply(is.na(Merge.SpC.filtered.R23[,2:4]),1,sum) != 3)),
+                                        shape="ellipse")
+plot(Merge.SpC.filtered.R23.NA.venn,quantities=TRUE)
+Both.SpC.filtered.R23 <- Merge.SpC.filtered.R23[apply(is.na(Merge.SpC.filtered.R23[,5:7]),1,sum) != 3 &  apply(is.na(Merge.SpC.filtered.R23[,2:4]),1,sum) != 3,]
+```
+Considering `r dim(Merge.SpC.filtered.R23)[0]` proteins with minimum SpC values of `r SpC.cutoff` over both conditions, 555 have spectral counts in both conditions.
+
+```{r missing.treat.3}
+Merge.SpC.R123   <- merge(Cil.SpC.R123,Non.SpC.R123,all=TRUE)
+Merge.SpC.R123.NA.venn <- euler(c("Cilium"=sum(apply(is.na(Merge.SpC.R123[,5:7]),1,sum) == 3), 
+                          "NonCilium"=sum(apply(is.na(Merge.SpC.R123[,2:4]),1,sum) == 3), 
+                          "Cilium&NonCilium"=sum(apply(is.na(Merge.SpC.R123[,2:7]),1,sum) <= 4)),
+                        shape="ellipse")
+plot(Merge.SpC.R123.NA.venn,quantities=TRUE)
+Both.SpC.R123 <- Merge.SpC.R123[apply(is.na(Merge.SpC.R123[,2:7]),1,sum) <= 4,]
+```
+Considering 4133 proteins that were present in at least 1 replicate of either the Cilium or Non-Cilium treatment, 2933 were detected in both treatments. 
+
+
+<!-- ## Densities of SpC in Cilium, Intersection and Non-Cilium Proteins of the three Tiered Sets -->
+
+<!-- ```{r dens.spc} -->
+<!-- Merge.SpC.R123$mean.spC.c      <- apply(Merge.SpC.R123[,2:4],1, function(x)mean(x,na.rm=TRUE)) -->
+<!-- Merge.SpC.R123$mean.spC.nc     <- apply(Merge.SpC.R123[,5:7],1, function(x)mean(x,na.rm=TRUE)) -->
+
+<!-- Merge.SpC.R123$mean.logSpC.c   <- apply(Merge.SpC.R123[,2:4],1, function(x)mean(log2(x+1),na.rm=TRUE)) -->
+<!-- Merge.SpC.R123$mean.logSpC.nc  <- apply(Merge.SpC.R123[,5:7],1, function(x)mean(log2(x+1),na.rm=TRUE)) -->
+
+<!-- Merge.SpC.R23$mean.spC.c       <- apply(Merge.SpC.R23[,2:4],1,function(x)mean(x,na.rm=TRUE)) -->
+<!-- Merge.SpC.R23$mean.spC.nc      <- apply(Merge.SpC.R23[,5:7],1,function(x)mean(x,na.rm=TRUE)) -->
+
+<!-- Merge.SpC.R23$mean.logSpC.c    <- apply(Merge.SpC.R23[,2:4],1,function(x)mean(log2(x+1),na.rm=TRUE)) -->
+<!-- Merge.SpC.R23$mean.logSpC.nc   <- apply(Merge.SpC.R23[,5:7],1,function(x)mean(log2(x+1),na.rm=TRUE)) -->
+
+<!-- Merge.SpC.R3$mean.spC.c        <- apply(Merge.SpC.R3[,2:4],1,function(x)mean(x,na.rm=TRUE)) -->
+<!-- Merge.SpC.R3$mean.spC.nc       <- apply(Merge.SpC.R3[,5:7],1,function(x)mean(x,na.rm=TRUE)) -->
+
+<!-- Merge.SpC.R3$mean.logSpC.c     <- apply(Merge.SpC.R3[,2:4],1,function(x)mean(log2(x+1),na.rm=TRUE)) -->
+<!-- Merge.SpC.R3$mean.logSpC.nc    <- apply(Merge.SpC.R3[,5:7],1,function(x)mean(log2(x+1),na.rm=TRUE)) -->
+
+
+<!-- cilium.only.means.spC <- rbind(Merge.SpC.R3[apply(is.na(Merge.SpC.R3[,5:7]),1,sum)==3,8], -->
+<!--                                Merge.SpC.R23[apply(is.na(Merge.SpC.R23[,5:7]),1,sum)==3,8], -->
+<!--                                Merge.SpC.R123[apply(is.na(Merge.SpC.R123[,5:7]),1,sum)==3,8] -->
+<!--                                ) -->
+
+<!-- cilium.only.means.logSpC <- rbind(Merge.SpC.R3[apply(is.na(Merge.SpC.R3[,5:7]),1,sum)==3,9],  -->
+<!--                                   Merge.SpC.R23[apply(is.na(Merge.SpC.R23[,5:7]),1,sum)==3,9], -->
+<!--                                   Merge.SpC.R123[apply(is.na(Merge.SpC.R123[,5:7]),1,sum)==3,9] -->
+<!--                                   ) -->
+
+<!-- num.replicates           <- c(rep("Three", dim(Merge.SpC.R3[apply(is.na(Merge.SpC.R3[,5:7]),1,sum)==3,9])[1]),  -->
+<!--                               rep("Two or Three", dim(Merge.SpC.R23[apply(is.na(Merge.SpC.R23[,5:7]),1,sum)==3,9])[1]),  -->
+<!--                               rep("One, Two or Three", dim(Merge.SpC.R123[apply(is.na(Merge.SpC.R123[,5:7]),1,sum)==3,9])[1])) -->
+<!-- cilium.only.data         <- data.frame(num.replicates,cilium.only.means.spC,cilium.only.means.logSpC) -->
+<!-- ``` -->
+
+<!-- ```{r spC} -->
+<!-- qplot(x=num.replicates,y=mean.spC.c,data=cilium.only.data,geom=c("boxplot","jitter"),fill=num.replicates) -->
+<!-- ``` -->
+
+
+## Missingness between Cilium-TurboID and Cilium-NoBiotin-TurboID
+
+```{r missing.treat.nob}
+Merge.NoB.SpC.R23   <- merge(Cil.SpC.R23,NoB.SpC.R23,all=TRUE)
+Merge.NoB.SpC.R23.NA.venn <- euler(c("Biotin"=sum(apply(is.na(Merge.NoB.SpC.R23[,5:7]),1,sum) == 3), 
+                          "NoBiotin"=sum(apply(is.na(Merge.NoB.SpC.R23[,2:4]),1,sum) == 3), 
+                          "Biotin&NoBiotin"=sum(apply(is.na(Merge.NoB.SpC.R23[,2:7]),1,sum) <= 2)),
+                        shape="ellipse")
+plot(Merge.NoB.SpC.R23.NA.venn,quantities=TRUE)
+Both.NoB.SpC.R23 <- Merge.NoB.SpC.R23[apply(is.na(Merge.NoB.SpC.R23[,2:7]),1,sum) <= 2,]
+write_xlsx(Merge.NoB.SpC.R23[apply(is.na(Merge.NoB.SpC.R23[,5:7]),1,sum) == 3,],path="R23.CiliumOnlyNoBiotin.xlsx")
+```
+
+## Conclusions from Missingness Studies
+
+Missingness is not extremely bad; a reasonable number of proteins appear in the intersection set (proteins present in all three replicates of both conditions) that a preliminary analysis could examine only the intersection set. A second reasonable approach would be to include all proteins present in at least two or one replicates in both conditions, either with or without imputation. 
+
+<!-- ## Comparison of Spectral Count Densities for Cilium-Specific Proteins Versus Intersection Set Proteins -->
+
+<!-- Are Cilium-Specific proteins less abundant than Intersection-Set Proteins? -->
+
+<!-- ```{r spc.dens} -->
+<!-- mean.spC.c.only.R3 <- Merge.SpC.R3[apply(is.na(Merge.SpC.R3[,5:7]),1,sum)==3,9] -->
+<!-- mean.spC.c.only.R3$set <- "Cilium-only" -->
+<!-- mean.spC.c.both.R3 <- Merge.SpC.R3[,10] -->
+<!-- mean.spC.c.both.R3$set <- "Intersection" -->
+<!-- mean.spC.c.R3 <- rbind(mean.spC.c.only.R3,mean.spC.c.both.R3) -->
+
+<!-- mean.spC.c.only.R23 <- Merge.SpC.R23[apply(is.na(Merge.SpC.R23[,5:7]),1,sum)==3,9] -->
+<!-- mean.spC.c.only.R23$set <- "Cilium-only" -->
+<!-- mean.spC.c.both.R23 <- Merge.SpC.R23[,10] -->
+<!-- mean.spC.c.both.R23$set <- "Intersection" -->
+<!-- mean.spC.c.R23 <- rbind(mean.spC.c.only.R23,mean.spC.c.both.R23) -->
+
+<!-- mean.spC.c.only.R123 <- Merge.SpC.R123[apply(is.na(Merge.SpC.R123[,5:7]),1,sum)==3,9] -->
+<!-- mean.spC.c.only.R123$set <- "Cilium-only" -->
+<!-- mean.spC.c.both.R123 <- Merge.SpC.R123[,11] -->
+<!-- mean.spC.c.both.R123$set <- "Intersection" -->
+<!-- mean.spC.c.R123 <- rbind(mean.spC.c.only.R123,mean.spC.c.both.R123) -->
+
+<!-- par(1,3) -->
+<!-- ggplot(mean.spC.c.R3,aes(mean.logSpC.c, fill = set)) + geom_density(alpha = 0.2) + labs(title="Densities of log2 Abundance of Proteins with Three Replicates in Cilium",subtitle="Cilium-Only Proteins vs Intersection Proteins", x="log2(SpC+1)") -->
+<!-- ggplot(mean.spC.c.R23,aes(mean.logSpC.c, fill = set)) + geom_density(alpha = 0.2) + labs(title="Densities of log2 Abundance of Proteins with at least two Replicates in Cilium",subtitle="Cilium-Only Proteins vs Intersection Proteins", x="log2(SpC+1)") -->
+<!-- ggplot(mean.spC.c.R123,aes(mean.logSpC.c, fill = set)) + geom_density(alpha = 0.2) + labs(title="Densities of log2 Abundance of Proteins with at least one Replicate in Cilium",subtitle="Cilium-Only Proteins vs Intersection Proteins", x="log2(SpC+1)") -->
+<!-- ``` -->
+
+
+# Design
+
+For this initial comparison, we are interested in estimating the following statistical contrasts.
+
+1. Cilia-TurboID + Biotin + SAG vs. NonCilia-TurboID + Biotin + SAG
+2. Cilia-TurboID + Biotin + SAG vs. Cilia-TurboID + SAG (NoBiotin)
+
+# Quantitation Approach 1: limma-trend with log-transformed spectral counts
+
+Gordon Smyth [writes](https://support.bioconductor.org/p/64484/)
+
+>We have experimented with a few of different statistical approaches to proteomics data and spectral counts. We are still learning, but spectral counts seem to behave somewhat differently to RNA-seq counts, showing much more technical variability, so I don't think that I would recommend voom or classic edgeR or DESeq. Rather than voom, a slightly simpler and very robust approach would be to tranform to y = log2(count+1), quantile normalize, then run a limma pipeline with eBayes(trend=TRUE, robust=TRUE). I feel confident that this would be better than using ordinary t-tests. 
+
+>Alternatively, if there are a lot of zeros in your data, then a quasi-negative-binomial approach may well be preferable. Have a look at Section 4.7 "Profiles of Unrelated Nigerian Individuals" of the edgeR User's Guide for how a quasi-likelihood pipeline might go.
+
+From the documentation for eBayes in R:
+
+>The use of eBayes or treat with trend=TRUE is known as the limma-trend method (Law et al, 2014; Phipson et al, 2016).
+
+> If robust=TRUE then the robust empirical Bayes procedure of Phipson et al (2016) is used. This is frequently useful to protect the empirical Bayes procedure against hyper-variable or hypo-variable genes, especially when analysing RNA-seq data. 
+
+Law, CW, Chen, Y, Shi, W, Smyth, GK (2014). Voom: precision weights unlock linear model analysis tools for RNA-seq read counts. Genome Biology 15, R29. http://genomebiology.com/2014/15/2/R29
+
+Phipson, B, Lee, S, Majewski, IJ, Alexander, WS, and Smyth, GK (2016). Robust hyperparameter estimation protects against hypervariable genes and improves power to detect differential expression. Annals of Applied Statistics 10, 946-963. http://projecteuclid.org/euclid.aoas/1469199900
+
+## Quantile Normalization
+
+```{r q.norm}
+Both.SpC.R3.names                  <- str_extract(t(Both.SpC.R3[,1]), "\\>\\S+")
+Both.SpC.R3.logSpC                 <- as.matrix(log2(Both.SpC.R3[,c(seq(2,7))]+1))
+colnames(Both.SpC.R3.logSpC)       <- c("Cil.1","Cil.3","Cil.4","Non.1","Non.3","Non.4")
+Both.SpC.R3.Normalized             <- normalizeBetweenArrays(Both.SpC.R3.logSpC,method="quantile")
+colnames(Both.SpC.R3.Normalized)   <- c("Cil.1","Cil.3","Cil.4","Non.1","Non.3","Non.4")
+rownames(Both.SpC.R3.Normalized)   <- Both.SpC.R3.names
+
+Both.SpC.R23.names                  <- str_extract(t(Both.SpC.R23[,1]), "\\>\\S+")
+Both.SpC.R23.logSpC                 <- as.matrix(log2(Both.SpC.R23[,c(seq(2,7))]+1))
+colnames(Both.SpC.R23.logSpC)       <- c("Cil.1","Cil.3","Cil.4","Non.1","Non.3","Non.4")
+Both.SpC.R23.Normalized             <- normalizeBetweenArrays(Both.SpC.R23.logSpC,method="quantile")
+colnames(Both.SpC.R23.Normalized)   <- c("Cil.1","Cil.3","Cil.4","Non.1","Non.3","Non.4")
+rownames(Both.SpC.R23.Normalized)   <- Both.SpC.R23.names
+
+Both.NoB.SpC.R23.names                  <- str_extract(t(Both.NoB.SpC.R23[,1]), "\\>\\S+")
+Both.NoB.SpC.R23.logSpC                 <- as.matrix(log2(Both.NoB.SpC.R23[,c(seq(2,7))]+1))
+colnames(Both.NoB.SpC.R23.logSpC)       <- c("Cil.1","Cil.3","Cil.4","NoB.1","NoB.3","NoB.4")
+Both.NoB.SpC.R23.Normalized             <- normalizeBetweenArrays(Both.NoB.SpC.R23.logSpC,method="quantile")
+colnames(Both.NoB.SpC.R23.Normalized)   <- c("Cil.1","Cil.3","Cil.4","NoB.1","NoB.3","NoB.4")
+rownames(Both.NoB.SpC.R23.Normalized)   <- Both.NoB.SpC.R23.names
+
+Both.SpC.filtered.R23.names                  <- str_extract(t(Both.SpC.filtered.R23[,1]), "\\>\\S+")
+Both.SpC.filtered.R23.logSpC                 <- as.matrix(log2(Both.SpC.filtered.R23[,c(seq(2,7))]+1))
+colnames(Both.SpC.filtered.R23.logSpC)       <- c("Cil.1","Cil.3","Cil.4","Non.1","Non.3","Non.4")
+Both.SpC.filtered.R23.Normalized             <- normalizeBetweenArrays(Both.SpC.filtered.R23.logSpC,method="quantile")
+colnames(Both.SpC.filtered.R23.Normalized)   <- c("Cil.1","Cil.3","Cil.4","Non.1","Non.3","Non.4")
+rownames(Both.SpC.filtered.R23.Normalized)   <- Both.SpC.filtered.R23.names
+
+Both.SpC.R123.names                  <- str_extract(t(Both.SpC.R123[,1]), "\\>\\S+")
+Both.SpC.R123.logSpC                 <- as.matrix(log2(Both.SpC.R123[,c(seq(2,7))]+1))
+colnames(Both.SpC.R123.logSpC)       <- c("Cil.1","Cil.3","Cil.4","Non.1","Non.3","Non.4")
+Both.SpC.R123.Normalized             <- normalizeBetweenArrays(Both.SpC.R123.logSpC,method="quantile")
+colnames(Both.SpC.R123.Normalized)   <- c("Cil.1","Cil.3","Cil.4","Non.1","Non.3","Non.4")
+rownames(Both.SpC.R123.Normalized)   <- Both.SpC.R123.names
+
+Both.SpC.R3.melt                     <- melt(Both.SpC.R3.logSpC,
+                                             id.vars = "id",
+                                             measure.vars=colnames(Both.SpC.R3.logSpC))[,c(2,3)]
+colnames(Both.SpC.R3.melt)           <- c("sample","logSpC")
+
+Both.SpC.R23.melt                    <- melt(Both.SpC.R23.logSpC,
+                                             id.vars = "id",
+                                             measure.vars=colnames(Both.SpC.R23.logSpC))[,c(2,3)]
+colnames(Both.SpC.R23.melt)          <- c("sample","logSpC")
+
+Both.NoB.SpC.R23.melt                    <- melt(Both.NoB.SpC.R23.logSpC,
+                                                 id.vars = "id",measure.vars=colnames(Both.NoB.SpC.R23.logSpC))[,c(2,3)]
+colnames(Both.NoB.SpC.R23.melt)          <- c("sample","logSpC")
+
+Both.SpC.R123.melt                   <- melt(Both.SpC.R123.logSpC,id.vars = "id",measure.vars=colnames(Both.SpC.R123.logSpC))[,c(2,3)]
+colnames(Both.SpC.R123.melt)         <- c("sample","logSpC")
+
+Both.SpC.R3.melt.norm                <- melt(Both.SpC.R3.Normalized,id.vars = "id",measure.vars=colnames(Both.SpC.R3.Normalized))[,c(2,3)]
+colnames(Both.SpC.R3.melt.norm)      <- c("sample","Normalized_logSpC")
+
+Both.SpC.R23.melt.norm               <- melt(Both.SpC.R23.Normalized,id.vars = "id",measure.vars=colnames(Both.SpC.R23.Normalized))[,c(2,3)]
+colnames(Both.SpC.R23.melt.norm)     <- c("sample","Normalized_logSpC")
+
+Both.NoB.SpC.R23.melt.norm               <- melt(Both.NoB.SpC.R23.Normalized,id.vars = "id",measure.vars=colnames(Both.NoB.SpC.R23.Normalized))[,c(2,3)]
+colnames(Both.NoB.SpC.R23.melt.norm)     <- c("sample","Normalized_logSpC")
+
+Both.SpC.R123.melt.norm              <- melt(Both.SpC.R123.Normalized,id.vars ="id",measure.vars=colnames(Both.SpC.R123.Normalized))[,c(2,3)]
+colnames(Both.SpC.R123.melt.norm)    <- c("sample","Normalized_logSpC")
+
+p1 <- ggplot(Both.SpC.R3.melt, aes(sample, logSpC))   + geom_boxplot() + labs(title = "R3 unnormalized", x = "Sample", y = "log2(SpC+1)")
+p2 <- ggplot(Both.SpC.R23.melt, aes(sample, logSpC))   + geom_boxplot() + labs(title = "R23 unnormalized", x = "Sample", y = "log2(SpC+1)")
+p3 <- ggplot(Both.SpC.R123.melt, aes(sample, logSpC))   + geom_boxplot() + labs(title = "R123 unnormalized", x = "Sample", y = "log2(SpC+1)")
+p4 <- ggplot(Both.SpC.R3.melt.norm, aes(sample, Normalized_logSpC))   + geom_boxplot() + labs(title = "R3 Normalized", x = "Sample", y = "Norm. log2(SpC+1)")
+p5 <- ggplot(Both.SpC.R23.melt.norm, aes(sample, Normalized_logSpC))   + geom_boxplot() + labs(title = "R23 Normalized", x = "Sample", y = "Norm. log2(SpC+1)")
+p6 <- ggplot(Both.SpC.R123.melt.norm, aes(sample, Normalized_logSpC))   + geom_boxplot() + labs(title = "R123 Normalized", x = "Sample", y = "Norm. log2(SpC+1)")
+grid.arrange(p1, p2, p3, p4, p5, p6, ncol=3, nrow=2)
+```
+
+## MDS Plots
+
+### Cilium_NonCilium Contrast
+
+```{r mds}
+par(mfrow=c(2,2))
+plotMDS(Both.SpC.R3.Normalized, col=c(1,1,1,2,2,2))
+title("MDS Plot, R3, normalized")
+legend("topright", legend=c("Cilium","NonCilium"), 
+        col=1:4, pch=15, xpd=TRUE, cex=0.8, bty = "n")
+plotMDS(Both.SpC.R23.Normalized, col=c(1,1,1,2,2,2))
+title("MDS Plot, R23, normalized")
+legend("topright", legend=c("Cilium","NonCilium"), 
+        col=1:4, pch=15, xpd=TRUE, cex=0.8, bty = "n")
+plotMDS(Both.SpC.R123.Normalized, col=c(1,1,1,2,2,2))
+title("MDS Plot, R123, normalized")
+legend("topright", legend=c("Cilium","NonCilium"), 
+        col=1:4, pch=15, xpd=TRUE, cex=0.8, bty = "n")
+plotMDS(Both.SpC.filtered.R23.Normalized, col=c(1,1,1,2,2,2))
+title("MDS Plot, R23 filtered, normalized")
+legend("topright", legend=c("Cilium","NonCilium"), 
+        col=1:4, pch=15, xpd=TRUE, cex=0.8, bty = "n")
+```
+### Biotin_NoBiotin Contrast
+
+```{r mds.NoB}
+plotMDS(Both.NoB.SpC.R23.Normalized, col=c(1,1,1,2,2,2))
+title("MDS Plot, R23, normalized")
+legend("topright", legend=c("+Biotin","-Biotin"), 
+        col=1:4, pch=15, xpd=TRUE, cex=0.8, bty = "n")
+```
+
+## Fitting of Contrasts
+
+```{r limma}
+design                    <- cbind(Cilium=c(1,1,1,0,0,0),NonCilium=c(0,0,0,1,1,1))
+contrasts                 <- cbind(Cilium=c(1,0),NonCilium=c(0,1),"Cilium-NonCilium"=c(1,-1))
+
+lmFit.R3                  <- lmFit(Both.SpC.R3.Normalized,design)
+lmFit.R3$genes            <- Both.SpC.R3.names
+contrastsFit.R3           <- contrasts.fit(lmFit.R3, contrasts)
+ebayes.R3                 <- eBayes(contrastsFit.R3, trend=TRUE, robust=TRUE)
+
+lmFit.R23                  <- lmFit(Both.SpC.R23.Normalized,design)
+lmFit.R23$genes            <- Both.SpC.R23.names
+contrastsFit.R23           <- contrasts.fit(lmFit.R23, contrasts)
+ebayes.R23                 <- eBayes(contrastsFit.R23, trend=TRUE, robust=TRUE)
+
+lmFit.filtered.R23                  <- lmFit(Both.SpC.filtered.R23.Normalized,design)
+lmFit.filtered.R23$genes            <- Both.SpC.filtered.R23.names
+contrastsFit.filtered.R23           <- contrasts.fit(lmFit.filtered.R23, contrasts)
+ebayes.filtered.R23                 <- eBayes(contrastsFit.filtered.R23, trend=TRUE, robust=TRUE)
+
+lmFit.R123                  <- lmFit(Both.SpC.R123.Normalized,design)
+lmFit.R123$genes            <- Both.SpC.R123.names
+contrastsFit.R123           <- contrasts.fit(lmFit.R123, contrasts)
+ebayes.R123                 <- eBayes(contrastsFit.R123, trend=TRUE, robust=TRUE)
+
+lmFit.NoB.R23                  <- lmFit(Both.NoB.SpC.R23.Normalized,design)
+lmFit.NoB.R23$genes            <- Both.NoB.SpC.R23.names
+contrastsFit.NoB.R23           <- contrasts.fit(lmFit.NoB.R23, contrasts)
+ebayes.NoB.R23                 <- eBayes(contrastsFit.NoB.R23, trend=TRUE, robust=TRUE)
+
+plotSA(ebayes.R3)
+title("SA Plot, R3")
+plotSA(ebayes.R23)
+title("SA Plot, R23")
+plotSA(ebayes.filtered.R23)
+title("SA Plot, filtered R23")
+plotSA(ebayes.R123)
+title("SA Plot, R123")
+plotSA(ebayes.NoB.R23)
+title("SA Plot, Biotin_NoBiotin R23")
+```
+
+The diagnostics seem to indicate a need to trim low expression values, up to approx 3.
+
+## Differentially Abundant Proteins in Cilium vs. Non-Cilium 
+
+```{r dt}
+dt.R3                      <- decideTests(ebayes.R3)
+dt.factor.R3               <- as.factor(dt.R3[,3])
+dt.factor.labels.R3        <- c("NonCilium","N.S.","Cilium")
+tt.R3                      <- topTable(ebayes.R3, coef=3, adjust="BH", sort.by="P", number=100, confint=TRUE)
+
+dt.R23                     <- decideTests(ebayes.R23)
+dt.R23[dt.R23 < 0]         <- 0
+dt.factor.R23              <- as.factor(dt.R23[,3])
+
+dt.factor.labels.R23       <- c("NonCilium","N.S.","Cilium")
+tt.R23                     <- topTable(ebayes.R23, coef=3, adjust="BH", sort.by="P", number=150, confint=TRUE)
+
+dt.filtered.R23                     <- decideTests(ebayes.filtered.R23)
+dt.factor.filtered.R23              <- as.factor(dt.filtered.R23[,3])
+dt.factor.labels.filtered.R23       <- c("NonCilium","N.S.","Cilium")
+tt.filtered.R23                     <- topTable(ebayes.filtered.R23, coef=3, adjust="BH", sort.by="P", number=100, confint=TRUE)
+
+dt.R123                     <- decideTests(ebayes.R123)
+dt.factor.R123              <- as.factor(dt.R123[,3])
+dt.factor.labels.R123       <- c("NonCilium","N.S.","Cilium")
+tt.R123                     <- topTable(ebayes.R123, coef=3, adjust="BH", sort.by="P", number=100, confint=TRUE)
+
+
+plotMD(ebayes.R3,column=3,status=dt.factor.labels.R3[dt.factor.R3],hl.cex=1,main="MD-plot, Cilium.vs.NonCilium, R3 (5% FDR)")
+plotMD(ebayes.R23,column=3,status=dt.factor.labels.R23[dt.factor.R23],hl.cex=1,main="MD-plot, Cilium.vs.NonCilium, R23 (5% FDR)")
+plotMD(ebayes.filtered.R23,column=3,status=dt.factor.labels.filtered.R23[dt.factor.filtered.R23],hl.cex=1,main="MD-plot, Cilium.vs.NonCilium, R23 filtered (5% FDR)")
+plotMD(ebayes.R123,column=3,status=dt.factor.labels.R123[dt.factor.R123],hl.cex=1,main="MD-plot, Cilium.vs.NonCilium, R123 (5% FDR)")
+```
+
+These results suggest R23 (including proteins present in at least two replicates in each condition, AKA "Tier 2") finds many more significant proteins than R3 (including proteins present in all three replicates in each condition, AKA "Tier 1"). Results with R123 (including proteins present in at least one replicate in both conditions, AKA "Tier 3") looked less good, fewer proteins marked significant and much noisier results, presumably reflecting a failure of the empirical Bayes moderation approach on single-replicate data. Filtering improved the SA plot but substantially reduced the results. We proceed with reporting the findings of the R23 dataset, which shows all proteins with at least two replicates in each of the two conditions.
+
+```{r results}
+summary(dt.R23)[,3]
+tt.R23$description <- str_extract(t(Both.SpC.R23[as.numeric(rownames(tt.R23)),1]),"MOUSE(.+)PE")
+write_xlsx(tt.R23[1:124,], path = "topTable.R23.FDR0.05.xlsx")
+```
+
+## Differentially Abundant Proteins in Biotin vs. NoBiotin 
+
+```{r results.nob}
+
+dt.NoB.R23                     <- decideTests(ebayes.NoB.R23)
+dt.NoB.factor.R23              <- as.factor(dt.NoB.R23[,3])
+dt.NoB.factor.labels.R23       <- c("NoBiotin","N.S.","Biotin")
+tt.NoB.R23                     <- topTable(ebayes.NoB.R23, coef=3, adjust="BH", sort.by="P", number=150, confint=TRUE)
+
+plotMD(ebayes.NoB.R23,column=3,status=dt.NoB.factor.labels.R23[dt.NoB.factor.R23],hl.cex=1,main="MD-plot, Biotin.vs.NoBiotin, R23 (5% FDR)")
+
+summary(dt.NoB.R23)[,3]
+tt.NoB.R23$description <- str_extract(t(Both.NoB.SpC.R23[as.numeric(rownames(tt.NoB.R23)),1]),"MOUSE(.+)PE")
+write_xlsx(tt.NoB.R23[1:27,], path = "topTable.NoB.R23.FDR0.05.xlsx")
+```
+
+## Pathway Analysis in Cilium vs. Non-Cilium 
+
+Gene sets were downloaded from http://bioinf.wehi.edu.au/software/MSigDB/ on May 21. 2019.
+
+```{r pathway}
+symbols      <- apply(Both.SpC.R23[,1],2,function (x) str_match(x,"GN=(\\w+)"))[1607:3212]
+mm           <- org.Mm.eg.db
+ids          <- select(mm, keys = symbols, columns = "ENTREZID", keytype = "SYMBOL")
+go.fisher    <- goana(ebayes.R23, coef=3, species="Mm", geneid=ids$ENTREZID)
+go.fisher$GOterms <- rownames(go.fisher)
+topgo.fisher.up <- topGO(go.fisher, sort = "up", number=3000)
+topgo.fisher.dn <- topGO(go.fisher, sort = "down", number=3000)
+write_xlsx(topgo.fisher.up, path = "topGO.up.R23.xlsx")
+write_xlsx(topgo.fisher.dn, path = "topGO.dn.R23.xlsx")
+```
+## Pathway Analysis in Biotin vs. NoBiotin 
+
+Gene sets were downloaded from http://bioinf.wehi.edu.au/software/MSigDB/ on May 21. 2019.
+
+```{r pathway.NoB}
+symbols.NoB      <- apply(Both.NoB.SpC.R23[,1],2,function (x) str_match(x,"GN=(\\w+)"))[1080:2158]
+mm               <- org.Mm.eg.db
+ids.NoB          <- select(mm, keys = symbols.NoB, columns = "ENTREZID", keytype = "SYMBOL")
+go.fisher.NoB    <- goana(ebayes.NoB.R23, coef=3, species="Mm", geneid=ids.NoB$ENTREZID)
+go.fisher.NoB$GOterms <- rownames(go.fisher.NoB)
+topgo.fisher.up.NoB <- topGO(go.fisher.NoB, sort = "up", number=3000)
+topgo.fisher.dn.NoB <- topGO(go.fisher.NoB, sort = "down", number=3000)
+write_xlsx(topgo.fisher.up.NoB, path = "topGO.up.R23.NoB.xlsx")
+write_xlsx(topgo.fisher.dn.NoB, path = "topGO.dn.R23.NoB.xlsx")
+```
+
+## Intersection of topTables for Cilium_vs_NonCilium and for Biotin_vs_NoBiotin
+
+There were only 24 significantly differentially abundant proteins between Biotin and NonBiotin.

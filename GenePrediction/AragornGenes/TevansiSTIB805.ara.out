@@ -1,0 +1,237 @@
+>STIB805_Chr01 | organism=Trypanosoma_evansi_strain_STIB_805 | version=2014-06-03 | length=1053171 | SO=chromosome
+0 genes found
+>STIB805_Chr02 | organism=Trypanosoma_evansi_strain_STIB_805 | version=2014-06-03 | length=1178500 | SO=chromosome
+1 genes found
+1   tRNA-Gln               [722967,723124]	100.1	102 	(ttg)i(31,69)
+acggaagtgggggaagcaaccctatagtgggctgcgagtgccaactccaagccgcctgaatatgtgatcccgcttgttgccgcaataactacctttccactttgttctattctggtagtaagtgacggcaagctggggatccttaccccgttttcttt
+(.(((((  ((((dddddd))))  (((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))        ...vvvv...    (((((ttttttt)))))))))).)
+>STIB805_Chr03 | organism=Trypanosoma_evansi_strain_STIB_805 | version=2014-06-03 | length=1628306 | SO=chromosome
+3 genes found
+1   tRNA-Ser             [1219727,1219809]	119.6	35  	(aga)
+tgtcaccatacccaagtggttacggggactgactagaaatcagttgcgatctcgcgcgcaggttcgaatcctgctggtgacgg
+((((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+2   tRNA-Leu            c[1220013,1220095]	115.5	35  	(caa)
+ggcaagatggccgagtggtctaaggcgggagactcaagttctcttctattcgtaggcgtgggttcaaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Ser            c[1220154,1220236]	119.6	35  	(cga)
+tgtcaccatacccaagtggttacggggactgactcgaaatcagttgcgatctcgcgcgcaggttcgaatcctgctggtgacgg
+((((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+>STIB805_Chr04 | organism=Trypanosoma_evansi_strain_STIB_805 | version=2014-06-03 | length=1566050 | SO=chromosome
+12 genes found
+1   tRNA-Pro              c[317183,317254]	124.4	33  	(cgg)
+ggccgtttggtctagtggcatgattcctgtttcgggtacaggaggccgcgggttcgattcccgcaacggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Thr               [323028,323099]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Tyr              c[323166,323250]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagtatgcgggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+4   tRNA-Val              c[839502,839575]	118.0	35  	(aac)
+gcgctgatggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgatcggcgta
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Leu              c[839638,839719]	119.8	36  	(tag)
+tggcggtgtggccgagtggtctaaggcgccagatttaggctctggtctctaggggcgtgggttcgaaccccaccaccgtcag
+((((((((  (((ddddddddddd)))((((((  AAA  ))))))          (((((ttttttt)))))))))))))
+6   tRNA-Met              c[839777,839850]	113.6	34  	(cat)
+gcgagcgtggcgcagtcggcagcgcgtgggtttcataatcccaaggtcgtgagttcgagcctcaccgatcgcac
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+7   tRNA-Glu              c[850275,850346]	118.5	34  	(ctc)
+tccggtgtggtatagtggctagaacaagcggctctcacccgctagacccgggttcgatccccggcaccggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+8   tRNA-Met               [850434,850507]	113.6	34  	(cat)
+gcgagcgtggcgcagtcggcagcgcgtgggtttcataatcccaaggtcgtgagttcgagcctcaccgatcgcac
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+9   tRNA-Ser              c[850549,850631]	117.3	35  	(tga)
+tgtcgacatacccaagtggttacggggtttgacttgaaatcaaatgcgatctcgcgcgcaggttcgaaccctgctgtcgacgg
+((((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+10  tRNA-Val               [850747,850820]	118.0	35  	(aac)
+gcgctgatggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgatcggcgta
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+11  tRNA-Leu            c[1275572,1275644]	113.6	34  	(caa)
+gcgcggttagtctagtggaaagtcactcgcactcaattagcgggagccccgggttcgattcccggactgcgcg
+(((((((  (.((ddddddd)).)  ((((.  AAA  .))))     (((((ttttttt))))))))))))
+12  tRNA-Val            c[1275713,1275788]	113.6	35  	(cac)
+tgcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcgatccccgcccgtcgtagc
+((((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+>STIB805_Chr05 | organism=Trypanosoma_evansi_strain_STIB_805 | version=2014-06-03 | length=1546486 | SO=chromosome
+2 genes found
+1   tRNA-Arg              c[128152,128224]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Glu               [862069,862140]	118.5	34  	(ctc)
+tccggtgtggtatagtggctagaacaagcggctctcacccgctagacccgggttcgatccccggcaccggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>STIB805_Chr06 | organism=Trypanosoma_evansi_strain_STIB_805 | version=2014-06-03 | length=1571453 | SO=chromosome
+0 genes found
+>STIB805_Chr07 | organism=Trypanosoma_evansi_strain_STIB_805 | version=2014-06-03 | length=2188853 | SO=chromosome
+9 genes found
+1   tRNA-Gly               [296731,296802]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgcac
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Ala            c[1875976,1876049]	109.1	34  	(agc)
+ggggatgtagctcagatggtagagcgcccgcttagcatgcgggaggtattgggatcgatacccaacttctccac
+(((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+3   tRNA-Ser            c[1876118,1876200]	123.0	35  	(gct)
+tgcaaacgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcgg
+((((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+4   tRNA-Asp             [1876276,1876348]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+5   tRNA-Asp            c[1879519,1879591]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+6   tRNA-Ser             [1879667,1879749]	123.0	35  	(gct)
+tgcaaacgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcgg
+((((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+7   tRNA-Ala             [1879818,1879891]	109.1	34  	(agc)
+ggggatgtagctcagatggtagagcgcccgcttagcatgcgggaggtattgggatcgatacccaacttctccac
+(((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+8   tRNA-Lys             [1896413,1896487]	122.8	35  	(ctt)
+tgcccttctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgagccccacggggggtgt
+((((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt)))))))))))))
+9   tRNA-Ala            c[2043039,2043111]	114.5	33  	(cgc)
+gggcgtgtagctcagtggtagagcatccgtttcgcatacggaaggcctagggtttgatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+>STIB805_Chr08 | organism=Trypanosoma_evansi_strain_STIB_805 | version=2014-06-03 | length=2439084 | SO=chromosome
+21 genes found
+1   tRNA-Lys               [656886,657067]	102.4	127 	(ttt)i(34,93)
+tttgtcgtggtggaacggaacgtttttgggtgtgatgactcggtatatcgaaaggataacaaactttgggagggtttgccccgtgggcaggcctgcgtgtttgtcgaatcgggcgacagggctgggtttatacccataggtagacttcaaggcctgcggaagttcaattccttcgacggacc
+(((((((  (.((ddddddddd)).)(((((  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiAAA  )))))  (((...vvvv...)))    ((.(ttttttt).)))))))))
+2   tRNA-Asn               [761699,761772]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+3   tRNA-Trp              c[761858,761931]	116.8	33  	(cca)
+gggggcttagctcagtggtagagcattggattccaaatccaggggtcgcaggttcaatccctgcagtcctcacc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Ile              c[822468,822543]	117.8	36  	(tat)
+tgctcccgtggtctagttggttaggacgttggtcttatgaaccgaatatcgcgggttcgaaccccgccgggagcat
+((((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+5   tRNA-Gln               [822637,822708]	124.9	34  	(ttg)
+ggtcctatagtgtagtggttatcacttcggactttgaatccgaaaacccaggttcgaatcctggtaggacca
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+6   tRNA-Val               [822765,822840]	110.0	35  	(tac)
+tgtgtgggtgatctagtggttatgatgtctgctttacacgcagaacgtcgcgggttcgaaccccgccccgcgtagc
+((((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+7   tRNA-Lys               [822909,822982]	122.8	34  	(ctt)
+gcccttctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgagccccacggggggtgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+8   tRNA-Gly               [826296,826368]	118.6	34  	(tcc)
+gcaatcgtggtccaacggttaagatttccgccttccaagcgggagacccgggttcgactcccggcgattgcac
+(((((((  (((dddddddddd)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+9   tRNA-Leu               [826454,826537]	117.1	36  	(cag)
+tggcaagatggtcgagtggtctaagacgtgacgttcaggtcgtcatctctccggaggcgtgggttcaaaccccactcttgtcaa
+((((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+10  tRNA-Thr              c[826620,826691]	120.5	33  	(tgt)
+ggcctcgtagcacagtggcagtgcactggtcttgtaaaccaggggtcccgagttcaattctcggcggggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+11  tRNA-Arg               [826788,826861]	121.1	34  	(tcg)
+cggtctcgtggcgcaatggaagcgcatcagacttcggatctgagggttgcaggttcgagtcctgccgggatcgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+12  tRNA-Lys               [829554,829627]	122.8	34  	(ctt)
+gcccttctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgagccccacggggggtgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+13  tRNA-Arg              c[829718,829791]	120.3	34  	(acg)
+cgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+14  tRNA-Cys            c[1021318,1021389]	122.6	33  	(gca)
+ggattcatagctcagtggtagagcattcggctgcagtccgaatggtccccggttcaaacccgggtgggtcct
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+15  tRNA-Cys             [1021530,1021601]	122.6	33  	(gca)
+ggattcatagctcagtggtagagcattcggctgcagtccgaatggtccccggttcaaacccgggtgggtcct
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+16  tRNA-Arg             [1554442,1554514]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+17  tRNA-Ile             [1858930,1859004]	119.6	35  	(aat)
+gctcctatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+18  tRNA-Leu            c[1859053,1859134]	113.0	36  	(taa)
+gctggggttcccgagttggtcaaaggggtgagacttaagttctcatgcggttgcttcgtgggttcgaaccccacccccagca
+(((((((  (((.dddddddddd.)))((((((  AAA  ))))))           (((((ttttttt))))))))))))
+19  tRNA-Gln            c[1859229,1859301]	120.2	34  	(ctg)
+gctcccatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtgggagtgc
+(((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+20  tRNA-Gln             [1859389,1859462]	120.2	35  	(ctg)
+cgctcccatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtgggagtgt
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+21  tRNA-Ile             [1859541,1859615]	119.6	35  	(aat)
+gctcctatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>STIB805_Chr09 | organism=Trypanosoma_evansi_strain_STIB_805 | version=2014-06-03 | length=2831150 | SO=chromosome
+3 genes found
+1   tRNA-SeC              c[444241,444328]	107.9	36  	(tca)
+gccacgatgagctcagctggtgctgggtgcgggcttcaaacccgtaggcgagttggactcgcagccgttcgattcggcctttgtggtg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+2   tRNA-SeC              c[448076,448163]	107.9	36  	(tca)
+gccacgatgagctcagctggtgctgggtgcgggcttcaaacccgtaggcgagttggactcgcagccgttcgattcggcctttgtggtg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+3   tRNA-Gly             [1956840,1956910]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+>STIB805_Chr10 | organism=Trypanosoma_evansi_strain_STIB_805 | version=2014-06-03 | length=4092028 | SO=chromosome
+12 genes found
+1   tRNA-Asn               [853002,853153]	100.0	112 	(gtt)i(31,80)
+tggttgctggatgaaggtggcatctttgctcacacacaggaggaacaaataaggctctggctgcatcgttatgtcccgcaagaggcatacacaaatggcagggatggagatgttgcgcaaagagacgcagattcaacttccgtgtatccatc
+(((.(((  ((((ddddddd))))((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))     ((.((ttttttt)).))))).)))
+2   tRNA-Gly             [1870122,1870192]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Pro             [1906596,1906667]	124.0	33  	(agg)
+ggcccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctgggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+4   tRNA-Thr             [1906728,1906800]	117.5	33  	(agt)
+ggccgcttagctcaatggcagagcgccgtcctagtaagacggaggtcgggggttcgatccccccagtggcctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Leu             [1910245,1910329]	116.7	36  	(aag)
+tggcgagatggtcgagtggtctaagacgttggattaaggttccaatccttccgagggcgtgggttcaaaccccactctcgtcagc
+((((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+6   tRNA-Met            c[1910390,1910461]	116.7	33  	(cat)
+agcaccgtggcgcaggggaagcgcgatgggctcataacccataggacgttggatcgaaaccaaccggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+7   tRNA-Pro             [1910534,1910605]	123.2	33  	(tgg)
+ggccgtttggtctagtggtatgattcctgctttgggtgcaggaggtcacgggttcaattcccgtaacggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+8   tRNA-Asn             [2626714,2626789]	118.7	35  	(gtt)
+ttcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagtc
+((((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt)))))))))))))
+9   tRNA-Ala            c[2626865,2626937]	113.6	33  	(tgc)
+gggcgtgtagctcagtggtagagagcctgttttgcatacaggaggcctagggttcaaacccctactcgtccac
+(((((.(  .(((ddddddd))). (((((  AAA  )))))     (((((ttttttt)))))).)))))
+10  tRNA-Arg             [2627040,2627113]	122.3	34  	(tct)
+gctccagtggcctaatggatatggctttggacttctaatccaaaggttgcgggttcgagtcccgtctggagtac
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+11  tRNA-Lys             [2627173,2627245]	125.9	33  	(ttt)
+gccttcctagctcagtggtagagcgcacggcttttaaccgtgtggtcgtgggttcgatccccacggaaggcgc
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+12  tRNA-Arg             [2627329,2627403]	119.0	35  	(cct)
+tgcccccgtagcccaatggataaggcgttcgcttcctaagcgaaagattgcgggttcgagtcccgccggaggtag
+((((.(((  (((dddddddddd))) (((((  AAA  )))))     (((((ttttttt)))))))).))))
+>STIB805_Chr11_01 | organism=Trypanosoma_evansi_strain_STIB_805 | version=2014-06-03 | length=4871559 | SO=chromosome
+7 genes found
+1   tRNA-Gly             [1869361,1869431]	121.6	33  	(ccc)
+gcgccgttggtctagtggcatgatggtaccctcccaaggtattgacccgggttcgattcccggacggcgca
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-His             [3444808,3444879]	120.7	33  	(gtg)
+gggaagatagttcagtggcagaacatcagattgtggctctgaatacccgggttcgattcccggtcttccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+3   tRNA-Glu             [3444940,3445011]	118.5	34  	(ttc)
+tccggtatagtataacggttagaacatctggctttcacccagaagatccgggttcgattcccggtaccggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+4   tRNA-Phe             [3445071,3445143]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Ala            c[3462561,3462632]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtcca
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+6   tRNA-Arg            c[3462698,3462771]	119.0	34  	(ccg)
+tgacgttgtggcgcaatggaagcgcgtcggattccggatccgaaggttgcgggttcgacccccgtcagcgttgg
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+7   tRNA-Phe             [3462881,3462953]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>STIB805_Chr11_02 | organism=Trypanosoma_evansi_strain_STIB_805 | version=2014-06-03 | length=250280 | SO=chromosome
+0 genes found
+>STIB805_Chr11_03 | organism=Trypanosoma_evansi_strain_STIB_805 | version=2014-06-03 | length=215240 | SO=chromosome
+0 genes found
+>end 	13 sequences 70 tRNA genes, nothing found in 4 sequences, (69.23% sensitivity)

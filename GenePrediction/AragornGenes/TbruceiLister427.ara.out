@@ -1,0 +1,281 @@
+>Tb427_01_v4 | organism=Trypanosoma_brucei_Lister_strain_427 | version=2010-10-20 | length=1064569 | SO=chromosome
+1 genes found
+1   tRNA-SeC              c[115679,115760]	100.1	28  	(tca)i(31,2)
+cgtgccttgggaagcgttccaagagtttcaataccttttctgatgtta.ggcagcaatcaaggttcaactcctcaagcatgg
+(((((.(  ((((ddd))))(((((  AAAii  )))))....(vvvv)....      .(((ttttttt))).).)))))
+>Tb427_02_v4 | organism=Trypanosoma_brucei_Lister_strain_427 | version=2010-10-20 | length=1194715 | SO=chromosome
+1 genes found
+1   tRNA-Gln               [724780,724937]	100.1	102 	(ttg)i(31,69)
+acggaagtgggggaagcaaccctatagtgggctgcgagtgccaactccaagccgcctgaatatgtgatcccgcttgttgccgcaataactacctt.ccactttgttctattctggtagtaagtgacggcaagctggggatccttaccccgttttcttt
+(.(((((  ((((dddddd))))  (((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))        ...vvvv...    (((((ttttttt)))))))))).)
+>Tb427_03_v4 | organism=Trypanosoma_brucei_Lister_strain_427 | version=2010-10-20 | length=1654840 | SO=chromosome
+3 genes found
+1   tRNA-Ser             [1234669,1234751]	119.6	35  	(aga)
+tgtcaccatacccaagtggttacggggactgactagaaatcagttgcgatctcgcgcgcaggttcgaatcctgctggtgacgg
+((((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+2   tRNA-Leu            c[1234955,1235037]	115.5	35  	(caa)
+ggcaagatggccgagtggtctaaggcgggagactcaagttctcttctattcgtaggcgtgggttcaaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Ser            c[1235096,1235178]	119.6	35  	(cga)
+tgtcaccatacccaagtggttacggggactgactcgaaatcagttgcgatctcgcgcgcaggttcgaatcctgctggtgacgg
+((((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+>Tb427_04_v4 | organism=Trypanosoma_brucei_Lister_strain_427 | version=2010-10-20 | length=1591669 | SO=chromosome
+12 genes found
+1   tRNA-Pro              c[318221,318292]	124.4	33  	(cgg)
+ggccgtttggtctagtggcatgattcctgtttcgggtacaggaggccgcgggttcgattcccgcaacggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Thr               [326262,326333]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Tyr              c[326400,326484]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagtatgcgggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+4   tRNA-Val              c[843140,843213]	118.0	35  	(aac)
+gcgctgatggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgatcggcgta
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Leu              c[843276,843357]	119.8	36  	(tag)
+tggcggtgtggccgagtggtctaaggcgccagatttaggctctggtctctaggggcgtgggttcgaaccccaccaccgtcag
+((((((((  (((ddddddddddd)))((((((  AAA  ))))))          (((((ttttttt)))))))))))))
+6   tRNA-Met              c[843415,843488]	113.6	34  	(cat)
+gcgagcgtggcgcagtcggcagcgcgtgggtttcataatcccaaggtcgtgagttcgagcctcaccgatcgcac
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+7   tRNA-Glu              c[861106,861177]	118.5	34  	(ctc)
+tccggtgtggtatagtggctagaacaagcggctctcacccgctagacccgggttcgatccccggcaccggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+8   tRNA-Met               [861265,861338]	113.6	34  	(cat)
+gcgagcgtggcgcagtcggcagcgcgtgggtttcataatcccaaggtcgtgagttcgagcctcaccgatcgcac
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+9   tRNA-Ser              c[861380,861462]	117.3	35  	(tga)
+tgtcgacatacccaagtggttacggggtttgacttgaaatcaaatgcgatctcgcgcgcaggttcgaaccctgctgtcgacgg
+((((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+10  tRNA-Val               [861579,861652]	118.0	35  	(aac)
+gcgctgatggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgatcggcgta
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+11  tRNA-Ser            c[1287901,1287973]	113.6	34  	(cga)
+gcgcggttagtctagtggaaagtcactcgcactcgattagcgggagccccgggttcgattcccggactgcgcg
+(((((((  (.((ddddddd)).)  ((((.  AAA  .))))     (((((ttttttt))))))))))))
+12  tRNA-Val            c[1288042,1288117]	113.6	35  	(cac)
+tgcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcgatccccgcccgtcgtagc
+((((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+>Tb427_05_v4 | organism=Trypanosoma_brucei_Lister_strain_427 | version=2010-10-20 | length=1609320 | SO=chromosome
+2 genes found
+1   tRNA-Arg              c[138671,138743]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Glu               [874784,874855]	118.5	34  	(ctc)
+tccggtgtggtatagtggctagaacaagcggctctcacccgctagacccgggttcgatccccggcaccggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>Tb427_06_v4 | organism=Trypanosoma_brucei_Lister_strain_427 | version=2010-10-20 | length=1619978 | SO=chromosome
+0 genes found
+>Tb427_07_v4 | organism=Trypanosoma_brucei_Lister_strain_427 | version=2010-10-20 | length=2206643 | SO=chromosome
+9 genes found
+1   tRNA-Gly               [301026,301097]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgcac
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Ala            c[1891395,1891468]	109.1	34  	(agc)
+ggggatgtagctcagatggtagagcgcccgcttagcatgcgggaggtattgggatcgatacccaacttctccac
+(((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+3   tRNA-Ser            c[1891537,1891619]	123.0	35  	(gct)
+tgcaaacgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcgg
+((((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+4   tRNA-Asp             [1891695,1891767]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+5   tRNA-Asp            c[1894937,1895009]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+6   tRNA-Ser             [1895085,1895167]	123.0	35  	(gct)
+tgcaaacgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcgg
+((((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+7   tRNA-Ala             [1895236,1895309]	109.1	34  	(agc)
+ggggatgtagctcagatggtagagcgcccgcttagcatgcgggaggtattgggatcgatacccaacttctccac
+(((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+8   tRNA-Lys             [1911829,1911903]	122.8	35  	(ctt)
+tgcccttctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgagccccacggggggtgt
+((((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt)))))))))))))
+9   tRNA-Ala            c[2060162,2060234]	114.5	33  	(cgc)
+gggcgtgtagctcagtggtagagcatccgtttcgcatacggaaggcctagggtttgatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+>Tb427_08_v4 | organism=Trypanosoma_brucei_Lister_strain_427 | version=2010-10-20 | length=2482252 | SO=chromosome
+21 genes found
+1   tRNA-Lys               [688574,688755]	102.4	127 	(ttt)i(34,93)
+tttgtcgtggtggaacggaacgtttttgggtgtgatgactcggtatatcgaaaggataacaaactttgggagggtttgccccgtgggcaggcctgcgtatttgtcgaatcgggcgacagggctgggtttatacccataggtagacttcaaggcctgcggaagttcaattccttcgacggacc
+(((((((  (.((ddddddddd)).)(((((  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiAAA  )))))  (((...vvvv...)))    ((.(ttttttt).)))))))))
+2   tRNA-Asn               [793621,793694]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+3   tRNA-Trp              c[793778,793851]	116.8	33  	(cca)
+gggggcttagctcagtggtagagcattggattccaaatccaggggtcgcaggttcaatccctgcagtcctcacc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Ile              c[854455,854530]	117.8	36  	(tat)
+tgctcccgtggtctagttggttaggacgttggtcttatgaaccgaatatcgcgggttcgaaccccgccgggagcat
+((((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+5   tRNA-Gln               [854624,854695]	124.9	34  	(ttg)
+ggtcctatagtgtagtggttatcacttcggactttgaatccgaaaacccaggttcgaatcctggtaggacca
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+6   tRNA-Val               [854752,854827]	111.3	35  	(tac)
+tgcgtgggtgatctagtggttatgatgtctgctttacacgcagaacgtcgcgggttcgaaccccgccccgcgtagc
+((((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+7   tRNA-Lys               [854896,854969]	122.8	34  	(ctt)
+gcccttctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgagccccacggggggtgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+8   tRNA-Gly               [858280,858352]	118.6	34  	(tcc)
+gcaatcgtggtccaacggttaagatttccgccttccaagcgggagacccgggttcgactcccggcgattgcac
+(((((((  (((dddddddddd)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+9   tRNA-Leu               [858438,858521]	117.1	36  	(cag)
+tggcaagatggtcgagtggtctaagacgtgacgttcaggtcgtcatctctccggaggcgtgggttcaaaccccactcttgtcaa
+((((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+10  tRNA-Thr              c[858604,858675]	120.5	33  	(tgt)
+ggcctcgtagcacagtggcagtgcactggtcttgtaaaccaggggtcccgagttcaattctcggcggggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+11  tRNA-Arg               [858773,858845]	121.1	33  	(tcg)
+ggtctcgtggcgcaatggaagcgcatcagacttcggatctgagggttgcaggttcgagtcctgccgggatcgc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+12  tRNA-Lys               [861539,861612]	122.8	34  	(ctt)
+gcccttctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgagccccacggggggtgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+13  tRNA-Arg              c[861701,861774]	120.3	34  	(acg)
+cgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+14  tRNA-Cys            c[1053555,1053626]	122.6	33  	(gca)
+ggattcatagctcagtggtagagcattcggctgcagtccgaatggtccccggttcaaacccgggtgggtcct
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+15  tRNA-Cys             [1053769,1053840]	122.6	33  	(gca)
+ggattcatagctcagtggtagagcattcggctgcagtccgaatggtccccggttcaaacccgggtgggtcct
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+16  tRNA-Arg             [1587915,1587987]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+17  tRNA-Ile             [1892527,1892601]	119.6	35  	(aat)
+gctcctatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+18  tRNA-Leu            c[1892650,1892731]	113.0	36  	(taa)
+gctggggttcccgagttggtcaaaggggtgagacttaagttctcatgcggttgcttcgtgggttcgaaccccacccccagca
+(((((((  (((.dddddddddd.)))((((((  AAA  ))))))           (((((ttttttt))))))))))))
+19  tRNA-Gln            c[1892826,1892898]	120.2	34  	(ctg)
+gctcccatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtgggagtgc
+(((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+20  tRNA-Gln             [1892988,1893060]	120.2	34  	(ctg)
+gctcccatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtgggagtgc
+(((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+21  tRNA-Ile             [1893139,1893213]	119.6	35  	(aat)
+gctcctatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>Tb427_09_v4 | organism=Trypanosoma_brucei_Lister_strain_427 | version=2010-10-20 | length=3058680 | SO=chromosome
+3 genes found
+1   tRNA-SeC              c[506266,506353]	107.9	36  	(tca)
+gccacgatgagctcagctggtgctgggtgcgggcttcaaacccgtaggcgagttggactcgcagccgttcgattcggcctttgtggtg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+2   tRNA-SeC              c[510102,510189]	107.9	36  	(tca)
+gccacgatgagctcagctggtgctgggtgcgggcttcaaacccgtaggcgagttggactcgcagccgttcgattcggcctttgtggtg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+3   tRNA-Gly             [2037729,2037799]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+>Tb427_10_v5 | organism=Trypanosoma_brucei_Lister_strain_427 | version=2010-10-20 | length=4145152 | SO=chromosome
+12 genes found
+1   tRNA-Asn               [870102,870253]	100.0	112 	(gtt)i(31,80)
+tggttgctggatgaaggtggcatctttgctcacacacaggaggaacaaataaggctctggct.catcgttatgtcccgcaagaggcatacacaaatggcagggatggagatgttgcgcaaagagacgcagattcaacttccgtgtatccatc
+(((.(((  ((((ddddddd))))((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))     ((.((ttttttt)).))))).)))
+2   tRNA-Gly             [1888916,1888986]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Pro             [1925407,1925478]	124.0	33  	(agg)
+ggcccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctgggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+4   tRNA-Thr             [1925539,1925611]	117.5	33  	(agt)
+ggccgcttagctcaatggcagagcgccgtcctagtaagacggaggtcgggggttcgatccccccagtggcctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Leu             [1929056,1929140]	116.7	36  	(aag)
+tggcgagatggtcgagtggtctaagacgttggattaaggttccaatccttccgagggcgtgggttcaaaccccactctcgtcaac
+((((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+6   tRNA-Met            c[1929201,1929272]	116.7	33  	(cat)
+agcaccgtggcgcaggggaagcgcgatgggctcataacccataggacgttggatcgaaaccaaccggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+7   tRNA-Pro             [1929345,1929416]	123.2	33  	(tgg)
+ggccgtttggtctagtggtatgattcctgctttgggtgcaggaggtcacgggttcaattcccgtaacggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+8   tRNA-Asn             [2647989,2648064]	118.7	35  	(gtt)
+ttcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagtc
+((((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt)))))))))))))
+9   tRNA-Ala            c[2648141,2648212]	116.6	33  	(tgc)
+gggcgtgtagctcagtggtagagcgcctgttttgcatacaggaggcctggggttcaaacccctactcgtcca
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+10  tRNA-Arg             [2648315,2648388]	122.3	34  	(tct)
+gctccagtggcctaatggatatggctttggacttctaatccaaaggttgcgggttcgagtcccgtctggagtac
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+11  tRNA-Lys             [2648448,2648520]	125.9	33  	(ttt)
+gccttcctagctcagtggtagagcgcacggcttttaaccgtgtggtcgtgggttcgatccccacggaaggcgc
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+12  tRNA-Arg             [2648604,2648678]	119.0	35  	(cct)
+tgcccccgtagcccaatggataaggcgttcgcttcctaagcgaaagattgcgggttcgagtcccgccggaggtag
+((((.(((  (((dddddddddd))) (((((  AAA  )))))     (((((ttttttt)))))))).))))
+>Tb427_11_01_v4 | organism=Trypanosoma_brucei_Lister_strain_427 | version=2010-10-20 | length=4977113 | SO=chromosome
+8 genes found
+1   tRNA-Gly             [1875324,1875394]	121.6	33  	(ccc)
+gcgccgttggtctagtggcatgatggtaccctcccaaggtattgacccgggttcgattcccggacggcgca
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-His             [3453053,3453124]	120.7	33  	(gtg)
+gggaagatagttcagtggcagaacatcagattgtggctctgaatacccgggttcgattcccggtcttccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+3   tRNA-Glu             [3453185,3453256]	118.5	34  	(ttc)
+tccggtatagtataacggttagaacatctggctttcacccagaagatccgggttcgattcccggtaccggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+4   tRNA-Phe             [3453316,3453388]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Ala            c[3470816,3470887]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtcca
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+6   tRNA-Arg            c[3470953,3471026]	119.0	34  	(ccg)
+tgacgttgtggcgcaatggaagcgcgtcggattccggatccgaaggttgcgggttcgacccccgtcagcgttgg
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+7   tRNA-Phe             [3471136,3471208]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+8   tRNA-Ile            c[4248003,4248173]	103.3	111 	(gat)i(30,81)
+ggtgctatggcgagggacacgatggcgttcttcttcagttgttatccatgctggtgaggtgggttgaccaatatgccttagacggctcggattactcggagattccggaggatgttgccgcgggagtggagcttgtgatgtttctcccggggtcactcctcgctagcactg
+(((((((  (.(ddddd).)  (((((  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiAAA  )))))    ((.(vvvvvvvvvvvvv).)) .((((ttttttt)))).)))))))
+>TP13J3 | organism=Trypanosoma_brucei_Lister_strain_427 | version=2010-10-20 | length=58506 | SO=contig
+0 genes found
+>TPH25N7 | organism=Trypanosoma_brucei_Lister_strain_427 | version=2010-10-20 | length=124904 | SO=contig
+0 genes found
+>TPN19B2 | organism=Trypanosoma_brucei_Lister_strain_427 | version=2010-10-20 | length=137759 | SO=contig
+0 genes found
+>Tb427_telo10_v1 | organism=Trypanosoma_brucei_Lister_strain_427 | version=2010-10-20 | length=33837 | SO=contig
+0 genes found
+>Tb427_telo122_v2 | organism=Trypanosoma_brucei_Lister_strain_427 | version=2010-10-20 | length=51641 | SO=contig
+0 genes found
+>Tb427_telo126_v2 | organism=Trypanosoma_brucei_Lister_strain_427 | version=2010-10-20 | length=57977 | SO=contig
+0 genes found
+>Tb427_telo129_v2 | organism=Trypanosoma_brucei_Lister_strain_427 | version=2010-10-20 | length=51758 | SO=contig
+0 genes found
+>Tb427_telo134_v1 | organism=Trypanosoma_brucei_Lister_strain_427 | version=2010-10-20 | length=27993 | SO=contig
+0 genes found
+>Tb427_telo153_v2 | organism=Trypanosoma_brucei_Lister_strain_427 | version=2010-10-20 | length=56877 | SO=contig
+0 genes found
+>Tb427_telo15_v2 | organism=Trypanosoma_brucei_Lister_strain_427 | version=2010-10-20 | length=47323 | SO=contig
+0 genes found
+>Tb427_telo28_v2 | organism=Trypanosoma_brucei_Lister_strain_427 | version=2010-10-20 | length=52395 | SO=contig
+0 genes found
+>Tb427_telo29_v3 | organism=Trypanosoma_brucei_Lister_strain_427 | version=2010-10-20 | length=41544 | SO=contig
+0 genes found
+>Tb427_telo3_v2 | organism=Trypanosoma_brucei_Lister_strain_427 | version=2010-10-20 | length=49826 | SO=contig
+0 genes found
+>Tb427_telo40_v2 | organism=Trypanosoma_brucei_Lister_strain_427 | version=2010-10-20 | length=59781 | SO=contig
+0 genes found
+>Tb427_telo4_v3 | organism=Trypanosoma_brucei_Lister_strain_427 | version=2010-10-20 | length=36006 | SO=contig
+0 genes found
+>Tb427_telo51_v2 | organism=Trypanosoma_brucei_Lister_strain_427 | version=2010-10-20 | length=53048 | SO=contig
+0 genes found
+>Tb427_telo56_v2 | organism=Trypanosoma_brucei_Lister_strain_427 | version=2010-10-20 | length=51854 | SO=contig
+0 genes found
+>Tb427_telo59_v2 | organism=Trypanosoma_brucei_Lister_strain_427 | version=2010-10-20 | length=53474 | SO=contig
+0 genes found
+>Tb427_telo64_v1 | organism=Trypanosoma_brucei_Lister_strain_427 | version=2010-10-20 | length=10534 | SO=contig
+0 genes found
+>Tb427_telo65_v2 | organism=Trypanosoma_brucei_Lister_strain_427 | version=2010-10-20 | length=50386 | SO=contig
+0 genes found
+>Tb427_telo98_v2 | organism=Trypanosoma_brucei_Lister_strain_427 | version=2010-10-20 | length=42054 | SO=contig
+0 genes found
+>end 	32 sequences 72 tRNA genes, nothing found in 22 sequences, (31.25% sensitivity)

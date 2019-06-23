@@ -1,0 +1,1330 @@
+>Baya_001 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=403634 | SO=contig
+4 genes found
+1   tRNA-Thr              c[147913,147984]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Gly              c[148046,148116]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Ala               [212366,212438]	108.3	34  	(agc)
+ggggatgtagctcaaatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctcca
+(((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+4   tRNA-Ser              c[212478,212558]	119.6	34  	(aga)
+gtcaccatacccaagtggttacggggactgactagaaatcagttgcgatctcgcgcgcaggttcgaatcctgctggtgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>Baya_002 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=373039 | SO=contig
+3 genes found
+1   tRNA-Lys              c[215630,215703]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Lys               [215775,215848]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+3   tRNA-Thr              c[309139,309211]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>Baya_003 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=325018 | SO=contig
+0 genes found
+>Baya_004 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=320169 | SO=contig
+1 genes found
+1   tRNA-Arg               [173556,173714]	100.3	29  	(cct)i(31,91)
+gcgaggtgggccgttcgaatcggaggctccgtcgtgacgcgatgaacttcttttctgtgggcgatattttcactattgccgatttacctggttatggtggcacatctttgccctggtcaactgttctccaacatgcggtgctactccgcaacttcgtac
+((((((( ((.ddddddd.))(((((  AAiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiA  )))))    (((((ttttttt))))))))))))
+>Baya_005 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=315356 | SO=contig
+0 genes found
+>Baya_006 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=298190 | SO=contig
+0 genes found
+>Baya_007 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=293961 | SO=contig
+0 genes found
+>Baya_008 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=249378 | SO=contig
+0 genes found
+>Baya_009 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=237441 | SO=contig
+0 genes found
+>Baya_010 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=226470 | SO=contig
+0 genes found
+>Baya_011 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=224625 | SO=contig
+0 genes found
+>Baya_012 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=216221 | SO=contig
+0 genes found
+>Baya_013 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=212936 | SO=contig
+0 genes found
+>Baya_014 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=206655 | SO=contig
+0 genes found
+>Baya_015 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=205988 | SO=contig
+0 genes found
+>Baya_016 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=204656 | SO=contig
+0 genes found
+>Baya_017 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=197559 | SO=contig
+1 genes found
+1   tRNA-Pro                   [7232,7303]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>Baya_018 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=189071 | SO=contig
+0 genes found
+>Baya_019 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=187318 | SO=contig
+0 genes found
+>Baya_020 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=181874 | SO=contig
+0 genes found
+>Baya_021 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=181728 | SO=contig
+1 genes found
+1   tRNA-Lys                 [68911,68984]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>Baya_022 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=180453 | SO=contig
+2 genes found
+1   tRNA-Thr                 [56667,56738]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Asn                 [56815,56888]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>Baya_023 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=176888 | SO=contig
+3 genes found
+1   tRNA-Phe               [107701,107773]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Ser              c[107810,107893]	119.6	35  	(aga)
+tgtcaccatacccaagtggttacggggactgactagaaatcagttgcgatctcgcgcgcaggttcgaatcctgctggtgacgac
+((((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+3   tRNA-Ile              c[107949,108023]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>Baya_024 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=176695 | SO=contig
+1 genes found
+1   tRNA-Lys                     [139,212]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>Baya_025 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=174217 | SO=contig
+1 genes found
+1   tRNA-Ser                     [125,205]	123.0	34  	(gct)
+gcaaacgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcg
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>Baya_026 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=172369 | SO=contig
+0 genes found
+>Baya_027 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=160272 | SO=contig
+0 genes found
+>Baya_028 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=158703 | SO=contig
+1 genes found
+1   tRNA-Ala              c[149216,149357]	103.9	82  	(ggc)i(34,46)
+gtggtcgtagtggggggagctatcacagcccttggctcaccataagagtgctcactaattatgtgccatctgcagatgactggccgagggggattggaggaaagcattccaatagaggttgttcgagaccacctagccccac
+(.(((.(  ((((ddddddddd))))  (((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))                         (((.(ttttttt).)))).))).)
+>Baya_029 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=156817 | SO=contig
+2 genes found
+1   tRNA-Leu              c[122992,123074]	116.3	35  	(cag)
+ggcaagatggtcgagtggtccaagacgttacgttcaggtcgtaatctcccctggaggcgtgggttcaaaccccactcttgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+2   tRNA-Met               [123149,123220]	116.7	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaaccggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>Baya_030 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=149558 | SO=contig
+1 genes found
+1   tRNA-Phe               [127843,127922]	101.1	37  	(gaa)
+cgctgtacttgtgaacagcagagttacactgggcctgaaaggccccgtccacctcgtggttcgtgtccatgtgctgtatc
+.((.(((   ((((ddddddddd)))) (.((((  AAA  )))).)       (((((ttttttt)))))))).)).
+>Baya_031 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=147508 | SO=contig
+0 genes found
+>Baya_032 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=145527 | SO=contig
+0 genes found
+>Baya_033 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=144987 | SO=contig
+0 genes found
+>Baya_034 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=140871 | SO=contig
+0 genes found
+>Baya_035 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=139983 | SO=contig
+0 genes found
+>Baya_036 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=139781 | SO=contig
+0 genes found
+>Baya_037 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=137008 | SO=contig
+0 genes found
+>Baya_038 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=136071 | SO=contig
+0 genes found
+>Baya_039 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=134234 | SO=contig
+0 genes found
+>Baya_040 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=133998 | SO=contig
+0 genes found
+>Baya_041 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=133621 | SO=contig
+0 genes found
+>Baya_042 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=132850 | SO=contig
+0 genes found
+>Baya_043 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=128594 | SO=contig
+0 genes found
+>Baya_044 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=127517 | SO=contig
+0 genes found
+>Baya_045 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=127403 | SO=contig
+0 genes found
+>Baya_046 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=124886 | SO=contig
+0 genes found
+>Baya_047 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=124702 | SO=contig
+0 genes found
+>Baya_048 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=122611 | SO=contig
+0 genes found
+>Baya_049 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=117334 | SO=contig
+0 genes found
+>Baya_050 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=112056 | SO=contig
+0 genes found
+>Baya_051 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=111955 | SO=contig
+0 genes found
+>Baya_052 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=111566 | SO=contig
+1 genes found
+1   tRNA-Ser                  c[3934,4134]	104.6	35  	(tga)i(39,104)
+tggcggaagagtggcgtggcaccagagatgcccttgaggcggaccagcaactggaggaagaggtggaggcgctgtattggaagtcctccctaacccatcctgcgcacctctttacagacgaggcgtctatcctgcatgtattcggcatgggtgggtacatatcgcctgctgtgtcggggttccacggcctgttccgccagc
+((((((((  .(((ddddddd))).  (((((  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii )))))     ((((..vvvvv..))))    ((((.ttttttt.))))))))))))
+>Baya_053 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=110159 | SO=contig
+0 genes found
+>Baya_054 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=108945 | SO=contig
+0 genes found
+>Baya_055 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=108618 | SO=contig
+0 genes found
+>Baya_056 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=108468 | SO=contig
+0 genes found
+>Baya_057 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=108023 | SO=contig
+0 genes found
+>Baya_058 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=107163 | SO=contig
+0 genes found
+>Baya_059 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=106268 | SO=contig
+3 genes found
+1   tRNA-Gln                 [43649,43722]	118.3	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcaagtccaggtaggagtgt
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+2   tRNA-Pro                 [43776,43847]	124.4	33  	(cgg)
+ggccgcttggtctagtggtatgattcccgcttcgggtgcgggaggtcacgggttcaattcccgtagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+3   tRNA-Leu                 [43907,43988]	111.0	36  	(taa)
+gctggggttcccgagttggtcaaaggggtaagacttaagttcttatgcgtgagcttcgtgggttcgaaccccacctccagca
+(((((((  (((.dddddddddd.)))((((((  AAA  ))))))           (((((ttttttt))))))))))))
+>Baya_060 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=105954 | SO=contig
+0 genes found
+>Baya_061 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=105718 | SO=contig
+0 genes found
+>Baya_062 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=105509 | SO=contig
+2 genes found
+1   tRNA-Cys                   [5414,5485]	122.6	33  	(gca)
+ggattcatagctcagtggtagagcattcggctgcagtccgaatggtccccggttcaaacccgggtgggtcct
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Pro                  c[5542,5613]	122.1	33  	(tgg)
+ggtcgtttggtctagtggtatgattcctgttttgggtacaggaggtcacgggttcaattcccgtaacgaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>Baya_063 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=103635 | SO=contig
+0 genes found
+>Baya_064 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=101042 | SO=contig
+0 genes found
+>Baya_065 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=100808 | SO=contig
+6 genes found
+1   tRNA-Leu                c[99870,99949]	119.8	35  	(tag)
+ggcggagtggccgagtggtctaaggcgccagatttaggctctggtctttcgaggcgtgggttcgaaccccacctccgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))          (((((ttttttt))))))))))))
+2   tRNA-Ser               [100023,100103]	117.3	34  	(tga)
+gtcagcatacccaagtggttacggggtttgacttgaaatcaaatgcgatctcgcgcgcaggttcgaaccctgctgctgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Met              c[100170,100242]	113.6	34  	(cat)
+gcgagcgtggcgcagtcggcagcgcgtgggtttcataatcccaaggtcgtgagttcgagcctcaccgatcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+4   tRNA-Ile              c[100308,100382]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Val              c[100438,100512]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Tyr               [100589,100672]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagctagcaggtatcacagggtcgctggttcgattccggccggaagga
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+>Baya_066 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=100321 | SO=contig
+1 genes found
+1   tRNA-Val                 [13500,13627]	101.7	68  	(cac)i(27,41)
+tcgctcgtggcgcagggcggtgggctggagcactatccggtccagtacacagtggccctcaatcacgcacgacccgctgacgccgatacgacaaggtggcagcagccattccacgtggctcgggtgag
+(((((((  ((.ddd.)) (((((  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiAAA  ))))) (.((.vvvv.)).)           (((((ttttttt))))))))))))
+>Baya_067 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=99397 | SO=contig
+0 genes found
+>Baya_068 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=99321 | SO=contig
+0 genes found
+>Baya_069 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=98187 | SO=contig
+0 genes found
+>Baya_070 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=98065 | SO=contig
+0 genes found
+>Baya_071 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=96521 | SO=contig
+0 genes found
+>Baya_072 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=96507 | SO=contig
+0 genes found
+>Baya_073 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=95968 | SO=contig
+1 genes found
+1   tRNA-Cys                 [60906,60977]	122.6	33  	(gca)
+ggattcatagctcagtggtagagcattcggctgcagtccgaatggtccccggttcaaacccgggtgggtcct
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>Baya_074 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=94895 | SO=contig
+2 genes found
+1   tRNA-Ser                 [41864,41944]	118.3	34  	(cga)
+gtcactatacccaagtggttacgggggttgactcgaaatcaactgcgatctcgcgcgcaggttcgaatcctgctggtgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Leu                 [42003,42085]	117.8	35  	(caa)
+ggcaggatggccgagtggtctaaggcgggagactcaagttctcttctattcgtaggcgcgggttcgaaccccgctcctgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>Baya_075 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=94849 | SO=contig
+0 genes found
+>Baya_076 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=93652 | SO=contig
+1 genes found
+1   tRNA-Arg                 [93159,93232]	119.6	34  	(acg)
+cgtccgtgtggctcaatggaagagcatttgactacggatcaaagggttgcaggttcgaatcctgtcacggatgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+>Baya_077 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=92316 | SO=contig
+2 genes found
+1   tRNA-Ala                c[91163,91235]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+2   tRNA-Gly                 [91397,91469]	121.6	34  	(ccc)
+tgcgccgttggtctagtggcatgatggtaccctcccaaggtattgacccgggttcgattcccggacggcgcat
+((((((((  (((.ddddddd.)))((((((  AAA  ))))))   (((((ttttttt)))))))))))))
+>Baya_078 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=90543 | SO=contig
+0 genes found
+>Baya_079 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=89042 | SO=contig
+0 genes found
+>Baya_080 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=88707 | SO=contig
+0 genes found
+>Baya_081 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=88581 | SO=contig
+0 genes found
+>Baya_082 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=87340 | SO=contig
+0 genes found
+>Baya_083 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=82747 | SO=contig
+0 genes found
+>Baya_084 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=82149 | SO=contig
+0 genes found
+>Baya_085 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=81720 | SO=contig
+0 genes found
+>Baya_086 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=80825 | SO=contig
+0 genes found
+>Baya_087 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=80291 | SO=contig
+1 genes found
+1   tRNA-SeC                 [51747,51834]	110.9	36  	(tca)
+gccacaatgacctcagctggtgctgggcgcgggcttcaaacccgtgggtgagctgcgctcacagccgttcgattcggcctttgtggcg
+(((((((.(  ((((((dddd))))))((((((  AAA  )))))) (((((vvvvv))))) ((((ttttttt))))).)))))))
+>Baya_088 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=79998 | SO=contig
+0 genes found
+>Baya_089 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=78933 | SO=contig
+0 genes found
+>Baya_090 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=78843 | SO=contig
+0 genes found
+>Baya_091 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=78783 | SO=contig
+0 genes found
+>Baya_092 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=77458 | SO=contig
+0 genes found
+>Baya_093 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=76456 | SO=contig
+0 genes found
+>Baya_094 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=75928 | SO=contig
+1 genes found
+1   tRNA-Gly                c[13471,13566]	105.2	38  	(gcc)
+ggttggggtggggagagggaggcattccatcatccacgcctcgggtcaggccccggtccgggcctgaaagcgcgggttcgactcctgccacaacca
+(((((.(   ((((dddddddddd))))  .((((  AAA  )))).((((((vvvvvv))))))      (((((ttttttt)))))).)))))
+>Baya_095 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=74541 | SO=contig
+0 genes found
+>Baya_096 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=72956 | SO=contig
+0 genes found
+>Baya_097 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=72811 | SO=contig
+0 genes found
+>Baya_098 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=72608 | SO=contig
+0 genes found
+>Baya_099 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=72085 | SO=contig
+0 genes found
+>Baya_100 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=71872 | SO=contig
+0 genes found
+>Baya_101 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=71064 | SO=contig
+0 genes found
+>Baya_102 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=70890 | SO=contig
+0 genes found
+>Baya_103 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=69579 | SO=contig
+0 genes found
+>Baya_104 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=68755 | SO=contig
+6 genes found
+1   tRNA-Arg                c[66987,67059]	119.8	34  	(cct)
+gcccttgtagcctaatggataaggcgtttgcttcctaagcaaaaaattgcgggttcgagtcccgtcaggggta
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Lys                c[67115,67187]	126.3	33  	(ttt)
+gctgccctagctcagtggtagagcgctcggcttttaaccgagtggtcgtgggttcgacccccacgggcagcgc
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+3   tRNA-Ala                c[67605,67678]	117.5	34  	(tgc)
+tgggcgtgtagctcagtggtagagcgcctgttttgcatacaggaggcctagggttcaatcccctactcgtccag
+((((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+4   tRNA-Arg                 [68252,68324]	124.5	34  	(tct)
+gctccagtggcctaatggataaggctttggacttctaatccaaagattgcgggttcgagtcccgtctggagta
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+5   tRNA-Glu                 [68382,68453]	118.5	34  	(ctc)
+tccggtgtggtatagtggctagaacaagcggctctcacccgctagacccgggttcgatccccggcaccggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+6   tRNA-Asn                c[68511,68583]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggag
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>Baya_105 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=68458 | SO=contig
+0 genes found
+>Baya_106 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=67684 | SO=contig
+0 genes found
+>Baya_107 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=67426 | SO=contig
+0 genes found
+>Baya_108 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=67015 | SO=contig
+0 genes found
+>Baya_109 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=66676 | SO=contig
+0 genes found
+>Baya_110 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=65220 | SO=contig
+0 genes found
+>Baya_111 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=64162 | SO=contig
+0 genes found
+>Baya_112 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=63676 | SO=contig
+0 genes found
+>Baya_113 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=63054 | SO=contig
+0 genes found
+>Baya_114 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=62569 | SO=contig
+0 genes found
+>Baya_115 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=60765 | SO=contig
+0 genes found
+>Baya_116 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=60713 | SO=contig
+0 genes found
+>Baya_117 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=60467 | SO=contig
+0 genes found
+>Baya_118 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=60102 | SO=contig
+1 genes found
+1   tRNA-???                c[37483,37575]	101.3	36  	(gc) 
+gccgtttgtggatggtattgcagagctccgtggccgctgccacgggtggtggttttgaggcagccgctgttggtggtatgccggcaaagggtc
+(((.(((   (.(dddddddddd).)  (((((  AA  ))))) (((((.(((vvvv))).))))) (((((ttttttt)))))))).)))
+>Baya_119 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=59393 | SO=contig
+0 genes found
+>Baya_120 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=58844 | SO=contig
+0 genes found
+>Baya_121 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=58456 | SO=contig
+0 genes found
+>Baya_122 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=57672 | SO=contig
+0 genes found
+>Baya_123 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=57614 | SO=contig
+0 genes found
+>Baya_124 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=56781 | SO=contig
+0 genes found
+>Baya_125 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=56534 | SO=contig
+0 genes found
+>Baya_126 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=55142 | SO=contig
+0 genes found
+>Baya_127 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=54743 | SO=contig
+0 genes found
+>Baya_128 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=54727 | SO=contig
+0 genes found
+>Baya_129 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=54685 | SO=contig
+0 genes found
+>Baya_130 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=54547 | SO=contig
+1 genes found
+1   tRNA-Arg                 [22347,22421]	119.6	34  	(acg)
+tgtccgtgtggctcaatggaagagcatttgactacggatcaaagggttgcaggttcgaatcctgtcacggatgac
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+>Baya_131 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=53721 | SO=contig
+0 genes found
+>Baya_132 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=53328 | SO=contig
+0 genes found
+>Baya_133 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=53111 | SO=contig
+0 genes found
+>Baya_134 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=52837 | SO=contig
+0 genes found
+>Baya_135 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=52313 | SO=contig
+0 genes found
+>Baya_136 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=51782 | SO=contig
+0 genes found
+>Baya_137 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=51377 | SO=contig
+0 genes found
+>Baya_138 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=50828 | SO=contig
+1 genes found
+1   tRNA-Gln                c[42423,42565]	100.7	84  	(ctg)i(32,50)
+gtgtggtttctccttgttgaggaggaagagggcataccgtgtctttccctgcggcggctgtgctgcaaggcacgtgctgtgctctgtccctctgaagtggaacctcacgttctgctgcttctggtggcttccagaaccgcact
+(((((((  ((((ddddddd))))  (((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))                          (((((tttttt))))))))))))
+>Baya_139 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=50429 | SO=contig
+0 genes found
+>Baya_140 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=50119 | SO=contig
+0 genes found
+>Baya_141 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=49952 | SO=contig
+0 genes found
+>Baya_142 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=49369 | SO=contig
+0 genes found
+>Baya_143 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=48683 | SO=contig
+0 genes found
+>Baya_144 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=48047 | SO=contig
+0 genes found
+>Baya_145 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=47033 | SO=contig
+0 genes found
+>Baya_146 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=46911 | SO=contig
+0 genes found
+>Baya_147 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=46721 | SO=contig
+0 genes found
+>Baya_148 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=46304 | SO=contig
+0 genes found
+>Baya_149 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=46070 | SO=contig
+0 genes found
+>Baya_150 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=45649 | SO=contig
+0 genes found
+>Baya_151 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=43901 | SO=contig
+0 genes found
+>Baya_152 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=43553 | SO=contig
+0 genes found
+>Baya_153 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=42696 | SO=contig
+0 genes found
+>Baya_154 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=41960 | SO=contig
+0 genes found
+>Baya_155 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=41513 | SO=contig
+0 genes found
+>Baya_156 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=41227 | SO=contig
+0 genes found
+>Baya_157 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=41213 | SO=contig
+0 genes found
+>Baya_158 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=41041 | SO=contig
+0 genes found
+>Baya_159 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=40864 | SO=contig
+0 genes found
+>Baya_160 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=40626 | SO=contig
+0 genes found
+>Baya_161 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=39452 | SO=contig
+0 genes found
+>Baya_162 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=39446 | SO=contig
+1 genes found
+1   tRNA-Ala                     [132,206]	108.3	35  	(agc)
+tggggatgtagctcaaatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctccag
+((((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+>Baya_163 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=39263 | SO=contig
+0 genes found
+>Baya_164 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=39210 | SO=contig
+0 genes found
+>Baya_165 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=38012 | SO=contig
+0 genes found
+>Baya_166 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=36444 | SO=contig
+0 genes found
+>Baya_167 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=36410 | SO=contig
+0 genes found
+>Baya_168 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=35972 | SO=contig
+2 genes found
+1   tRNA-Leu                    c[154,236]	116.3	35  	(cag)
+ggcaagatggtcgagtggtctaagacgttacgttcaggtcgtaatctcccctggaggcgtgggttcaaaccccactcttgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+2   tRNA-Met                     [310,381]	116.7	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaaccggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>Baya_169 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=35894 | SO=contig
+0 genes found
+>Baya_170 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=35658 | SO=contig
+0 genes found
+>Baya_171 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=34839 | SO=contig
+0 genes found
+>Baya_172 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=34357 | SO=contig
+0 genes found
+>Baya_173 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=34333 | SO=contig
+0 genes found
+>Baya_174 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=34324 | SO=contig
+0 genes found
+>Baya_175 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=34055 | SO=contig
+0 genes found
+>Baya_176 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=33922 | SO=contig
+0 genes found
+>Baya_177 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=33891 | SO=contig
+0 genes found
+>Baya_178 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=33741 | SO=contig
+1 genes found
+1   tRNA-Gly                     c[80,150]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+>Baya_179 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=33421 | SO=contig
+0 genes found
+>Baya_180 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=33166 | SO=contig
+0 genes found
+>Baya_181 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=33052 | SO=contig
+0 genes found
+>Baya_182 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=32932 | SO=contig
+0 genes found
+>Baya_183 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=32916 | SO=contig
+0 genes found
+>Baya_184 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=32798 | SO=contig
+0 genes found
+>Baya_185 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=32554 | SO=contig
+0 genes found
+>Baya_186 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=32555 | SO=contig
+0 genes found
+>Baya_187 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=32068 | SO=contig
+0 genes found
+>Baya_188 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=31773 | SO=contig
+0 genes found
+>Baya_189 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=31594 | SO=contig
+0 genes found
+>Baya_190 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=31525 | SO=contig
+0 genes found
+>Baya_191 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=31490 | SO=contig
+0 genes found
+>Baya_192 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=31269 | SO=contig
+0 genes found
+>Baya_193 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=30905 | SO=contig
+0 genes found
+>Baya_194 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=30727 | SO=contig
+0 genes found
+>Baya_195 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=30539 | SO=contig
+1 genes found
+1   tRNA-His                c[15158,15325]	100.8	110 	(atg)i(35,73)
+gcggagaatacgtggcggctgaccactcgccacctctgcaccgcccatggacgtcatcgcgtccgccttcacatgcaggacctttggttctgacacgccagatggacctatggcggtggcggcagcgagctccgctggccccatggcttcgagtgccgtgttccgcgc
+((((((.   ((.(ddddddddddd).))(((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  ))))).(.vvvvvvvvvvvvvvv.).  (((((ttttttt))))).))))))
+>Baya_196 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=29437 | SO=contig
+0 genes found
+>Baya_197 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=29002 | SO=contig
+0 genes found
+>Baya_198 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=28957 | SO=contig
+0 genes found
+>Baya_199 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=28568 | SO=contig
+0 genes found
+>Baya_200 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=27940 | SO=contig
+0 genes found
+>Baya_201 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=27590 | SO=contig
+0 genes found
+>Baya_202 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=27370 | SO=contig
+0 genes found
+>Baya_203 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=27336 | SO=contig
+0 genes found
+>Baya_204 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=27293 | SO=contig
+0 genes found
+>Baya_205 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=27040 | SO=contig
+0 genes found
+>Baya_206 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=27035 | SO=contig
+0 genes found
+>Baya_207 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=26541 | SO=contig
+0 genes found
+>Baya_208 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=26170 | SO=contig
+0 genes found
+>Baya_209 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=25974 | SO=contig
+0 genes found
+>Baya_210 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=25788 | SO=contig
+0 genes found
+>Baya_211 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=25772 | SO=contig
+0 genes found
+>Baya_212 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=24965 | SO=contig
+0 genes found
+>Baya_213 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=23923 | SO=contig
+0 genes found
+>Baya_214 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=23823 | SO=contig
+0 genes found
+>Baya_215 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=23646 | SO=contig
+0 genes found
+>Baya_216 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=23122 | SO=contig
+0 genes found
+>Baya_217 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=22435 | SO=contig
+0 genes found
+>Baya_218 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=22384 | SO=contig
+0 genes found
+>Baya_219 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=21970 | SO=contig
+0 genes found
+>Baya_220 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=21831 | SO=contig
+0 genes found
+>Baya_221 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=21543 | SO=contig
+0 genes found
+>Baya_222 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=21132 | SO=contig
+0 genes found
+>Baya_223 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=21036 | SO=contig
+0 genes found
+>Baya_224 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=20904 | SO=contig
+0 genes found
+>Baya_225 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=20793 | SO=contig
+0 genes found
+>Baya_226 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=20646 | SO=contig
+0 genes found
+>Baya_227 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=20639 | SO=contig
+0 genes found
+>Baya_228 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=20631 | SO=contig
+1 genes found
+1   tRNA-Val                     c[92,166]	113.6	35  	(cac)
+tgcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcgatccccgcccgtcgtat
+((((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+>Baya_229 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=20583 | SO=contig
+0 genes found
+>Baya_230 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=20556 | SO=contig
+0 genes found
+>Baya_231 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=20426 | SO=contig
+0 genes found
+>Baya_232 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=20244 | SO=contig
+0 genes found
+>Baya_233 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=19974 | SO=contig
+0 genes found
+>Baya_234 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=19914 | SO=contig
+0 genes found
+>Baya_235 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=19880 | SO=contig
+0 genes found
+>Baya_236 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=19795 | SO=contig
+0 genes found
+>Baya_237 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=19775 | SO=contig
+9 genes found
+1   tRNA-Ile                c[17791,17864]	118.1	35  	(tat)
+gctcctgtggtctagttggttaggacgctggtcttatgaaccggatatcgcgggttcgagccccgccaggagca
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Thr                c[18258,18329]	120.1	33  	(tgt)
+ggcctcatagcacagtggcagtgcactggtcttgtaaaccaggggtcccgagttcaattctcggtggggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Arg                 [18403,18476]	122.0	34  	(tcg)
+tgatctcgtggcgcaatggaagcgcatcagacttcggatctgagggttgcaggttcgagtcctgccgggatcgg
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+4   tRNA-Leu                 [18531,18615]	116.3	36  	(cag)
+tggcaagatggtcgagtggtccaagacgttacgttcaggtcgtaatctcccctggaggcgtgggttcaaaccccactcttgtcaa
+((((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt)))))))))))))
+5   tRNA-Gln                 [18669,18742]	124.3	35  	(ttg)
+tggtcctatagtgtagtggttagcacagtggactttgaatccattaacccaggttcgaatcctggtaggaccat
+((((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt)))))))))))))
+6   tRNA-Val                 [18798,18870]	111.3	34  	(tac)
+gcgtgggtgatctagtggttatgatgtctgctttacacgcagaacgtcgcgggttcgaaccccgccccgcgta
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+7   tRNA-Gly                c[18911,18983]	116.4	34  	(tcc)
+gcaattgtggtccaacggttaagatccccgccttccaagcgggtgacccgggttcgactcccggcaattgcac
+(((((((  (((dddddddddd))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+8   tRNA-Trp                 [19057,19128]	118.0	33  	(cca)
+gggggcttagcacagtggtagtgcattggattccaaatccaagggtcgcaggttcaatccctgcagtcctca
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+9   tRNA-Arg                c[19464,19538]	119.6	34  	(acg)
+tgtccgtgtggctcaatggaagagcatttgactacggatcaaagggttgcaggttcgaatcctgtcacggatgac
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+>Baya_238 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=19522 | SO=contig
+0 genes found
+>Baya_239 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=19377 | SO=contig
+0 genes found
+>Baya_240 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=19295 | SO=contig
+0 genes found
+>Baya_241 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=19257 | SO=contig
+0 genes found
+>Baya_242 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=19248 | SO=contig
+0 genes found
+>Baya_243 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=19166 | SO=contig
+0 genes found
+>Baya_244 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=18968 | SO=contig
+0 genes found
+>Baya_245 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=18513 | SO=contig
+0 genes found
+>Baya_246 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=18244 | SO=contig
+0 genes found
+>Baya_247 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=18082 | SO=contig
+0 genes found
+>Baya_248 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=18065 | SO=contig
+0 genes found
+>Baya_249 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=18001 | SO=contig
+0 genes found
+>Baya_250 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=17919 | SO=contig
+0 genes found
+>Baya_251 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=17644 | SO=contig
+0 genes found
+>Baya_252 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=17147 | SO=contig
+0 genes found
+>Baya_253 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=16967 | SO=contig
+0 genes found
+>Baya_254 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=16965 | SO=contig
+0 genes found
+>Baya_255 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=16854 | SO=contig
+0 genes found
+>Baya_256 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=16740 | SO=contig
+1 genes found
+1   tRNA-Glu                     [388,585]	102.0	139 	(ttc)i(39,99)
+ggcgacttgtagctggcaagattgtgcagtagagccctccgcctggagctcccgtgccaggtacagcacgggaaagggcatactcgaaaattgctgatgcgtcaccgtcctcgaggcacagtcacctgcatggggcgtttccagggctgtcacaaaaaccggtgtggcggggggaggtgcgtcctctccaggaagctt
+(((..(((   ((((ddddddddddd))))  ((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))  (....(vvvvvvvv)....)  (((((ttttttt))))))))..)))
+>Baya_257 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=16430 | SO=contig
+0 genes found
+>Baya_258 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=16340 | SO=contig
+0 genes found
+>Baya_259 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=16305 | SO=contig
+0 genes found
+>Baya_260 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=16070 | SO=contig
+0 genes found
+>Baya_261 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=15746 | SO=contig
+0 genes found
+>Baya_262 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=15695 | SO=contig
+0 genes found
+>Baya_263 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=15644 | SO=contig
+0 genes found
+>Baya_264 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=15427 | SO=contig
+0 genes found
+>Baya_265 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=15391 | SO=contig
+0 genes found
+>Baya_266 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=15357 | SO=contig
+0 genes found
+>Baya_267 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=15269 | SO=contig
+0 genes found
+>Baya_268 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=15154 | SO=contig
+0 genes found
+>Baya_269 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=15111 | SO=contig
+0 genes found
+>Baya_270 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=15043 | SO=contig
+0 genes found
+>Baya_271 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=15025 | SO=contig
+0 genes found
+>Baya_272 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=14137 | SO=contig
+0 genes found
+>Baya_273 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=14061 | SO=contig
+0 genes found
+>Baya_274 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=13641 | SO=contig
+0 genes found
+>Baya_275 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=13633 | SO=contig
+0 genes found
+>Baya_276 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=13395 | SO=contig
+0 genes found
+>Baya_277 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=13368 | SO=contig
+0 genes found
+>Baya_278 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=13341 | SO=contig
+0 genes found
+>Baya_279 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=13297 | SO=contig
+0 genes found
+>Baya_280 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=13297 | SO=contig
+0 genes found
+>Baya_281 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=12924 | SO=contig
+0 genes found
+>Baya_282 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=12823 | SO=contig
+0 genes found
+>Baya_283 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=12671 | SO=contig
+0 genes found
+>Baya_284 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=12398 | SO=contig
+0 genes found
+>Baya_285 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=12324 | SO=contig
+0 genes found
+>Baya_286 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=12121 | SO=contig
+0 genes found
+>Baya_287 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=11945 | SO=contig
+0 genes found
+>Baya_288 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=11928 | SO=contig
+0 genes found
+>Baya_289 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=11883 | SO=contig
+0 genes found
+>Baya_290 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=11548 | SO=contig
+0 genes found
+>Baya_291 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=11167 | SO=contig
+0 genes found
+>Baya_292 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=11143 | SO=contig
+0 genes found
+>Baya_293 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=11043 | SO=contig
+0 genes found
+>Baya_294 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=11006 | SO=contig
+3 genes found
+1   tRNA-Asp                   [9666,9738]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Asn                   [9795,9868]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+3   tRNA-Glu                   [9923,9995]	118.5	34  	(ctc)
+tccggtgtggtatagtggctagaacaagcggctctcacccgctagacccgggttcgatccccggcaccggaac
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>Baya_295 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=10975 | SO=contig
+0 genes found
+>Baya_296 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=10929 | SO=contig
+4 genes found
+1   tRNA-Arg                  c[1077,1149]	118.3	33  	(ccg)
+gacgttgtggcgcaatggaagcgcgttggattccggatccaaaggttgcgggttcgagccccgtcagcgttac
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Val                   [1220,1294]	113.6	35  	(cac)
+tgcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcgatccccgcccgtcgtat
+((((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+3   tRNA-His                   [1351,1421]	115.2	33  	(gtg)
+ggggagatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtcttccct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+4   tRNA-Glu                  c[1473,1544]	117.8	34  	(ttc)
+tccggtatagtataatggttagaacacctggctttcacccaggaaatccgggttcgatccccggtaccggag
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>Baya_297 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=10879 | SO=contig
+2 genes found
+1   tRNA-Gly                      [60,130]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Glu                     [183,256]	118.5	35  	(ctc)
+ttccggtgtggtatagtggctagaacaagcggctctcacccgctagacccgggttcgatccccggcaccggaat
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+>Baya_298 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=10838 | SO=contig
+0 genes found
+>Baya_299 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=10641 | SO=contig
+0 genes found
+>Baya_300 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=10631 | SO=contig
+1 genes found
+1   tRNA-Trp                     [109,180]	117.7	33  	(cca)
+gggggtttagcacagtggtagtgcattggattccaaatccaagggtcgcaggttcaatccctgcaatcctca
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>Baya_301 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=10508 | SO=contig
+0 genes found
+>Baya_302 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=10495 | SO=contig
+0 genes found
+>Baya_303 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=10470 | SO=contig
+0 genes found
+>Baya_304 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=10424 | SO=contig
+0 genes found
+>Baya_305 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=10408 | SO=contig
+0 genes found
+>Baya_306 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=10351 | SO=contig
+0 genes found
+>Baya_307 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=10327 | SO=contig
+0 genes found
+>Baya_308 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=10175 | SO=contig
+0 genes found
+>Baya_309 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=10155 | SO=contig
+0 genes found
+>Baya_310 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=10062 | SO=contig
+0 genes found
+>Baya_311 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=10053 | SO=contig
+0 genes found
+>Baya_312 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=9866 | SO=contig
+1 genes found
+1   tRNA-Leu                    c[659,740]	116.7	35  	(aag)
+ggcgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>Baya_313 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=9757 | SO=contig
+0 genes found
+>Baya_314 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=9593 | SO=contig
+0 genes found
+>Baya_315 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=9538 | SO=contig
+0 genes found
+>Baya_316 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=9432 | SO=contig
+0 genes found
+>Baya_317 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=9391 | SO=contig
+0 genes found
+>Baya_318 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=9111 | SO=contig
+0 genes found
+>Baya_319 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=9104 | SO=contig
+0 genes found
+>Baya_320 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=9085 | SO=contig
+0 genes found
+>Baya_321 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=9062 | SO=contig
+0 genes found
+>Baya_322 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=9050 | SO=contig
+0 genes found
+>Baya_323 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=8887 | SO=contig
+0 genes found
+>Baya_324 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=8887 | SO=contig
+0 genes found
+>Baya_325 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=8740 | SO=contig
+0 genes found
+>Baya_326 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=8740 | SO=contig
+0 genes found
+>Baya_327 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=8735 | SO=contig
+0 genes found
+>Baya_328 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=8731 | SO=contig
+0 genes found
+>Baya_329 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=8701 | SO=contig
+0 genes found
+>Baya_330 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=8697 | SO=contig
+0 genes found
+>Baya_331 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=8671 | SO=contig
+0 genes found
+>Baya_332 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=8659 | SO=contig
+0 genes found
+>Baya_333 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=8289 | SO=contig
+0 genes found
+>Baya_334 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=8240 | SO=contig
+0 genes found
+>Baya_335 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=8231 | SO=contig
+0 genes found
+>Baya_336 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=8138 | SO=contig
+0 genes found
+>Baya_337 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=8074 | SO=contig
+0 genes found
+>Baya_338 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=8058 | SO=contig
+0 genes found
+>Baya_339 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=8023 | SO=contig
+0 genes found
+>Baya_340 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=8017 | SO=contig
+0 genes found
+>Baya_341 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=7799 | SO=contig
+0 genes found
+>Baya_342 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=7703 | SO=contig
+0 genes found
+>Baya_343 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=7668 | SO=contig
+0 genes found
+>Baya_344 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=7629 | SO=contig
+0 genes found
+>Baya_345 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=7566 | SO=contig
+0 genes found
+>Baya_346 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=7435 | SO=contig
+0 genes found
+>Baya_347 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=7221 | SO=contig
+0 genes found
+>Baya_348 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=7218 | SO=contig
+0 genes found
+>Baya_349 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=7096 | SO=contig
+0 genes found
+>Baya_350 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=7013 | SO=contig
+0 genes found
+>Baya_351 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=6978 | SO=contig
+0 genes found
+>Baya_352 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=6947 | SO=contig
+0 genes found
+>Baya_353 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=6831 | SO=contig
+0 genes found
+>Baya_354 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=6693 | SO=contig
+0 genes found
+>Baya_355 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=6613 | SO=contig
+0 genes found
+>Baya_356 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=6595 | SO=contig
+0 genes found
+>Baya_357 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=6574 | SO=contig
+1 genes found
+1   tRNA-His                      [83,153]	115.2	33  	(gtg)
+ggggagatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtcttccct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>Baya_358 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=6541 | SO=contig
+0 genes found
+>Baya_359 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=6485 | SO=contig
+0 genes found
+>Baya_360 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=6408 | SO=contig
+0 genes found
+>Baya_361 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=6394 | SO=contig
+0 genes found
+>Baya_362 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=6378 | SO=contig
+0 genes found
+>Baya_363 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=6296 | SO=contig
+0 genes found
+>Baya_364 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=6295 | SO=contig
+0 genes found
+>Baya_365 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=6198 | SO=contig
+0 genes found
+>Baya_366 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=6178 | SO=contig
+0 genes found
+>Baya_367 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=6122 | SO=contig
+0 genes found
+>Baya_368 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=6098 | SO=contig
+0 genes found
+>Baya_369 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=6051 | SO=contig
+0 genes found
+>Baya_370 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=5953 | SO=contig
+0 genes found
+>Baya_371 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=5868 | SO=contig
+0 genes found
+>Baya_372 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=5858 | SO=contig
+0 genes found
+>Baya_373 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=5853 | SO=contig
+0 genes found
+>Baya_374 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=5812 | SO=contig
+0 genes found
+>Baya_375 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=5666 | SO=contig
+0 genes found
+>Baya_376 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=5571 | SO=contig
+0 genes found
+>Baya_377 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=5524 | SO=contig
+0 genes found
+>Baya_378 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=5517 | SO=contig
+0 genes found
+>Baya_379 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=5434 | SO=contig
+0 genes found
+>Baya_380 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=5407 | SO=contig
+0 genes found
+>Baya_381 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=5404 | SO=contig
+0 genes found
+>Baya_382 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=5238 | SO=contig
+0 genes found
+>Baya_383 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=5223 | SO=contig
+0 genes found
+>Baya_384 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=5212 | SO=contig
+0 genes found
+>Baya_385 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=5181 | SO=contig
+0 genes found
+>Baya_386 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=5175 | SO=contig
+0 genes found
+>Baya_387 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=5118 | SO=contig
+0 genes found
+>Baya_388 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=5081 | SO=contig
+0 genes found
+>Baya_389 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=4994 | SO=contig
+0 genes found
+>Baya_390 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=4958 | SO=contig
+0 genes found
+>Baya_391 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=4907 | SO=contig
+0 genes found
+>Baya_392 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=4671 | SO=contig
+0 genes found
+>Baya_393 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=4662 | SO=contig
+0 genes found
+>Baya_394 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=4660 | SO=contig
+0 genes found
+>Baya_395 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=4649 | SO=contig
+0 genes found
+>Baya_396 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=4647 | SO=contig
+0 genes found
+>Baya_397 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=4567 | SO=contig
+0 genes found
+>Baya_398 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=4505 | SO=contig
+0 genes found
+>Baya_399 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=4439 | SO=contig
+0 genes found
+>Baya_400 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=4415 | SO=contig
+0 genes found
+>Baya_401 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=4404 | SO=contig
+0 genes found
+>Baya_402 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=4377 | SO=contig
+0 genes found
+>Baya_403 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=4347 | SO=contig
+0 genes found
+>Baya_404 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=4302 | SO=contig
+0 genes found
+>Baya_405 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=4301 | SO=contig
+0 genes found
+>Baya_406 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=4299 | SO=contig
+0 genes found
+>Baya_407 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=4284 | SO=contig
+0 genes found
+>Baya_408 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=4195 | SO=contig
+0 genes found
+>Baya_409 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=4139 | SO=contig
+0 genes found
+>Baya_410 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=4129 | SO=contig
+0 genes found
+>Baya_411 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=4094 | SO=contig
+0 genes found
+>Baya_412 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=4066 | SO=contig
+0 genes found
+>Baya_413 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=4052 | SO=contig
+0 genes found
+>Baya_414 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=4012 | SO=contig
+0 genes found
+>Baya_415 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3978 | SO=contig
+0 genes found
+>Baya_416 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3963 | SO=contig
+0 genes found
+>Baya_417 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3925 | SO=contig
+0 genes found
+>Baya_418 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3907 | SO=contig
+0 genes found
+>Baya_419 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3893 | SO=contig
+0 genes found
+>Baya_420 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3885 | SO=contig
+0 genes found
+>Baya_421 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3860 | SO=contig
+0 genes found
+>Baya_422 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3850 | SO=contig
+0 genes found
+>Baya_423 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3837 | SO=contig
+0 genes found
+>Baya_424 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3819 | SO=contig
+0 genes found
+>Baya_425 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3801 | SO=contig
+0 genes found
+>Baya_426 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3765 | SO=contig
+0 genes found
+>Baya_427 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3736 | SO=contig
+0 genes found
+>Baya_428 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3732 | SO=contig
+0 genes found
+>Baya_429 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3727 | SO=contig
+0 genes found
+>Baya_430 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3702 | SO=contig
+0 genes found
+>Baya_431 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3626 | SO=contig
+0 genes found
+>Baya_432 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3578 | SO=contig
+0 genes found
+>Baya_433 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3560 | SO=contig
+0 genes found
+>Baya_434 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3510 | SO=contig
+0 genes found
+>Baya_435 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3509 | SO=contig
+0 genes found
+>Baya_436 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3507 | SO=contig
+0 genes found
+>Baya_437 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3480 | SO=contig
+0 genes found
+>Baya_438 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3472 | SO=contig
+0 genes found
+>Baya_439 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3470 | SO=contig
+0 genes found
+>Baya_440 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3462 | SO=contig
+0 genes found
+>Baya_441 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3455 | SO=contig
+0 genes found
+>Baya_442 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3423 | SO=contig
+0 genes found
+>Baya_443 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3421 | SO=contig
+0 genes found
+>Baya_444 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3422 | SO=contig
+0 genes found
+>Baya_445 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3412 | SO=contig
+0 genes found
+>Baya_446 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3378 | SO=contig
+0 genes found
+>Baya_447 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3305 | SO=contig
+0 genes found
+>Baya_448 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3273 | SO=contig
+0 genes found
+>Baya_449 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3259 | SO=contig
+0 genes found
+>Baya_450 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3214 | SO=contig
+0 genes found
+>Baya_451 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3207 | SO=contig
+0 genes found
+>Baya_452 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3204 | SO=contig
+0 genes found
+>Baya_453 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3184 | SO=contig
+0 genes found
+>Baya_454 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3171 | SO=contig
+0 genes found
+>Baya_455 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3146 | SO=contig
+0 genes found
+>Baya_456 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3144 | SO=contig
+0 genes found
+>Baya_457 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3138 | SO=contig
+0 genes found
+>Baya_458 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3074 | SO=contig
+0 genes found
+>Baya_459 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3019 | SO=contig
+0 genes found
+>Baya_460 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3017 | SO=contig
+0 genes found
+>Baya_461 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=3013 | SO=contig
+0 genes found
+>Baya_462 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2996 | SO=contig
+0 genes found
+>Baya_463 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2953 | SO=contig
+0 genes found
+>Baya_464 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2945 | SO=contig
+0 genes found
+>Baya_465 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2932 | SO=contig
+0 genes found
+>Baya_466 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2928 | SO=contig
+0 genes found
+>Baya_467 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2903 | SO=contig
+0 genes found
+>Baya_468 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2892 | SO=contig
+0 genes found
+>Baya_469 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2869 | SO=contig
+0 genes found
+>Baya_470 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2864 | SO=contig
+0 genes found
+>Baya_471 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2846 | SO=contig
+0 genes found
+>Baya_472 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2827 | SO=contig
+0 genes found
+>Baya_473 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2809 | SO=contig
+0 genes found
+>Baya_474 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2800 | SO=contig
+0 genes found
+>Baya_475 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2791 | SO=contig
+0 genes found
+>Baya_476 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2787 | SO=contig
+0 genes found
+>Baya_477 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2743 | SO=contig
+0 genes found
+>Baya_478 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2727 | SO=contig
+0 genes found
+>Baya_479 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2725 | SO=contig
+0 genes found
+>Baya_480 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2726 | SO=contig
+0 genes found
+>Baya_481 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2708 | SO=contig
+0 genes found
+>Baya_482 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2682 | SO=contig
+0 genes found
+>Baya_483 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2678 | SO=contig
+0 genes found
+>Baya_484 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2652 | SO=contig
+0 genes found
+>Baya_485 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2615 | SO=contig
+0 genes found
+>Baya_486 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2554 | SO=contig
+0 genes found
+>Baya_487 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2553 | SO=contig
+0 genes found
+>Baya_488 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2546 | SO=contig
+0 genes found
+>Baya_489 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2515 | SO=contig
+0 genes found
+>Baya_490 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2503 | SO=contig
+0 genes found
+>Baya_491 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2481 | SO=contig
+0 genes found
+>Baya_492 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2470 | SO=contig
+0 genes found
+>Baya_493 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2430 | SO=contig
+0 genes found
+>Baya_494 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2417 | SO=contig
+0 genes found
+>Baya_495 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2387 | SO=contig
+0 genes found
+>Baya_496 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2379 | SO=contig
+0 genes found
+>Baya_497 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2378 | SO=contig
+0 genes found
+>Baya_498 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2376 | SO=contig
+0 genes found
+>Baya_499 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2367 | SO=contig
+0 genes found
+>Baya_500 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2361 | SO=contig
+0 genes found
+>Baya_501 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2349 | SO=contig
+0 genes found
+>Baya_502 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2348 | SO=contig
+0 genes found
+>Baya_503 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2340 | SO=contig
+0 genes found
+>Baya_504 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2324 | SO=contig
+0 genes found
+>Baya_505 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2322 | SO=contig
+0 genes found
+>Baya_506 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2308 | SO=contig
+0 genes found
+>Baya_507 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2307 | SO=contig
+0 genes found
+>Baya_508 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2305 | SO=contig
+0 genes found
+>Baya_509 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2302 | SO=contig
+0 genes found
+>Baya_510 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2278 | SO=contig
+0 genes found
+>Baya_511 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2269 | SO=contig
+0 genes found
+>Baya_512 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2245 | SO=contig
+0 genes found
+>Baya_513 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2231 | SO=contig
+0 genes found
+>Baya_514 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2226 | SO=contig
+0 genes found
+>Baya_515 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2226 | SO=contig
+0 genes found
+>Baya_516 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2199 | SO=contig
+0 genes found
+>Baya_517 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2193 | SO=contig
+0 genes found
+>Baya_518 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2178 | SO=contig
+0 genes found
+>Baya_519 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2178 | SO=contig
+0 genes found
+>Baya_520 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2177 | SO=contig
+0 genes found
+>Baya_521 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2163 | SO=contig
+0 genes found
+>Baya_522 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2141 | SO=contig
+0 genes found
+>Baya_523 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2136 | SO=contig
+0 genes found
+>Baya_524 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2125 | SO=contig
+0 genes found
+>Baya_525 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2115 | SO=contig
+0 genes found
+>Baya_526 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2101 | SO=contig
+0 genes found
+>Baya_527 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2089 | SO=contig
+0 genes found
+>Baya_528 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2071 | SO=contig
+0 genes found
+>Baya_529 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2063 | SO=contig
+0 genes found
+>Baya_530 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2056 | SO=contig
+0 genes found
+>Baya_531 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2049 | SO=contig
+0 genes found
+>Baya_532 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2027 | SO=contig
+0 genes found
+>Baya_533 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2021 | SO=contig
+0 genes found
+>Baya_534 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2019 | SO=contig
+0 genes found
+>Baya_535 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=2013 | SO=contig
+0 genes found
+>Baya_536 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=1999 | SO=contig
+0 genes found
+>Baya_537 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=1995 | SO=contig
+0 genes found
+>Baya_538 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=1988 | SO=contig
+0 genes found
+>Baya_539 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=1964 | SO=contig
+0 genes found
+>Baya_540 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=1956 | SO=contig
+0 genes found
+>Baya_541 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=1955 | SO=contig
+0 genes found
+>Baya_542 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=1952 | SO=contig
+0 genes found
+>Baya_543 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=1951 | SO=contig
+0 genes found
+>Baya_544 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=1944 | SO=contig
+0 genes found
+>Baya_545 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=1941 | SO=contig
+0 genes found
+>Baya_546 | organism=Blechomonas_ayalai_B08-376 | version=2017-01-18 | length=1936 | SO=contig
+0 genes found
+>end 	546 sequences 79 tRNA genes, nothing found in 506 sequences, (7.33% sensitivity)

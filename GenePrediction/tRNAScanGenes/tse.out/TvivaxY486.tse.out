@@ -1,0 +1,98 @@
+Sequence  		tRNA   	Bounds 	tRNA	Anti	Intron Bounds	Inf	      
+Name      	tRNA #	Begin  	End    	Type	Codon	Begin	End	Score	Note
+--------  	------	-----  	------ 	----	-----	-----	----	------	------
+TvY486_03 	1	1113293	1113373	Ser	AGA	0	0	69.8	
+TvY486_03 	2	1113440	1113521	Leu	CAA	0	0	76.6	
+TvY486_03 	3	1114498	1114418	Ser	CGA	0	0	70.1	
+TvY486_04 	1	780464 	780537 	Val	AAC	0	0	61.5	
+TvY486_04 	2	780382 	780302 	Ser	TGA	0	0	72.8	
+TvY486_07 	1	2124741	2124670	Ala	CGC	0	0	44.7	
+TvY486_08 	1	695002 	695074 	Lys	CTT	0	0	80.3	
+TvY486_08 	2	695400 	695471 	Gly	TCC	0	0	69.6	
+TvY486_08 	3	695530 	695611 	Leu	CAG	0	0	70.1	
+TvY486_08 	4	701765 	701837 	Lys	CTT	0	0	80.3	
+TvY486_08 	5	1775957	1776028	Gln	CTG	0	0	67.9	
+TvY486_08 	6	1776096	1776169	Ile	AAT	0	0	80.1	
+TvY486_08 	7	1439633	1439562	Arg	ACG	0	0	71.4	
+TvY486_08 	8	701955 	701884 	Arg	ACG	0	0	71.4	
+TvY486_09 	1	183895 	183808 	SeC	TCA	0	0	120.5	
+TvY486_09 	2	180707 	180620 	SeC	TCA	0	0	120.5	
+TvY486_10 	1	1909338	1909409	Pro	AGG	0	0	68.3	
+TvY486_10 	2	1909468	1909539	Thr	AGT	0	0	73.9	
+TvY486_10 	3	1930590	1930661	Pro	TGG	0	0	68.2	
+TvY486_10 	4	2650754	2650826	Arg	CCT	0	0	74.5	
+TvY486_10 	5	4005373	4005444	Trp	CCA	0	0	81.6	
+TvY486_10 	6	4005571	4005499	Asn	GTT	0	0	73.2	
+TvY486_10 	7	1930497	1930426	iMet	CAT	0	0	67.1	
+TvY486_10 	8	1930014	1929933	Leu	AAG	0	0	75.6	
+TvY486_11 	1	926952 	927023 	Cys	GCA	0	0	71.1	
+TvY486_11 	2	3724317	3724246	Arg	CCG	0	0	67.3	
+TvY486_11 	3	3724181	3724110	Ala	CGC	0	0	73.8	
+TvY486_11 	4	3722435	3722364	Glu	TTC	0	0	65.8	
+TvY486_11 	5	3722295	3722223	Phe	GAA	0	0	88.4	
+TvY486_bin_archived_contig_1160	1	3697   	3627   	Gly	CCC	0	0	73.2	
+TvY486_bin_archived_contig_1183	1	584    	512    	Lys	TTT	0	0	59.2	
+TvY486_bin_archived_contig_1183	2	393    	312    	Ser	AGA	0	0	41.7	pseudo
+TvY486_bin_archived_contig_2067	1	1392   	1463   	Gln	TTG	0	0	80.2	
+TvY486_bin_archived_contig_2067	2	1525   	1597   	Val	TAC	0	0	71.5	
+TvY486_bin_archived_contig_2067	3	1306   	1233   	Ile	TAT	0	0	78.3	
+TvY486_bin_archived_contig_2815	1	6329   	6257   	Arg	TCT	0	0	71.9	
+TvY486_bin_archived_contig_29	1	1067   	1139   	Met	CAT	0	0	70.2	
+TvY486_bin_archived_contig_29	2	1218   	1298   	Leu	TAG	0	0	79.1	
+TvY486_bin_archived_contig_29	3	956    	885    	Glu	CTC	0	0	64.1	
+TvY486_bin_archived_contig_3062	1	106    	34     	Val	AAC	0	0	78.2	
+TvY486_bin_archived_contig_3413	1	1836   	1764   	Lys	TTT	0	0	38.3	pseudo
+TvY486_bin_archived_contig_3413	2	1645   	1564   	Ser	TGA	0	0	78.2	
+TvY486_bin_archived_contig_3413	3	1386   	1315   	His	GTG	0	0	49.5	
+TvY486_bin_archived_contig_3413	4	807    	735    	Lys	TTT	0	0	59.2	
+TvY486_bin_archived_contig_3413	5	616    	535    	Ser	AGA	0	0	41.7	pseudo
+TvY486_bin_archived_contig_3672	1	1400   	1472   	Val	CAC	0	0	72.7	
+TvY486_bin_archived_contig_3672	2	1756   	1828   	Val	TAC	0	0	32.0	
+TvY486_bin_archived_contig_3855	1	445    	516    	Cys	GCA	0	0	71.1	
+TvY486_bin_archived_contig_4208	1	369    	297    	Val	AAC	0	0	78.2	
+TvY486_bin_archived_contig_4208	2	192    	120    	Val	CAC	0	0	76.1	
+TvY486_bin_archived_contig_4261	1	1056   	1128   	Ala	TGC	0	0	24.1	pseudo
+TvY486_bin_archived_contig_4261	2	722    	651    	Gln	CTG	0	0	66.6	
+TvY486_bin_archived_contig_4261	3	544    	471    	Ile	AAT	0	0	65.8	
+TvY486_bin_archived_contig_4261	4	383    	311    	Phe	GAA	0	0	88.9	
+TvY486_bin_archived_contig_4263	1	27     	99     	Val	CAC	0	0	68.7	
+TvY486_bin_archived_contig_4263	2	383    	455    	Val	TAC	0	0	32.0	
+TvY486_bin_archived_contig_4271	1	105    	33     	Val	AAC	0	0	78.2	
+TvY486_bin_archived_contig_4539	1	1724   	1795   	Glu	TTC	0	0	50.7	
+TvY486_bin_archived_contig_4539	2	1884   	1961   	Tyr	GTA	1921	1925	36.7	pseudo
+TvY486_bin_archived_contig_4539	3	2121   	2049   	Glu	CTC	0	0	22.0	pseudo
+TvY486_bin_archived_contig_4539	4	371    	305    	Lys	CTT	0	0	20.9	pseudo
+TvY486_bin_archived_contig_4539	5	198    	125    	Asn	GTT	0	0	59.2	
+TvY486_bin_archived_contig_4568	1	1346   	1275   	Gln	CTG	0	0	66.6	
+TvY486_bin_archived_contig_4568	2	1168   	1095   	Ile	AAT	0	0	64.3	
+TvY486_bin_archived_contig_4568	3	1007   	935    	Phe	GAA	0	0	88.9	
+TvY486_bin_archived_contig_4568	4	155    	84     	Gln	CTG	0	0	53.1	
+TvY486_bin_archived_contig_5269	1	706    	634    	Val	TAC	0	0	32.0	
+TvY486_bin_archived_contig_5387	1	884    	956    	Val	AAC	0	0	73.5	
+TvY486_bin_archived_contig_5387	2	1428   	1346   	Leu	CAG	0	0	67.7	
+TvY486_bin_archived_contig_5397	1	711    	639    	Val	AAC	0	0	78.2	
+TvY486_bin_archived_contig_5397	2	534    	462    	Val	CAC	0	0	76.1	
+TvY486_bin_archived_contig_5397	3	178    	106    	Val	TAC	0	0	32.0	
+TvY486_bin_archived_contig_642	1	2332   	2414   	Leu	CAG	0	0	77.3	
+TvY486_bin_archived_contig_642	2	2876   	2804   	Val	AAC	0	0	73.5	
+TvY486_bin_archived_contig_6678	1	758    	686    	Val	AAC	0	0	77.2	
+TvY486_bin_archived_contig_6678	2	581    	509    	Val	CAC	0	0	76.1	
+TvY486_bin_archived_contig_6678	3	225    	153    	Val	TAC	0	0	32.0	
+TvY486_bin_archived_contig_7832	1	2954   	3026   	Ala	TGC	0	0	24.1	pseudo
+TvY486_bin_archived_contig_7832	2	3827   	3756   	Gln	CTG	0	0	64.2	
+TvY486_bin_archived_contig_7832	3	3646   	3573   	Ile	AAT	0	0	83.9	
+TvY486_bin_archived_contig_7832	4	3488   	3412   	Phe	GAA	0	0	34.9	pseudo
+TvY486_bin_archived_contig_7832	5	2618   	2547   	Gln	CTG	0	0	66.6	
+TvY486_bin_archived_contig_7832	6	2440   	2367   	Ile	AAT	0	0	64.3	
+TvY486_bin_archived_contig_7832	7	2279   	2207   	Phe	GAA	0	0	72.0	
+TvY486_bin_archived_contig_7832	8	1428   	1357   	Gln	CTG	0	0	53.1	
+TvY486_bin_archived_contig_7832	9	1254   	1181   	Ile	AAT	0	0	74.7	
+TvY486_bin_archived_contig_7832	10	1092   	1020   	Phe	AAA	0	0	75.2	
+TvY486_bin_archived_contig_8021	1	1121   	1049   	Val	CAC	0	0	66.2	
+TvY486_bin_archived_contig_8224	1	1795   	1875   	Ser	GCT	0	0	79.3	
+TvY486_bin_archived_contig_8224	2	1934   	2006   	Ala	AGC	0	0	57.1	
+TvY486_bin_archived_contig_8224	3	1690   	1619   	Asp	GTC	0	0	70.6	
+TvY486_bin_archived_contig_8227	1	523    	452    	Gln	CTG	0	0	64.2	
+TvY486_bin_archived_contig_8227	2	342    	269    	Ile	AAT	0	0	83.9	
+TvY486_bin_archived_contig_8227	3	184    	108    	Phe	GAA	0	0	34.9	pseudo
+TvY486_bin_archived_contig_975	1	1581   	1510   	Arg	TCG	0	0	65.2	

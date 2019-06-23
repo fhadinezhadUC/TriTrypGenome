@@ -1,0 +1,1797 @@
+>LbrM2903_01 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=286661 | SO=chromosome
+0 genes found
+>LbrM2903_02 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=352826 | SO=chromosome
+0 genes found
+>LbrM2903_03 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=408717 | SO=chromosome
+0 genes found
+>LbrM2903_04 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=502955 | SO=chromosome
+0 genes found
+>LbrM2903_05 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=505114 | SO=chromosome
+2 genes found
+1   tRNA-Ser                c[75628,75790]	101.8	106 	(tga)i(36,69)
+tggcgccgaaggactggggtggagggccgttcgctgccagttggagaatgggctggcccaggcagggctcgtcgtgctgcgacaccttgcttgagttcagcaggttgaacgcggaggagggctttcggaggagcacccgtcgatcctcttcggtgggtgccag
+(((((((   ((.(dddddddddd).)) ((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))      .((vvvvvvv)).   (((((tttttttt))))))))))))
+2   tRNA-Arg               [395883,395954]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LbrM2903_06 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=590413 | SO=chromosome
+1 genes found
+1   tRNA-SeC                c[71578,71665]	108.3	36  	(tca)
+gccgcgatgagctcagctggtgctgggtgcgggcttcaaacccgtaggtgagttgctctcacagccgttcgattcggccttcgtggcg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+>LbrM2903_07 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=639434 | SO=chromosome
+1 genes found
+1   tRNA-Arg              c[418679,418750]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LbrM2903_08 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=537514 | SO=chromosome
+0 genes found
+>LbrM2903_09 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=620965 | SO=chromosome
+8 genes found
+1   tRNA-Met               [302590,302661]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Leu               [302721,302804]	117.1	35  	(cag)
+ggcaagatggtcgagtggtccaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+3   tRNA-Val               [439537,439610]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-His               [439867,439938]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+5   tRNA-Glu              c[456349,456422]	118.0	34  	(ttc)
+tccgatgtagtataacggttagaacacctggctttcacccaggagatccgggttcgattcccggtatcggagcc
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+6   tRNA-Val              c[456664,456737]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+7   tRNA-Arg               [456812,456883]	118.6	33  	(ccg)
+gacgttgtggcgcaatggaagcgcgtcggattccggatccgaaggttgtgggttcgacccccatcagcgttg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+8   tRNA-His               [456945,457016]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>LbrM2903_10 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=695527 | SO=chromosome
+3 genes found
+1   tRNA-Thr               [136652,136770]	101.8	60  	(cgt)i(34,24)
+tggtggtggtggttgaggttcgtgccacgcttgactttgcgtttttcctcgcctttgttcgtatcgtgtcgtgcgtgtgcgtgtgcgtgtgcgtgggtttgagccccgtcaccaccaac
+((((((((   ((.(ddddddddd).))((.((iiiiiiiiiiiiiiiiiiiiiiii  AAA  )).))....vvvvvvv....        (((((ttttttt)))))))))))))
+2   tRNA-Lys               [650738,650811]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+3   tRNA-Asn              c[650971,651043]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggag
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>LbrM2903_11 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=603537 | SO=chromosome
+10 genes found
+1   tRNA-Leu                  c[1590,1672]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ala                   [1744,1816]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+3   tRNA-Leu                  c[9272,9354]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+4   tRNA-Ala                   [9426,9498]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+5   tRNA-Leu                c[40764,40846]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+6   tRNA-Ala                 [40918,40990]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+7   tRNA-Gly                 [41046,41117]	122.0	33  	(ccc)
+gcgccgctggtctagtggcatgatggtaccctcccaaggtattgacccgggttcgattcccgggcggcgcac
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+8   tRNA-Met              c[322747,322819]	113.6	34  	(cat)
+gcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+9   tRNA-Arg               [322889,322963]	120.3	34  	(acg)
+cgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgac
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+10  tRNA-Ser               [603247,603409]	101.8	106 	(tga)i(36,69)
+tggcgccgaaggactggggtggagggccgttcgctgccagttggagaatgggctggcccaggcagggctcgtcgtgctgcgacaccttgcttgagttcagcaggttgaacgcggaggagggctttcggaggagcacccgtcgatcctcttcggtgggtgccag
+(((((((   ((.(dddddddddd).)) ((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))      .((vvvvvvv)).   (((((tttttttt))))))))))))
+>LbrM2903_12 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=408254 | SO=chromosome
+0 genes found
+>LbrM2903_13 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=658307 | SO=chromosome
+0 genes found
+>LbrM2903_14 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=650483 | SO=chromosome
+0 genes found
+>LbrM2903_15 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=654844 | SO=chromosome
+3 genes found
+1   tRNA-Gly               [209142,209338]	102.7	35  	(acc)i(40,104)
+tggcgttggccgacttgaccaacggcagcgtgctaccgcacagctcctccttgcacaacaaggacgtgggagactccgccgcgccacccacatcactgcacttgactggcggcggtggaaacccctacacgcacccgagctcgtacgcaaaccacgacggccctggggtggctggtggcatgcctgtagtgccatcc
+((((((( ((((dddddddddd)))) (((((  AAA  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii))))) ..(.vvvv.)..         ((.((ttttttt)).)))))))))
+2   tRNA-Asp               [416300,416372]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Glu              c[416403,416474]	118.1	34  	(ctc)
+tccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>LbrM2903_16 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=771689 | SO=chromosome
+4 genes found
+1   tRNA-Gly               [104985,105092]	102.3	52  	(gcc)i(33,18)
+tcgccgctctcgcacaggaggcgcgccaccgcagcccatgcgtgcgccctcgccgccggtgcaccggcaatcggcaggggcggtggtccggatgccgccagcggcgaa
+((((((((   ((.(ddddd).))  ((((( iiiiiiiiiiiiiiiiii AAA  )))))(.((.((vvvvv)).)).) (((((tttttttt)))))))))))))
+2   tRNA-Gly               [114403,114510]	102.3	52  	(gcc)i(33,18)
+tcgccgctctcgcacaggaggcgcgccaccgcagcccatgcgtgcgccctcgccgccggtgcaccggcaatcggcaggggcggtggtccggatgccgccagcggcgaa
+((((((((   ((.(ddddd).))  ((((( iiiiiiiiiiiiiiiiii AAA  )))))(.((.((vvvvv)).)).) (((((tttttttt)))))))))))))
+3   tRNA-Gln              c[495749,495823]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgtc
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+4   tRNA-Tyr              c[566607,566700]	102.9	34  	(gta)
+catcgcaggcgatgccggggtcgccgcgcagttgtagcttgggcaggcgtcgtttgccacgccgctcgcactggttcagcgtcagctgcgacac
+..((((( ((((dddddddd)))) ((.(((  AAA  ))).)).(((((vvvvvvvv))))).     .((((ttttttt)))).)))))..
+>LbrM2903_17 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=740364 | SO=chromosome
+3 genes found
+1   tRNA-Asp              c[330171,330242]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaag
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Ser               [330318,330402]	121.7	35  	(gct)
+tgcaaatgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcgacc
+((((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+3   tRNA-Ala               [330458,330533]	108.3	35  	(agc)
+tggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctccagc
+((((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+>LbrM2903_18 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=822729 | SO=chromosome
+0 genes found
+>LbrM2903_19 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=810851 | SO=chromosome
+1 genes found
+1   tRNA-Ser                     [453,615]	101.8	106 	(cga)i(36,69)
+tggcgccgaaggactggggtggagggccgttcgctgccagttggagaatgggctggcccaggcagggctcgtcgtgctgcgacaccttgcttgagttcagcaggtcgaacgcggaggagggctttcggaggagcacccgtcgatcctcttcggtgggtgccag
+(((((((   ((.(dddddddddd).)) ((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))      .((vvvvvvv)).   (((((tttttttt))))))))))))
+>LbrM2903_20.1 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1943446 | SO=chromosome
+11 genes found
+1   tRNA-Val              c[506651,506725]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Ile               [506874,506948]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Met               [507010,507083]	113.6	34  	(cat)
+gcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgcac
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+4   tRNA-Leu              c[507139,507219]	119.8	35  	(tag)
+ggcggagtggccgagtggtctaaggcgccagatttaggctctggtctttcgaggcgtgggttcgaaccccacctccgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))          (((((ttttttt))))))))))))
+5   tRNA-Ser               [507295,507375]	116.9	34  	(tga)
+gtcaacatacccaagtggttacggggtttgacttgaaatcaaatgcgatctcgcgcgcaggttcgaaccctgctgttgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+6   tRNA-Ser              c[858642,858713]	103.2	33  	(gga)
+tgtcctctggcgtggcggaacaccttggcgttggaaacgctgacggtgtcgttttgctcgagagggggacgg
+(((((((( (.((dddddd)).) ((((((  AAA  ))))))   (.(((ttttttt))).)))))))))
+7   tRNA-Asn            c[1517825,1517898]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+8   tRNA-Pro            c[1517956,1518027]	124.4	33  	(cgg)
+ggccgcttggtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+9   tRNA-Thr             [1518107,1518179]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+10  tRNA-Tyr             [1518237,1518321]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagactgcaggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+11  tRNA-Asn             [1518387,1518460]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>LbrM2903_20.2 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=917802 | SO=chromosome
+0 genes found
+>LbrM2903_21 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=783199 | SO=chromosome
+4 genes found
+1   tRNA-Ser              c[162425,162505]	123.0	34  	(gct)
+gcaaacgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcg
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Pro               [460556,460627]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+3   tRNA-Val               [460728,460802]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Lys               [460866,460939]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>LbrM2903_22 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=728622 | SO=chromosome
+0 genes found
+>LbrM2903_23 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=913624 | SO=chromosome
+10 genes found
+1   tRNA-Ile               [239912,239985]	118.5	35  	(tat)
+gctcccgtggtctagttggttaggacgctggtcttatgaaccggatatcgcgggttcgagccccgccgggagca
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Val              c[240041,240113]	111.3	34  	(tac)
+gcgtgggtgatctagtggttatgatgtctgctttacacgcagaacgtcgcgggttcgaaccccgccccgcgta
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Gln              c[240180,240251]	124.9	34  	(ttg)
+ggtcctatggtgtagtggttatcacttcggactttgaatccgaaaacccaggttcgaatcctggtaggacca
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+4   tRNA-Arg              c[240513,240586]	120.3	34  	(acg)
+cgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatga
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+5   tRNA-Leu              c[240811,240894]	117.1	35  	(cag)
+ggcaagatggtcgagtggtccaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+6   tRNA-Thr              c[240953,241026]	119.3	34  	(tgt)
+aggccgcttagcacagtggcagtgcattggtcttgtaaaccaagggtcccgagttcaattctcggagtggcctt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+7   tRNA-Arg               [241098,241171]	121.1	34  	(tcg)
+cggcctcttggcgcaatggaagcgcatcagacttcggatctgagggttgcaggttcgagtcctgcaggggtcgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+8   tRNA-Lys               [241499,241573]	122.0	35  	(ttt)
+cgcactcctagctcagttggtagagcgcgtggcttttaacctcgtggtcgtgggttcgagccccacggagtgcgt
+((((((((  ((((dddddddd))))(((.((  AAA  )).)))    (((((ttttttt)))))))))))))
+9   tRNA-Gly              c[241607,241680]	116.4	34  	(tcc)
+gcaattgtggtccaacggttaagatccccgccttccaagcgggtgacccgggttcgactcccggcaattgcacc
+(((((((  (((dddddddddd))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+10  tRNA-Trp               [241756,241827]	116.8	33  	(cca)
+gggggcttagctcagtggtagagcattggattccaaatccaggggtcgcaggttcaatccctgcagctctca
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LbrM2903_24 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=933121 | SO=chromosome
+7 genes found
+1   tRNA-Pro               [256038,256109]	124.4	33  	(cgg)
+ggccgcttggtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Ile               [585917,586006]	102.8	34  	(gat)
+ccggcggtggcggacgagcttgtgggcggcaccgatattgccgagtgcatgcgtcgcgcagggcttgttgtgccagacaacatcaccggc
+((((.((  .((dddddddddd)). (((((  AAA  )))))    (.(((vvvvv))).)   (((((ttttttt))))))).))))
+3   tRNA-Gln               [708494,708568]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgtc
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+4   tRNA-Leu              c[708754,708835]	111.7	36  	(taa)
+gctggggttcccgagttggtcaaaggggtgagacttaagttctcatgcgcaagcttcgtgggttcgaaccccacctccagca
+(((((((  (((.dddddddddd.)))((((((  AAA  ))))))           (((((ttttttt))))))))))))
+5   tRNA-Ile               [708913,708987]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Asp              c[766180,766252]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+7   tRNA-Leu              c[871157,871361]	101.6	36  	(gag)i(41,112)
+ggtggtgttggagcggcgttggggtggtcgtacttgaggcacattcagctacccgcgggcccgtcgcgactcccgtggagcggcgtggtgttcgggcaccgcggttgtcgtggtgtgacggggataccggagaatacactggaggcgttccggtacgccgccgcacacgggtgtggcggcatcgagtgcgacgctcgcctcacca
+(((((.(   .(.(dddddddd).).  (((((  AAA  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii)))))...(.vvvvvvvvvvvvvv.)... ((((ttttttt))))).)))))
+>LbrM2903_25 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=968025 | SO=chromosome
+0 genes found
+>LbrM2903_26 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1030512 | SO=chromosome
+0 genes found
+>LbrM2903_27 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1281939 | SO=chromosome
+0 genes found
+>LbrM2903_28 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1239708 | SO=chromosome
+1 genes found
+1   tRNA-Ser              c[243278,243360]	101.5	43  	(cga)i(32,10)
+ggcggcgctgctcaagattgtggaggaggtcaaggcggttgtcgaggacttcaagccgtgggtgccattcctatcgtcgctgc
+(((((((   (((ddddddddd)))((((( iiiiiiiiii AAA  )))))     (((((ttttttt))))))))))))
+>LbrM2903_29 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1257134 | SO=chromosome
+0 genes found
+>LbrM2903_30 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1460206 | SO=chromosome
+1 genes found
+1   tRNA-Thr              c[750440,750511]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtggggttcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LbrM2903_31 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1738660 | SO=chromosome
+7 genes found
+1   tRNA-Leu                c[51385,51466]	117.8	35  	(caa)
+ggcaggatggccgagtggtctaaggcgggagactcaagttctcttctattcgtaggcgcgggttcgaaccccgctcctgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ser                c[51521,51601]	119.6	34  	(cga)
+gtcaccatacccaagtggttacgggggttgactcgaaatcaactgcgatctcgcgcgcaggttcgaatcctgctggtgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Ala               [300310,300384]	108.3	35  	(agc)
+tggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctccat
+((((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+4   tRNA-Gly               [639152,639222]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+5   tRNA-Glu              c[639272,639343]	118.1	34  	(ctc)
+tccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+6   tRNA-Phe             [1565564,1565636]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+7   tRNA-Ser            c[1565678,1565759]	118.3	34  	(aga)
+gtcaccatacccaagtggttacggggactgactagaaatcagttgcgatctcgcgcgtaggttcgaatcctgctggtgacgc
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>LbrM2903_32 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1666992 | SO=chromosome
+1 genes found
+1   tRNA-Val               [855005,855144]	101.3	80  	(cac)i(30,48)
+cggccccgtgcaacggacgaattgacttgccttgcgctggtgtcgctgcgagtgtcagtgaggaagcaagaaacaagttcacgagaagtgcgatgacagcaagaaggaagtgccgctggttccgctgcagcggggccagc
+.((((((   (((dddddddd)))((((.iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  .))))                         ((((.ttttttt.)))))))))).
+>LbrM2903_33 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1581728 | SO=chromosome
+6 genes found
+1   tRNA-Arg                c[94432,94505]	118.9	34  	(cct)
+gcccttgtagcctaatggatatggcgtttgcttcctaagcaaaaggttgcgggttcgagtcccgccaggggtac
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Arg                c[94565,94639]	125.8	35  	(tct)
+tgctccagtggcctaatggataaggctttggacttctaatccaaagattgcgggttcgaatcccgcctggagtag
+((((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt)))))))))))))
+3   tRNA-Ala                 [94715,94786]	117.5	33  	(tgc)
+gggcgtgtagctcagtggtagagcgcctgttttgcatacaggaggcctagggttcaaacccctactcgtcca
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+4   tRNA-Lys              c[553472,553545]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+5   tRNA-Lys              c[604608,604681]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+6   tRNA-Ala            c[1113275,1113380]	101.5	46  	(tgc)i(34,11)
+gcagcagctgccaaaggtgttgtcagccaggacaaacaaccgcattgcgcttgtggggcagtgcgggttgtccatcgccgcagtgtgagtccgcgctgccgcccca
+((.((((   (..(dddddddd)..) ((.(( iiiiiiiiiii AAA  )).))        (((.vvvvvv.))) (((.(ttttttt).))))))).))
+>LbrM2903_34 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=2192442 | SO=chromosome
+0 genes found
+>LbrM2903_35 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=2890053 | SO=chromosome
+16 genes found
+1   tRNA-Gly               [368134,368319]	100.7	37  	(tcc)i(41,86)
+ggtggttttggagtagtcttgctgtctcgtcctttttccactttcttccctcgtcgtcaagggcaacaacgcaccacattaagggataatgtgcgtgtgcgtgggtggtttaagacttgatgagcgcaaggagactgtaacttgacggtgagaggataccaagtgctagtcctgtgcgccgctgcc
+((((((.(  (((.dddddddddd.))) (((((  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii ))))) ...vvvvv...              .((.(ttttttt).)).).))))))
+2   tRNA-Thr               [562266,562339]	117.1	34  	(agt)
+aggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggccta
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+3   tRNA-Tyr               [562406,562490]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagttcgcaggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+4   tRNA-Ala               [870967,871170]	102.6	37  	(ggc)i(38,108)
+caggcagtggagaatagctgctatttcgtcagttctgaatgtgtcgtccctacaacggagattggcgctgttgcgctgtacgacatagttgagcgtctgcccgcgcttgatccgctcttctgcagtataacgtggggcaatgatggccgaaccgcagagaccttcatcgaggtcgcctcagtgtgccagtcgctgctgtctgtc
+(((((((  ((((dddddddddd))))  (.(((  AiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiAA  ))).)     ..((vvvvvvv))..    (((((ttttttt))))))))))))
+5   tRNA-Pro            c[1119251,1119322]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+6   tRNA-Gly             [1119396,1119467]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgcac
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+7   tRNA-Thr             [1119529,1119600]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+8   tRNA-Thr            c[1119828,1119899]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+9   tRNA-Gly            c[1119961,1120032]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgcac
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+10  tRNA-Cys             [2649033,2649105]	122.6	33  	(gca)
+ggattcatagctcagtggtagagcattcggctgcagtccgaatggtccccggttcaaacccgggtgggtcctc
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+11  tRNA-Leu            c[2661317,2661399]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+12  tRNA-Leu            c[2662752,2662834]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+13  tRNA-Leu            c[2664175,2664257]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+14  tRNA-Leu            c[2665612,2665694]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+15  tRNA-Met            c[2665761,2665832]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+16  tRNA-Pro             [2665905,2665976]	122.1	33  	(tgg)
+ggtcgtttggtctagtggtatgattcctgttttgggtacaggaggtcacgggttcaattcccgtaacgaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>LBRM2903_SCAF000001 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1219 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000002 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1231 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000003 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=235 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000004 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=218 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000005 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=252 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000006 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1967 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000007 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=524 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000008 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=251 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000009 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=361 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000010 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=601 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000011 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=299 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000012 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=243 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000013 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=2313 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000014 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=448 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000015 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=313 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000016 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=461 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000017 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=595 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000018 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=508 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000019 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=764 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000020 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1265 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000021 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=494 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000022 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=318 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000023 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=235 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000024 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=247 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000025 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=805 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000026 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=718 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000027 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=456 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000028 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=345 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000029 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=759 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000030 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=460 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000031 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=233 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000032 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=427 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000033 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=286 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000034 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=259 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000035 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=617 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000036 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=475 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000037 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=525 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000038 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=361 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000039 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=658 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000040 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=422 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000041 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=627 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000042 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=469 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000043 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=413 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000044 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=215 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000045 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=290 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000046 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=468 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000047 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1196 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000048 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=353 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000049 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=470 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000050 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=317 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000051 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=288 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000052 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=258 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000053 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=306 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000054 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=636 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000055 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=274 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000056 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1122 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000057 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=488 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000058 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=243 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000059 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=648 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000060 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=482 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000061 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=811 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000062 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=430 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000063 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=284 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000064 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=227 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000065 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=346 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000066 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=405 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000067 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=490 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000068 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=726 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000069 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=231 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000070 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=433 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000071 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=689 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000072 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=246 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000073 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=301 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000074 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=242 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000075 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1181 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000076 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=288 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000077 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=280 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000078 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=210 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000079 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1654 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000080 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1795 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000081 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=752 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000082 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=316 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000083 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=691 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000084 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=381 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000085 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1282 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000086 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1414 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000087 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1129 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000088 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=212 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000089 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1748 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000090 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=509 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000091 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=692 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000092 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=804 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000093 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=630 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000094 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=969 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000095 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=433 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000096 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=386 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000097 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=309 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000098 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=283 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000099 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=871 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000100 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=559 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000101 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1277 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000102 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=477 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000103 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=216 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000104 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=311 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000105 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=302 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000106 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=509 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000107 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1500 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000108 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=248 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000109 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=434 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000110 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1281 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000111 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=252 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000112 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=221 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000113 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=600 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000114 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=417 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000115 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1233 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000116 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1124 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000117 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=676 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000118 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=342 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000119 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=312 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000120 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=254 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000121 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=744 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000122 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=597 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000123 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1304 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000124 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=854 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000125 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=953 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000126 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=352 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000127 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=223 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000128 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=943 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000129 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=476 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000130 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=976 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000131 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=332 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000132 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=333 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000133 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=296 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000134 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=448 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000135 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=3160 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000136 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=239 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000137 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=242 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000138 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=333 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000139 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=547 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000140 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=343 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000141 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=266 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000142 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=232 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000143 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=228 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000144 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1300 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000145 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=308 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000146 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1816 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000147 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=750 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000148 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=261 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000149 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=242 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000150 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=241 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000151 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=227 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000152 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=373 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000153 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=456 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000154 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=690 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000155 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=452 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000156 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=759 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000157 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=280 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000158 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1194 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000159 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1510 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000160 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=783 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000161 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=374 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000162 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=335 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000163 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=220 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000164 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=407 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000165 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1201 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000166 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=269 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000167 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=315 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000168 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=946 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000169 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=207 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000170 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=295 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000171 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1281 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000172 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1311 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000173 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1295 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000174 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=214 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000175 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=480 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000176 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=250 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000177 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=271 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000178 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=307 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000179 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=272 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000180 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=262 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000181 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=219 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000182 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=476 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000183 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=309 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000184 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=555 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000185 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=220 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000186 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=223 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000187 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=444 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000188 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=727 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000189 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=220 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000190 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=750 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000191 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=359 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000192 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=260 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000193 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=275 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000194 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1225 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000195 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=232 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000196 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=321 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000197 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1300 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000198 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=2315 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000199 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=275 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000200 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=488 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000201 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=308 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000202 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=379 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000203 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=200 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000204 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=209 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000205 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=435 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000206 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=233 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000207 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=823 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000208 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=324 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000209 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=258 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000210 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1717 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000211 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=242 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000212 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=317 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000213 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1101 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000214 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=411 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000215 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=257 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000216 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=385 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000217 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=587 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000218 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=254 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000219 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=370 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000220 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=334 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000221 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=971 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000222 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=406 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000223 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=423 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000224 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=317 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000225 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=847 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000226 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=426 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000227 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1039 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000228 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=203 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000229 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1122 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000230 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=240 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000231 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=215 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000232 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1228 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000233 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=209 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000234 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=266 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000235 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=520 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000236 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=205 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000237 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=203 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000238 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=273 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000239 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=479 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000240 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=727 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000241 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=468 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000242 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=6251 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000243 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=203 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000244 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=298 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000245 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=238 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000246 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=315 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000247 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=348 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000248 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=300 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000249 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=270 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000250 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=246 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000251 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=256 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000252 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=429 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000253 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=413 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000254 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=596 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000255 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=499 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000256 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=346 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000257 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=654 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000258 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=264 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000259 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=334 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000260 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=655 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000261 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1215 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000262 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=520 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000263 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=200 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000264 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=587 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000265 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=614 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000266 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=270 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000267 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=260 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000268 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=631 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000269 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=488 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000270 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=918 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000271 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=307 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000272 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=429 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000273 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=840 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000274 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=265 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000275 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=414 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000276 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=581 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000277 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=203 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000278 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=380 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000279 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=357 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000280 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=16798 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000281 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=356 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000282 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=269 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000283 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=806 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000284 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=752 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000285 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=475 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000286 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=452 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000287 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1192 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000288 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1229 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000289 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=732 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000290 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=442 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000291 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=314 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000292 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=212 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000293 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=424 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000294 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1198 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000295 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=2652 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000296 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=362 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000297 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=263 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000298 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=412 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000299 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=483 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000300 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=716 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000301 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=474 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000302 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=323 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000303 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=255 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000304 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=411 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000305 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=234 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000306 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=471 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000307 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=315 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000308 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=308 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000309 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=225 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000310 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=200 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000311 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=200 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000312 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=459 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000313 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=201 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000314 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=412 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000315 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=408 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000316 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=203 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000317 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=482 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000318 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=201 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000319 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=392 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000320 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=203 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000321 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=203 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000322 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=244 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000323 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=493 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000324 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=289 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000325 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=205 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000326 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=203 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000327 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=235 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000328 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=397 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000329 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=350 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000330 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=306 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000331 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=204 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000332 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=483 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000333 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=325 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000334 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=414 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000335 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=203 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000336 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=677 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000337 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=235 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000338 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=207 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000339 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1280 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000340 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=206 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000341 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=550 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000342 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=209 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000343 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=288 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000344 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1243 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000345 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=209 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000346 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1300 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000347 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=357 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000348 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=415 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000349 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=209 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000350 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=212 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000351 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=212 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000352 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=212 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000353 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=342 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000354 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=214 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000355 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=490 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000356 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=217 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000357 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=461 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000358 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=851 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000359 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1116 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000360 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=222 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000361 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=216 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000362 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=217 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000363 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=218 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000364 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=669 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000365 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=455 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000366 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=362 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000367 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=371 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000368 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=401 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000369 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=219 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000370 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=222 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000371 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=412 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000372 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=224 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000373 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=308 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000374 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=221 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000375 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=222 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000376 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=223 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000377 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=222 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000378 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=635 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000379 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=250 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000380 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=497 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000381 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=223 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000382 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=300 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000383 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=223 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000384 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=246 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000385 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=432 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000386 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=227 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000387 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=381 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000388 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=231 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000389 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=329 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000390 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=210 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000391 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=227 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000392 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=233 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000393 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=408 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000394 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=362 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000395 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=824 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000396 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=723 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000397 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=971 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000398 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=442 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000399 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=233 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000400 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=233 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000401 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=234 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000402 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=235 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000403 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=404 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000404 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=464 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000405 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=233 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000406 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=239 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000407 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=555 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000408 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=468 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000409 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=239 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000410 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=592 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000411 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=241 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000412 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=239 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000413 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=245 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000414 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=471 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000415 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1003 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000416 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=238 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000417 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=433 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000418 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=384 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000419 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=376 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000420 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=246 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000421 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=247 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000422 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=227 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000423 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=246 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000424 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=619 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000425 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=324 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000426 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=208 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000427 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=566 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000428 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1292 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000429 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=253 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000430 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=252 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000431 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=254 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000432 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=257 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000433 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1386 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000434 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=219 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000435 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=467 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000436 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1889 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000437 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=256 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000438 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=374 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000439 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=257 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000440 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=260 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000441 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=259 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000442 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=354 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000443 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1153 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000444 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=742 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000445 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=263 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000446 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=266 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000447 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=265 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000448 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=265 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000449 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=379 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000450 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=297 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000451 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=282 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000452 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=265 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000453 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=805 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000454 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=332 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000455 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=272 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000456 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=271 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000457 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=270 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000458 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=270 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000459 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=494 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000460 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=273 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000461 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=363 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000462 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=229 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000463 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=669 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000464 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=317 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000465 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=382 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000466 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=218 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000467 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=278 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000468 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=279 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000469 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=282 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000470 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=283 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000471 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=437 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000472 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=283 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000473 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=287 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000474 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=462 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000475 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=292 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000476 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=293 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000477 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1802 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000478 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=295 | SO=supercontig
+2 genes found
+1   tRNA-Phe                      [52,124]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Ser                    c[166,247]	118.3	34  	(aga)
+gtcaccatacccaagtggttacggggactgactagaaatcagttgcgatctcgcgcgtaggttcgaatcctgctggtgacgc
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>LBRM2903_SCAF000479 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=651 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000480 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=230 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000481 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=314 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000482 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=978 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000483 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=300 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000484 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=300 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000485 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=299 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000486 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1142 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000487 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1271 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000488 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=301 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000489 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=739 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000490 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=302 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000491 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=459 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000492 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=966 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000493 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=305 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000494 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=308 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000495 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=277 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000496 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=308 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000497 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=329 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000498 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=294 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000499 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=249 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000500 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1039 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000501 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=329 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000502 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=336 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000503 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=3789 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000504 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=315 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000505 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=321 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000506 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=248 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000507 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=245 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000508 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=323 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000509 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=343 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000510 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=326 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000511 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=220 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000512 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1034 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000513 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=327 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000514 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=308 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000515 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=334 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000516 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=332 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000517 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=566 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000518 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1236 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000519 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=310 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000520 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=644 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000521 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=317 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000522 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=458 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000523 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=2606 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000524 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=269 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000525 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=251 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000526 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=270 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000527 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=264 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000528 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=321 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000529 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=462 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000530 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=473 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000531 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=351 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000532 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=263 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000533 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=258 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000534 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=944 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000535 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=332 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000536 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=601 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000537 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=867 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000538 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=513 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000539 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=645 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000540 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1258 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000541 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1097 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000542 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=795 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000543 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=478 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000544 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=309 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000545 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=552 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000546 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=649 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000547 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=968 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000548 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=313 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000549 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=537 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000550 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1288 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000551 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=348 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000552 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=350 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000553 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=481 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000554 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=968 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000555 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=372 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000556 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=354 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000557 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=540 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000558 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=307 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000559 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=263 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000560 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=356 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000561 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=290 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000562 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1124 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000563 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=453 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000564 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=566 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000565 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=453 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000566 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=221 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000567 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=279 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000568 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=15556 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000569 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=355 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000570 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=462 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000571 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=217 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000572 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=362 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000573 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=557 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000574 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1189 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000575 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=236 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000576 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1548 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000577 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=619 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000578 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1500 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000579 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=418 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000580 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=365 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000581 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=558 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000582 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=216 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000583 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=559 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000584 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=300 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000585 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=506 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000586 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=605 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000587 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=339 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000588 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=276 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000589 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=226 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000590 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=248 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000591 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=274 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000592 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=383 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000593 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=519 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000594 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=765 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000595 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=541 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000596 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1301 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000597 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1071 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000598 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=354 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000599 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=235 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000600 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1811 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000601 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1336 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000602 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=465 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000603 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=398 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000604 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=317 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000605 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1146 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000606 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1844 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000607 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=347 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000608 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=545 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000609 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1300 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000610 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=450 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000611 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=308 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000612 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=415 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000613 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=219 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000614 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=440 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000615 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=463 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000616 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=560 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000617 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1166 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000618 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1259 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000619 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=253 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000620 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=359 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000621 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=263 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000622 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=637 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000623 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=202 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000624 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1062 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000625 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=363 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000626 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1246 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000627 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=327 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000628 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=479 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000629 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=286 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000630 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1853 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000631 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=421 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000632 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=594 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000633 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=229 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000634 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1199 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000635 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=430 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000636 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=841 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000637 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=429 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000638 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=520 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000639 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=512 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000640 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=484 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000641 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=444 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000642 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=940 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000643 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=448 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000644 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1191 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000645 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1154 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000646 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=309 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000647 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=413 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000648 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=452 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000649 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=676 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000650 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=496 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000651 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=255 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000652 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=469 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000653 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=485 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000654 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=294 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000655 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=376 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000656 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=410 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000657 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1216 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000658 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=334 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000659 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=400 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000660 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=493 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000661 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=342 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000662 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=418 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000663 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=437 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000664 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=498 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000665 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=441 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000666 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=324 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000667 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=523 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000668 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=852 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000669 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=534 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000670 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1223 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000671 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=330 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000672 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=442 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000673 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=548 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000674 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=806 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000675 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1267 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000676 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=939 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000677 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=596 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000678 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=244 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000679 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1296 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000680 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=598 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000681 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=597 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000682 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=330 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000683 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1142 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000684 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=628 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000685 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=234 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000686 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1106 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000687 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=5652 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000688 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=391 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000689 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1194 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000690 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=630 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000691 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1231 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000692 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=550 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000693 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1213 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000694 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1259 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000695 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1200 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000696 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=821 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000697 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=296 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000698 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=674 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000699 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=262 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000700 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=709 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000701 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=386 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000702 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1938 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000703 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=404 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000704 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1200 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000705 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=1284 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000706 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=398 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000707 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=353 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000708 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=560 | SO=supercontig
+0 genes found
+>LBRM2903_SCAF000709 | organism=Leishmania_braziliensis_MHOM/BR/75/M2903 | version=2014-12-16 | length=905 | SO=supercontig
+0 genes found
+>end 	745 sequences 102 tRNA genes, nothing found in 724 sequences, (2.82% sensitivity)

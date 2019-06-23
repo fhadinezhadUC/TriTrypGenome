@@ -1,0 +1,122 @@
+Tcruzi_11019.trna1 (42-115)	Length: 74 bp
+Type: Ile	Anticodon: GAT at 35-37 (76-78)	Score: 76.4
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GCGAGCGTAGCTCAGCTGGTtAGAGCACACGACTGATAATCGTGAGGtCGATGGTTCAAGTCCATTCGTTCGCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+Tcruzi_11097.trna1 (441-528)	Length: 88 bp
+Type: SeC	Anticodon: TCA at 36-38 (476-478)	Score: 117.6
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *  
+Seq: GCCACGATGAGCTCAGCTGGTGCTGGGTGCGGGCTTCAAACCCGTAGGCGAGtTGGACTCGCAGCCGTTCGATTCGGCCTTTGTGGTG
+Str: >>>>>>>.>..>>>>>>....<<<<<<>>>>>>.......<<<<<<.>>>>>.....<<<<<.>>>>.......<<<<<.<<<<<<<.
+
+Tcruzi_11959.trna1 (857-770)	Length: 88 bp
+Type: SeC	Anticodon: TCA at 36-38 (822-820)	Score: 117.6
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *  
+Seq: GCCACGATGAGCTCAGCTGGTGCTGGGTGCGGGCTTCAAACCCGTAGGCGAGtTGGACTCGCAGCCGTTCGATTCGGCCTTTGTGGTG
+Str: >>>>>>>.>..>>>>>>....<<<<<<>>>>>>.......<<<<<<.>>>>>.....<<<<<.>>>>.......<<<<<.<<<<<<<.
+
+Tcruzi_14021.trna1 (174-87)	Length: 88 bp
+Type: SeC	Anticodon: TCA at 36-38 (139-137)	Score: 117.6
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *  
+Seq: GCCACGATGAGCTCAGCTGGTGCTGGGTGCGGGCTTCAAACCCGTAGGCGAGtTGGACTCGCAGCCGTTCGATTCGGCCTTTGTGGTG
+Str: >>>>>>>.>..>>>>>>....<<<<<<>>>>>>.......<<<<<<.>>>>>.....<<<<<.>>>>.......<<<<<.<<<<<<<.
+
+Tcruzi_16613.trna1 (859-779)	Length: 81 bp
+Type: Ser	Anticodon: CGA at 34-36 (826-824)	Score: 69.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+Seq: GTCACCATACCCAAGTGGTtACGGGGACTGACTCGAAATCAGTTGCGATCTCGCGCGCAGGTTCGAATCCTGCTGGTGACG
+Str: >>>>>>>..>>>..........<<<.>>>>>.......<<<<<.>>>....<<<..>>>>>.......<<<<<<<<<<<<.
+
+Tcruzi_16613.trna2 (724-643)	Length: 82 bp
+Type: Leu	Anticodon: CAA at 35-37 (690-688)	Score: 75.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGCAAGATGGCCGAGTGGTctAAGGCGGGAGACTCAAGTTCTCTTCTATTCGTAGGCGTGGGTTCGAACCCCACTCTTGTCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<.>>>....<<<..>>>>>.......<<<<<<<<<<<<.
+
+Tcruzi_18653.trna1 (556-643)	Length: 88 bp
+Type: SeC	Anticodon: TCA at 36-38 (591-593)	Score: 117.6
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *  
+Seq: GCCACGATGAGCTCAGCTGGTGCTGGGTGCGGGCTTCAAACCCGTAGGCGAGtTGGACTCGCAGCCGTTCGATTCGGCCTTTGTGGTG
+Str: >>>>>>>.>..>>>>>>....<<<<<<>>>>>>.......<<<<<<.>>>>>.....<<<<<.>>>>.......<<<<<.<<<<<<<.
+
+Tcruzi_20084.trna1 (620-691)	Length: 72 bp
+Type: Cys	Anticodon: GCA at 34-36 (653-655)	Score: 48.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GCCACCATAGCCAAACGGCcAAGGCATAGGTCTGCAACACCTTGAtTACCGGTTCGAATCCGGTTGGTGGCT
+Str: >>>>>>>..>>>..........<<<..>>>>.......<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+Tcruzi_22175.trna1 (512-440)	Length: 73 bp
+Type: Ile	Anticodon: TAT at 33-35 (480-478)	Score: 49.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCGCAGTTGGTCCAGTGGGAGAATTCCCGCATTATCctAGCGGGGGGCCCGGGTTCGATTCCCGGACTGCGCA
+Str: >>>>>>>..>>.>.......<.<<.>>>>>.........<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+Tcruzi_22215.trna1 (491-418)	Length: 74 bp
+Type: Pro	Anticodon: TGG at 35-37 (457-455)	Score: 72.5
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GGAGAAGTAGCTCAGCTtGGTAGAGCACTTGACTTGGGCTCAAGCGGtCGCAGGTTCGAATCCTGTCTTCTTCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+Tcruzi_22215.trna2 (409-336)	Length: 74 bp
+Type: Ala	Anticodon: TGC at 35-37 (375-373)	Score: 60.5
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GGGGGGGTAGCTCACCTGGCcAGAGCGCCTGCCTTGCACGCAGGAGGtAGAGGGTTCGAGTCCCTTCCTCTCCA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+Tcruzi_22215.trna3 (328-255)	Length: 74 bp
+Type: Met	Anticodon: CAT at 35-37 (294-292)	Score: 70.3
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GGCATTGTAGCTCAGTTGGTtAGAGCGTCCGGTTCATACCCGGAAGGtCAAGAGTTCGACTCTCTTCGGTGCTA
+Str: >>>>>>>..>>>>.........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+Tcruzi_22215.trna4 (223-151)	Length: 73 bp
+Type: Met	Anticodon: CAT at 34-36 (190-188)	Score: 77.1
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GGACCCATAGCTCAATGGTtAGAGCAACCGGCTCATAACCGGTCGGtTACAGGTTCGAGTCCTGTTGGGTCCA
+Str: >>>>>>>..>>>>........<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+Tcruzi_22215.trna5 (145-58)	Length: 88 bp
+Type: Ser	Anticodon: TGA at 35-37 (111-109)	Score: 46.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *  
+Seq: GGGCAATTACCCAAGAGGCtgAAGGGAGCAGTCTTGAAAACTGcCAGGGGCTTCACGGCCCGCGGGGGTTCAAATCCCTCATTGCCCG
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<.<..>>>>>....<<<<<..>>>>>.......<<<<<<<<<<<<.
+
+Tcruzi_230.trna1 (1006-932)	Length: 75 bp
+Type: Undet	Anticodon: NNN at 0-0 (0-0)	Score: 21.8
+Possible pseudogene
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    
+Seq: GtGTGGTCGAGTGGTctAAGGCGTTGGAtggggaacCACGTTTAGaCGgTGccGGTTCGAATCCCACCATCAACA
+Str: >.>..>>>...........<<<.>.............<.........>.>>..>>.......<<<<<<.....<.
+
+Tcruzi_232.trna1 (172-251)	Length: 80 bp
+Type: Leu	Anticodon: AAG at 35-37 (206-208)	Score: 67.8
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    
+Seq: GGTGGAGTGGCCGAGCGGTctAAGGCGCTGGTTTAAGGCACCAGTccgaaaGGgCGTGGGTTCGAATCCCACCTCCATCA
+Str: >>>>>>>..>>>...........<<<.>>>>>.......<<<<<...........>>>>>.......<<<<<<<<<<<<.
+
+Tcruzi_263.trna1 (347-276)	Length: 72 bp
+Type: Pro	Anticodon: CGG at 33-35 (315-313)	Score: 59.7
+         *    |    *    |    *    |    *    |    *    |    *    |    *    | 
+Seq: GGCCTAGTGGTCTAGGTGTATGATACTCGCTTCGGGTGCGAGTGGtCCCGGGTTCGAATCCCGGCTGGGCCC
+Str: >>>>>>>..>>>.........<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+
+Tcruzi_28068.trna1 (1234-1162)	Length: 73 bp
+Type: Ile	Anticodon: TAT at 33-35 (1202-1200)	Score: 49.9
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |  
+Seq: GCGCAGTTGGTCCAGTGGGAGAATTCCCGCATTATCctAGCGGGGGGCCCGGGTTCGATTCCCGGACTGCGCA
+Str: >>>>>>>..>>.>.......<.<<.>>>>>.........<<<<<....>>>>>.......<<<<<<<<<<<<.
+
+Tcruzi_28162.trna1 (15-102)	Length: 88 bp
+Type: SeC	Anticodon: TCA at 36-38 (50-52)	Score: 117.6
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *  
+Seq: GCCACGATGAGCTCAGCTGGTGCTGGGTGCGGGCTTCAAACCCGTAGGCGAGtTGGACTCGCAGCCGTTCGATTCGGCCTTTGTGGTG
+Str: >>>>>>>.>..>>>>>>....<<<<<<>>>>>>.......<<<<<<.>>>>>.....<<<<<.>>>>.......<<<<<.<<<<<<<.
+
+Tcruzi_7392.trna1 (7199-7126)	Length: 74 bp
+Type: Ile	Anticodon: TAT at 33-35 (7167-7165)	Score: 20.4
+Possible pseudogene
+         *    |    *    |    *    |    *    |    *    |    *    |    *    |   
+Seq: GCGCAGTTGGTCCAGTGGGAGAATGCCCGCATTATCctAGCGGGGGGCCCGGGTTCGATTCCTGcCACTGCAGA
+Str: ..>>>>>..>>.>.......<.<<.>>>>>.........<<<<<.....>>>>.......<<<<..<<<<<...
+

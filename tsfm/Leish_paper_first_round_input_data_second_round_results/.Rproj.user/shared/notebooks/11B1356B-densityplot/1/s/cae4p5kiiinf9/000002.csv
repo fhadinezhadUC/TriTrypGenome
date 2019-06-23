@@ -1,0 +1,31 @@
+"0","```r
+library(ggplot2)
+geneDF <- read.table(\"integrated_tse_ara.txt\",header = TRUE)
+geneDF2 <- geneDF[geneDF$foundby == \"ara\" | geneDF$foundby == \"both\",]
+geneDF2$arascore <- as.double(geneDF2$arascore)
+geneDF2$Foundby <- \"Aragorn-only\"
+geneDF2[geneDF2$foundby!=\"ara\",]$Foundby <- \"Both\"
+geneDF2[geneDF2$tsenote!=\"notfound\",]$Foundby <- \"Pseudo/Truncated\"
+geneDF2$Foundby <- factor(geneDF2$Foundby,levels=c(\"Both\",\"Aragorn-only\",\"Pseudo/Truncated\"))
+#\"Aragorn score of genes found by both genefinders TSE and ARA, and genes found by only ARA\"
+araplot <- ggplot(geneDF2,
+         aes(
+           x = arascore,
+           fill = Foundby
+         )) + theme_bw() +
+    geom_density(alpha=0.3) + xlab(\"Aragorn Score\") + ggtitle(\"Aragorn Score Distributions\") +    theme(legend.title=element_blank())
+
+geneDF3 <- geneDF[geneDF$foundby == \"tse\" | geneDF$foundby == \"both\",]
+geneDF3$tsescore <- as.double(geneDF3$tsescore)
+geneDF3$Foundby <- \"tRNAscan-SE2-only\"
+geneDF3[geneDF3$foundby ==\"both\",]$Foundby <- \"Both Gene-Finders\"
+geneDF2$Foundby <- factor(geneDF2$Foundby,levels=c(\"Both Gene-Finders\",\"tRNAscan-SE2-only\"))
+tseplot <- ggplot(geneDF3,
+         aes(
+           x = tsescore,
+           fill = Foundby
+         )) + theme_bw() +
+    geom_density(alpha=0.3) + xlab(\"tRNAscan-SE2 Score\") + ggtitle(\"tRNAscan-SE2 Score Distributions\") + theme(legend.title=element_blank())
+library(gridExtra)
+grid.arrange(araplot, tseplot, ncol=1)
+```"

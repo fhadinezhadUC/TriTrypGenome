@@ -1,0 +1,2997 @@
+>LtaP01 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=268009 | SO=chromosome
+0 genes found
+>LtaP02 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=309408 | SO=chromosome
+0 genes found
+>LtaP03 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=370855 | SO=chromosome
+0 genes found
+>LtaP04 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=432255 | SO=chromosome
+0 genes found
+>LtaP05 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=456081 | SO=chromosome
+2 genes found
+1   tRNA-Asp              c[194782,194962]	101.2	37  	(gtc)i(39,84)
+gagagccattgccgacggcatgggaaggctgcggctgtggcagcgaggtagcgtccaccttgtcatgcttacccttgccttgatggcagtggctgctgctgctgctgctgcgccgatggctgcgctcgtgtgagggggagtttcgacgcggatcttccagcttcgactgctggggctctcg
+(((((((   (((.ddddddddddd.)))(((((  AAiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiA  )))))     ..(.((vvvv)).)..     (((((ttttttt))))))))))))
+2   tRNA-Arg               [359683,359754]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LtaP06 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=518762 | SO=chromosome
+1 genes found
+1   tRNA-SeC                c[65340,65427]	108.3	36  	(tca)
+gccgcgatgagctcagctggtgctgggtgcgggcttcaaacccgtaggtgagttgctctcacagccgttcgattcggccttcgtggcg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+>LtaP07 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=566255 | SO=chromosome
+1 genes found
+1   tRNA-Arg              c[373269,373340]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LtaP08 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=451383 | SO=chromosome
+1 genes found
+1   tRNA-Asn              c[212962,213095]	101.7	74  	(gtt)i(35,38)
+ctgccacatagttggggttctgcggctgcagcatcgaggcgtcaccactgcctttggctgcgtagcgcacgatgttattgttgcagaggctgtagcttctgggcacgatcgccgttccgtttggcggtgcttgc
+(.(.(((   ((((dddddddd))))  ((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))     .(.(vvvvvv).).       (((((ttttttt)))))))).).)
+>LtaP09 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=539390 | SO=chromosome
+9 genes found
+1   tRNA-Met               [249917,249988]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Leu               [250049,250131]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+3   tRNA-Val               [377748,377821]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-His               [378062,378133]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+5   tRNA-Phe              c[378293,378366]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggcac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Glu              c[390261,390332]	118.0	34  	(ttc)
+tccgatgtagtataacggttagaacacctggctttcacccaggagatccgggttcgattcccggtatcggag
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+7   tRNA-Val              c[390577,390650]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+8   tRNA-Arg               [390726,390798]	118.6	33  	(ccg)
+gacgttgtggcgcaatggaagcgcgtcggattccggatccgaaggttgtgggttcgacccccatcagcgttgc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+9   tRNA-His               [390868,390939]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>LtaP10 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=609553 | SO=chromosome
+2 genes found
+1   tRNA-Gly              c[583478,583548]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Asn              c[583603,583675]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggag
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>LtaP11 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=550719 | SO=chromosome
+3 genes found
+1   tRNA-Gly               [153428,153498]	122.0	33  	(ccc)
+gcgccgctggtctagtggcatgatggtaccctcccaaggtattgacccgggttcgattcccgggcggcgca
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Met              c[368654,368730]	113.6	35  	(cat)
+tgcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgcatcc
+(((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).)))))
+3   tRNA-Arg               [368802,368875]	120.3	34  	(acg)
+tgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatga
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+>LtaP12 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=519763 | SO=chromosome
+0 genes found
+>LtaP13 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=603752 | SO=chromosome
+0 genes found
+>LtaP14 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=596211 | SO=chromosome
+0 genes found
+>LtaP15 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=571788 | SO=chromosome
+3 genes found
+1   tRNA-Asp               [285465,285537]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Glu              c[285582,285653]	118.1	34  	(ctc)
+tccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+3   tRNA-Glu              c[293395,293468]	118.1	35  	(ctc)
+ttccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaat
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+>LtaP16 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=665205 | SO=chromosome
+1 genes found
+1   tRNA-Gln              c[412031,412104]	119.8	35  	(ctg)
+tgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtga
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+>LtaP17 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=653368 | SO=chromosome
+5 genes found
+1   tRNA-Thr               [177015,177199]	101.9	124 	(tgt)i(38,85)
+gctgcgactgcgtagcggacacggatgcgagaccgccaccggcctgcttcgaggagtgccgctgaggcgaaggtgagccaaacggtaatgaccgctcctgccgcagtgcagtagagtggctgttgtgggtggaagtggacccgccgggcaacttgccaccgcagttcggctctgcgccgtcgtcc
+((.(((.   ((((ddddddddddd))))  .(((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))). ((((vvvvvvvvvvvvvv))))   (((((ttttttt))))).))).))
+2   tRNA-Asp              c[314700,314772]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Ser               [314851,314931]	121.7	34  	(gct)
+gcaaatgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcg
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+4   tRNA-Ala               [314991,315065]	108.3	35  	(agc)
+tggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctccag
+((((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+5   tRNA-Thr              c[527600,527731]	101.0	39  	(tgt)i(43,33)
+ggccgtccgtcgttcggggcttgtaaggaatcggtgcttgtggaggcaagtgagttactctgtgcgccgtcctcgacatcggcggcgtcgtctccgaggcgcagcgcgcgctccgttgcgtgcgagcggcca
+((((((.(   .(((ddddddddddd))). (((((  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii )))))....vvvvvvvvvvvv....    (((((tttttttt)))))).))))))
+>LtaP18 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=688166 | SO=chromosome
+0 genes found
+>LtaP19 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=646181 | SO=chromosome
+0 genes found
+>LtaP20 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=689793 | SO=chromosome
+1 genes found
+1   tRNA-Tyr               [629304,629479]	100.1	117 	(gta)i(32,83)
+gtgctgttggactgcgaggtaaagtgcgcttccaggaagcctaccgccagcatgcgctccatatcactgatgactggagctcgacgtagcatcgcgcacgccgctgcaacagccttgtagtaggcgatcgttggcgcggggctgccgacgaggaggttcataaaccccactgtgca
+((((.((  .(((ddddddddd))).(((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))(.(.((vvvvv)).).)         (.((tttttttt)).))).))))
+>LtaP21 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=755699 | SO=chromosome
+6 genes found
+1   tRNA-Ser              c[167728,167808]	123.0	34  	(gct)
+gcaaacgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcg
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ile               [195879,195982]	105.7	32  	(aat)i(37,12)
+gcgtctgctggttcggcttgtgcgtcgcgctaatgcacttcgcaagcacgcggttgtgcgcgatcccagcagagcagtcgtagtgcagctccgcgtagatgcgc
+(((((((   ((.ddddddd.)) (((((  AAA  iiiiiiiiiiii)))))        ..(vvvvvvv)..    (((.(ttttttt).))))))))))
+3   tRNA-Pro               [443173,443245]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggacccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+4   tRNA-Val               [443405,443479]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Lys               [443540,443613]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+6   tRNA-Phe               [473531,473689]	102.4	100 	(gaa)i(32,66)
+cagcgtgatggcggggtgatcgacgctgccgccgtagcgctcctccttggcgatacgaaactctgcgataaactcctgtagatccaccgagttcgtgctgaacatggagctgaggtcgctcggggtggcctcgccgcgttccattcccgatgcgctgcc
+(((((((   (((dddddddddd)))(.(((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  ))).)          ..(.vvvv.)..  .((.(ttttttt).)).)))))))
+>LtaP22 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=661931 | SO=chromosome
+1 genes found
+1   tRNA-Ile              c[174711,174854]	100.9	83  	(gat)i(30,51)
+aggcaacctggtggagtggtacagcctgcggcacgctcttcgccgcgccttgccgtcccttccatggaaaatttttcaacttgatgagcaggagcgggtgacaaggacaaacagcgccggctgctccggcgctgccgctgccgc
+.((((.(   .((dddddddd)).(((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))     .(.vvvv.).           (((.(tttttttt).)))).)))).
+>LtaP23 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=739742 | SO=chromosome
+10 genes found
+1   tRNA-Ile               [212729,212802]	118.5	35  	(tat)
+gctcccgtggtctagttggttaggacgctggtcttatgaaccggatgtcgcgggttcgagccccgccgggagca
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Val              c[212843,212915]	111.3	34  	(tac)
+gcgtgggtgatctagtggttatgatgtctgctttacacgcagaacgtcgcgggttcgaaccccgccccgcgta
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Gln              c[212979,213051]	124.9	34  	(ttg)
+ggtcctatagtgtagtggttatcacttcggactttgaatccgaaaacccaggttcgaatcctggtaggaccac
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+4   tRNA-Arg              c[213306,213379]	120.3	34  	(acg)
+tgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatga
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+5   tRNA-Leu              c[213595,213677]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+6   tRNA-Thr              c[213744,213817]	120.1	34  	(tgt)
+gggccgcttagcacagtggcagtgcactggtcttgtaaaccaggggtcccgagttcaattctcggagtggcctt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+7   tRNA-???               [213888,213960]	116.5	34  	(tc) 
+cggcctcttggcgcaatggaagcgcatcagacttcggtctgagggttgcaggttcgagtcctgcaggggtcgg
+((((((((  ((((ddddddd)))) (((((  AA  )))))     (((((ttttttt)))))))))))))
+8   tRNA-Lys               [214285,214359]	120.7	34  	(ttt)
+gcacttctagctcagttggtagagcgcgtggcttttaacctcgtggtcgtgggttcgagccccacggagtgcgcc
+(((((((  ((((dddddddd))))(((.((  AAA  )).)))    (((((ttttttt))))))))))))
+9   tRNA-Gly              c[214401,214474]	116.4	34  	(tcc)
+gcaattgtggtccaacggttaagatccccgccttccaagcgggtgacccgggttcgactcccggcaattgcacc
+(((((((  (((dddddddddd))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+10  tRNA-Trp               [214550,214622]	115.5	33  	(cca)
+gggggcttagctcagtggtagagcattggattccaaatccaggggtcgtaggttcaatccctgcagctctcac
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LtaP24 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=851837 | SO=chromosome
+6 genes found
+1   tRNA-Pro               [205146,205217]	124.4	33  	(cgg)
+ggccgcttagtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Gln               [636853,636926]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgt
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+3   tRNA-Leu              c[637017,637100]	111.7	37  	(taa)
+tgctggggttcccgagttggtcaaaggggtgagacttaagttctcatgcgaaagcttcgtgggttcgaaccccacctccagcaa
+((((((((  (((.dddddddddd.)))((((((  AAA  ))))))           (((((ttttttt)))))))))))))
+4   tRNA-Ile               [637182,637256]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Ile               [638389,638463]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Asp              c[700532,700603]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaag
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+>LtaP25 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=890157 | SO=chromosome
+0 genes found
+>LtaP26 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1064630 | SO=chromosome
+1 genes found
+1   tRNA-Arg              c[348569,348766]	100.6	135 	(gcg)i(31,102)
+tgtcgtctctgtgccatggggtttctgggtgtttccgcccttaccgacctcgccttgtcctcgatcttcgttcatcacggcggctccacactgctccaccatgtccagcgagatgacggggtacaaacccttctgcggcacgcaaaggcgaagcagcaggcgcccctccacctggttcagcccaggagacgacgacca
+((((((((   .((dddddd)).  ((.((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )).))  ...(.vvvv.)...          (((((tttttt)))))))))))))
+>LtaP27 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1034558 | SO=chromosome
+0 genes found
+>LtaP28 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1120785 | SO=chromosome
+1 genes found
+1   tRNA-Val              c[597828,597917]	104.5	33  	(tac)i(36,11)
+ttgacgttggcggatggggccgcgccaccgtttacagcagagctggagcggtgggcgtggcgcgtcatcggttcgattcggtacgttggc
+(((((((  ((((dddddd))))  (((((  AAAiiiiiiiiiii  )))))             (((((tttttt))))))))))))
+>LtaP29 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1196550 | SO=chromosome
+2 genes found
+1   tRNA-Leu              c[796517,796599]	117.8	35  	(caa)
+ggcaggatggccgagtggtctaaggcgggagactcaagttctcttctattcgtaggcgcgggttcgaaccccgctcctgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ser              c[796655,796735]	119.6	34  	(cga)
+gtcaccatacccaagtggttacgggggttgactcgaaatcaactgcgatctcgcgcgcaggttcgaatcctgctggtgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>LtaP30 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1374841 | SO=chromosome
+1 genes found
+1   tRNA-Thr              c[772418,772489]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LtaP31 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1394517 | SO=chromosome
+7 genes found
+1   tRNA-His                   [9456,9544]	100.1	36  	(gtg)
+cttcagttcgcgcagatggtggctgccggggcgttgtgggcgccctgcccggggcagtttcgcgggttcggctgtctcgcacggtggcc
+((.(.((  (((.ddddddddd.))) ((((((  AAA  ))))))               (((((ttttttttt))))))).).))
+2   tRNA-Ala               [196418,196490]	108.3	34  	(agc)
+ggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctcca
+(((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+3   tRNA-Gly               [445071,445141]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+4   tRNA-Glu              c[468885,468958]	118.1	35  	(ctc)
+ttccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaat
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+5   tRNA-Gln            c[1216978,1217173]	102.3	140 	(ctg)i(30,109)
+ctccaggtgtcatgcggaacgatgggactcccaacgggtacatggccaatgtgcacggcaaatttctttttttttttggtccttggtgatggtgccggctgtagggagaatagaacgggcgaaggagtaaagtcactgtctgtggtcccacagatgtgtattgtggctggtctgcgttcaagtcgtactttgagac
+(((.(((  ((.(ddddd).)) ((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))           .(.vvvvv.). ((((ttttttt))))))).)))
+6   tRNA-Phe             [1239557,1239629]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+7   tRNA-Ser            c[1239670,1239750]	119.6	34  	(aga)
+gtcaccatacccaagtggttacggggactgactagaaatcagttgcgatctcgcgcgcaggttcgaatcctgctggtgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>LtaP32 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1548075 | SO=chromosome
+1 genes found
+1   tRNA-Gly            c[1306814,1306908]	101.3	36  	(gcc)
+gagtcatgtgggagactaggctgcactggtgtgttgccaacacacatgcaccgagactttatttggggggagaaggtcatgcttctgcggctgcc
+.((((.(   ((.(ddddddddd).)) (((((  AAA  )))))   (.(((((vvvvvv))))).)  (((((tttttt)))))).)))).
+>LtaP33 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1406820 | SO=chromosome
+6 genes found
+1   tRNA-Arg              c[106999,107075]	118.9	35  	(cct)
+tgcccttgtagcctaatggatatggcgtttgcttcctaagcaaaaggttgcgggttcgagtcccgccaggggtaccc
+((((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+2   tRNA-Arg              c[107135,107208]	125.8	34  	(tct)
+gctccagtggcctaatggataaggctttggacttctaatccaaagattgcgggttcgagtcccgcctggagtac
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+3   tRNA-Ala               [107284,107356]	117.5	33  	(tgc)
+gggcgtgtagctcagtggtagagcgcctgttttgcatacaggaggcctagggttcaaacccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+4   tRNA-Val               [275118,275209]	102.5	37  	(tac)
+gagaacggctaggagggtgactgtctgagcacgttctacgtgcgtgcatgggtatgtgcatatggccagggttccgttctctccttactctc
+(((.(.((   (((ddddddddd)))  ((((((  AAA  ))))))(((.((vvvv)).)))    ((((ttttttt)))))).).)))
+5   tRNA-Val               [316102,316184]	100.5	38  	(gac)
+caccaacgtgagcgttccggtcgcgtctctctttgttgacgatgaagatcgatgtgcgccgagttcaagctcggcgtcggcga
+(.((.(((   (.(.dddddddddd.).)((((((  AAA  ))))))          (((((tttttt)))))))).)).)
+6   tRNA-Lys              c[489631,489704]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>LtaP34 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1679218 | SO=chromosome
+12 genes found
+1   tRNA-Val              c[486219,486293]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Ile               [486707,486781]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Met               [486840,486912]	113.6	34  	(cat)
+gcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+4   tRNA-Leu              c[486955,487034]	119.8	35  	(tag)
+ggcggagtggccgagtggtctaaggcgccagatttaggctctggtctttcgaggcgtgggttcgaaccccacctccgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))          (((((ttttttt))))))))))))
+5   tRNA-Ser               [487109,487189]	116.9	34  	(tga)
+gtcaacatacccaagtggttacggggtttgacttgaaatcaaatgcgatctcgcgcgcaggttcgaaccctgctgttgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+6   tRNA-His               [941449,941607]	106.4	101 	(atg)i(39,62)
+cttctctgccacggcgggactttctgtcgaccagccctcttcgtctcagccatctccttcggcatcaactgccggcacaggattcggcttgggcacatcgatgacggctgtgggtggatttggcggcagctccttcggtgcgaagccgacggagagggc
+((((((((   ((((dddddddddd))))  (((((  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiAAA  )))))                        ((((ttttttt))))))))))))
+7   tRNA-Met            c[1047002,1047092]	100.7	35  	(cat)
+cctggaatggcatagcgccgtagatggcggagctcatgacaccgtcaagaccatttagcttgtcctgcaggttcaatacttgctttttgga
+((.((((  .(((dddddddddd))).(((.(  AAA  ).))) ((((.vvvvvvv.))))    (((((ttttttt))))))))).))
+8   tRNA-Asn            c[1370896,1370969]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+9   tRNA-Tyr            c[1371030,1371113]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagaatttgcaggtatcacagggtcgctggttcgattccggccggaagga
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+10  tRNA-Thr            c[1371175,1371246]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+11  tRNA-Pro             [1371328,1371399]	124.4	33  	(cgg)
+ggccgcttagtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+12  tRNA-Asn             [1371459,1371532]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>LtaP35 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1996638 | SO=chromosome
+3 genes found
+1   tRNA-Thr                c[31416,31487]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Thr                 [32434,32505]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Trp             [1853811,1853921]	102.5	33  	(cca)i(34,18)
+gcgaggagggttactcggtgtgatgaggcattcggcggaggaaagagggagcaactgcatgtaagtgggcacgatagcgtacgcagtcggttcctgccgtctccttgctcc
+(((((((  ((((ddddddd)))) (.(((  AiiiiiiiiiiiiiiiiiiAA  ))).)    ....vvvvvvv....      (.(((tttttt))).))))))))
+>LtaP36 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=2633144 | SO=chromosome
+10 genes found
+1   tRNA-Tyr              c[485600,485684]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagtttgcaggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+2   tRNA-Gly             [1008387,1008458]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgcac
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Thr            c[1009112,1009183]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Pro             [1009382,1009453]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+5   tRNA-Gln            c[1579527,1579600]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgt
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+6   tRNA-Cys             [2427071,2427143]	122.6	33  	(gca)
+ggattcatagctcagtggtagagcattcggctgcagtccgaatggtccccggttcaaacccgggtgggtcctc
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+7   tRNA-Leu            c[2427609,2427690]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+8   tRNA-Met            c[2427755,2427826]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+9   tRNA-Pro             [2427899,2427970]	122.1	33  	(tgg)
+ggtcgtttggtctagtggtatgattcctgttttgggtacaggaggtcacgggttcaattcccgtaacgaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+10  tRNA-Arg            c[2483074,2483275]	101.7	38  	(cct)i(41,105)
+tgtctgagctggctgatgggcattgcaatcgcgccctcctgtgattctgcccgtcgttctcaccctgcctgcacggctgcctcctctccgtgcgacgcgatttttttttttcctactcctgcgtgtgtgtgtgtgtgtgtctgagggggtgcggggtggggggcgtcgataattacctgcggttccaacctcttcagagagc
+(.((((((   (.((dddddddddd)).) (((((  AAAiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  )))))         (..(vvvvvvv)..)  (.((tttttt)).))))))).)
+>LtaPctg00006 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=164 | SO=contig
+0 genes found
+>LtaPctg00014 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=115 | SO=contig
+0 genes found
+>LtaPctg00028 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=153 | SO=contig
+0 genes found
+>LtaPctg00033 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=541 | SO=contig
+0 genes found
+>LtaPctg00037 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=162 | SO=contig
+0 genes found
+>LtaPctg00046 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=138 | SO=contig
+0 genes found
+>LtaPctg00053 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=182 | SO=contig
+0 genes found
+>LtaPctg00068 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=515 | SO=contig
+0 genes found
+>LtaPctg00070 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=800 | SO=contig
+0 genes found
+>LtaPctg00076 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=333 | SO=contig
+0 genes found
+>LtaPctg00080 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=124 | SO=contig
+0 genes found
+>LtaPctg00081 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=490 | SO=contig
+0 genes found
+>LtaPctg00097 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=210 | SO=contig
+0 genes found
+>LtaPctg00102 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=282 | SO=contig
+0 genes found
+>LtaPctg00116 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=713 | SO=contig
+0 genes found
+>LtaPctg00135 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=246 | SO=contig
+0 genes found
+>LtaPctg00136 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=181 | SO=contig
+0 genes found
+>LtaPctg00137 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=155 | SO=contig
+0 genes found
+>LtaPctg00138 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=271 | SO=contig
+0 genes found
+>LtaPctg00139 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=163 | SO=contig
+0 genes found
+>LtaPctg00142 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=289 | SO=contig
+0 genes found
+>LtaPctg00146 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=582 | SO=contig
+0 genes found
+>LtaPctg00147 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=245 | SO=contig
+0 genes found
+>LtaPctg00148 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=191 | SO=contig
+0 genes found
+>LtaPctg00155 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=100 | SO=contig
+0 genes found
+>LtaPctg00164 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=286 | SO=contig
+0 genes found
+>LtaPctg00166 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=192 | SO=contig
+0 genes found
+>LtaPctg00167 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=120 | SO=contig
+0 genes found
+>LtaPctg00168 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=134 | SO=contig
+0 genes found
+>LtaPctg00169 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=119 | SO=contig
+0 genes found
+>LtaPctg00170 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=202 | SO=contig
+0 genes found
+>LtaPctg00171 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=158 | SO=contig
+0 genes found
+>LtaPctg00172 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=236 | SO=contig
+0 genes found
+>LtaPctg00173 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=283 | SO=contig
+0 genes found
+>LtaPctg00174 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=163 | SO=contig
+0 genes found
+>LtaPctg00179 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=164 | SO=contig
+0 genes found
+>LtaPctg00182 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=122 | SO=contig
+0 genes found
+>LtaPctg00185 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=462 | SO=contig
+0 genes found
+>LtaPctg00200 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=106 | SO=contig
+0 genes found
+>LtaPctg00225 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=464 | SO=contig
+0 genes found
+>LtaPctg00226 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=121 | SO=contig
+0 genes found
+>LtaPctg00236 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=241 | SO=contig
+0 genes found
+>LtaPctg00256 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=366 | SO=contig
+0 genes found
+>LtaPctg00262 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=262 | SO=contig
+0 genes found
+>LtaPctg00267 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=217 | SO=contig
+0 genes found
+>LtaPctg00287 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=183 | SO=contig
+0 genes found
+>LtaPctg00294 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=102 | SO=contig
+0 genes found
+>LtaPctg00314 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1001 | SO=contig
+0 genes found
+>LtaPctg00315 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=224 | SO=contig
+0 genes found
+>LtaPctg00316 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=181 | SO=contig
+0 genes found
+>LtaPctg00332 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=147 | SO=contig
+0 genes found
+>LtaPctg00335 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=189 | SO=contig
+0 genes found
+>LtaPctg00336 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=189 | SO=contig
+0 genes found
+>LtaPctg00340 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=388 | SO=contig
+0 genes found
+>LtaPctg00427 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=146 | SO=contig
+0 genes found
+>LtaPctg00443 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=126 | SO=contig
+0 genes found
+>LtaPctg00450 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=184 | SO=contig
+0 genes found
+>LtaPctg00466 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=306 | SO=contig
+0 genes found
+>LtaPctg00494 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=186 | SO=contig
+0 genes found
+>LtaPctg00528 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=238 | SO=contig
+0 genes found
+>LtaPctg00529 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=166 | SO=contig
+0 genes found
+>LtaPctg00533 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=647 | SO=contig
+0 genes found
+>LtaPctg00541 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=235 | SO=contig
+0 genes found
+>LtaPctg00543 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=601 | SO=contig
+0 genes found
+>LtaPctg00557 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=150 | SO=contig
+0 genes found
+>LtaPctg00570 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=495 | SO=contig
+0 genes found
+>LtaPctg00578 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=491 | SO=contig
+0 genes found
+>LtaPctg00585 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=843 | SO=contig
+0 genes found
+>LtaPctg00589 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=315 | SO=contig
+0 genes found
+>LtaPctg00594 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=133 | SO=contig
+0 genes found
+>LtaPctg00603 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=122 | SO=contig
+0 genes found
+>LtaPctg00606 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=236 | SO=contig
+0 genes found
+>LtaPctg00608 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=412 | SO=contig
+0 genes found
+>LtaPctg00609 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=120 | SO=contig
+0 genes found
+>LtaPctg00610 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=119 | SO=contig
+0 genes found
+>LtaPctg00612 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=106 | SO=contig
+0 genes found
+>LtaPctg00613 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=186 | SO=contig
+0 genes found
+>LtaPctg00616 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1655 | SO=contig
+0 genes found
+>LtaPctg00619 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=479 | SO=contig
+0 genes found
+>LtaPctg00635 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=516 | SO=contig
+0 genes found
+>LtaPctg00636 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=844 | SO=contig
+0 genes found
+>LtaPctg00651 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=214 | SO=contig
+0 genes found
+>LtaPctg00652 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=693 | SO=contig
+0 genes found
+>LtaPctg00663 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=325 | SO=contig
+0 genes found
+>LtaPctg00683 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=327 | SO=contig
+0 genes found
+>LtaPctg00694 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=276 | SO=contig
+0 genes found
+>LtaPctg00696 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=236 | SO=contig
+0 genes found
+>LtaPctg00698 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=281 | SO=contig
+0 genes found
+>LtaPctg00701 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=202 | SO=contig
+0 genes found
+>LtaPctg00709 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=106 | SO=contig
+0 genes found
+>LtaPctg00711 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=383 | SO=contig
+0 genes found
+>LtaPctg00712 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=342 | SO=contig
+0 genes found
+>LtaPctg00719 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=169 | SO=contig
+0 genes found
+>LtaPctg00720 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=409 | SO=contig
+0 genes found
+>LtaPctg00721 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=368 | SO=contig
+0 genes found
+>LtaPctg00725 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=272 | SO=contig
+0 genes found
+>LtaPctg00751 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=403 | SO=contig
+0 genes found
+>LtaPctg00754 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=147 | SO=contig
+0 genes found
+>LtaPctg00756 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=183 | SO=contig
+0 genes found
+>LtaPctg00766 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=234 | SO=contig
+0 genes found
+>LtaPctg00768 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=446 | SO=contig
+0 genes found
+>LtaPctg00780 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=523 | SO=contig
+0 genes found
+>LtaPctg00785 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=222 | SO=contig
+0 genes found
+>LtaPctg00790 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=159 | SO=contig
+0 genes found
+>LtaPctg00817 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=160 | SO=contig
+0 genes found
+>LtaPctg00833 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=130 | SO=contig
+0 genes found
+>LtaPctg00836 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=153 | SO=contig
+0 genes found
+>LtaPctg00856 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=139 | SO=contig
+0 genes found
+>LtaPctg00857 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=195 | SO=contig
+0 genes found
+>LtaPctg00865 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=298 | SO=contig
+0 genes found
+>LtaPctg00878 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=105 | SO=contig
+0 genes found
+>LtaPctg00890 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=600 | SO=contig
+0 genes found
+>LtaPctg00896 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=360 | SO=contig
+0 genes found
+>LtaPctg00901 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=147 | SO=contig
+0 genes found
+>LtaPctg00959 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=120 | SO=contig
+0 genes found
+>LtaPctg00976 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=239 | SO=contig
+0 genes found
+>LtaPctg00977 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=184 | SO=contig
+0 genes found
+>LtaPctg01009 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=218 | SO=contig
+0 genes found
+>LtaPctg01025 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=332 | SO=contig
+0 genes found
+>LtaPctg01026 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=355 | SO=contig
+0 genes found
+>LtaPctg01030 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=189 | SO=contig
+0 genes found
+>LtaPctg01031 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=162 | SO=contig
+0 genes found
+>LtaPctg01066 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=137 | SO=contig
+0 genes found
+>LtaPctg01089 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=213 | SO=contig
+0 genes found
+>LtaPctg01147 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=177 | SO=contig
+0 genes found
+>LtaPctg01160 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=211 | SO=contig
+0 genes found
+>LtaPctg01170 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=422 | SO=contig
+0 genes found
+>LtaPctg01171 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=233 | SO=contig
+0 genes found
+>LtaPctg01175 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=465 | SO=contig
+0 genes found
+>LtaPctg01207 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=311 | SO=contig
+0 genes found
+>LtaPctg01221 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=158 | SO=contig
+0 genes found
+>LtaPctg01239 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=153 | SO=contig
+0 genes found
+>LtaPctg01245 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=256 | SO=contig
+0 genes found
+>LtaPctg01246 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=441 | SO=contig
+0 genes found
+>LtaPctg01247 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=154 | SO=contig
+0 genes found
+>LtaPctg01252 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=166 | SO=contig
+0 genes found
+>LtaPctg01266 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=328 | SO=contig
+0 genes found
+>LtaPctg01293 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=130 | SO=contig
+0 genes found
+>LtaPctg01340 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=195 | SO=contig
+0 genes found
+>LtaPctg01362 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=443 | SO=contig
+0 genes found
+>LtaPctg01365 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=237 | SO=contig
+0 genes found
+>LtaPctg01370 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=397 | SO=contig
+0 genes found
+>LtaPctg01371 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=397 | SO=contig
+0 genes found
+>LtaPctg01386 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=132 | SO=contig
+0 genes found
+>LtaPctg01393 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=409 | SO=contig
+0 genes found
+>LtaPctg01407 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=147 | SO=contig
+0 genes found
+>LtaPctg01420 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=184 | SO=contig
+0 genes found
+>LtaPctg01528 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=279 | SO=contig
+0 genes found
+>LtaPctg01541 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=164 | SO=contig
+0 genes found
+>LtaPctg01550 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=643 | SO=contig
+0 genes found
+>LtaPctg01551 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=632 | SO=contig
+0 genes found
+>LtaPctg01552 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=804 | SO=contig
+0 genes found
+>LtaPctg01553 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=672 | SO=contig
+0 genes found
+>LtaPctg01556 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=165 | SO=contig
+0 genes found
+>LtaPctg01557 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=224 | SO=contig
+0 genes found
+>LtaPctg01581 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=103 | SO=contig
+0 genes found
+>LtaPctg01582 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=153 | SO=contig
+0 genes found
+>LtaPctg01603 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=256 | SO=contig
+0 genes found
+>LtaPctg01625 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=163 | SO=contig
+0 genes found
+>LtaPctg01632 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=284 | SO=contig
+0 genes found
+>LtaPctg01659 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=207 | SO=contig
+0 genes found
+>LtaPctg01665 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=147 | SO=contig
+0 genes found
+>LtaPctg01669 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=187 | SO=contig
+0 genes found
+>LtaPctg01712 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=281 | SO=contig
+0 genes found
+>LtaPctg01726 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=195 | SO=contig
+0 genes found
+>LtaPctg01742 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=186 | SO=contig
+0 genes found
+>LtaPctg01743 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=176 | SO=contig
+0 genes found
+>LtaPctg01746 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=770 | SO=contig
+0 genes found
+>LtaPctg01749 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=165 | SO=contig
+0 genes found
+>LtaPctg01796 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=270 | SO=contig
+0 genes found
+>LtaPctg01813 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=683 | SO=contig
+0 genes found
+>LtaPctg01819 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=124 | SO=contig
+0 genes found
+>LtaPctg01825 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=205 | SO=contig
+0 genes found
+>LtaPctg01827 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=152 | SO=contig
+0 genes found
+>LtaPctg01840 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1252 | SO=contig
+0 genes found
+>LtaPctg01844 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=111 | SO=contig
+0 genes found
+>LtaPctg01906 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=696 | SO=contig
+0 genes found
+>LtaPctg01913 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=516 | SO=contig
+0 genes found
+>LtaPctg01925 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=848 | SO=contig
+0 genes found
+>LtaPctg01926 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=323 | SO=contig
+0 genes found
+>LtaPctg01932 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=129 | SO=contig
+0 genes found
+>LtaPctg01940 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=137 | SO=contig
+0 genes found
+>LtaPctg01956 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=140 | SO=contig
+0 genes found
+>LtaPctg01957 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=306 | SO=contig
+0 genes found
+>LtaPctg01958 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=405 | SO=contig
+0 genes found
+>LtaPctg01962 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=136 | SO=contig
+0 genes found
+>LtaPctg01968 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=487 | SO=contig
+0 genes found
+>LtaPctg01971 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=227 | SO=contig
+0 genes found
+>LtaPctg01972 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=104 | SO=contig
+0 genes found
+>LtaPctg01975 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=791 | SO=contig
+0 genes found
+>LtaPctg01976 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=335 | SO=contig
+0 genes found
+>LtaPctg01982 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=266 | SO=contig
+0 genes found
+>LtaPctg01985 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=439 | SO=contig
+0 genes found
+>LtaPctg01986 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=250 | SO=contig
+0 genes found
+>LtaPctg01987 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=182 | SO=contig
+0 genes found
+>LtaPctg01991 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=339 | SO=contig
+0 genes found
+>LtaPctg01992 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=289 | SO=contig
+0 genes found
+>LtaPctg01996 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=241 | SO=contig
+0 genes found
+>LtaPctg01997 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=293 | SO=contig
+0 genes found
+>LtaPctg02000 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=273 | SO=contig
+0 genes found
+>LtaPctg02002 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=190 | SO=contig
+0 genes found
+>LtaPctg02003 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=266 | SO=contig
+0 genes found
+>LtaPctg02004 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=260 | SO=contig
+0 genes found
+>LtaPctg02005 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=241 | SO=contig
+0 genes found
+>LtaPctg02007 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=259 | SO=contig
+0 genes found
+>LtaPctg02008 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=243 | SO=contig
+0 genes found
+>LtaPctg02010 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=263 | SO=contig
+0 genes found
+>LtaPctg02011 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=254 | SO=contig
+0 genes found
+>LtaPctg02012 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=400 | SO=contig
+0 genes found
+>LtaPctg02014 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=248 | SO=contig
+0 genes found
+>LtaPctg02017 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=353 | SO=contig
+0 genes found
+>LtaPctg02018 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=269 | SO=contig
+0 genes found
+>LtaPctg02019 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=252 | SO=contig
+0 genes found
+>LtaPctg02022 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=276 | SO=contig
+0 genes found
+>LtaPctg02023 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=266 | SO=contig
+0 genes found
+>LtaPctg02024 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=259 | SO=contig
+0 genes found
+>LtaPctg02025 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=252 | SO=contig
+0 genes found
+>LtaPctg02027 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=240 | SO=contig
+0 genes found
+>LtaPctg02029 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=313 | SO=contig
+0 genes found
+>LtaPctg02030 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=268 | SO=contig
+0 genes found
+>LtaPctg02031 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=204 | SO=contig
+0 genes found
+>LtaPctg02032 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=255 | SO=contig
+0 genes found
+>LtaPctg02033 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=324 | SO=contig
+0 genes found
+>LtaPctg02034 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=245 | SO=contig
+0 genes found
+>LtaPctg02035 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=121 | SO=contig
+0 genes found
+>LtaPctg02037 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=200 | SO=contig
+0 genes found
+>LtaPctg02039 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=292 | SO=contig
+0 genes found
+>LtaPctg02043 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=188 | SO=contig
+0 genes found
+>LtaPctg02045 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=208 | SO=contig
+0 genes found
+>LtaPctg02046 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=256 | SO=contig
+0 genes found
+>LtaPctg02047 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=226 | SO=contig
+0 genes found
+>LtaPctg02049 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=257 | SO=contig
+0 genes found
+>LtaPctg02050 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=127 | SO=contig
+0 genes found
+>LtaPctg02051 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=243 | SO=contig
+0 genes found
+>LtaPctg02052 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=128 | SO=contig
+0 genes found
+>LtaPctg02054 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=301 | SO=contig
+0 genes found
+>LtaPctg02055 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=282 | SO=contig
+0 genes found
+>LtaPctg02056 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=256 | SO=contig
+0 genes found
+>LtaPctg02057 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=248 | SO=contig
+0 genes found
+>LtaPctg02058 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=251 | SO=contig
+0 genes found
+>LtaPctg02059 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=410 | SO=contig
+0 genes found
+>LtaPctg02060 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=114 | SO=contig
+0 genes found
+>LtaPctg02061 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=127 | SO=contig
+0 genes found
+>LtaPctg02062 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=133 | SO=contig
+0 genes found
+>LtaPctg02064 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=377 | SO=contig
+0 genes found
+>LtaPctg02065 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=327 | SO=contig
+0 genes found
+>LtaPctg02066 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=305 | SO=contig
+0 genes found
+>LtaPctg02067 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=116 | SO=contig
+0 genes found
+>LtaPctg02068 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=106 | SO=contig
+0 genes found
+>LtaPctg02069 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=281 | SO=contig
+0 genes found
+>LtaPctg02070 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=251 | SO=contig
+0 genes found
+>LtaPctg02071 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=324 | SO=contig
+0 genes found
+>LtaPctg02072 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=270 | SO=contig
+0 genes found
+>LtaPctg02073 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=560 | SO=contig
+0 genes found
+>LtaPctg02074 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=424 | SO=contig
+0 genes found
+>LtaPctg02075 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=408 | SO=contig
+0 genes found
+>LtaPctg02076 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=538 | SO=contig
+0 genes found
+>LtaPctg02077 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=397 | SO=contig
+0 genes found
+>LtaPctg02078 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=292 | SO=contig
+0 genes found
+>LtaPctg02079 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=354 | SO=contig
+0 genes found
+>LtaPctg02080 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=413 | SO=contig
+0 genes found
+>LtaPctg02081 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=346 | SO=contig
+0 genes found
+>LtaPctg02082 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=255 | SO=contig
+0 genes found
+>LtaPctg02083 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=146 | SO=contig
+0 genes found
+>LtaPctg02085 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=240 | SO=contig
+0 genes found
+>LtaPctg02087 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=316 | SO=contig
+0 genes found
+>LtaPctg02089 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=245 | SO=contig
+0 genes found
+>LtaPctg02090 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=170 | SO=contig
+0 genes found
+>LtaPctg02091 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=265 | SO=contig
+0 genes found
+>LtaPctg02104 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=134 | SO=contig
+0 genes found
+>LtaPctg02107 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=253 | SO=contig
+0 genes found
+>LtaPctg02112 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=856 | SO=contig
+0 genes found
+>LtaPctg02114 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=138 | SO=contig
+0 genes found
+>LtaPctg02115 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=247 | SO=contig
+0 genes found
+>LtaPctg02117 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=251 | SO=contig
+0 genes found
+>LtaPctg02118 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=353 | SO=contig
+0 genes found
+>LtaPctg02119 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=199 | SO=contig
+0 genes found
+>LtaPctg02120 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=269 | SO=contig
+0 genes found
+>LtaPctg02121 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=129 | SO=contig
+0 genes found
+>LtaPctg02122 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=401 | SO=contig
+0 genes found
+>LtaPctg02123 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=330 | SO=contig
+0 genes found
+>LtaPctg02124 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=256 | SO=contig
+0 genes found
+>LtaPctg02125 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=202 | SO=contig
+0 genes found
+>LtaPctg02126 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=218 | SO=contig
+0 genes found
+>LtaPctg02129 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=268 | SO=contig
+0 genes found
+>LtaPctg02131 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=171 | SO=contig
+0 genes found
+>LtaPctg02132 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=246 | SO=contig
+0 genes found
+>LtaPctg02133 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=189 | SO=contig
+0 genes found
+>LtaPctg02136 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=260 | SO=contig
+0 genes found
+>LtaPctg02137 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=299 | SO=contig
+0 genes found
+>LtaPctg02138 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=276 | SO=contig
+0 genes found
+>LtaPctg02145 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=260 | SO=contig
+0 genes found
+>LtaPctg02146 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=298 | SO=contig
+0 genes found
+>LtaPctg02150 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=417 | SO=contig
+0 genes found
+>LtaPctg02151 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=396 | SO=contig
+0 genes found
+>LtaPctg02152 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=147 | SO=contig
+0 genes found
+>LtaPctg02153 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=427 | SO=contig
+0 genes found
+>LtaPctg02155 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=249 | SO=contig
+0 genes found
+>LtaPctg02156 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=418 | SO=contig
+0 genes found
+>LtaPctg02157 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=534 | SO=contig
+0 genes found
+>LtaPctg02158 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=379 | SO=contig
+0 genes found
+>LtaPctg02159 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=105 | SO=contig
+0 genes found
+>LtaPctg02160 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=238 | SO=contig
+0 genes found
+>LtaPctg02162 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=384 | SO=contig
+0 genes found
+>LtaPctg02163 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=254 | SO=contig
+0 genes found
+>LtaPctg02164 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=443 | SO=contig
+0 genes found
+>LtaPctg02165 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=409 | SO=contig
+0 genes found
+>LtaPctg02166 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=265 | SO=contig
+0 genes found
+>LtaPctg02167 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=101 | SO=contig
+0 genes found
+>LtaPctg02168 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=363 | SO=contig
+0 genes found
+>LtaPctg02169 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=463 | SO=contig
+0 genes found
+>LtaPctg02170 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=407 | SO=contig
+0 genes found
+>LtaPctg02171 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=367 | SO=contig
+0 genes found
+>LtaPctg02172 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=386 | SO=contig
+0 genes found
+>LtaPctg02173 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=425 | SO=contig
+0 genes found
+>LtaPctg02174 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=448 | SO=contig
+0 genes found
+>LtaPctg02175 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=401 | SO=contig
+0 genes found
+>LtaPctg02176 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=272 | SO=contig
+0 genes found
+>LtaPctg02177 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=158 | SO=contig
+0 genes found
+>LtaPctg02178 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=351 | SO=contig
+0 genes found
+>LtaPctg02179 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=358 | SO=contig
+0 genes found
+>LtaPctg02180 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=256 | SO=contig
+0 genes found
+>LtaPctg02181 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=276 | SO=contig
+0 genes found
+>LtaPctg02182 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=335 | SO=contig
+0 genes found
+>LtaPctg02183 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=399 | SO=contig
+0 genes found
+>LtaPctg02184 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=245 | SO=contig
+0 genes found
+>LtaPctg02185 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=427 | SO=contig
+0 genes found
+>LtaPctg02186 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=246 | SO=contig
+0 genes found
+>LtaPctg02187 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=376 | SO=contig
+0 genes found
+>LtaPctg02188 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=337 | SO=contig
+0 genes found
+>LtaPctg02189 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=307 | SO=contig
+0 genes found
+>LtaPctg02190 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=144 | SO=contig
+0 genes found
+>LtaPctg02191 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=272 | SO=contig
+0 genes found
+>LtaPctg02192 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=243 | SO=contig
+0 genes found
+>LtaPctg02193 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=103 | SO=contig
+0 genes found
+>LtaPctg02194 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=403 | SO=contig
+0 genes found
+>LtaPctg02195 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=286 | SO=contig
+0 genes found
+>LtaPctg02196 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=154 | SO=contig
+0 genes found
+>LtaPctg02197 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=382 | SO=contig
+0 genes found
+>LtaPctg02198 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=340 | SO=contig
+0 genes found
+>LtaPctg02199 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=390 | SO=contig
+0 genes found
+>LtaPctg02200 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=295 | SO=contig
+0 genes found
+>LtaPctg02202 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=292 | SO=contig
+0 genes found
+>LtaPctg02203 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=333 | SO=contig
+0 genes found
+>LtaPctg02204 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=377 | SO=contig
+0 genes found
+>LtaPctg02205 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=337 | SO=contig
+0 genes found
+>LtaPctg02206 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=238 | SO=contig
+0 genes found
+>LtaPctg02207 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=250 | SO=contig
+0 genes found
+>LtaPctg02208 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=295 | SO=contig
+0 genes found
+>LtaPctg02209 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=337 | SO=contig
+0 genes found
+>LtaPctg02210 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=286 | SO=contig
+0 genes found
+>LtaPctg02211 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=348 | SO=contig
+0 genes found
+>LtaPctg02212 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=380 | SO=contig
+0 genes found
+>LtaPctg02213 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=267 | SO=contig
+0 genes found
+>LtaPctg02214 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=334 | SO=contig
+0 genes found
+>LtaPctg02216 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=308 | SO=contig
+0 genes found
+>LtaPctg02217 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=355 | SO=contig
+0 genes found
+>LtaPctg02218 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=377 | SO=contig
+0 genes found
+>LtaPctg02219 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=387 | SO=contig
+0 genes found
+>LtaPctg02220 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=399 | SO=contig
+0 genes found
+>LtaPctg02221 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=135 | SO=contig
+0 genes found
+>LtaPctg02222 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=363 | SO=contig
+0 genes found
+>LtaPctg02223 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=287 | SO=contig
+0 genes found
+>LtaPctg02224 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=235 | SO=contig
+0 genes found
+>LtaPctg02225 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=373 | SO=contig
+0 genes found
+>LtaPctg02226 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=410 | SO=contig
+0 genes found
+>LtaPctg02227 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=450 | SO=contig
+0 genes found
+>LtaPctg02228 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=315 | SO=contig
+0 genes found
+>LtaPctg02229 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=188 | SO=contig
+0 genes found
+>LtaPctg02230 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=346 | SO=contig
+0 genes found
+>LtaPctg02231 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=407 | SO=contig
+0 genes found
+>LtaPctg02232 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=414 | SO=contig
+0 genes found
+>LtaPctg02233 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=323 | SO=contig
+0 genes found
+>LtaPctg02234 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=295 | SO=contig
+0 genes found
+>LtaPctg02235 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=297 | SO=contig
+0 genes found
+>LtaPctg02236 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=283 | SO=contig
+0 genes found
+>LtaPctg02237 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=362 | SO=contig
+0 genes found
+>LtaPctg02238 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=426 | SO=contig
+0 genes found
+>LtaPctg02239 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=272 | SO=contig
+0 genes found
+>LtaPctg02240 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=121 | SO=contig
+0 genes found
+>LtaPctg02241 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=390 | SO=contig
+0 genes found
+>LtaPctg02242 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=253 | SO=contig
+0 genes found
+>LtaPctg02243 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=250 | SO=contig
+0 genes found
+>LtaPctg02245 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=245 | SO=contig
+0 genes found
+>LtaPctg02246 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=216 | SO=contig
+0 genes found
+>LtaPctg02247 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=141 | SO=contig
+0 genes found
+>LtaPctg02248 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=101 | SO=contig
+0 genes found
+>LtaPctg02249 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=199 | SO=contig
+0 genes found
+>LtaPctg02250 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=331 | SO=contig
+0 genes found
+>LtaPctg02251 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=216 | SO=contig
+0 genes found
+>LtaPctg02253 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=300 | SO=contig
+0 genes found
+>LtaPctg02254 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=266 | SO=contig
+0 genes found
+>LtaPctg02255 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=325 | SO=contig
+0 genes found
+>LtaPctg02257 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=294 | SO=contig
+0 genes found
+>LtaPctg02258 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=318 | SO=contig
+0 genes found
+>LtaPctg02259 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=197 | SO=contig
+0 genes found
+>LtaPctg02260 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=258 | SO=contig
+0 genes found
+>LtaPctg02261 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=259 | SO=contig
+0 genes found
+>LtaPctg02262 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=158 | SO=contig
+0 genes found
+>LtaPctg02265 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=250 | SO=contig
+0 genes found
+>LtaPctg02268 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=154 | SO=contig
+0 genes found
+>LtaPctg02287 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=122 | SO=contig
+0 genes found
+>LtaPctg02296 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=343 | SO=contig
+0 genes found
+>LtaPctg02305 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=180 | SO=contig
+0 genes found
+>LtaPctg02311 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=164 | SO=contig
+0 genes found
+>LtaPctg02312 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=189 | SO=contig
+0 genes found
+>LtaPctg02313 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=155 | SO=contig
+0 genes found
+>LtaPctg02316 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=315 | SO=contig
+0 genes found
+>LtaPctg02320 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=115 | SO=contig
+0 genes found
+>LtaPctg02323 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=184 | SO=contig
+0 genes found
+>LtaPctg02328 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=320 | SO=contig
+0 genes found
+>LtaPctg02341 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=303 | SO=contig
+0 genes found
+>LtaPctg02343 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=114 | SO=contig
+0 genes found
+>LtaPctg02349 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=200 | SO=contig
+0 genes found
+>LtaPctg02352 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=176 | SO=contig
+0 genes found
+>LtaPctg02357 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=458 | SO=contig
+0 genes found
+>LtaPctg02416 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=262 | SO=contig
+0 genes found
+>LtaPctg02417 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=262 | SO=contig
+0 genes found
+>LtaPctg02418 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=347 | SO=contig
+0 genes found
+>LtaPctg02438 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=309 | SO=contig
+0 genes found
+>LtaPctg02443 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=237 | SO=contig
+0 genes found
+>LtaPctg02444 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=189 | SO=contig
+0 genes found
+>LtaPctg02447 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=101 | SO=contig
+0 genes found
+>LtaPctg02449 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=312 | SO=contig
+0 genes found
+>LtaPctg02451 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=149 | SO=contig
+0 genes found
+>LtaPctg02453 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=559 | SO=contig
+0 genes found
+>LtaPctg02471 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=398 | SO=contig
+0 genes found
+>LtaPctg02473 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=222 | SO=contig
+0 genes found
+>LtaPctg02487 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=136 | SO=contig
+0 genes found
+>LtaPctg02496 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=129 | SO=contig
+0 genes found
+>LtaPctg02565 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=240 | SO=contig
+0 genes found
+>LtaPctg02583 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=212 | SO=contig
+0 genes found
+>LtaPctg02597 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=128 | SO=contig
+0 genes found
+>LtaPctg02608 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=127 | SO=contig
+0 genes found
+>LtaPctg02609 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=130 | SO=contig
+0 genes found
+>LtaPctg02613 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=287 | SO=contig
+0 genes found
+>LtaPctg02617 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=371 | SO=contig
+0 genes found
+>LtaPctg02621 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=152 | SO=contig
+0 genes found
+>LtaPctg02639 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=134 | SO=contig
+0 genes found
+>LtaPctg02679 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=384 | SO=contig
+0 genes found
+>LtaPctg02732 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=161 | SO=contig
+0 genes found
+>LtaPctg02734 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=103 | SO=contig
+0 genes found
+>LtaPctg02750 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=108 | SO=contig
+0 genes found
+>LtaPctg02755 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=290 | SO=contig
+0 genes found
+>LtaPctg02764 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=357 | SO=contig
+0 genes found
+>LtaPctg02770 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=263 | SO=contig
+0 genes found
+>LtaPctg02771 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=128 | SO=contig
+0 genes found
+>LtaPctg02773 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=106 | SO=contig
+0 genes found
+>LtaPctg02774 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=264 | SO=contig
+0 genes found
+>LtaPctg02776 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=228 | SO=contig
+0 genes found
+>LtaPctg02779 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=128 | SO=contig
+0 genes found
+>LtaPctg02780 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=166 | SO=contig
+0 genes found
+>LtaPctg02782 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=586 | SO=contig
+0 genes found
+>LtaPctg02783 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=283 | SO=contig
+0 genes found
+>LtaPctg02815 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=137 | SO=contig
+0 genes found
+>LtaPctg02816 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=794 | SO=contig
+0 genes found
+>LtaPctg02817 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=313 | SO=contig
+0 genes found
+>LtaPctg02818 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=126 | SO=contig
+0 genes found
+>LtaPctg02821 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=303 | SO=contig
+0 genes found
+>LtaPctg02822 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=110 | SO=contig
+0 genes found
+>LtaPctg02823 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=112 | SO=contig
+0 genes found
+>LtaPctg02824 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=206 | SO=contig
+0 genes found
+>LtaPctg02825 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=105 | SO=contig
+0 genes found
+>LtaPctg02829 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=158 | SO=contig
+0 genes found
+>LtaPctg02846 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=101 | SO=contig
+0 genes found
+>LtaPctg02849 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=194 | SO=contig
+0 genes found
+>LtaPctg02850 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=163 | SO=contig
+0 genes found
+>LtaPctg02864 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=106 | SO=contig
+0 genes found
+>LtaPctg02867 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=521 | SO=contig
+0 genes found
+>LtaPctg02877 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=147 | SO=contig
+0 genes found
+>LtaPctg02878 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=148 | SO=contig
+0 genes found
+>LtaPctg02879 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=136 | SO=contig
+0 genes found
+>LtaPctg02882 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=208 | SO=contig
+0 genes found
+>LtaPctg02891 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=130 | SO=contig
+0 genes found
+>LtaPctg02892 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=153 | SO=contig
+0 genes found
+>LtaPctg02896 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=119 | SO=contig
+0 genes found
+>LtaPctg02903 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=204 | SO=contig
+0 genes found
+>LtaPctg02914 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=609 | SO=contig
+0 genes found
+>LtaPctg02918 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=202 | SO=contig
+0 genes found
+>LtaPctg02921 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=149 | SO=contig
+0 genes found
+>LtaPctg02924 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=213 | SO=contig
+0 genes found
+>LtaPctg02940 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=268 | SO=contig
+0 genes found
+>LtaPctg02942 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=181 | SO=contig
+0 genes found
+>LtaPctg02945 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=177 | SO=contig
+0 genes found
+>LtaPctg02949 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=462 | SO=contig
+0 genes found
+>LtaPctg02951 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=124 | SO=contig
+0 genes found
+>LtaPctg02954 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=297 | SO=contig
+0 genes found
+>LtaPctg02966 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=620 | SO=contig
+0 genes found
+>LtaPctg02980 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=115 | SO=contig
+0 genes found
+>LtaPctg02995 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=124 | SO=contig
+0 genes found
+>LtaPctg02996 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=654 | SO=contig
+0 genes found
+>LtaPctg03002 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=275 | SO=contig
+0 genes found
+>LtaPctg03003 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=112 | SO=contig
+0 genes found
+>LtaPctg03004 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=213 | SO=contig
+0 genes found
+>LtaPctg03005 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=783 | SO=contig
+0 genes found
+>LtaPctg03006 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=403 | SO=contig
+0 genes found
+>LtaPctg03008 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=122 | SO=contig
+0 genes found
+>LtaPctg03009 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=299 | SO=contig
+0 genes found
+>LtaPctg03010 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=199 | SO=contig
+0 genes found
+>LtaPctg03011 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=312 | SO=contig
+0 genes found
+>LtaPctg03012 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=277 | SO=contig
+0 genes found
+>LtaPctg03013 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=830 | SO=contig
+0 genes found
+>LtaPctg03014 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=151 | SO=contig
+0 genes found
+>LtaPctg03018 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=115 | SO=contig
+0 genes found
+>LtaPctg03019 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=99 | SO=contig
+0 genes found
+>LtaPctg03020 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=373 | SO=contig
+0 genes found
+>LtaPctg03028 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=154 | SO=contig
+0 genes found
+>LtaPctg03029 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=160 | SO=contig
+0 genes found
+>LtaPctg03035 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=177 | SO=contig
+1 genes found
+1   tRNA-Leu                     c[41,122]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>LtaPctg03036 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=152 | SO=contig
+0 genes found
+>LtaPctg03043 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=224 | SO=contig
+0 genes found
+>LtaPctg03049 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=195 | SO=contig
+0 genes found
+>LtaPctg03055 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=145 | SO=contig
+0 genes found
+>LtaPctg03061 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=160 | SO=contig
+0 genes found
+>LtaPctg03070 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=370 | SO=contig
+0 genes found
+>LtaPctg03096 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=260 | SO=contig
+0 genes found
+>LtaPctg03126 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=131 | SO=contig
+0 genes found
+>LtaPctg03130 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=126 | SO=contig
+0 genes found
+>LtaPctg03133 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=147 | SO=contig
+0 genes found
+>LtaPctg03134 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=255 | SO=contig
+0 genes found
+>LtaPctg03149 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=501 | SO=contig
+0 genes found
+>LtaPctg03169 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=344 | SO=contig
+0 genes found
+>LtaPctg03171 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=231 | SO=contig
+0 genes found
+>LtaPctg03173 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=369 | SO=contig
+0 genes found
+>LtaPctg03174 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=149 | SO=contig
+0 genes found
+>LtaPctg03188 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=197 | SO=contig
+0 genes found
+>LtaPctg03189 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=225 | SO=contig
+0 genes found
+>LtaPctg03190 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=441 | SO=contig
+0 genes found
+>LtaPctg03193 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=235 | SO=contig
+0 genes found
+>LtaPctg03198 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=403 | SO=contig
+0 genes found
+>LtaPctg03213 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=540 | SO=contig
+0 genes found
+>LtaPctg03216 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=164 | SO=contig
+0 genes found
+>LtaPctg03225 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=153 | SO=contig
+0 genes found
+>LtaPctg03227 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=161 | SO=contig
+0 genes found
+>LtaPctg03236 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=144 | SO=contig
+0 genes found
+>LtaPctg03241 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=515 | SO=contig
+0 genes found
+>LtaPctg03244 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=124 | SO=contig
+0 genes found
+>LtaPctg03246 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=333 | SO=contig
+0 genes found
+>LtaPctg03255 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=251 | SO=contig
+0 genes found
+>LtaPctg03257 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=318 | SO=contig
+0 genes found
+>LtaPctg03260 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=115 | SO=contig
+0 genes found
+>LtaPctg03276 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=714 | SO=contig
+0 genes found
+>LtaPctg03278 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=195 | SO=contig
+0 genes found
+>LtaPctg03285 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=163 | SO=contig
+0 genes found
+>LtaPctg03294 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=188 | SO=contig
+0 genes found
+>LtaPctg03295 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=134 | SO=contig
+0 genes found
+>LtaPctg03298 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=331 | SO=contig
+0 genes found
+>LtaPctg03302 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=830 | SO=contig
+0 genes found
+>LtaPctg03305 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=429 | SO=contig
+0 genes found
+>LtaPctg03311 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=464 | SO=contig
+0 genes found
+>LtaPctg03313 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=200 | SO=contig
+0 genes found
+>LtaPctg03324 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=262 | SO=contig
+0 genes found
+>LtaPctg03325 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=217 | SO=contig
+0 genes found
+>LtaPctg03327 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=102 | SO=contig
+0 genes found
+>LtaPctg03328 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=224 | SO=contig
+0 genes found
+>LtaPctg03331 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=107 | SO=contig
+0 genes found
+>LtaPctg03338 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=268 | SO=contig
+0 genes found
+>LtaPctg03351 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=640 | SO=contig
+0 genes found
+>LtaPctg03356 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=640 | SO=contig
+0 genes found
+>LtaPctg03365 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=146 | SO=contig
+0 genes found
+>LtaPctg03371 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=184 | SO=contig
+0 genes found
+>LtaPctg03373 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=310 | SO=contig
+0 genes found
+>LtaPctg03375 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=164 | SO=contig
+0 genes found
+>LtaPctg03376 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=242 | SO=contig
+0 genes found
+>LtaPctg03383 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=186 | SO=contig
+0 genes found
+>LtaPctg03410 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=166 | SO=contig
+0 genes found
+>LtaPctg03413 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=647 | SO=contig
+0 genes found
+>LtaPctg03416 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=112 | SO=contig
+0 genes found
+>LtaPctg03417 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=117 | SO=contig
+0 genes found
+>LtaPctg03418 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=333 | SO=contig
+0 genes found
+>LtaPctg03421 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=150 | SO=contig
+0 genes found
+>LtaPctg03442 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1242 | SO=contig
+0 genes found
+>LtaPctg03449 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=116 | SO=contig
+0 genes found
+>LtaPctg03451 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=132 | SO=contig
+0 genes found
+>LtaPctg03453 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=405 | SO=contig
+0 genes found
+>LtaPctg03458 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=102 | SO=contig
+0 genes found
+>LtaPctg03479 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=214 | SO=contig
+0 genes found
+>LtaPctg03486 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=196 | SO=contig
+0 genes found
+>LtaPctg03496 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=326 | SO=contig
+0 genes found
+>LtaPctg03500 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=168 | SO=contig
+0 genes found
+>LtaPctg03511 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=202 | SO=contig
+0 genes found
+>LtaPctg03516 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=111 | SO=contig
+0 genes found
+>LtaPctg03519 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=100 | SO=contig
+0 genes found
+>LtaPctg03520 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=206 | SO=contig
+0 genes found
+>LtaPctg03529 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=169 | SO=contig
+0 genes found
+>LtaPctg03547 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=174 | SO=contig
+0 genes found
+>LtaPctg03548 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=229 | SO=contig
+0 genes found
+>LtaPctg03556 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=147 | SO=contig
+0 genes found
+>LtaPctg03557 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=183 | SO=contig
+0 genes found
+>LtaPctg03571 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=236 | SO=contig
+0 genes found
+>LtaPctg03583 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=222 | SO=contig
+0 genes found
+>LtaPctg03587 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=160 | SO=contig
+0 genes found
+>LtaPctg03591 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=153 | SO=contig
+0 genes found
+>LtaPctg03597 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=189 | SO=contig
+0 genes found
+>LtaPctg03599 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=128 | SO=contig
+0 genes found
+>LtaPctg03606 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=116 | SO=contig
+0 genes found
+>LtaPctg03609 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=105 | SO=contig
+0 genes found
+>LtaPctg03617 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=600 | SO=contig
+0 genes found
+>LtaPctg03625 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=360 | SO=contig
+0 genes found
+>LtaPctg03629 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=153 | SO=contig
+0 genes found
+>LtaPctg03639 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=227 | SO=contig
+0 genes found
+>LtaPctg03641 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=334 | SO=contig
+0 genes found
+>LtaPctg03642 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=131 | SO=contig
+0 genes found
+>LtaPctg03653 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=184 | SO=contig
+0 genes found
+>LtaPctg03666 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=136 | SO=contig
+0 genes found
+>LtaPctg03669 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=191 | SO=contig
+0 genes found
+>LtaPctg03683 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=218 | SO=contig
+0 genes found
+>LtaPctg03698 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=121 | SO=contig
+0 genes found
+>LtaPctg03710 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=177 | SO=contig
+0 genes found
+>LtaPctg03711 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=550 | SO=contig
+0 genes found
+>LtaPctg03718 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=211 | SO=contig
+0 genes found
+>LtaPctg03724 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=409 | SO=contig
+0 genes found
+>LtaPctg03726 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=170 | SO=contig
+0 genes found
+>LtaPctg03730 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=464 | SO=contig
+0 genes found
+>LtaPctg03762 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=158 | SO=contig
+0 genes found
+>LtaPctg03773 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=153 | SO=contig
+0 genes found
+>LtaPctg03779 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=256 | SO=contig
+0 genes found
+>LtaPctg03780 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=439 | SO=contig
+0 genes found
+>LtaPctg03781 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=154 | SO=contig
+0 genes found
+>LtaPctg03798 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=168 | SO=contig
+0 genes found
+>LtaPctg03806 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=483 | SO=contig
+0 genes found
+>LtaPctg03815 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=195 | SO=contig
+0 genes found
+>LtaPctg03816 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=139 | SO=contig
+0 genes found
+>LtaPctg03818 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=442 | SO=contig
+0 genes found
+>LtaPctg03821 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=237 | SO=contig
+0 genes found
+>LtaPctg03824 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=147 | SO=contig
+0 genes found
+>LtaPctg03852 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=619 | SO=contig
+0 genes found
+>LtaPctg03857 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=164 | SO=contig
+0 genes found
+>LtaPctg03859 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=165 | SO=contig
+0 genes found
+>LtaPctg03872 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=283 | SO=contig
+0 genes found
+>LtaPctg03873 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=367 | SO=contig
+0 genes found
+>LtaPctg03877 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=147 | SO=contig
+0 genes found
+>LtaPctg03888 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=176 | SO=contig
+0 genes found
+>LtaPctg03901 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=283 | SO=contig
+0 genes found
+>LtaPctg03909 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=195 | SO=contig
+0 genes found
+>LtaPctg03910 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=214 | SO=contig
+0 genes found
+>LtaPctg03913 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=192 | SO=contig
+0 genes found
+>LtaPctg03918 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=134 | SO=contig
+0 genes found
+>LtaPctg03919 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=175 | SO=contig
+0 genes found
+>LtaPctg03928 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=270 | SO=contig
+0 genes found
+>LtaPctg03929 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=424 | SO=contig
+0 genes found
+>LtaPctg03945 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=165 | SO=contig
+0 genes found
+>LtaPctg03947 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=200 | SO=contig
+0 genes found
+>LtaPctg03956 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=439 | SO=contig
+0 genes found
+>LtaPctg03958 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=139 | SO=contig
+0 genes found
+>LtaPctg03959 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=169 | SO=contig
+0 genes found
+>LtaPctg03960 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=145 | SO=contig
+0 genes found
+>LtaPctg03962 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=278 | SO=contig
+0 genes found
+>LtaPctg03965 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=123 | SO=contig
+0 genes found
+>LtaPctg03970 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=105 | SO=contig
+0 genes found
+>LtaPctg03971 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=103 | SO=contig
+0 genes found
+>LtaPctg03978 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=176 | SO=contig
+0 genes found
+>LtaPctg03982 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=132 | SO=contig
+0 genes found
+>LtaPctg03985 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=347 | SO=contig
+0 genes found
+>LtaPctg03986 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=215 | SO=contig
+0 genes found
+>LtaPctg04001 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=158 | SO=contig
+0 genes found
+>LtaPctg04003 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=176 | SO=contig
+0 genes found
+>LtaPctg04005 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=374 | SO=contig
+0 genes found
+>LtaPctg04010 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=121 | SO=contig
+0 genes found
+>LtaPctg04036 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=339 | SO=contig
+0 genes found
+>LtaPctg04041 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=114 | SO=contig
+0 genes found
+>LtaPctg04067 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=258 | SO=contig
+0 genes found
+>LtaPctg04068 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=565 | SO=contig
+0 genes found
+>LtaPctg04069 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=164 | SO=contig
+0 genes found
+>LtaPctg04071 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=221 | SO=contig
+0 genes found
+>LtaPctg04080 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=127 | SO=contig
+0 genes found
+>LtaPctg04097 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=143 | SO=contig
+0 genes found
+>LtaPctg04116 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=104 | SO=contig
+0 genes found
+>LtaPctg04140 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=453 | SO=contig
+0 genes found
+>LtaPctg04143 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=371 | SO=contig
+0 genes found
+>LtaPctg04144 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=196 | SO=contig
+0 genes found
+>LtaPctg04147 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=133 | SO=contig
+0 genes found
+>LtaPctg04148 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=168 | SO=contig
+0 genes found
+>LtaPctg04169 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=477 | SO=contig
+0 genes found
+>LtaPctg04173 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=127 | SO=contig
+0 genes found
+>LtaPctg04174 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=161 | SO=contig
+0 genes found
+>LtaPctg04197 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=316 | SO=contig
+0 genes found
+>LtaPctg04198 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=311 | SO=contig
+0 genes found
+>LtaPctg04200 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=264 | SO=contig
+0 genes found
+>LtaPctg04201 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=173 | SO=contig
+0 genes found
+>LtaPctg04203 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=634 | SO=contig
+0 genes found
+>LtaPctg04207 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=128 | SO=contig
+0 genes found
+>LtaPctg04212 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1088 | SO=contig
+0 genes found
+>LtaPctg04215 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=141 | SO=contig
+0 genes found
+>LtaPctg04239 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=147 | SO=contig
+0 genes found
+>LtaPctg04242 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=129 | SO=contig
+0 genes found
+>LtaPctg04250 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=118 | SO=contig
+0 genes found
+>LtaPctg04252 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=101 | SO=contig
+0 genes found
+>LtaPctg04257 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=149 | SO=contig
+0 genes found
+>LtaPctg04258 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=156 | SO=contig
+0 genes found
+>LtaPctg04261 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=168 | SO=contig
+0 genes found
+>LtaPctg04273 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=137 | SO=contig
+0 genes found
+>LtaPctg04274 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=186 | SO=contig
+0 genes found
+>LtaPctg04275 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=233 | SO=contig
+0 genes found
+>LtaPctg04288 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=156 | SO=contig
+0 genes found
+>LtaPctg04289 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=293 | SO=contig
+0 genes found
+>LtaPctg04291 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=203 | SO=contig
+0 genes found
+>LtaPctg04292 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=140 | SO=contig
+0 genes found
+>LtaPctg04294 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=110 | SO=contig
+0 genes found
+>LtaPctg04295 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=100 | SO=contig
+0 genes found
+>LtaPctg04297 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=124 | SO=contig
+0 genes found
+>LtaPctg04298 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=361 | SO=contig
+0 genes found
+>LtaPctg04299 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=145 | SO=contig
+0 genes found
+>LtaPctg04303 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=120 | SO=contig
+0 genes found
+>LtaPctg04306 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=240 | SO=contig
+0 genes found
+>LtaPctg04309 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=176 | SO=contig
+1 genes found
+1   tRNA-Leu                     c[41,122]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>LtaPctg04314 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=287 | SO=contig
+0 genes found
+>LtaPctg04315 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=160 | SO=contig
+0 genes found
+>LtaPctg04316 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=370 | SO=contig
+0 genes found
+>LtaPctg04317 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=148 | SO=contig
+0 genes found
+>LtaPctg04321 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=202 | SO=contig
+0 genes found
+>LtaPctg04325 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=241 | SO=contig
+0 genes found
+>LtaPctg04327 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=129 | SO=contig
+0 genes found
+>LtaPctg04332 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=109 | SO=contig
+0 genes found
+>LtaPctg04334 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=555 | SO=contig
+0 genes found
+>LtaPctg04337 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=103 | SO=contig
+0 genes found
+>LtaPctg04346 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=369 | SO=contig
+0 genes found
+>LtaPctg04347 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=149 | SO=contig
+0 genes found
+>LtaPctg04348 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=304 | SO=contig
+0 genes found
+>LtaPctg04353 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=143 | SO=contig
+0 genes found
+>LtaPctg04356 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=193 | SO=contig
+0 genes found
+>LtaPctg04358 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=197 | SO=contig
+0 genes found
+>LtaPctg04362 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=197 | SO=contig
+0 genes found
+>LtaPctg04370 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=184 | SO=contig
+0 genes found
+>LtaPctg04379 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=120 | SO=contig
+0 genes found
+>LtaPctg04392 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=192 | SO=contig
+0 genes found
+>LtaPctg04397 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=137 | SO=contig
+0 genes found
+>LtaPctg04399 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=856 | SO=contig
+0 genes found
+>LtaPctg04419 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=268 | SO=contig
+0 genes found
+>LtaPctg04423 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=164 | SO=contig
+0 genes found
+>LtaPctg04424 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=242 | SO=contig
+0 genes found
+>LtaPctg04434 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=164 | SO=contig
+0 genes found
+>LtaPctg04436 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=173 | SO=contig
+0 genes found
+>LtaPctg04438 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=133 | SO=contig
+0 genes found
+>LtaPctg04439 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=187 | SO=contig
+0 genes found
+>LtaPctg04440 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=196 | SO=contig
+0 genes found
+>LtaPctg04448 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=168 | SO=contig
+0 genes found
+>LtaPctg04470 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=332 | SO=contig
+0 genes found
+>LtaPctg04474 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=240 | SO=contig
+0 genes found
+>LtaPctg04499 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=170 | SO=contig
+0 genes found
+>LtaPctg04506 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=103 | SO=contig
+0 genes found
+>LtaPctg04513 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=176 | SO=contig
+0 genes found
+>LtaPctg04514 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=251 | SO=contig
+0 genes found
+>LtaPctg04528 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=221 | SO=contig
+0 genes found
+>LtaPctg04529 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=249 | SO=contig
+0 genes found
+>LtaPctg04530 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=294 | SO=contig
+0 genes found
+>LtaPctg04531 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=290 | SO=contig
+0 genes found
+>LtaPctg04533 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=163 | SO=contig
+0 genes found
+>LtaPctg04540 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=700 | SO=contig
+0 genes found
+>LtaPctg04546 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=119 | SO=contig
+0 genes found
+>LtaPctg04550 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=127 | SO=contig
+0 genes found
+>LtaPctg04553 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=170 | SO=contig
+0 genes found
+>LtaPctg04556 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=244 | SO=contig
+0 genes found
+>LtaPctg04557 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=300 | SO=contig
+0 genes found
+>LtaPctg04580 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=280 | SO=contig
+0 genes found
+>LtaPctg04581 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=311 | SO=contig
+0 genes found
+>LtaPctg04582 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=290 | SO=contig
+0 genes found
+>LtaPctg04583 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=214 | SO=contig
+0 genes found
+>LtaPctg04586 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=113 | SO=contig
+0 genes found
+>LtaPctg04596 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=117 | SO=contig
+0 genes found
+>LtaPctg04604 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=152 | SO=contig
+0 genes found
+>LtaPctg04607 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=105 | SO=contig
+0 genes found
+>LtaPctg04608 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=118 | SO=contig
+0 genes found
+>LtaPctg04611 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=112 | SO=contig
+0 genes found
+>LtaPctg04612 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=196 | SO=contig
+0 genes found
+>LtaPctg04613 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=175 | SO=contig
+0 genes found
+>LtaPctg04614 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=130 | SO=contig
+0 genes found
+>LtaPctg04619 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=122 | SO=contig
+0 genes found
+>LtaPctg04621 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=251 | SO=contig
+0 genes found
+>LtaPctg04623 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=389 | SO=contig
+0 genes found
+>LtaPctg04628 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=241 | SO=contig
+0 genes found
+>LtaPctg04637 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=299 | SO=contig
+0 genes found
+>LtaPctg04638 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=125 | SO=contig
+0 genes found
+>LtaPctg04639 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=109 | SO=contig
+0 genes found
+>LtaPctg04643 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=434 | SO=contig
+0 genes found
+>LtaPctg04644 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=118 | SO=contig
+0 genes found
+>LtaPctg04645 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=102 | SO=contig
+0 genes found
+>LtaPctg04656 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=238 | SO=contig
+0 genes found
+>LtaPctg04660 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=158 | SO=contig
+0 genes found
+>LtaPctg04675 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=566 | SO=contig
+0 genes found
+>LtaPctg04683 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=271 | SO=contig
+0 genes found
+>LtaPctg04685 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=245 | SO=contig
+0 genes found
+>LtaPctg04686 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=318 | SO=contig
+0 genes found
+>LtaPctg04687 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=333 | SO=contig
+0 genes found
+>LtaPctg04690 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=186 | SO=contig
+0 genes found
+>LtaPctg04701 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=284 | SO=contig
+0 genes found
+>LtaPctg04702 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=117 | SO=contig
+0 genes found
+>LtaPctg04705 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=208 | SO=contig
+0 genes found
+>LtaPctg04728 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=490 | SO=contig
+0 genes found
+>LtaPctg04729 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=787 | SO=contig
+0 genes found
+>LtaPctg04730 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=757 | SO=contig
+0 genes found
+>LtaPctg04731 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=197 | SO=contig
+0 genes found
+>LtaPctg04732 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=215 | SO=contig
+0 genes found
+>LtaPctg04736 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=292 | SO=contig
+0 genes found
+>LtaPctg04738 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=219 | SO=contig
+0 genes found
+>LtaPctg04742 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=430 | SO=contig
+0 genes found
+>LtaPctg04743 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=595 | SO=contig
+0 genes found
+>LtaPctg04744 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=165 | SO=contig
+0 genes found
+>LtaPctg04779 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=101 | SO=contig
+0 genes found
+>LtaPctg04781 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=117 | SO=contig
+0 genes found
+>LtaPctg04784 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=101 | SO=contig
+0 genes found
+>LtaPctg04785 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=268 | SO=contig
+0 genes found
+>LtaPctg04790 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=230 | SO=contig
+0 genes found
+>LtaPctg04792 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=712 | SO=contig
+0 genes found
+>LtaPctg04797 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=281 | SO=contig
+0 genes found
+>LtaPctg04806 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=268 | SO=contig
+0 genes found
+>LtaPctg04807 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=148 | SO=contig
+0 genes found
+>LtaPctg04808 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=180 | SO=contig
+0 genes found
+>LtaPctg04811 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=193 | SO=contig
+0 genes found
+>LtaPctg04812 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=164 | SO=contig
+0 genes found
+>LtaPctg04815 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=116 | SO=contig
+0 genes found
+>LtaPctg04818 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=108 | SO=contig
+0 genes found
+>LtaPctg04821 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=113 | SO=contig
+0 genes found
+>LtaPctg04836 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=201 | SO=contig
+0 genes found
+>LtaPctg04838 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=114 | SO=contig
+0 genes found
+>LtaPctg04840 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=229 | SO=contig
+0 genes found
+>LtaPctg04845 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=238 | SO=contig
+0 genes found
+>LtaPctg04846 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=223 | SO=contig
+0 genes found
+>LtaPctg04855 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=224 | SO=contig
+0 genes found
+>LtaPctg04856 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=377 | SO=contig
+0 genes found
+>LtaPctg04859 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=111 | SO=contig
+0 genes found
+>LtaPctg04863 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=201 | SO=contig
+0 genes found
+>LtaPctg04865 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=568 | SO=contig
+0 genes found
+>LtaPctg04876 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=162 | SO=contig
+0 genes found
+>LtaPctg04933 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=236 | SO=contig
+0 genes found
+>LtaPctg04934 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=401 | SO=contig
+0 genes found
+>LtaPctg04935 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=401 | SO=contig
+0 genes found
+>LtaPctg04940 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=139 | SO=contig
+0 genes found
+>LtaPctg04941 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=152 | SO=contig
+0 genes found
+>LtaPctg04949 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=114 | SO=contig
+0 genes found
+>LtaPctg04954 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=203 | SO=contig
+0 genes found
+>LtaPctg04955 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=203 | SO=contig
+0 genes found
+>LtaPctg04963 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=151 | SO=contig
+0 genes found
+>LtaPctg04964 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=120 | SO=contig
+0 genes found
+>LtaPctg04967 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=224 | SO=contig
+0 genes found
+>LtaPctg04968 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=224 | SO=contig
+0 genes found
+>LtaPctg04969 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=104 | SO=contig
+0 genes found
+>LtaPctg04972 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=144 | SO=contig
+0 genes found
+>LtaPctg04973 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=132 | SO=contig
+0 genes found
+>LtaPctg04974 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=240 | SO=contig
+0 genes found
+>LtaPctg04978 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=123 | SO=contig
+0 genes found
+>LtaPctg04979 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=170 | SO=contig
+0 genes found
+>LtaPctg04982 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=104 | SO=contig
+0 genes found
+>LtaPctg04986 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=196 | SO=contig
+0 genes found
+>LtaPctg04987 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=133 | SO=contig
+0 genes found
+>LtaPctg04993 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=156 | SO=contig
+0 genes found
+>LtaPctg04994 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=371 | SO=contig
+0 genes found
+>LtaPctg04995 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=174 | SO=contig
+0 genes found
+>LtaPctg04998 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=175 | SO=contig
+0 genes found
+>LtaPctg05001 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=164 | SO=contig
+0 genes found
+>LtaPctg05002 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=167 | SO=contig
+0 genes found
+>LtaPctg05004 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=120 | SO=contig
+0 genes found
+>LtaPctg05007 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=845 | SO=contig
+0 genes found
+>LtaPctg05009 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=185 | SO=contig
+0 genes found
+>LtaPctg05019 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=223 | SO=contig
+0 genes found
+>LtaPctg05031 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=187 | SO=contig
+0 genes found
+>LtaPctg05035 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=154 | SO=contig
+0 genes found
+>LtaPctg05044 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=127 | SO=contig
+0 genes found
+>LtaPctg05046 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=271 | SO=contig
+0 genes found
+>LtaPctg05049 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=104 | SO=contig
+0 genes found
+>LtaPctg05051 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=195 | SO=contig
+0 genes found
+>LtaPctg05052 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=458 | SO=contig
+0 genes found
+>LtaPctg05071 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=304 | SO=contig
+0 genes found
+>LtaPctg05073 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=102 | SO=contig
+0 genes found
+>LtaPctg05083 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=259 | SO=contig
+0 genes found
+>LtaPctg05090 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=164 | SO=contig
+0 genes found
+>LtaPctg05100 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=121 | SO=contig
+0 genes found
+>LtaPctg05101 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=219 | SO=contig
+0 genes found
+>LtaPctg05107 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=181 | SO=contig
+0 genes found
+>LtaPctg05109 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=273 | SO=contig
+0 genes found
+>LtaPctg05110 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=224 | SO=contig
+0 genes found
+>LtaPctg05113 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=109 | SO=contig
+0 genes found
+>LtaPctg05114 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=125 | SO=contig
+0 genes found
+>LtaPctg05115 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=197 | SO=contig
+0 genes found
+>LtaPctg05118 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=429 | SO=contig
+0 genes found
+>LtaPctg05122 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=305 | SO=contig
+0 genes found
+>LtaPctg05127 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=485 | SO=contig
+0 genes found
+>LtaPctg05129 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=305 | SO=contig
+0 genes found
+>LtaPctg05131 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=206 | SO=contig
+0 genes found
+>LtaPctg05132 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=174 | SO=contig
+0 genes found
+>LtaPctg05140 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=115 | SO=contig
+0 genes found
+>LtaPctg05142 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=134 | SO=contig
+0 genes found
+>LtaPctg05144 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=620 | SO=contig
+0 genes found
+>LtaPctg05150 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=243 | SO=contig
+0 genes found
+>LtaPctg05156 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=374 | SO=contig
+0 genes found
+>LtaPctg05161 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1060 | SO=contig
+0 genes found
+>LtaPctg05162 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=161 | SO=contig
+0 genes found
+>LtaPctg05178 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=360 | SO=contig
+0 genes found
+>LtaPctg05179 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=101 | SO=contig
+0 genes found
+>LtaPctg05194 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=104 | SO=contig
+0 genes found
+>LtaPctg05197 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=206 | SO=contig
+0 genes found
+>LtaPctg05198 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=287 | SO=contig
+0 genes found
+>LtaPctg05199 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=146 | SO=contig
+0 genes found
+>LtaPctg05200 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=124 | SO=contig
+0 genes found
+>LtaPctg05201 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=194 | SO=contig
+0 genes found
+>LtaPctg05207 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=172 | SO=contig
+0 genes found
+>LtaPctg05220 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=870 | SO=contig
+0 genes found
+>LtaPctg05222 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=153 | SO=contig
+0 genes found
+>LtaPctg05223 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=130 | SO=contig
+0 genes found
+>LtaPctg05224 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=109 | SO=contig
+0 genes found
+>LtaPctg05235 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=240 | SO=contig
+0 genes found
+>LtaPctg05243 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=494 | SO=contig
+0 genes found
+>LtaPctg05246 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=142 | SO=contig
+0 genes found
+>LtaPctg05248 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=140 | SO=contig
+0 genes found
+>LtaPctg05249 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=249 | SO=contig
+0 genes found
+>LtaPctg05250 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=148 | SO=contig
+0 genes found
+>LtaPctg05252 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=160 | SO=contig
+0 genes found
+>LtaPctg05253 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=258 | SO=contig
+0 genes found
+>LtaPctg05258 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=106 | SO=contig
+0 genes found
+>LtaPctg05266 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=111 | SO=contig
+0 genes found
+>LtaPctg05270 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=389 | SO=contig
+0 genes found
+>LtaPctg05271 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=248 | SO=contig
+0 genes found
+>LtaPctg05272 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=156 | SO=contig
+0 genes found
+>LtaPctg05273 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=349 | SO=contig
+0 genes found
+>LtaPctg05274 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=178 | SO=contig
+0 genes found
+>LtaPctg05276 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=188 | SO=contig
+0 genes found
+>LtaPctg05286 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=105 | SO=contig
+0 genes found
+>LtaPctg05297 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=223 | SO=contig
+0 genes found
+>LtaPctg05302 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=284 | SO=contig
+0 genes found
+>LtaPctg05325 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=232 | SO=contig
+0 genes found
+>LtaPctg05335 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=163 | SO=contig
+0 genes found
+>LtaPctg05337 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=110 | SO=contig
+0 genes found
+>LtaPctg05341 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=215 | SO=contig
+0 genes found
+>LtaPctg05342 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=143 | SO=contig
+0 genes found
+>LtaPctg05348 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=148 | SO=contig
+0 genes found
+>LtaPctg05350 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=368 | SO=contig
+0 genes found
+>LtaPctg05351 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=115 | SO=contig
+0 genes found
+>LtaPctg05353 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=128 | SO=contig
+0 genes found
+>LtaPctg05354 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=203 | SO=contig
+0 genes found
+>LtaPctg05357 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=229 | SO=contig
+0 genes found
+>LtaPctg05358 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=149 | SO=contig
+0 genes found
+>LtaPctg05361 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=131 | SO=contig
+0 genes found
+>LtaPctg05362 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=181 | SO=contig
+0 genes found
+>LtaPctg05364 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=386 | SO=contig
+0 genes found
+>LtaPctg05365 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=192 | SO=contig
+0 genes found
+>LtaPctg05367 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=116 | SO=contig
+0 genes found
+>LtaPctg05370 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=105 | SO=contig
+0 genes found
+>LtaPctg05371 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=164 | SO=contig
+0 genes found
+>LtaPctg05373 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=150 | SO=contig
+0 genes found
+>LtaPctg05379 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=111 | SO=contig
+0 genes found
+>LtaPctg05381 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=360 | SO=contig
+0 genes found
+>LtaPctg05383 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=107 | SO=contig
+0 genes found
+>LtaPctg05385 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=116 | SO=contig
+0 genes found
+>LtaPctg05386 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=125 | SO=contig
+0 genes found
+>LtaPctg05388 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=259 | SO=contig
+0 genes found
+>LtaPctg05391 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=186 | SO=contig
+0 genes found
+>LtaPctg05392 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=186 | SO=contig
+0 genes found
+>LtaPctg05394 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=550 | SO=contig
+0 genes found
+>LtaPctg05396 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=126 | SO=contig
+0 genes found
+>LtaPctg05397 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=136 | SO=contig
+0 genes found
+>LtaPctg05398 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1056 | SO=contig
+0 genes found
+>LtaPctg05414 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=242 | SO=contig
+0 genes found
+>LtaPctg05423 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=181 | SO=contig
+0 genes found
+>LtaPctg05426 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=173 | SO=contig
+0 genes found
+>LtaPctg05429 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=121 | SO=contig
+0 genes found
+>LtaPctg05438 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=200 | SO=contig
+0 genes found
+>LtaPctg05439 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=551 | SO=contig
+0 genes found
+>LtaPctg05440 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=551 | SO=contig
+0 genes found
+>LtaPctg05444 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=104 | SO=contig
+0 genes found
+>LtaPctg05445 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=168 | SO=contig
+0 genes found
+>LtaPctg05456 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=209 | SO=contig
+0 genes found
+>LtaPctg05457 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=210 | SO=contig
+0 genes found
+>LtaPctg05459 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=145 | SO=contig
+0 genes found
+>LtaPctg05460 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=149 | SO=contig
+0 genes found
+>LtaPctg05461 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=151 | SO=contig
+0 genes found
+>LtaPctg05472 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=166 | SO=contig
+0 genes found
+>LtaPctg05479 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=220 | SO=contig
+0 genes found
+>LtaPctg05480 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=220 | SO=contig
+0 genes found
+>LtaPctg05482 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=140 | SO=contig
+0 genes found
+>LtaPctg05483 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=140 | SO=contig
+0 genes found
+>LtaPctg05490 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=271 | SO=contig
+0 genes found
+>LtaPctg05491 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=165 | SO=contig
+0 genes found
+>LtaPctg05492 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=196 | SO=contig
+0 genes found
+>LtaPctg05493 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=196 | SO=contig
+0 genes found
+>LtaPctg05498 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=215 | SO=contig
+0 genes found
+>LtaPctg05504 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=215 | SO=contig
+0 genes found
+>LtaPctg05510 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=310 | SO=contig
+0 genes found
+>LtaPctg05511 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=155 | SO=contig
+0 genes found
+>LtaPctg05514 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=122 | SO=contig
+0 genes found
+>LtaPctg05516 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=103 | SO=contig
+0 genes found
+>LtaPctg05519 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=295 | SO=contig
+0 genes found
+>LtaPctg05520 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=319 | SO=contig
+0 genes found
+>LtaPctg05532 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=273 | SO=contig
+0 genes found
+>LtaPctg05544 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=106 | SO=contig
+0 genes found
+>LtaPctg05545 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=151 | SO=contig
+0 genes found
+>LtaPctg05546 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=284 | SO=contig
+0 genes found
+>LtaPctg05548 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=126 | SO=contig
+0 genes found
+>LtaPctg05550 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=133 | SO=contig
+0 genes found
+>LtaPctg05553 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=189 | SO=contig
+0 genes found
+>LtaPctg05566 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=436 | SO=contig
+0 genes found
+>LtaPctg05569 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=110 | SO=contig
+0 genes found
+>LtaPctg05570 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=145 | SO=contig
+0 genes found
+>LtaPctg05601 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=246 | SO=contig
+0 genes found
+>LtaPctg05602 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=147 | SO=contig
+0 genes found
+>LtaPctg05616 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=656 | SO=contig
+0 genes found
+>LtaPctg05618 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=128 | SO=contig
+0 genes found
+>LtaPctg05619 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1002 | SO=contig
+0 genes found
+>LtaPctg05626 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=187 | SO=contig
+0 genes found
+>LtaPctg05627 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=224 | SO=contig
+0 genes found
+>LtaPctg05631 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=118 | SO=contig
+0 genes found
+>LtaPctg05633 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=246 | SO=contig
+0 genes found
+>LtaPctg05640 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=123 | SO=contig
+0 genes found
+>LtaPctg05644 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=304 | SO=contig
+0 genes found
+>LtaPctg05661 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=192 | SO=contig
+0 genes found
+>LtaPctg05664 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=164 | SO=contig
+0 genes found
+>LtaPctg05665 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=137 | SO=contig
+0 genes found
+>LtaPctg05666 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=157 | SO=contig
+0 genes found
+>LtaPctg05667 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=726 | SO=contig
+0 genes found
+>LtaPctg05670 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=309 | SO=contig
+0 genes found
+>LtaPctg05677 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=111 | SO=contig
+0 genes found
+>LtaPctg05679 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=165 | SO=contig
+0 genes found
+>LtaPctg05680 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=659 | SO=contig
+0 genes found
+>LtaPctg05683 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=345 | SO=contig
+0 genes found
+>LtaPctg05694 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=284 | SO=contig
+0 genes found
+>LtaPctg05695 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=276 | SO=contig
+0 genes found
+>LtaPctg05696 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=331 | SO=contig
+0 genes found
+>LtaPctg05699 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=160 | SO=contig
+0 genes found
+>LtaPctg05701 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=196 | SO=contig
+0 genes found
+>LtaPctg05707 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=165 | SO=contig
+0 genes found
+>LtaPctg05708 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=108 | SO=contig
+0 genes found
+>LtaPctg05710 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=174 | SO=contig
+0 genes found
+>LtaPctg05711 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=892 | SO=contig
+0 genes found
+>LtaPctg05715 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=166 | SO=contig
+0 genes found
+>LtaPctg05718 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=376 | SO=contig
+0 genes found
+>LtaPctg05719 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=105 | SO=contig
+0 genes found
+>LtaPctg05721 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=421 | SO=contig
+0 genes found
+>LtaPctg05725 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=121 | SO=contig
+0 genes found
+>LtaPctg05728 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=100 | SO=contig
+0 genes found
+>LtaPctg05730 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=202 | SO=contig
+0 genes found
+>LtaPctg05733 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=132 | SO=contig
+0 genes found
+>LtaPctg05735 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=151 | SO=contig
+0 genes found
+>LtaPctg05742 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=102 | SO=contig
+0 genes found
+>LtaPctg05746 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=191 | SO=contig
+0 genes found
+>LtaPctg05750 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=130 | SO=contig
+0 genes found
+>LtaPctg05757 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=318 | SO=contig
+0 genes found
+>LtaPctg05759 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=243 | SO=contig
+0 genes found
+>LtaPctg05768 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=197 | SO=contig
+0 genes found
+>LtaPctg05779 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=158 | SO=contig
+0 genes found
+>LtaPctg05780 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=145 | SO=contig
+0 genes found
+>LtaPctg05787 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=118 | SO=contig
+0 genes found
+>LtaPctg05788 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=224 | SO=contig
+0 genes found
+>LtaPctg05791 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=126 | SO=contig
+0 genes found
+>LtaPctg05792 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=173 | SO=contig
+0 genes found
+>LtaPctg05793 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=147 | SO=contig
+0 genes found
+>LtaPctg05805 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=750 | SO=contig
+0 genes found
+>LtaPctg05809 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=116 | SO=contig
+0 genes found
+>LtaPctg05817 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=317 | SO=contig
+0 genes found
+>LtaPctg05818 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=443 | SO=contig
+0 genes found
+>LtaPctg05819 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=443 | SO=contig
+0 genes found
+>LtaPctg05824 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=106 | SO=contig
+0 genes found
+>LtaPctg05829 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=345 | SO=contig
+0 genes found
+>LtaPctg05830 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=412 | SO=contig
+0 genes found
+>LtaPctg05838 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=202 | SO=contig
+0 genes found
+>LtaPctg05845 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=173 | SO=contig
+0 genes found
+>LtaPctg05846 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=180 | SO=contig
+0 genes found
+>LtaPctg05858 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=192 | SO=contig
+0 genes found
+>LtaPctg05863 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=226 | SO=contig
+0 genes found
+>LtaPctg05876 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=188 | SO=contig
+0 genes found
+>LtaPctg05877 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=164 | SO=contig
+0 genes found
+>LtaPctg05881 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=183 | SO=contig
+0 genes found
+>LtaPctg05886 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=437 | SO=contig
+0 genes found
+>LtaPctg05889 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=369 | SO=contig
+0 genes found
+>LtaPctg05892 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=367 | SO=contig
+0 genes found
+>LtaPctg05893 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=367 | SO=contig
+0 genes found
+>LtaPctg05894 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=157 | SO=contig
+0 genes found
+>LtaPctg05896 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=123 | SO=contig
+0 genes found
+>LtaPctg05899 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=800 | SO=contig
+0 genes found
+>LtaPctg05900 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=143 | SO=contig
+0 genes found
+>LtaPctg05901 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=234 | SO=contig
+0 genes found
+>LtaPctg05902 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=262 | SO=contig
+0 genes found
+>LtaPctg05903 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=221 | SO=contig
+0 genes found
+>LtaPctg05906 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=107 | SO=contig
+0 genes found
+>LtaPctg05911 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=112 | SO=contig
+0 genes found
+>LtaPctg05912 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=116 | SO=contig
+0 genes found
+>LtaPctg05914 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=100 | SO=contig
+0 genes found
+>LtaPseq102 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=879 | SO=contig
+0 genes found
+>LtaPseq103 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1060 | SO=contig
+0 genes found
+>LtaPseq104 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1237 | SO=contig
+0 genes found
+>LtaPseq107 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=902 | SO=contig
+0 genes found
+>LtaPseq111 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1063 | SO=contig
+0 genes found
+>LtaPseq112 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1062 | SO=contig
+0 genes found
+>LtaPseq114 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1452 | SO=contig
+0 genes found
+>LtaPseq115 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1810 | SO=contig
+0 genes found
+>LtaPseq117 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=818 | SO=contig
+0 genes found
+>LtaPseq121 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=664 | SO=contig
+0 genes found
+>LtaPseq122 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=888 | SO=contig
+0 genes found
+>LtaPseq125 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=877 | SO=contig
+0 genes found
+>LtaPseq126 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=2003 | SO=contig
+0 genes found
+>LtaPseq127 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=873 | SO=contig
+0 genes found
+>LtaPseq129 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=710 | SO=contig
+0 genes found
+>LtaPseq13 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1526 | SO=contig
+0 genes found
+>LtaPseq132 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=706 | SO=contig
+0 genes found
+>LtaPseq136 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=796 | SO=contig
+0 genes found
+>LtaPseq138 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1285 | SO=contig
+0 genes found
+>LtaPseq139 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=793 | SO=contig
+0 genes found
+>LtaPseq140 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1599 | SO=contig
+0 genes found
+>LtaPseq142 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1114 | SO=contig
+0 genes found
+>LtaPseq144 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=773 | SO=contig
+0 genes found
+>LtaPseq146 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1448 | SO=contig
+0 genes found
+>LtaPseq147 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=899 | SO=contig
+0 genes found
+>LtaPseq148 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1666 | SO=contig
+0 genes found
+>LtaPseq150 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1793 | SO=contig
+0 genes found
+>LtaPseq151 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=931 | SO=contig
+0 genes found
+>LtaPseq152 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=592 | SO=contig
+0 genes found
+>LtaPseq154 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=638 | SO=contig
+0 genes found
+>LtaPseq155 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1467 | SO=contig
+0 genes found
+>LtaPseq157 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=544 | SO=contig
+0 genes found
+>LtaPseq159 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1801 | SO=contig
+0 genes found
+>LtaPseq162 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1044 | SO=contig
+0 genes found
+>LtaPseq163 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1248 | SO=contig
+0 genes found
+>LtaPseq164 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=774 | SO=contig
+0 genes found
+>LtaPseq165 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=2864 | SO=contig
+0 genes found
+>LtaPseq168 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=2832 | SO=contig
+0 genes found
+>LtaPseq172 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=626 | SO=contig
+0 genes found
+>LtaPseq173 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=646 | SO=contig
+0 genes found
+>LtaPseq174 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1074 | SO=contig
+0 genes found
+>LtaPseq175 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1734 | SO=contig
+0 genes found
+>LtaPseq176 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1759 | SO=contig
+0 genes found
+>LtaPseq179 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=605 | SO=contig
+0 genes found
+>LtaPseq182 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1795 | SO=contig
+0 genes found
+>LtaPseq185 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=915 | SO=contig
+0 genes found
+>LtaPseq189 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1934 | SO=contig
+0 genes found
+>LtaPseq19 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=944 | SO=contig
+0 genes found
+>LtaPseq193 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1111 | SO=contig
+0 genes found
+>LtaPseq194 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1231 | SO=contig
+0 genes found
+>LtaPseq199 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=603 | SO=contig
+0 genes found
+>LtaPseq20 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1844 | SO=contig
+0 genes found
+>LtaPseq201 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=814 | SO=contig
+0 genes found
+>LtaPseq202 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1000 | SO=contig
+0 genes found
+>LtaPseq206 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=792 | SO=contig
+0 genes found
+>LtaPseq21 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1773 | SO=contig
+0 genes found
+>LtaPseq211 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=964 | SO=contig
+0 genes found
+>LtaPseq214 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=2129 | SO=contig
+0 genes found
+>LtaPseq215 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=910 | SO=contig
+0 genes found
+>LtaPseq217 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=908 | SO=contig
+0 genes found
+>LtaPseq218 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=2090 | SO=contig
+0 genes found
+>LtaPseq219 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=638 | SO=contig
+0 genes found
+>LtaPseq220 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1418 | SO=contig
+0 genes found
+>LtaPseq223 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1545 | SO=contig
+0 genes found
+>LtaPseq224 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=2323 | SO=contig
+0 genes found
+>LtaPseq230 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1730 | SO=contig
+0 genes found
+>LtaPseq231 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1467 | SO=contig
+0 genes found
+>LtaPseq232 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=614 | SO=contig
+0 genes found
+>LtaPseq233 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1832 | SO=contig
+0 genes found
+>LtaPseq234 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1758 | SO=contig
+0 genes found
+>LtaPseq236 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=964 | SO=contig
+0 genes found
+>LtaPseq237 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1712 | SO=contig
+0 genes found
+>LtaPseq239 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=784 | SO=contig
+0 genes found
+>LtaPseq24 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=690 | SO=contig
+0 genes found
+>LtaPseq242 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=871 | SO=contig
+0 genes found
+>LtaPseq243 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1931 | SO=contig
+0 genes found
+>LtaPseq244 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1103 | SO=contig
+0 genes found
+>LtaPseq252 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=580 | SO=contig
+0 genes found
+>LtaPseq253 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=925 | SO=contig
+0 genes found
+>LtaPseq259 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1006 | SO=contig
+0 genes found
+>LtaPseq260 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1392 | SO=contig
+0 genes found
+>LtaPseq264 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1948 | SO=contig
+0 genes found
+>LtaPseq266 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1017 | SO=contig
+0 genes found
+>LtaPseq272 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1733 | SO=contig
+0 genes found
+>LtaPseq273 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1419 | SO=contig
+0 genes found
+>LtaPseq275 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=914 | SO=contig
+0 genes found
+>LtaPseq278 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1947 | SO=contig
+0 genes found
+>LtaPseq281 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=4035 | SO=contig
+0 genes found
+>LtaPseq283 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1621 | SO=contig
+0 genes found
+>LtaPseq284 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=759 | SO=contig
+0 genes found
+>LtaPseq289 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=915 | SO=contig
+0 genes found
+>LtaPseq29 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1931 | SO=contig
+0 genes found
+>LtaPseq290 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=905 | SO=contig
+0 genes found
+>LtaPseq295 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1994 | SO=contig
+0 genes found
+>LtaPseq296 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=784 | SO=contig
+0 genes found
+>LtaPseq298 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=747 | SO=contig
+0 genes found
+>LtaPseq301 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1910 | SO=contig
+0 genes found
+>LtaPseq302 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=974 | SO=contig
+0 genes found
+>LtaPseq303 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1575 | SO=contig
+0 genes found
+>LtaPseq305 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=978 | SO=contig
+0 genes found
+>LtaPseq307 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=886 | SO=contig
+0 genes found
+>LtaPseq311 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=927 | SO=contig
+0 genes found
+>LtaPseq312 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=877 | SO=contig
+0 genes found
+>LtaPseq313 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1076 | SO=contig
+0 genes found
+>LtaPseq32 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1509 | SO=contig
+0 genes found
+>LtaPseq321 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=903 | SO=contig
+0 genes found
+>LtaPseq323 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=597 | SO=contig
+0 genes found
+>LtaPseq324 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=547 | SO=contig
+0 genes found
+>LtaPseq329 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=856 | SO=contig
+0 genes found
+>LtaPseq33 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=880 | SO=contig
+0 genes found
+>LtaPseq331 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1136 | SO=contig
+0 genes found
+>LtaPseq333 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=851 | SO=contig
+0 genes found
+>LtaPseq334 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1545 | SO=contig
+0 genes found
+>LtaPseq336 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=701 | SO=contig
+0 genes found
+>LtaPseq338 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=2113 | SO=contig
+0 genes found
+>LtaPseq339 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=2392 | SO=contig
+0 genes found
+>LtaPseq34 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=675 | SO=contig
+0 genes found
+>LtaPseq341 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1265 | SO=contig
+0 genes found
+>LtaPseq342 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1805 | SO=contig
+0 genes found
+>LtaPseq343 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=957 | SO=contig
+0 genes found
+>LtaPseq345 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1742 | SO=contig
+0 genes found
+>LtaPseq348 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=708 | SO=contig
+0 genes found
+>LtaPseq351 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1477 | SO=contig
+0 genes found
+>LtaPseq353 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1957 | SO=contig
+0 genes found
+>LtaPseq36 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1535 | SO=contig
+0 genes found
+>LtaPseq363 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=635 | SO=contig
+0 genes found
+>LtaPseq364 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=873 | SO=contig
+0 genes found
+>LtaPseq367 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=701 | SO=contig
+0 genes found
+>LtaPseq368 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=2190 | SO=contig
+0 genes found
+>LtaPseq369 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=842 | SO=contig
+0 genes found
+>LtaPseq37 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1031 | SO=contig
+0 genes found
+>LtaPseq370 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1039 | SO=contig
+0 genes found
+>LtaPseq371 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1218 | SO=contig
+0 genes found
+>LtaPseq373 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1913 | SO=contig
+0 genes found
+>LtaPseq375 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=637 | SO=contig
+0 genes found
+>LtaPseq377 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1095 | SO=contig
+0 genes found
+>LtaPseq378 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1081 | SO=contig
+0 genes found
+>LtaPseq380 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=816 | SO=contig
+0 genes found
+>LtaPseq383 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1990 | SO=contig
+0 genes found
+>LtaPseq385 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1365 | SO=contig
+0 genes found
+>LtaPseq386 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=805 | SO=contig
+0 genes found
+>LtaPseq387 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=731 | SO=contig
+0 genes found
+>LtaPseq388 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=760 | SO=contig
+0 genes found
+>LtaPseq39 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=957 | SO=contig
+0 genes found
+>LtaPseq396 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=995 | SO=contig
+0 genes found
+>LtaPseq399 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=587 | SO=contig
+0 genes found
+>LtaPseq4 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=664 | SO=contig
+0 genes found
+>LtaPseq40 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1915 | SO=contig
+0 genes found
+>LtaPseq404 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=904 | SO=contig
+0 genes found
+>LtaPseq407 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1391 | SO=contig
+0 genes found
+>LtaPseq409 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1684 | SO=contig
+0 genes found
+>LtaPseq41 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=612 | SO=contig
+0 genes found
+>LtaPseq411 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=703 | SO=contig
+0 genes found
+>LtaPseq413 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=910 | SO=contig
+0 genes found
+>LtaPseq414 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1140 | SO=contig
+0 genes found
+>LtaPseq415 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=694 | SO=contig
+0 genes found
+>LtaPseq417 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1605 | SO=contig
+0 genes found
+>LtaPseq418 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=887 | SO=contig
+0 genes found
+>LtaPseq419 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=577 | SO=contig
+0 genes found
+>LtaPseq42 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1036 | SO=contig
+0 genes found
+>LtaPseq423 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=714 | SO=contig
+0 genes found
+>LtaPseq424 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=790 | SO=contig
+0 genes found
+>LtaPseq428 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=605 | SO=contig
+0 genes found
+>LtaPseq43 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1262 | SO=contig
+0 genes found
+>LtaPseq434 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=541 | SO=contig
+0 genes found
+>LtaPseq435 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1375 | SO=contig
+0 genes found
+>LtaPseq436 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=734 | SO=contig
+0 genes found
+>LtaPseq438 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1421 | SO=contig
+0 genes found
+>LtaPseq44 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=850 | SO=contig
+0 genes found
+>LtaPseq441 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=699 | SO=contig
+0 genes found
+>LtaPseq443 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=533 | SO=contig
+0 genes found
+>LtaPseq445 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1804 | SO=contig
+0 genes found
+>LtaPseq446 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1459 | SO=contig
+0 genes found
+>LtaPseq448 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=670 | SO=contig
+0 genes found
+>LtaPseq449 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1199 | SO=contig
+0 genes found
+>LtaPseq453 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=508 | SO=contig
+0 genes found
+>LtaPseq454 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=991 | SO=contig
+0 genes found
+>LtaPseq457 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=539 | SO=contig
+0 genes found
+>LtaPseq459 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=961 | SO=contig
+0 genes found
+>LtaPseq460 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=705 | SO=contig
+0 genes found
+>LtaPseq462 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1135 | SO=contig
+0 genes found
+>LtaPseq464 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=507 | SO=contig
+0 genes found
+>LtaPseq466 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1521 | SO=contig
+0 genes found
+>LtaPseq47 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=706 | SO=contig
+0 genes found
+>LtaPseq470 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1271 | SO=contig
+0 genes found
+>LtaPseq471 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=2387 | SO=contig
+0 genes found
+>LtaPseq472 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=533 | SO=contig
+0 genes found
+>LtaPseq473 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=737 | SO=contig
+0 genes found
+>LtaPseq477 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1264 | SO=contig
+0 genes found
+>LtaPseq478 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=506 | SO=contig
+0 genes found
+>LtaPseq48 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=854 | SO=contig
+0 genes found
+>LtaPseq480 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=708 | SO=contig
+0 genes found
+>LtaPseq483 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=544 | SO=contig
+0 genes found
+>LtaPseq484 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=806 | SO=contig
+0 genes found
+>LtaPseq488 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=559 | SO=contig
+0 genes found
+>LtaPseq491 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=909 | SO=contig
+0 genes found
+>LtaPseq493 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=539 | SO=contig
+0 genes found
+>LtaPseq495 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=693 | SO=contig
+0 genes found
+>LtaPseq498 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=794 | SO=contig
+0 genes found
+>LtaPseq500 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1104 | SO=contig
+0 genes found
+>LtaPseq501 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1438 | SO=contig
+0 genes found
+>LtaPseq505 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=735 | SO=contig
+0 genes found
+>LtaPseq507 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=657 | SO=contig
+0 genes found
+>LtaPseq51 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1643 | SO=contig
+0 genes found
+>LtaPseq511 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=650 | SO=contig
+0 genes found
+>LtaPseq518 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=622 | SO=contig
+0 genes found
+>LtaPseq52 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1635 | SO=contig
+0 genes found
+>LtaPseq520 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=951 | SO=contig
+0 genes found
+>LtaPseq521 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=641 | SO=contig
+0 genes found
+>LtaPseq526 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=574 | SO=contig
+0 genes found
+>LtaPseq53 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1093 | SO=contig
+0 genes found
+>LtaPseq54 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1252 | SO=contig
+0 genes found
+>LtaPseq55 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1538 | SO=contig
+0 genes found
+>LtaPseq57 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1680 | SO=contig
+0 genes found
+>LtaPseq58 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1598 | SO=contig
+0 genes found
+>LtaPseq59 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=2045 | SO=contig
+0 genes found
+>LtaPseq60 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=2822 | SO=contig
+0 genes found
+>LtaPseq61 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=944 | SO=contig
+0 genes found
+>LtaPseq62 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1168 | SO=contig
+0 genes found
+>LtaPseq63 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1104 | SO=contig
+0 genes found
+>LtaPseq65 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1236 | SO=contig
+0 genes found
+>LtaPseq66 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=934 | SO=contig
+0 genes found
+>LtaPseq70 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=2029 | SO=contig
+0 genes found
+>LtaPseq72 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=822 | SO=contig
+0 genes found
+>LtaPseq73 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=813 | SO=contig
+0 genes found
+>LtaPseq75 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=881 | SO=contig
+0 genes found
+>LtaPseq76 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1314 | SO=contig
+0 genes found
+>LtaPseq77 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=752 | SO=contig
+0 genes found
+>LtaPseq81 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1302 | SO=contig
+0 genes found
+>LtaPseq83 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=871 | SO=contig
+0 genes found
+>LtaPseq88 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1550 | SO=contig
+0 genes found
+>LtaPseq91 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=672 | SO=contig
+0 genes found
+>LtaPseq92 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1244 | SO=contig
+0 genes found
+>LtaPseq96 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1599 | SO=contig
+0 genes found
+>LtaPseq98 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=517 | SO=contig
+0 genes found
+>LtaPseq99 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=1756 | SO=contig
+0 genes found
+>LtaPsfd00365 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=2096 | SO=supercontig
+0 genes found
+>LtaPsfd00537 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=18017 | SO=supercontig
+0 genes found
+>LtaPsfd00637 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=2253 | SO=supercontig
+0 genes found
+>LtaPsfd00695 | organism=Leishmania_tarentolae_Parrot-TarII | version=2011-06-22 | length=2949 | SO=supercontig
+0 genes found
+>end 	1351 sequences 98 tRNA genes, nothing found in 1324 sequences, (2.00% sensitivity)

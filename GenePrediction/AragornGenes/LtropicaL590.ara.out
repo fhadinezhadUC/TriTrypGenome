@@ -1,0 +1,663 @@
+>LtrL590_01 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=300120 | SO=chromosome
+0 genes found
+>LtrL590_02 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=349520 | SO=chromosome
+2 genes found
+1   tRNA-Thr                c[69926,70075]	101.2	112 	(cgt)i(31,79)
+ggcgtgttgcggtgggcttggacggcgccagacggtgttggtggggcgcggtttcctggacacggccgtcgcgcaccagagataggtgcgctgtgggctgtgcgtgcgtctcgtcatggcgcggctcgcgtgcggagcacgaacacgctt
+(((((((  (.((dddddddd)).)(((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))    (((.(ttttttt).))))))))))
+2   tRNA-Val               [247398,247489]	106.0	30  	(gac)
+cgagcgcgtggtcagatgggtgcgacgctgacatcgttgtccccgtgtcggcgcgagtggtgccgtggctgttcgactccgtcgcggccgtc
+((..(((   (((ddddd)))((((((  AAA  ))))))        ((((((vvvvv)))))) (((.(ttttttt).))))))..))
+>LtrL590_03 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=389467 | SO=chromosome
+2 genes found
+1   tRNA-Lys               [260816,260889]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Val              c[290598,290694]	102.3	37  	(gac)
+ctggtggctgctgcagtggtcgcggcggtcgcacctgacgtgcgtggaggacgcgctggagatgggcgatgcggcggttcccatctgcctcacctcc
+..(((((   ((((dddddddddd))))((((.(  AAA  ).))))     .((((vvvvvvv)))).   (((((ttttttt))))))))))..
+>LtrL590_04 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=482001 | SO=chromosome
+0 genes found
+>LtrL590_05 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=457209 | SO=chromosome
+1 genes found
+1   tRNA-Arg               [367890,367961]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LtrL590_06 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=517177 | SO=chromosome
+1 genes found
+1   tRNA-SeC                c[70895,70982]	108.3	36  	(tca)
+gccgcgatgagctcagctggtgctgggtgcgggcttcaaacccgtaggtgagttgctctcacagccgttcgattcggccttcgtggcg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+>LtrL590_07 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=646524 | SO=chromosome
+1 genes found
+1   tRNA-Arg              c[410476,410547]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LtrL590_08 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=412832 | SO=chromosome
+0 genes found
+>LtrL590_09 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=577352 | SO=chromosome
+9 genes found
+1   tRNA-Met               [262134,262205]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Leu               [262265,262348]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+3   tRNA-Val               [397501,397574]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-His               [397827,397898]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+5   tRNA-Phe              c[398079,398151]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Glu              c[410346,410417]	118.0	34  	(ttc)
+tccgatgtagtataacggttagaacacctggctttcacccaggagatccgggttcgattcccggtatcggag
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+7   tRNA-Val              c[410655,410728]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+8   tRNA-Arg               [410803,410875]	118.6	33  	(ccg)
+gacgttgtggcgcaatggaagcgcgtcggattccggatccgaaggttgtgggttcgacccccatcagcgttgc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+9   tRNA-His               [410941,411012]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>LtrL590_10 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=334127 | SO=chromosome
+3 genes found
+1   tRNA-Lys               [302682,302755]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Gly              c[302795,302865]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Asn              c[302919,302992]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>LtrL590_11 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=587704 | SO=chromosome
+12 genes found
+1   tRNA-Ala                c[79942,80059]	102.1	36  	(cgc)i(39,39)
+gttggggtggttgaggtccttcataacctcgacctcgcgctgcaggttacgcgtcttgtccgccaccgtcttgaacggggtcgacggtgtctggcggtgcttgctccgcctccgagtc
+(((.(((  ((((dddddddddd)))) (((((  AAAiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  )))))        (((((tttttttt)))))))).)))
+2   tRNA-Leu              c[178871,178953]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Ala               [179027,179099]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+4   tRNA-Gly              c[180793,180864]	122.0	33  	(ccc)
+gcgccgctggtctagtggcatgatggtaccctcccaaggtattgacccgggttcgattcccgggcggcgcac
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+5   tRNA-Ala              c[180924,180996]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+6   tRNA-Leu               [181070,181152]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+7   tRNA-Gly              c[185467,185538]	122.0	33  	(ccc)
+gcgccgctggtctagtggcatgatggtaccctcccaaggtattgacccgggttcgattcccgggcggcgcac
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+8   tRNA-Ala              c[185598,185670]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+9   tRNA-Leu               [185744,185826]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+10  tRNA-Val               [337562,337766]	101.8	146 	(tac)i(31,115)
+gaaccagtggaagacgggctccgtctcgttgctcgtgtgccctgactccttcaccaacccacgactctcggctgaggagttggttgttgtgtttcgccagcagtgcgctctgtaccgcctgcgctacgaggacgccttcgccgactacgacaagatgaagacgggcaaggttacggtggcgcagttcgagtccgtgctgggccgc
+(..((((  (.((ddddd)).) (((.(  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiAAA  ).))) (.(vvvvvvvvvvvv).)     (((.(ttttttt).)))))))..)
+11  tRNA-Met              c[402343,402417]	113.6	35  	(cat)
+tgcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgcaa
+(((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).)))))
+12  tRNA-Arg               [402491,402565]	120.3	34  	(acg)
+tgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgac
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+>LtrL590_12 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=520538 | SO=chromosome
+0 genes found
+>LtrL590_13 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=656478 | SO=chromosome
+1 genes found
+1   tRNA-???               [416791,416868]	100.9	37  	(gt) 
+tggcgttgttgacgacgcggacgcctcgcggtgcctgtaggcatcacgccgccgccggatcttctccagcagcgccac
+(((((((   ((.(ddddddddd).))  (((((  AA  )))))        ((.((ttttttt)).)))))))))
+>LtrL590_14 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=686583 | SO=chromosome
+0 genes found
+>LtrL590_15 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=615912 | SO=chromosome
+2 genes found
+1   tRNA-Asp               [309809,309881]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Glu              c[309919,309992]	118.1	35  	(ctc)
+ttccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaat
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+>LtrL590_16 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=741252 | SO=chromosome
+2 genes found
+1   tRNA-Gln              c[492644,492718]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgac
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+2   tRNA-Gly              c[512613,512737]	100.3	65  	(tcc)i(33,31)
+gtggactgtggcgaaggagaggcgccgacgctgatgtcggcatcgtcgtcgcccgctgcagtattccaggcgtcgatggcgatattagagacggagacggcggggtcgtctcctgcagccgacac
+((.(.((   (((ddddddddd))) ((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))       .(.(vvvvvvvvv).). (((((ttttttt))))))).).))
+>LtrL590_17 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=669689 | SO=chromosome
+3 genes found
+1   tRNA-Asp              c[313353,313425]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Ser               [313502,313583]	121.7	34  	(gct)
+gcaaatgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcgc
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Ala               [313642,313717]	108.3	35  	(agc)
+tggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctccaac
+((((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+>LtrL590_18 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=758806 | SO=chromosome
+3 genes found
+1   tRNA-Leu               [388644,388818]	101.3	113 	(tag)i(37,74)
+gagggaggtgggaggaggtgcagtgtgctcccctccacatacacaatacacacagagacatacacttagcttcctctgctcactgtgctgtggttgttgtggctgctgctgttaggcggaggagtgcatgtagaaggccgtgaatcgtagcagttctggcctgctttccccctcc
+(.(((((   ((.(ddddddddddd).))  (((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))                          (((((ttttttt)))))))))).)
+2   tRNA-Cys               [594947,595087]	100.8	35  	(gca)i(39,50)
+tgatggggtggcctgtggcggcgaggctgccgttgcaagcggcattgtgagtgccccggaacccatggggtccacatgtatccctaacttggtggacggcgttggtgcgccgttgcaggcgatctactcgtcttcgtcgtc
+(((((((   ((((ddddddddd))))(((((  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii )))))                       ((((ttttttt)))))))))))
+3   tRNA-Thr              c[735402,735518]	101.2	32  	(ggt)i(36,48)
+gcaaccgtggtctggttgtggatgttgtattggtgggcagtgcggatgagcgtgagaaagatgcccttgaaggctgtcgactggtacatggagcgcgtgccagccgcgcgggttgca
+((((((.  (((dddddddd))) .((((  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii )))).   (((((ttttttt))))).))))))
+>LtrL590_19 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=655478 | SO=chromosome
+0 genes found
+>LtrL590_20 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=707957 | SO=chromosome
+0 genes found
+>LtrL590_21 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=779552 | SO=chromosome
+6 genes found
+1   tRNA-Ser              c[165833,165913]	123.0	34  	(gct)
+gcaaacgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcg
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ile               [195526,195629]	105.7	32  	(gat)i(37,12)
+gcgtctgctggttcggcttgtgcgtcgcgctgatgcacttcgcaagcacgcggttatgcgcgatcccagcagagcagtcgtagtgcagctccgcgtagatgcgc
+(((((((   ((.ddddddd.)) (((((  AAA  iiiiiiiiiiii)))))        ..(vvvvvvv)..    (((.(ttttttt).))))))))))
+3   tRNA-Pro               [455015,455086]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+4   tRNA-Val               [455218,455292]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Lys               [455355,455428]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+6   tRNA-Phe               [483429,483587]	100.3	100 	(gaa)i(31,67)
+cagcgtgatggcgggatgatcgaagctgccgccgtagcgctcctctttggcgaggcgaaactccgcaatgaactcctgcagatccaccgagttcgtgctgaacagggagctgaggtcgctcggggtggcctcgccgcgttcgatgcccgacacgctgcc
+(((((((   .(((ddddd))).  ((.((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )).))          ..(.vvvv.)..  .((.(ttttttt).)).)))))))
+>LtrL590_22 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=667416 | SO=chromosome
+0 genes found
+>LtrL590_23 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=776302 | SO=chromosome
+11 genes found
+1   tRNA-Ile               [229852,229925]	118.5	35  	(tat)
+gctcccgtggtctagttggttaggacgctggtcttatgaaccggatgtcgcgggttcgagccccgccgggagca
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Val              c[229972,230044]	111.3	34  	(tac)
+gcgtgggtgatctagtggttatgatgtctgctttacacgcagaacgtcgcgggttcgaaccccgccccgcgta
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Gln              c[230113,230186]	124.9	35  	(ttg)
+tggtcctatagtgtagtggttatcacttcggactttgaatccgaaaacccaggttcgaatcctggtaggaccag
+((((((((  (((.dddddddd.)))((((((  AAA  ))))))   (((((ttttttt)))))))))))))
+4   tRNA-Arg              c[230432,230505]	120.3	34  	(acg)
+tgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+5   tRNA-Leu              c[230729,230811]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+6   tRNA-Thr              c[230871,230944]	120.1	34  	(tgt)
+gggccgcttagcacagtggcagtgcactggtcttgtaaaccaggggtcccgagttcaattctcggagtggcctt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+7   tRNA-Arg               [231015,231088]	121.1	34  	(tcg)
+tggcctcttggcgcaatggaagcgcatcagacttcggatctgagggttgcaggttcgagtcctgcaggggtcgg
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+8   tRNA-Lys               [231401,231473]	120.7	34  	(ttt)
+gcacttctagctcagttggtagagcgcgtggcttttaacctcgtggtcgtgggttcgagccccacggagtgcg
+(((((((  ((((dddddddd))))(((.((  AAA  )).)))    (((((ttttttt))))))))))))
+9   tRNA-Gly              c[231512,231584]	116.4	34  	(tcc)
+gcaattgtggtccaacggttaagatccccgccttccaagcgggtgacccgggttcgactcccggcaattgcac
+(((((((  (((dddddddddd))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+10  tRNA-Trp               [231660,231732]	115.5	33  	(cca)
+gggggcttagctcagtggtagagcattggattccaaatccaggggtcgtaggttcaatccctgcagctctcac
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+11  tRNA-Gly              c[479733,479814]	103.9	33  	(acc)
+tagctgcttgggtagtgggagattgctgggctaccgctacggcggcgtctttcatcgcgggttctacttcaacagcagctaa
+((((((((  (((dddddddd)))((((.(  AAA  ).))))             (..((ttttttt))..)))))))))
+>LtrL590_24 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=882718 | SO=chromosome
+6 genes found
+1   tRNA-Pro               [204654,204725]	124.4	33  	(cgg)
+ggccgcttagtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Gln               [643621,643695]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgac
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+3   tRNA-Leu              c[643905,643988]	111.7	37  	(taa)
+tgctggggttcccgagttggtcaaaggggtgagacttaagttctcatgcgcaagcttcgtgggttcgaaccccacctccagcaa
+((((((((  (((.dddddddddd.)))((((((  AAA  ))))))           (((((ttttttt)))))))))))))
+4   tRNA-Ile               [644072,644146]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Ile               [646216,646290]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Asp              c[703789,703860]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaag
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+>LtrL590_25 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=899293 | SO=chromosome
+1 genes found
+1   tRNA-Pro              c[403283,403434]	103.4	94  	(ggg)i(30,63)
+atcgctgtcgtggtggtgggcgccgcctccgtgacgttgaaagtgctttggtggttcacgtaaggcgagcgccgctgcacgggttgccgaggtggggcaggcggcgatggtggcaacagctgttgcacctttgttcgagtcgagtagtggta
+(((((((  (((dddddddd)))((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))               (..vvvv..) ((((ttttttt)))))))))))
+>LtrL590_26 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1057680 | SO=chromosome
+1 genes found
+1   tRNA-Glu                 [60869,60977]	103.7	50  	(ttc)i(35,14)
+cggccgtgtcgatgagcttcagcttcctccccttgtacatgcatgcgatttcgatggggtcgcgggtcgtattcgactcgtcagcggcgcggttccgctcgtagccgac
+((((.(((  ((.(dddddddd).))  ((((. iiiiiiiiiiiiii AAA  .))))(.(.vvvvvvvv.).)       (((((ttttttt)))))))).))))
+>LtrL590_27 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1104465 | SO=chromosome
+1 genes found
+1   tRNA-Arg              c[415077,415169]	101.1	34  	(gcg)
+caggcctttggcgaaggtcagcgctttcctcctgcggtgggagacgagtactctccgatgagtggcggaagctcggcccttttcagatctgac
+((((.((   (((dddddddd))) ((.(((  AAA  ))).))    (((((vvvvvv)))))  (((((tttttttt))))))).))))
+>LtrL590_28 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1196208 | SO=chromosome
+0 genes found
+>LtrL590_29 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1275550 | SO=chromosome
+5 genes found
+1   tRNA-His               [430545,430658]	101.3	57  	(atg)i(38,18)
+ccagcggttggtgcagcgggacccagcgcaggcgatcgaactgctgtgcaaacactatgacatcccttggagcttcgcgtgggctaacccgcagttcgacacggcgccaccagc
+(..(.((   ((((ddddddddddd))))  (.((( iiiiiiiiiiiiiiiiii AAA  ))).)     (.(...vvvvv...).) (((.(ttttttt).))))).)..)
+2   tRNA-His               [439758,439871]	101.3	57  	(atg)i(38,18)
+ccagcggttggtgcagcgggacccagcgcaggcgatcgaactgctgtgcaaacactatgacatcccttggagcttcgcgtgggctaacccgcagttcgacacggcgccaccagc
+(..(.((   ((((ddddddddddd))))  (.((( iiiiiiiiiiiiiiiiii AAA  ))).)     (.(...vvvvv...).) (((.(ttttttt).))))).)..)
+3   tRNA-Leu              c[851893,851975]	117.8	35  	(caa)
+ggcaggatggccgagtggtctaaggcgggagactcaagttctcttctattcgtaggcgcgggttcgaaccccgctcctgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+4   tRNA-Ser              c[852033,852113]	119.6	34  	(cga)
+gtcaccatacccaagtggttacgggggttgactcgaaatcaactgcgatctcgcgcgcaggttcgaatcctgctggtgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+5   tRNA-Tyr              c[868336,868421]	100.1	37  	(ata)
+ggtgaacatgggaggagttgcagcttcggctgtgctataaccatgactagtcattatgtgtgtgcgaatccgctctctttacctcc
+((((((.(  ((((ddddddddd)))) (.((((  AAA  )))).)          (.(((tttttttt))).)).))))))
+>LtrL590_30 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1348946 | SO=chromosome
+1 genes found
+1   tRNA-Thr              c[740228,740299]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LtrL590_31 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1612813 | SO=chromosome
+7 genes found
+1   tRNA-Ala               [179878,179950]	108.3	34  	(agc)
+ggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctcca
+(((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+2   tRNA-Ala               [196473,196545]	108.3	34  	(agc)
+ggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctcca
+(((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+3   tRNA-Gly               [530118,530189]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgcac
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+4   tRNA-Glu              c[530239,530312]	118.1	35  	(ctc)
+ttccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaat
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+5   tRNA-Thr               [892377,892472]	100.8	36  	(tgt)
+tcccttcgatgctgcgcttgtagactgccgggtcttgtacatccgtgacgcttcgtgtgaagttcaagcacgctgtgcagatcggcgtgaagaagg
+(..(((((   (.(dddddddddd).) (((((  AAA  )))))    (((((vvvv)))))       (((((ttttttt))))))))))..)
+6   tRNA-Phe             [1453469,1453541]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+7   tRNA-Ser            c[1453597,1453678]	119.6	34  	(aga)
+gtcaccatacccaagtggttacggggactgactagaaatcagttgcgatctcgcgcgcaggttcgaatcctgctggtgacgc
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>LtrL590_32 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1567047 | SO=chromosome
+1 genes found
+1   tRNA-Ser             [1442052,1442140]	101.6	33  	(cga)
+cccgtccgtagatagcgccagtgtgcccgcatcgagggtgggtgccgatgacggtagcggtaccgtgcgtgcgccacgcacggacgagg
+(.(((((   .(((ddddddd))).(((((  AAA  )))))(((((.((vvvv)).)))))  (((((ttttttt)))))))))).)
+>LtrL590_33 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1456995 | SO=chromosome
+4 genes found
+1   tRNA-Arg              c[102240,102313]	118.9	34  	(cct)
+gcccttgtagcctaatggatatggcgtttgcttcctaagcaaaaggttgcgggttcgagtcccgccaggggtac
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Arg              c[102373,102446]	125.8	34  	(tct)
+gctccagtggcctaacggataaggctttggacttctaatccaaagattgcgggttcgaatcccgcctggagtac
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+3   tRNA-Ala               [102522,102594]	117.5	33  	(tgc)
+gggcgtgtagctcagtggtagagcgcctgttttgcatacaggaggcctagggttcaaacccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+4   tRNA-Gly             [1075719,1075794]	100.4	38  	(tcc)
+cttcactgtcgtcgatgcttccgacgaccggcgtgcttccgtcaggctacgtgagtgcgacgctcttggagagggc
+((((.((   ((((dddddddddd))))  ((.((  AAA  )).))   (.(((ttttttt))).))).))))
+>LtrL590_34 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1664313 | SO=chromosome
+11 genes found
+1   tRNA-Val              c[453123,453197]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Ile               [453437,453511]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Met               [453572,453644]	113.6	34  	(cat)
+gcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+4   tRNA-Leu              c[453678,453757]	119.8	35  	(tag)
+ggcggagtggccgagtggtctaaggcgccagatttaggctctggtctttcgaggcgtgggttcgaaccccacctccgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))          (((((ttttttt))))))))))))
+5   tRNA-Ser               [453832,453912]	116.9	34  	(tga)
+gtcaacatacccaagtggttacggggtttgacttgaaatcaaatgcgatctcgcgcgcaggttcgaaccctgctgttgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+6   tRNA-Asn               [903825,903960]	103.0	32  	(gtt)i(37,44)
+ggcaaagtgcgcgggttgaagcaccgccgttgttgcggcgccgcccacaactgcgcagatgaaagcgagttcatacgaggcggcgtaggcggacgcctcgtccaggccgctagggtgcccattccctttcttgccc
+(((((.(  .((dddddddd)). (((((  AAA  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii)))))(.(vvvvvvvvvvvvv).)      .((((tttttttt)))).).)))))
+7   tRNA-Asn            c[1355900,1355973]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+8   tRNA-Tyr            c[1356032,1356116]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagttcgcaggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+9   tRNA-Thr            c[1356178,1356249]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+10  tRNA-Pro             [1356331,1356402]	124.4	33  	(cgg)
+ggccgcttagtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+11  tRNA-Asn             [1356463,1356536]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>LtrL590_35 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1997084 | SO=chromosome
+2 genes found
+1   tRNA-Pro              c[125097,125246]	100.7	31  	(ggg)i(35,66)
+tgagggtagggtagggtaggcctgcgggttgggggcaccgaacaccttcatgcgcgcagcagcagcctccgcgacggattgtcgatccagcggtggctggcgccgcacgagcctgggggcgtgtcgttggttcttctccagcagctttgt
+(((((.( ((((ddddddd))))((((.  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii .))))                   (((((ttttttt)))))).)))))
+2   tRNA-Gly              c[319656,319831]	100.1	138 	(gcc)i(33,103)
+gccgcagctgcggcggcgttacgctgacgacgtcgccgccgccgcgaactcttcgttgctttgggattgtggtgatgctggtgcgaggagcggtgctggcggccctgaccgcggtgcagctgagagcggtgccggctgccgccgccgccagtcgagcgcggacctcgactgcggcc
+(((((((   (((dddddddddd))) ((.((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )).))    (((((ttttttt))))))))))))
+>LtrL590_36 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=2716320 | SO=chromosome
+15 genes found
+1   tRNA-Tyr              c[496837,496921]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagttcgcaggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+2   tRNA-Thr              c[496997,497069]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Thr               [497886,497958]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Tyr               [498036,498120]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagttcgcaggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+5   tRNA-Gly             [1045662,1045732]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+6   tRNA-Thr            c[1046356,1046427]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+7   tRNA-Gly            c[1046490,1046560]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+8   tRNA-Pro             [1046634,1046705]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+9   tRNA-His            c[1242899,1243073]	100.2	115 	(gtg)i(37,78)
+acaccgtgatggcgggtgattaccagtgccgcatttagcgcacgctgtgtgtgccgccgtgtgtgtagaactgcacccgctgctcccccattcaacgcaccatccgctctacatgtggcgtgcgtgtgcgtgcatgtgtgcataggtgctcttcttcgaatgcagacatggtgtg
+((((((((   (((.dddddddddd.)))(((((  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiAAA  ))))) (((((vvvvvvvv)))))      (((.(ttttttt).)))))))))))
+10  tRNA-Gln            c[1628081,1628155]	119.8	35  	(ctg)
+tgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgtc
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+11  tRNA-Gly            c[2206656,2206815]	102.5	101 	(gcc)i(32,68)
+gcaccaagcagctcgaggagctctccggcgtcaccggcatcacagacatccaccgccagttcgttgacaatatcacgatcccaagtaagcggcctggtatgccgccgctgaagcgtgtgccgatggtgtttgactgctggttcgagtccggctcgatgcc
+(((.(.(   (..(ddddd)..)  ((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))         .((vvvvvvvv)).  (((((ttttttt)))))).).)))
+12  tRNA-Cys             [2508894,2508965]	122.6	33  	(gca)
+ggattcatagctcagtggtagagcattcggctgcagtccgaatggtccccggttcaaacccgggtgggtcct
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+13  tRNA-Leu            c[2509775,2509857]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+14  tRNA-Met            c[2509921,2509992]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+15  tRNA-Pro             [2510065,2510137]	122.1	33  	(tgg)
+ggtcgtttggtctagtggtatgattcctgttttgggtacaggaggtcacgggttcaattcccgtaacgacccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>LTRL590_SCAF000001 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1927 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000002 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=11575 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000003 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=979 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000004 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1021 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000005 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=2558 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000006 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1743 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000007 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=2163 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000008 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=5077 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000009 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1029 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000010 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=6122 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000011 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1698 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000012 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=3265 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000013 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1180 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000014 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1205 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000015 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1180 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000016 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1235 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000017 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=3310 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000018 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1738 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000019 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1228 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000020 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1246 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000021 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=7696 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000022 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=31984 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000023 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1261 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000024 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1293 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000025 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1295 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000026 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1875 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000027 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1079 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000028 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=5095 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000029 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1846 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000030 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1136 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000031 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1521 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000032 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1387 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000033 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=4923 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000034 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=2001 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000035 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1141 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000036 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=52991 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000037 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1751 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000038 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=2291 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000039 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1524 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000040 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1494 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000041 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=7472 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000042 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=9514 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000043 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=5202 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000044 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1555 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000045 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1368 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000046 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=9644 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000047 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1455 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000048 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=3451 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000049 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=4225 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000050 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=3375 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000051 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1181 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000052 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=4400 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000053 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=3046 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000054 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=8611 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000055 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=3793 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000056 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1053 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000057 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=2373 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000058 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=2450 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000059 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=12544 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000060 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=8394 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000061 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=2680 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000062 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=37509 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000063 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=4253 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000064 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=2782 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000065 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1056 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000066 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=4747 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000067 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=5044 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000068 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1199 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000069 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=2214 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000070 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=2412 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000071 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=2736 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000072 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1630 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000073 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1221 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000074 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=2348 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000075 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1473 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000076 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1369 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000077 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=5103 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000078 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1344 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000079 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=4490 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000080 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=4833 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000081 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=9387 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000082 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=22256 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000083 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=4517 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000084 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=7479 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000085 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1532 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000086 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=8966 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000087 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=5288 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000088 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=24486 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000089 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=5477 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000090 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1667 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000091 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1308 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000092 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=8260 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000093 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=11952 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000094 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=5847 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000095 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=6416 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000096 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=14003 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000097 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=7149 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000098 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=5044 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000099 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1864 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000100 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=2465 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000101 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=48065 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000102 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1715 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000103 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=5208 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000104 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=2352 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000105 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=7453 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000106 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=5684 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000107 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1836 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000108 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=13654 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000109 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=5598 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000110 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1804 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000111 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=20512 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000112 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=198628 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000113 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=7832 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000114 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=2122 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000115 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1152 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000116 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=8723 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000117 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=11833 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000118 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=34405 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000119 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1787 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000120 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=9381 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000121 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=16293 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000122 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=2210 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000123 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=20247 | SO=supercontig
+0 genes found
+>LTRL590_SCAF000124 | organism=Leishmania_tropica_L590 | version=2014-12-16 | length=1593 | SO=supercontig
+0 genes found
+>end 	160 sequences 114 tRNA genes, nothing found in 133 sequences, (16.88% sensitivity)

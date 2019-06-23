@@ -1,0 +1,468 @@
+>CfaC1_01 | organism=Crithidia_fasciculata_strain_Cf-Cl | version=2015-06-01 | length=518673 | SO=chromosome
+2 genes found
+1   tRNA-Trp               [181244,181315]	116.8	33  	(cca)
+gggggcttagctcagtggtagagcattggattccaaatccaggggtcgcaggttcaatccctgcagtcctca
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Val               [408538,408610]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgta
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>CfaC1_02 | organism=Crithidia_fasciculata_strain_Cf-Cl | version=2015-06-01 | length=531523 | SO=chromosome
+2 genes found
+1   tRNA-Thr              c[161305,161454]	100.4	89  	(ggt)i(30,58)
+tgcggtagtgggagaggggcttcgtcgacatgcgggctagctgccggtcggtctgatagacagcagcggcaattcgatgggaatgcatggtgtgcggcttaaaggcggatgatggtgagggccctgtgttcagtttggtagtatcgctcc
+.((((((   ((((ddddd))))((((. iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  .))))                         ((((.tttttttt.)))))))))).
+2   tRNA-Arg               [380166,380237]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>CfaC1_03 | organism=Crithidia_fasciculata_strain_Cf-Cl | version=2015-06-01 | length=580702 | SO=chromosome
+0 genes found
+>CfaC1_04 | organism=Crithidia_fasciculata_strain_Cf-Cl | version=2015-06-01 | length=589253 | SO=chromosome
+4 genes found
+1   tRNA-Ser                 [27580,27775]	100.5	33  	(tga)i(35,102)
+cgacgtcgtggcctggacggcagacactgctttggtctttggcaccggcggcctggcggtggcggaccgtcgctgtggctctgcacacgtcatcgctgcgacaaccatcgcaaatggcggagcggcgggggaggacaaggtggtggtgtttgggcaggacaacgtgctccgcgtgttcgacctgcgcaacaccgcc
+((..((.   (.(ddddddddd).)(((((  AAiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiA  )))))        (...vvvvvvv...)   (((((ttttttt))))).))..))
+2   tRNA-Lys               [555731,555804]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+3   tRNA-Gly              c[555856,555926]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+4   tRNA-Asn              c[555987,556060]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>CfaC1_05 | organism=Crithidia_fasciculata_strain_Cf-Cl | version=2015-06-01 | length=613868 | SO=chromosome
+11 genes found
+1   tRNA-Arg              c[107895,107985]	102.8	35  	(ccg)
+ggcggctgtgccgtggcggcagtcgccgcagcctccgctgccgccggcgccgcgttggtgctggtggcgttcgcggccgccgcagccgcct
+((((((((  .((.dddddddd.)). ((.((  AAA  )).))(((((((vvvvv))))))) (((((tttttttt)))))))))))))
+2   tRNA-Met               [279127,279198]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Leu               [279262,279345]	117.1	35  	(cag)
+ggcaagatggtcgagtggtccaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+4   tRNA-Val               [416364,416437]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-His               [416500,416571]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+6   tRNA-Phe               [416631,416703]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+7   tRNA-Glu              c[438739,438812]	113.1	35  	(ttc)
+ttccgatgtagtataacggttagaacacctggctttcacccaggagacccgggttcgattcccggtatcggagt
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+8   tRNA-Val              c[438873,438946]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+9   tRNA-Arg               [439021,439093]	118.6	33  	(ccg)
+gacgttgtggcgcaatggaagcgcgtcggattccggatccgaaggttgtgggttcgacccccatcagcgttgc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+10  tRNA-His               [439159,439230]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+11  tRNA-Val               [612044,612142]	101.7	39  	(gac)
+gggctgcgcacgtcgcggacggtgaagcgctgcgcgctgacggcgggcgaggtggccaaggccgtggagatgggcaagttcgagccctgcccagccaac
+.(((((.   (((.ddddddddddd.))) (((.((  AAA  )).)))     .(((.vvvv.))).     (((.(ttttttt).))).))))).
+>CfaC1_06 | organism=Crithidia_fasciculata_strain_Cf-Cl | version=2015-06-01 | length=620258 | SO=chromosome
+1 genes found
+1   tRNA-Ala               [244746,244821]	108.3	35  	(agc)
+tggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctccagc
+((((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+>CfaC1_07 | organism=Crithidia_fasciculata_strain_Cf-Cl | version=2015-06-01 | length=632656 | SO=chromosome
+9 genes found
+1   tRNA-Lys              c[173342,173415]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Leu              c[173488,173570]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Ala               [173646,173718]	118.6	33  	(cgc)
+gggcgtatagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctattcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+4   tRNA-Gly               [173778,173849]	122.0	33  	(ccc)
+gcgccgctggtctagtggcatgatggtaccctcccaaggtattgacccgggttcgattcccgggcggcgcac
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+5   tRNA-Ala              c[183428,183500]	118.6	33  	(cgc)
+gggcgtatagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctattcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+6   tRNA-Leu               [183575,183657]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+7   tRNA-Met              c[414233,414305]	113.6	34  	(cat)
+gcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+8   tRNA-Arg               [414384,414455]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+9   tRNA-His               [441598,441675]	102.4	33  	(gtg)
+gtgcttggtgggcagtgtttgtgctgcctgttgtgagctggcggtgctagtgctgctgctactgctgccatgcgcgcc
+((((.((   ((((ddddddd))))(((.(  AAA  ).)))         ((.((ttttttt)).)))).))))
+>CfaC1_08 | organism=Crithidia_fasciculata_strain_Cf-Cl | version=2015-06-01 | length=647389 | SO=chromosome
+2 genes found
+1   tRNA-Arg              c[453246,453317]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Arg              c[465850,465921]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>CfaC1_09 | organism=Crithidia_fasciculata_strain_Cf-Cl | version=2015-06-01 | length=661897 | SO=chromosome
+3 genes found
+1   tRNA-Asp              c[322056,322128]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Ser               [322205,322285]	121.3	34  	(gct)
+gcaaatatggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttctgtttgcg
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Ala               [322345,322420]	108.3	35  	(agc)
+tggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctccagc
+((((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+>CfaC1_10 | organism=Crithidia_fasciculata_strain_Cf-Cl | version=2015-06-01 | length=668263 | SO=chromosome
+3 genes found
+1   tRNA-Arg              c[211769,211912]	103.5	83  	(gcg)i(32,49)
+tggggctgctcgggctgtggagagccgcgctgggtgggagggtgaggtggcgggtggcgacgcggatgcactcgtccagcttgcggcggcgcagcaggctgagggcgtagtaggcggggtccattcctttgggcagccccggcc
+((((((( (((dddddddddd)))  (((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))                          (((((tttttt))))))))))))
+2   tRNA-Ser              c[318764,318910]	100.2	91  	(act)i(34,56)
+gctcctcgtagccgaggagggtggcgtgagtccctgcggcgccgacgctcggtccaaagctcacccgaccgcctccggtgccgctcttgtacttggacttgagcagcggggagagagcggcggcggcgttcagctcggtgaggaggt
+.((((((   ((((ddddddd))))  ((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))                        (.((ttttttt)).))))))).
+3   tRNA-Thr               [561082,561153]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>CfaC1_11 | organism=Crithidia_fasciculata_strain_Cf-Cl | version=2015-06-01 | length=725815 | SO=chromosome
+2 genes found
+1   tRNA-Ala              c[284818,284890]	118.6	33  	(cgc)
+gggcgtatagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctattcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+2   tRNA-Pro              c[298933,299004]	124.4	33  	(cgg)
+ggccgcttagtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>CfaC1_12 | organism=Crithidia_fasciculata_strain_Cf-Cl | version=2015-06-01 | length=741884 | SO=chromosome
+1 genes found
+1   tRNA-Gln              c[484741,484815]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgac
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+>CfaC1_13 | organism=Crithidia_fasciculata_strain_Cf-Cl | version=2015-06-01 | length=761260 | SO=chromosome
+4 genes found
+1   tRNA-Ser              c[377805,377986]	104.5	123 	(gga)i(29,92)
+cacacatgcagtgaggtacgcactgttcacacatcactggtggatatttgctctgcgcctaagtgaagcctgcacctcgaccatcttactgtcgatgagggaagaaaaaagaacccagaggtggagagaacaacaaagaaagagcgttctttgtcaaaaagttcttgtcttttcgtttgtgt
+((((.(((  (((ddddddd)))(((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))...((vvvvvvvvvvvvv))... (((((ttttttt)))))))).))))
+2   tRNA-Pro               [403195,403267]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggacccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+3   tRNA-Val               [403327,403401]	116.5	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcaagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Lys               [403461,403534]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>CfaC1_14 | organism=Crithidia_fasciculata_strain_Cf-Cl | version=2015-06-01 | length=788344 | SO=chromosome
+1 genes found
+1   tRNA-Arg              c[291899,292055]	102.6	99  	(tct)i(35,62)
+gtacgcctcggcgaacttcgagtacgtctgcagcgccatcacgcccaccgtgaaggccgtcatcgggtgcgcgttggccggcagcgccgcgatcgccttctgcgccgccgcgatggcgtcggcgtcggcgcggcggtgcagctccgtggtgagcgcc
+((.((((  ((((ddddddddddd)))) ((.((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )).))                        ((((ttttttt)))))))).))
+>CfaC1_15 | organism=Crithidia_fasciculata_strain_Cf-Cl | version=2015-06-01 | length=814463 | SO=chromosome
+11 genes found
+1   tRNA-Lys               [198177,198250]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Ile               [235929,236002]	118.1	35  	(tat)
+gctctcgtggtctagttggtcaggacgctggtcttatgaaccggatgtcgcgggttcgagccccgccgagagca
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Val              c[236046,236118]	111.3	34  	(tac)
+gcgtgggtgatctagtggttatgatgtctgctttacacgcagaacgtcgcgggttcgaaccccgccccgcgta
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Gln              c[236182,236254]	121.8	34  	(ttg)
+gctcctatagtgtagtggttatcactttggactttgaatccggaaacccaggttcgaatcctggtaggagcac
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+5   tRNA-Arg              c[236315,236386]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Leu               [236615,236698]	117.1	35  	(cag)
+ggcaagatggtcgagtggtccaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+7   tRNA-Thr              c[236739,236812]	120.1	34  	(tgt)
+gggccgcttagcacagtggcagtgcactggtcttgtaaaccaggggtcccgagttcaattctcggagtggcctt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+8   tRNA-Arg               [236884,236957]	121.1	34  	(tcg)
+tggcctcttggcgcaatggaagcgcatcagacttcggatctgagggttgcaggttcgagtcctgcaggggtcga
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+9   tRNA-Trp              c[237012,237084]	116.8	33  	(cca)
+gggggcttagctcagtggtagagcattggattccaaatccaggggtcgcaggttcaatccctgcagtcctcac
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+10  tRNA-Lys               [237385,237458]	122.3	34  	(ttt)
+gcgctcctagctcagttggtagagcgcgtggcttttaacctcgtggtcgtgggttcgagccccacggagcgcgc
+(((((((  ((((dddddddd))))(((.((  AAA  )).)))    (((((ttttttt))))))))))))
+11  tRNA-Gly               [237522,237593]	116.4	34  	(tcc)
+gcaattgtggtccaacggttaagatccccgccttccaagcgggtgacccgggttcgactcccggcaattgca
+(((((((  (((dddddddddd))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>CfaC1_16 | organism=Crithidia_fasciculata_strain_Cf-Cl | version=2015-06-01 | length=819052 | SO=chromosome
+1 genes found
+1   tRNA-Pro               [350774,350864]	103.0	36  	(agg)
+tttactatgcaaaatatgaattatttgttttttgtaggagagagatgtgcgagagcagaagagcgtgcgagtgcgaaacccgcgagtagaa
+((((((.  ((((dddddddddd)))) (((((  AAA  )))))  (((...vvvvvv...))) (((.(ttttttt).))).))))))
+>CfaC1_17 | organism=Crithidia_fasciculata_strain_Cf-Cl | version=2015-06-01 | length=823452 | SO=chromosome
+0 genes found
+>CfaC1_18 | organism=Crithidia_fasciculata_strain_Cf-Cl | version=2015-06-01 | length=920654 | SO=chromosome
+1 genes found
+1   tRNA-Ile               [501592,501666]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>CfaC1_19 | organism=Crithidia_fasciculata_strain_Cf-Cl | version=2015-06-01 | length=1085412 | SO=chromosome
+0 genes found
+>CfaC1_20 | organism=Crithidia_fasciculata_strain_Cf-Cl | version=2015-06-01 | length=1141260 | SO=chromosome
+4 genes found
+1   tRNA-Ala              c[786959,787130]	103.4	39  	(ggc)i(43,72)
+ctgcgtctgtgggcggggtttccgcgcgctcgcagcgtggcgtctcgacgcggaacctcagcaacggctattatcgtctcgaggacgccgctcagatgccgtcgcagggagggttgcggcgtggcgacgcgagtgtatgccggtccaacggtgcgagctcgtctgacgcggt
+(((((((.   ((((ddddddddddd)))) ((.((  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii )).))            (..(vvvvv)..) .((((ttttttt))))..)))))))
+2   tRNA-Leu              c[793947,794029]	117.8	35  	(caa)
+ggcaggatggccgagtggtctaaggcgggagactcaagttctcttctattcgtaggcgcgggttcgaaccccgctcctgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Ser              c[794092,794172]	119.6	34  	(cga)
+gtcaccatacccaagtggttacgggggttgactcgaaatcaactgcgatctcgcgcgcaggttcgaatcctgctggtgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+4   tRNA-Thr             [1062118,1062230]	103.3	52  	(ggt)i(36,14)
+gcgacgatggcgcggtgggaggcggtgcggtcgctgctgacagaccttcttggtgcggcgattgcactgctgccgcagggcagtgccgatgctcaggaggtgtcgtcgctgct
+(((.(((  ((((ddddddddddd))))  (((((iiiiiiiiiiiiii  AAA  )))))  .(....vvvvv....).      (((((ttttttttt)))))))).)))
+>CfaC1_21 | organism=Crithidia_fasciculata_strain_Cf-Cl | version=2015-06-01 | length=1309914 | SO=chromosome
+3 genes found
+1   tRNA-Pro               [246705,246776]	124.4	33  	(cgg)
+ggccgcttagtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Gly               [587019,587114]	100.9	37  	(ccc)
+cgtacagctgctccgcggtgtagaagacgccgcgctcccagcacggtgctcagctcgaagtagggcttggtctcgttctcgtcgaggtcgtactgc
+.((((.(   ((.(dddddddd).))  ((((.(  AAA  ).))))    (((((.vvvv.)))))   (((((ttttttt)))))).)))).
+3   tRNA-???               [958210,958303]	100.2	34  	(gg) 
+ggcggtgtggcaggacgcggtgctgcgcctgctgggacgcgcggaggtgggagtggcgtgagccgccgtcgtggtcgctcttacgacgacgccg
+((((.((  ((((ddddddddd))))((.((  AA  )).))((.(((.vvvvvvvvvvv.))).)) (((((tttttttt))))))).))))
+>CfaC1_22 | organism=Crithidia_fasciculata_strain_Cf-Cl | version=2015-06-01 | length=1318848 | SO=chromosome
+2 genes found
+1   tRNA-SeC               [638034,638121]	108.3	36  	(tca)
+gccgcgatgagctcagctggtgctgggtgcgggcttcaaacccgtaggtgagttgcactcacagccgttcgattcggccttcgtggcg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+2   tRNA-Glu            c[1068411,1068485]	118.1	35  	(ctc)
+ttccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaaac
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+>CfaC1_23 | organism=Crithidia_fasciculata_strain_Cf-Cl | version=2015-06-01 | length=1411685 | SO=chromosome
+1 genes found
+1   tRNA-Met               [976089,976161]	113.6	34  	(cat)
+gcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+>CfaC1_24 | organism=Crithidia_fasciculata_strain_Cf-Cl | version=2015-06-01 | length=1449266 | SO=chromosome
+3 genes found
+1   tRNA-Gly               [545392,545552]	100.5	103 	(tcc)i(30,71)
+cgcggcaaagaggtggtgccgcgggaagtactgcgccagcacctcgaagaagaccatctgcgccgtcggcagccacgccgtgcggaagggactgtggatcattccgagcttcgtgatgatggcgaagccggagtcgttcgggttcggctcgatgctgcggc
+(((((((  (.((ddddd)).)  (((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))      ((..((vvvv))..))   (((((ttttt))))))))))))
+2   tRNA-Asp             [1103407,1103479]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Glu            c[1103528,1103602]	118.1	35  	(ctc)
+ttccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaaac
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+>CfaC1_25 | organism=Crithidia_fasciculata_strain_Cf-Cl | version=2015-06-01 | length=1454827 | SO=chromosome
+14 genes found
+1   tRNA-Tyr              c[465871,465954]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagttagcagatatcacagggtcgctggttcgattccggccggaagga
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+2   tRNA-Thr              c[466024,466095]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcacgggttcgatccccgtagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Arg              c[466158,466229]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Asp              c[466292,466364]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+5   tRNA-Glu              c[622662,622774]	100.0	30  	(ctc)i(32,28)
+ggtgctcctgcgccggcagcaaagggcttcttcagcatgttctaccgcgcccccacaagcgcgtcctcttctgcagctgcggaggtgacgcgtgcgaaccgcgcgagcactgc
+(((((((   .((ddddd)). (((((  AAiiiiiiiiiiiiiiiiiiiiiiiiiiiiA  )))))       ...vvvvv...  .((((ttttttt)))).)))))))
+6   tRNA-Gly               [975256,975326]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+7   tRNA-Thr               [975390,975461]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcacgggttcgatccccgtagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+8   tRNA-Thr              c[976977,977048]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcacgggttcgatccccgtagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+9   tRNA-Gly              c[977112,977182]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+10  tRNA-Pro               [977256,977328]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggacccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+11  tRNA-Gln             [1231720,1231794]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgac
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+12  tRNA-Ile            c[1231841,1231915]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+13  tRNA-Leu            c[1231990,1232071]	111.7	36  	(taa)
+gctggggttcccgagttggtcaaaggggtgagacttaagttctcatgcgtgagcttcgtgggttcgaaccccacctccagca
+(((((((  (((.dddddddddd.)))((((((  AAA  ))))))           (((((ttttttt))))))))))))
+14  tRNA-Ile             [1232155,1232229]	117.4	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggtgcac
+((.((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))).))
+>CfaC1_26 | organism=Crithidia_fasciculata_strain_Cf-Cl | version=2015-06-01 | length=1629678 | SO=chromosome
+4 genes found
+1   tRNA-Ser              c[172254,172334]	121.3	34  	(gct)
+gcaaatatggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttctgtttgcg
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Val             [1051497,1051570]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Thr            c[1071896,1071967]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Ala            c[1217463,1217670]	100.5	148 	(cgc)i(33,114)
+tgcgagtgggccggccttgtcagcagcttcgtcgtcctttgtgccggacagcgaagatcgacagcgttggcggcactggtatctgtggtggaatcgtatcgggtgcggcaagattacgctgcgctgcccagacaaggctgcgatggacgcagtgctggcggcagcgttggagatgcggctgccggtggtgcagctccaccgctcacag
+((.(((( .((ddddddddddd)). (..(( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  ))..)...(...vvvvvv...)...      (((((ttttttt))))))))).))
+>CfaC1_27 | organism=Crithidia_fasciculata_strain_Cf-Cl | version=2015-06-01 | length=1996037 | SO=chromosome
+10 genes found
+1   tRNA-Ala              c[249971,250043]	108.3	34  	(agc)
+ggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctcca
+(((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+2   tRNA-Val              c[305820,305894]	116.5	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcaagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Gly               [599231,599301]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+4   tRNA-Glu              c[599355,599429]	118.1	35  	(ctc)
+ttccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaaac
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+5   tRNA-Pro              c[788482,788644]	100.3	30  	(ggg)i(35,70)
+cggcgcggtgcacgacggcgcggtgcacggggagggctgttccaccaggtgcagcgcggccctgcgcggtgacgtgcgaggcgctgagcgaccttgtgccgctgtgcgctggcgcggacggagcggctgtgccggtgcggtgccgcacgccgcgcgcgccgtc
+(((((((   (.((dddd)).)(((((  AAA  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii)))))           ..(vvvvvvvv).. (((((ttttttttt))))))))))))
+6   tRNA-Arg              c[925718,925789]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+7   tRNA-Asp            c[1019428,1019500]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+8   tRNA-Leu            c[1212224,1212307]	117.1	35  	(cag)
+ggcaagatggtcgagtggtccaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+9   tRNA-Phe             [1794140,1794212]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+10  tRNA-Ser            c[1794257,1794339]	120.0	35  	(aga)
+tgacaccgtacccaagtggttacggggactgactagaaatcagttgcgatctcgcgcgcaggttcgaatcctgccggtgtcga
+((((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+>CfaC1_28 | organism=Crithidia_fasciculata_strain_Cf-Cl | version=2015-06-01 | length=2191012 | SO=chromosome
+12 genes found
+1   tRNA-Arg              c[158687,158761]	118.5	34  	(cct)
+gctcttgtagcctaatggatatggcgtttgcttcctaagcaaaaggttgcgggttcgagtcccgccaggagtacc
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Arg              c[158832,158905]	124.5	34  	(tct)
+gctctagtggcctaatggataaggctttggacttctaatccaaagattgcgggttcgagtcccgcctggagtgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+3   tRNA-Ala               [158989,159061]	117.5	33  	(tgc)
+gggcgtgtagctcagtggtagagcgcctgttttgcatacaggaggcctagggttcaaccccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+4   tRNA-Glu               [159120,159194]	118.1	35  	(ctc)
+ttccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaaac
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+5   tRNA-Lys              c[527270,527343]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+6   tRNA-Gln            c[1188642,1188716]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgac
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+7   tRNA-Ser             [1421960,1422040]	119.6	34  	(cga)
+gtcaccatacccaagtggttacgggggttgactcgaaatcaactgcgatctcgcgcgcaggttcgaatcctgctggtgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+8   tRNA-Cys            c[1839282,1839369]	102.1	30  	(gca)
+gcggcgtcgtggtacgtggcgccggtgctgcagccgctgcaacgttttgctgtggaggcgcagcggtgcggctttgttggcgccgctc
+((((((((   ((.(ddd).))(((((  AAA  )))))   ((((((vvvvvv)))))) (((((ttttttt)))))))))))))
+9   tRNA-Cys             [1962686,1962758]	122.3	33  	(gca)
+ggattcatagctcagtggtagagcattcggctgcagtccgaatggtctccggttcaaacccggatgggtcctc
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+10  tRNA-Leu            c[1962811,1962893]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+11  tRNA-Met            c[1962954,1963025]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+12  tRNA-Pro             [1963098,1963170]	122.1	33  	(tgg)
+ggtcgtttggtctagtggtatgattcctgttttgggtacaggaggtcacgggttcaattcccgtaacgacccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>CfaC1_29 | organism=Crithidia_fasciculata_strain_Cf-Cl | version=2015-06-01 | length=2193588 | SO=chromosome
+12 genes found
+1   tRNA-Arg              c[936290,936379]	103.7	31  	(tct)
+gcggcatagctcggggagagcgtcatgctttctaggaacgaggactgctccgccagggccttctgcgtgttccacgcgaacgtgctgcgc
+((((((( ((((ddddd)))) ((.(.(  AAA  ).).))((.((.vvvvvvv.)).))    (..((ttttttt))..))))))))
+2   tRNA-Val            c[1114130,1114204]	116.5	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcaagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Tyr             [1114278,1114361]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagttagcagatatcacagggtcgctggttcgattccggccggaagga
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+4   tRNA-Ile             [1114422,1114496]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Met             [1114561,1114633]	113.6	34  	(cat)
+gcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+6   tRNA-Leu            c[1114731,1114810]	119.8	35  	(tag)
+ggcggagtggccgagtggtctaaggcgccagatttaggctctggtctttcgaggcgtgggttcgaaccccacctccgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))          (((((ttttttt))))))))))))
+7   tRNA-Ser             [1114883,1114965]	116.9	35  	(tga)
+tgtcaacatacccaagtggttacggggtttgacttgaaatcaaatgcgatctcgcgcgcaggttcgaaccctgctgttgacgt
+((((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+8   tRNA-Asn            c[1874677,1874750]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+9   tRNA-Tyr            c[1874811,1874895]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagttagcagatatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+10  tRNA-Thr            c[1874955,1875026]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+11  tRNA-Pro             [1875106,1875177]	124.4	33  	(cgg)
+ggccgcttagtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+12  tRNA-Asn             [1875237,1875310]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>CfaC1_30 | organism=Crithidia_fasciculata_strain_Cf-Cl | version=2015-06-01 | length=2960390 | SO=chromosome
+12 genes found
+1   tRNA-Cys                 [37711,37782]	122.3	33  	(gca)
+ggattcatagctcagtggtagagcattcggctgcagtccgaatggtctccggttcaaacccggatgggtcct
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Ser              c[104363,104481]	101.1	61  	(cga)i(34,25)
+agccgcaatggcgcacgtggcagcattagcagttgagcgtcttcgccacgcgcatcacctcgagcgctgccgagggcggaatgtcaaatcgcggccgtacctcattcggcctgcggttg
+(((((((   (.((dddddddd)).)  (((((iiiiiiiiiiiiiiiiiiiiiiiii  AAA  ))))).(..vvvvvvvvvvvv..).  (((((ttttttttt))))))))))))
+3   tRNA-Leu              c[118177,118326]	100.7	34  	(caa)i(36,57)
+gcgtgtgtggcacggcgagaacgccggcgaggtcaaccagcgacggagcggaggccgcagcaacgcaccgctccaccagcgcggtgttcgtgaggcacgcggcggcgatggtccgcagagcaccggcgcgatcctgccgcgtcgcgcgca
+(((((((  ((.ddddddddd.))  (((.(  AAiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiA  ).)))    (.(vvvvvvvvvvvvv).)  (((((ttttttt))))))))))))
+4   tRNA-Arg               [600166,600241]	120.3	34  	(acg)
+tgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgacc
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+5   tRNA-Arg               [811288,811401]	101.4	54  	(gcg)i(30,22)
+cctgcgatgggcggggttgcgcctgctgcgtggatggcggctgcggtggcggtgcggtgctgcgcggggcggcgctcccaccacgagttgccgcgccgcaccggcgttgctgga
+((.((((  ((((dddddd)))) ((.((iiiiiiiiiiiiiiiiiiiiii  AAA  )).))       .(.(.vvvvv.).).   (((((tttttttt))))))))).))
+6   tRNA-Asp             [1484252,1484420]	100.5	109 	(gtc)i(35,72)
+cgctgcaccagcacgtggggggaggtacagggcggccggcggcggtgtcggcgcacgtgtccgctcaaagcgctgccagctgtgctggatggagagactcgtcgggctgtccttgccctgcgtcgcacacgcggcgcggtaggcgaggtcgtactcctcggcgcagcgg
+((((((.(  (.((dddddddddd)).) (((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))       ..(.(vvvvv).)..   (((((ttttttt)))))).))))))
+7   tRNA-Gly            c[1603725,1603868]	103.4	33  	(gcc)i(34,51)
+cgatctgtggggccgctcttagccgcttgtttggctacttcggtgctgcttttgtggaggcgctgccacacgtgaagcacggtgccgagcaggtggctgtgtttgccggaggtgtggcctgcggtgccgctccgcgtgcatcgg
+((((.((  .(((dddddddd))).(((((  AiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiAA  ))))) (.(vvvvvvvvvvvvvvvvvv).) (((((ttttttt))))))).))))
+8   tRNA-Leu             [2106696,2106849]	101.2	103 	(cag)i(36,66)
+cgttgcgtgggtgaggttctctgcaccgacgaggtggttgtgaaagcgacgaccctcacggcgcaccggggaggccacttcgagcgacgccacggcacgcgtcagggccacgttggcgaccatgcgctccgccgtgcggatcgacgcgccgaga
+(.(.(((  ((((dddddddddd))))  ((.(( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )).)) ..(.vvvv.)..    ((.((ttttttt)).))))).).)
+9   tRNA-Pro             [2242979,2243098]	102.5	62  	(ggg)i(31,29)
+cgaagactgcgcgggtgttccggcgggcacacggatcctttcacagtcttcgccagcttttgggtggtgccgagccgcgtgcacgccacccacgttcgccgtgcggttcggcgtattcgc
+((((.((  (((dddddddddd)))(((((iiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))(.(...vvvvvvvvvv...).)    ((((ttttttt)))))).))))
+10  tRNA-Thr             [2299167,2299268]	103.4	46  	(agt)i(38,7)
+agagcaggtaggtggtgaggcagtgcacctcggccgcggcgtcgtagtggtggtcgaggttgtcgtcgccgtgaacgcagtggttgaagtgcacctgctccc
+.((((((   ((((ddddddddddd))))  ((((( iiiiiii AAA  )))))     (((...vvvvv...)))  (((.ttttttt.))))))))).
+11  tRNA-Glu             [2746239,2746395]	100.4	97  	(ctc)i(32,63)
+ggcgttgcaggccgataaggtaagcctggctggcacgctggaggcgcagcacaaggagcagatgacggcagcacaggccaccttcacgtcacgtctctcgcagctgacggataaagttaccgagcagctctcgcagttcgacgccgcgctgcgcgac
+.((((.(  (((.ddddddddd.)))(((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))         .(..vvvv..).    (((.(ttttttt).)))).)))).
+12  tRNA-Val             [2956718,2956816]	104.9	39  	(gac)
+gggctgcgcacgttgcgcacggtgaagcgctgcgcgctgacggtgggcgaggtggccaaggctgtggggacgggcaagttcgagccctgcgcggccaac
+.((((((   ((((ddddddddddd)))) (((.((  AAA  )).)))    (.((..(vvvv)..)).)  (((.(ttttttt).))))))))).
+>CfaC1_maxi | organism=Crithidia_fasciculata_strain_Cf-Cl | version=2015-06-01 | length=29717 | SO=chromosome
+0 genes found
+>end 	31 sequences 135 tRNA genes, nothing found in 4 sequences, (87.10% sensitivity)

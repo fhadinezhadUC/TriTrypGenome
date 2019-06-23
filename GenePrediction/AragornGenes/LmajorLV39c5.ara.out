@@ -1,0 +1,1952 @@
+>LmjLV39_01 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=272812 | SO=chromosome
+0 genes found
+>LmjLV39_02 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=291725 | SO=chromosome
+1 genes found
+1   tRNA-Val               [208642,208733]	103.0	30  	(gac)
+cgagcgcgtggtcagatggatgcgtcgctgacatcgttgtccccgtgtcggcgcgagtggtgccgtggctgttcgactccgtcgcggccgtc
+((..(((   (((ddddd)))(((.((  AAA  )).)))        ((((((vvvvv)))))) (((.(ttttttt).))))))..))
+>LmjLV39_03 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=388338 | SO=chromosome
+2 genes found
+1   tRNA-Lys               [263659,263732]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-His               [313016,313107]	100.2	33  	(gtg)i(37,4)
+atctcctgcaggaagggttgctcctcggctatgtggctaccggccgttggcgccgcagccggtgccgccgctggtgctgctagcagggtttt
+(..((((   (((.dddddd.))) (((((  AAA iiii ))))).....vvvv.....         (((((ttttt)))))))))..)
+>LmjLV39_04 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=465916 | SO=chromosome
+2 genes found
+1   tRNA-Arg                c[96387,96470]	100.1	39  	(tct)
+gcagcagtggcgcaggtgcgcacggtgccgcggacgtttctggcgtgggtgggtgggttttgggctctggccccgtcttctgcc
+((((.((  ((((ddddddddddd))))  (..(((  AAA  )))..)          .((((ttttttt)))).)).))))
+2   tRNA-Gly              c[224915,225119]	104.5	146 	(ccc)i(31,113)
+tcgacatggtgcacaggttcgatgcgtacgagccgctgctgcgccctgtcgcatcaggcggcgccgaaacctccccagcaagcgccggtcaggacgctctggacgccgggtccgcggcggcctacttgctagtggggctcctgttcccgtcgtgcctgaacgtgtggcatgaggttgaggctcgtgcgatgcgcgccgtgtcgga
+((((((((   ((.ddddddd.)) (((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))         (.(.vvvvvv.).) ((.((ttttttt)).))))))))))
+>LmjLV39_05 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=454983 | SO=chromosome
+1 genes found
+1   tRNA-Arg               [357297,357368]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LmjLV39_06 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=511445 | SO=chromosome
+2 genes found
+1   tRNA-SeC                c[69898,69985]	108.3	36  	(tca)
+gccgcgatgagctcagctggtgctgggtgcgggcttcaaacccgtaggtgagttgctctcacagccgttcgattcggccttcgtggcg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+2   tRNA-Asp              c[109323,109413]	101.2	34  	(gtc)
+ttcggtcatggtgcgcgggggtacagcggcgccgtcgccgccaccagtgtcagagctgaacggtgccgcttcttgcacggctgatcaaggc
+((.(((((  ((((dddddd)))) (.((((  AAA  )))).)(.((.(vvvvvvv).)).) ((((.ttttttt.))))))))).))
+>LmjLV39_07 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=589349 | SO=chromosome
+1 genes found
+1   tRNA-Arg              c[379421,379492]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LmjLV39_08 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=463075 | SO=chromosome
+0 genes found
+>LmjLV39_09 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=563449 | SO=chromosome
+9 genes found
+1   tRNA-Met               [264915,264986]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Leu               [265045,265128]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+3   tRNA-Val               [394853,394928]	112.1	35  	(cac)
+tgcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtaac
+((((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+4   tRNA-His               [395179,395250]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+5   tRNA-Phe              c[395430,395502]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Glu              c[407826,407897]	118.0	34  	(ttc)
+tccgatgtagtataacggttagaacacctggctttcacccaggagatccgggttcgattcccggtatcggag
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+7   tRNA-Val              c[408133,408208]	112.1	35  	(cac)
+tgcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtaac
+((((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+8   tRNA-Arg               [408282,408354]	118.6	33  	(ccg)
+gacgttgtggcgcaatggaagcgcgtcggattccggatccgaaggttgtgggttcgacccccatcagcgttgc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+9   tRNA-His               [408420,408491]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>LmjLV39_10 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=533696 | SO=chromosome
+3 genes found
+1   tRNA-Lys               [511627,511700]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Gly              c[511741,511811]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Asn              c[511867,511940]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>LmjLV39_11 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=563560 | SO=chromosome
+5 genes found
+1   tRNA-Leu              c[158438,158520]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ala               [158594,158666]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+3   tRNA-Met              c[373056,373130]	113.6	35  	(cat)
+tgcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgcaa
+(((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).)))))
+4   tRNA-Arg               [373205,373279]	120.3	34  	(acg)
+tgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgac
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+5   tRNA-Ala               [492186,492365]	101.9	120 	(tgc)i(30,88)
+gaggctcgccgcgctgggaagcgccgtggccgtgtatgggcgatcgtggagctgcgacagatcggcgaggcggggctggatcttgtgctgcacatgaacaactccgccctgccgtcgtttgcgaccacgtacgacgatgcgtacagcggcggggtgctgttcgacacggcggagctgtac
+(.(((((  (((dddddddd))) (((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  ))))) ..(..vvvv..)..          (((((ttttttt)))))))))).)
+>LmjLV39_12 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=516196 | SO=chromosome
+0 genes found
+>LmjLV39_13 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=636435 | SO=chromosome
+1 genes found
+1   tRNA-Leu              c[246973,247060]	103.2	34  	(cag)
+gcgctacgagcagctgcggcagctgcaccacctcagctatggtatcttggcgcaggaaaagaccgccgttgctgtcggcagtggcgcc
+(((((((  ((((ddddddddd))))((((.  AAA  .)))) ((((..(vvvv)..)))) .((((ttttttt)))).)))))))
+>LmjLV39_14 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=623284 | SO=chromosome
+0 genes found
+>LmjLV39_15 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=612932 | SO=chromosome
+2 genes found
+1   tRNA-Asp               [306045,306117]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Glu              c[306156,306228]	118.1	34  	(ctc)
+tccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaac
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>LmjLV39_16 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=694934 | SO=chromosome
+2 genes found
+1   tRNA-Arg               [138825,138896]	100.1	30  	(tcg)
+cgtgaagtggcggaggtactgctcgctcttcgtgagccacggcgccgacacttcgactgcgcctttcgcagc
+.((((((  ((((ddddd))))(.(((  AAA  ))).)       (.(.(ttttttt).).))))))).
+2   tRNA-Gln              c[444548,444622]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgac
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+>LmjLV39_17 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=655907 | SO=chromosome
+3 genes found
+1   tRNA-Asp              c[317358,317430]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Ser               [317508,317588]	121.7	34  	(gct)
+gcaaatgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcg
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Ala               [317649,317724]	108.3	35  	(agc)
+tggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctccaac
+((((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+>LmjLV39_18 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=716647 | SO=chromosome
+2 genes found
+1   tRNA-Arg              c[271377,271486]	100.2	51  	(tcg)i(35,14)
+cagcgtcttgggtgaaggtcgtcagcagcggcacaatggagcgtgcgctttcggcgtacccggcgaattgcgcggtcgaggcgagctcgcgtacgagcacgagtcgctgc
+(((((.(   (.((ddddddddddd)).)((.((iiiiiiiiiiiiii  AAA  )).))          .....vvvv.....  (((.(tttttt).)))).)))))
+2   tRNA-Cys               [551929,552069]	100.8	35  	(gca)i(39,50)
+tgatggggtggcctgtggcggcgaggctgccgttgcaagcgacattgtgaatgccccggaacccatggggtccacatgcatccctaacttggtggacggcgttggtgcgccgttgcaggcgatctactcgtcttcgtcgtc
+(((((((   ((((ddddddddd))))(((((  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii ))))).(.vvvv.).             ((((ttttttt)))))))))))
+>LmjLV39_19 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=680290 | SO=chromosome
+0 genes found
+>LmjLV39_20 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=732822 | SO=chromosome
+0 genes found
+>LmjLV39_21 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=769167 | SO=chromosome
+8 genes found
+1   tRNA-Ser              c[159315,159395]	123.0	34  	(gct)
+gcaaacgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcg
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ile               [186364,186467]	105.7	32  	(gat)i(37,12)
+gcgtctgctggttcggcttgtgcgtcgcgctgatgcacttcgcaagcacgcggttgtgtgcaatcccagcagagcagtcgtagtgcagctccgcgtagatgcgc
+(((((((   ((.ddddddd.)) (((((  AAA  iiiiiiiiiiii)))))        ..(vvvvvvv)..    (((.(ttttttt).))))))))))
+3   tRNA-Ile               [189414,189517]	105.7	32  	(gat)i(37,12)
+gcgtctgctggttcggcttgtgcgtcgcgctgatgcacttcgcaagcacgcggttgtgtgcaatcccagcagagcagtcgtagtgcagctccgcgtagatgcgc
+(((((((   ((.ddddddd.)) (((((  AAA  iiiiiiiiiiii)))))        ..(vvvvvvv)..    (((.(ttttttt).))))))))))
+4   tRNA-Gly              c[266785,266914]	100.7	70  	(gcc)i(33,35)
+gctgtgggtgcaggggagaggactgcatgtgcatctgctgctgatgttgctgcggcggcggaggcggctgcccagcacgatagccgttgttctgtggcggtggactgttgttcacatccgggccatagcc
+(((((((   (((ddddddddd)))  (((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))     ((((vvvvvvv))))      (.(.(ttttttt).).))))))))
+5   tRNA-Pro               [445509,445580]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+6   tRNA-Val               [445732,445806]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+7   tRNA-Lys               [445868,445941]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+8   tRNA-Phe               [476513,476671]	100.2	100 	(gaa)i(35,63)
+caatgtgatggcgggatggtcaacgctgccgccgtagcgctcctctttggcgaggcgaaaatccgcaataaattcctgcagatccaccgagttcgtgctgaacagggagctgaggtcgctcggggtggcctcgccgcgttcgatgcccgacacgctgcc
+((.((((   ((((ddddddddddd))))(.((.iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  .)).)           .((vvvvv)).  .((.(ttttttt).)).)))).))
+>LmjLV39_22 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=697884 | SO=chromosome
+1 genes found
+1   tRNA-His              c[390333,390474]	100.1	35  	(gtg)i(37,47)
+ccgtggccttgtcggcgggctgcggatgccgcgtgtactgcgcatagagctgcgggagtgcatcgacaacggagaaaggggaggaggtggcagcgctcatgagcgtggggtgctcggtcgggttcagctcacggtccacggc
+((((((.   (((ddddddddddd)))(((((  AAiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiA  )))))...vvvvv...               (((.(ttttttt).))).))))))
+>LmjLV39_23 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=773332 | SO=chromosome
+13 genes found
+1   tRNA-Gly              c[154496,154608]	101.6	52  	(ccc)i(32,18)
+tgcccgtggtgaggaaaaccaactcgcgcagcagccggcgcgactcgcgttcccagcggtgagatacggttgcactcgaggtcgtgctggtgttcggcgcgccaacggctggc
+((.(((( (.(ddddddddddd).) (((.(iiiiiiiiiiiiiiiiii  AAA  ).)))   .((..(.vvvvv.)..)).    (((((ttttttt))))))))).))
+2   tRNA-Ser              c[216006,216188]	101.7	35  	(gct)i(39,86)
+ggggcgccgtagcttggttgcaggggctgctgttgctgagctgggggtgcgttttgcggctgtgattgcagaggcggcgccgctggcgtttcacggctgctctcagtgacacctagtgagttcgacggtggtgcttgcattggcacttccagtgaaggcggtgcaacgttcgctggtgccgcg
+(.((((((   (((dddddddddd)))(((((  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii )))))(.(..vvvvvvvv..).)        (((((tttttttt))))))))))).)
+3   tRNA-Ile               [230757,230830]	118.5	35  	(tat)
+gctcccgtggtctagttggttaggacgctggtcttatgaaccggatgtcgcgggttcgagccccgccgggagca
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Val              c[230875,230947]	111.3	34  	(tac)
+gcgtgggtgatctagtggttatgatgtctgctttacacgcagaacgtcgcgggttcgaaccccgccccgcgta
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Gln              c[231014,231087]	124.9	35  	(ttg)
+tggtcctatagtgtagtggttatcacttcggactttgaatccgaaaacccaggttcgaatcctggtaggaccag
+((((((((  (((.dddddddd.)))((((((  AAA  ))))))   (((((ttttttt)))))))))))))
+6   tRNA-Arg              c[231333,231406]	120.3	34  	(acg)
+tgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+7   tRNA-Leu              c[231630,231712]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+8   tRNA-Thr              c[231772,231845]	120.1	34  	(tgt)
+aggccgcttagcacagtggcagtgcactggtcttgtaaaccaggggtcccgagttcaattctcggagtggcctt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+9   tRNA-Arg               [231917,231989]	121.1	33  	(tcg)
+ggcctcttggcgcaatggaagcgcatcagacttcggatctgagggttgcaggttcgagtcctgcaggggtcgc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+10  tRNA-Lys               [232303,232375]	122.0	34  	(ttt)
+gcactcctagctcagttggtagagcgcgtggcttttaacctcgtggtcgtgggttcgagccccacggagtgcg
+(((((((  ((((dddddddd))))(((.((  AAA  )).)))    (((((ttttttt))))))))))))
+11  tRNA-Gly              c[232413,232485]	116.4	34  	(tcc)
+gcaattgtggtccaacggttaagatccccgccttccaagcgggtgacccgggttcgactcccggcaattgcac
+(((((((  (((dddddddddd))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+12  tRNA-Trp               [232561,232632]	115.5	33  	(cca)
+gggggcttagctcagtggtagagcattggattccaaatccaggggtcgtaggttcaatccctgcagctctca
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+13  tRNA-His               [733097,733269]	104.5	115 	(gtg)i(36,77)
+aggaagcgtagccgtggcatttaatggcaaaggcaggcgcgtttcgaaggctcaccttggcttctccacttcgtctccatctgcgccagtgacccactccgcctgccaccacgtgtgagtgtctttgagttgaccggcagcgacgccgcatgtgctactcgcaccgttttctg
+((((((((  ((((dddddddddd))))  (((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))        .(...vvvv...). (..((ttttttt))..)))))))))
+>LmjLV39_24 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=866239 | SO=chromosome
+6 genes found
+1   tRNA-Pro               [222239,222310]	124.4	33  	(cgg)
+ggccgcttggtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Gln               [644646,644720]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgac
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+3   tRNA-Leu              c[644929,645012]	111.7	37  	(taa)
+tgctggggttcccgagttggtcaaaggggtgagacttaagttctcatgcgcaagcttcgtgggttcgaaccccacctccagcaa
+((((((((  (((.dddddddddd.)))((((((  AAA  ))))))           (((((ttttttt)))))))))))))
+4   tRNA-Ile               [645099,645173]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Ile               [646494,646568]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Asp              c[704171,704242]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaag
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+>LmjLV39_25 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=900323 | SO=chromosome
+0 genes found
+>LmjLV39_26 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1059486 | SO=chromosome
+1 genes found
+1   tRNA-Glu                 [65694,65799]	103.7	49  	(ttc)i(34,14)
+ggccgtgtcgatgagcttaagcttcctccccttgtacatgcatgcgatttcgatggggtcgcgggtcgtattcgactcgtcagcggcgcggttccgctcgtagcca
+(((.(((  ((.(dddddddd).))  ((((. iiiiiiiiiiiiii AAA  .))))(.(.vvvvvvvv.).)       (((((ttttttt)))))))).)))
+>LmjLV39_27 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1068898 | SO=chromosome
+1 genes found
+1   tRNA-Gly              c[181431,181529]	104.7	35  	(gcc)
+gtcgtcggtagacggcggcgctttgcgtcgcgctgccggttcgccgcgtcgcggaacctcaggtacgtgtggaggttcaggtcctccttggggatgcca
+(((.((((  ((.(dddddd).))  (.((.(  AAA  ).)).)    ((((.(.(vvvv).).)))) (((((ttttttt))))))))).)))
+>LmjLV39_28 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1160066 | SO=chromosome
+0 genes found
+>LmjLV39_29 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1216214 | SO=chromosome
+2 genes found
+1   tRNA-Leu              c[817321,817402]	117.8	35  	(caa)
+ggcaggatggccgagtggtctaaggcgggagactcaagttctcttctattcgtaggcgcgggttcgaaccccgctcctgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ser              c[817461,817541]	119.6	34  	(cga)
+gtcaccatacccaagtggttacgggggttgactcgaaatcaactgcgatctcgcgcgcaggttcgaatcctgctggtgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>LmjLV39_30 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1367264 | SO=chromosome
+1 genes found
+1   tRNA-Thr              c[751643,751714]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LmjLV39_31 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1447822 | SO=chromosome
+6 genes found
+1   tRNA-Ala               [203858,203930]	108.3	34  	(agc)
+ggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctcca
+(((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+2   tRNA-Gly               [476732,476802]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Glu              c[476847,476920]	118.1	35  	(ctc)
+ttccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaaa
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+4   tRNA-Gly               [994137,994213]	100.6	36  	(ccc)
+tgcgtctcgggagccgtccagttggcttgccgcttcccgttcggcagttcgcgtgtgcgggggccacgtagacgcgg
+(((((((   ((((dddddddddd))))((((.  AAA  .))))     (((((ttttttttt))))))))))))
+5   tRNA-Phe             [1279149,1279221]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Ser            c[1279273,1279354]	119.6	34  	(aga)
+gtcaccatacccaagtggttacggggactgactagaaatcagttgcgatctcgcgcgcaggttcgaatcctgctggtgacgc
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>LmjLV39_32 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1552873 | SO=chromosome
+0 genes found
+>LmjLV39_33 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1463591 | SO=chromosome
+6 genes found
+1   tRNA-Arg              c[106473,106546]	118.9	34  	(cct)
+gcccttgtagcctaatggatatggcgtttgcttcctaagcaaaaggttgcgggttcgagtcccgccaggggtac
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Arg              c[106605,106678]	125.8	34  	(tct)
+gctccagtggcctaacggataaggctttggacttctaatccaaagattgcgggttcgaatcccgcctggagtac
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+3   tRNA-Ala               [106755,106827]	117.5	33  	(tgc)
+gggcgtgtagctcagtggtagagcgcctgttttgcatacaggaggcctagggttcaaacccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+4   tRNA-Lys              c[504029,504103]	103.0	35  	(ctt)
+tgcattgctagctgagtcggtggggcgtatggctcttaagcgtgtggctgtgggttcgatccccatggagtgcgt
+((((((.(  (((dddddddddd))) ((((.  AAA  .))))     (((((ttttttt)))))).))))))
+5   tRNA-Arg             [1080011,1080100]	101.0	31  	(ccg)
+agcggtcgtgggctcggcaacccgctttctccgacagagcagcagctggagcagctgacactggagaggttccacgccttccaccgccgc
+.(((((.  (((dddddddd)))(((((  AAA  ))))) .(((((vvvvv))))).      .((((ttttttt))))..))))).
+6   tRNA-???             [1348183,1348260]	100.6	35  	(ct) 
+ttttccagtcggcgggatctcgatcgcctcgcttctgcgcgggatttttcacgtcggttcgactccaactggggaagc
+(((((((   ((.ddddddddd.))  (((((  AA  )))))         ((.((ttttttt)).)))))))))
+>LmjLV39_34 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1698287 | SO=chromosome
+11 genes found
+1   tRNA-Val              c[483723,483797]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Ile               [484031,484105]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Met               [484166,484238]	113.6	34  	(cat)
+gcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+4   tRNA-Leu              c[484274,484353]	119.8	35  	(tag)
+ggcggagtggccgagtggtctaaggcgccagatttaggctctggtctttcgaggcgtgggttcgaaccccacctccgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))          (((((ttttttt))))))))))))
+5   tRNA-Ser               [484428,484508]	116.9	34  	(tga)
+gtcaacatacccaagtggttacggggtttgacttgaaatcaaatgcgatctcgcgcgcaggttcgaaccctgctgttgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+6   tRNA-Thr             [1233536,1233631]	100.8	34  	(tgt)
+ctttcgtatgggtagggagcatatcgtgccttctgtagagacatcaaggaacagagtgactggcacagaatgtgttccggtcatatacgtgaagcc
+.((.(((   ((((ddddddd))))(((.((  AAA  )).)))(.((..(vvvvv)..)).)      (((((ttttttt)))))))).)).
+7   tRNA-Asn            c[1381162,1381235]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+8   tRNA-Tyr            c[1381294,1381377]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagttcgcaggtatcacagggtcgctggttcgattccggccggaagga
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+9   tRNA-Thr            c[1381442,1381513]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+10  tRNA-Pro             [1381595,1381666]	124.4	33  	(cgg)
+ggccgcttggtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+11  tRNA-Asn             [1381730,1381803]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>LmjLV39_35 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=2019519 | SO=chromosome
+0 genes found
+>LmjLV39_36 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=2689061 | SO=chromosome
+14 genes found
+1   tRNA-Pro                c[91357,91564]	100.7	148 	(cgg)i(32,116)
+accgtgcgggactcgcttttcgtctcctctttctccctttctgttatgcgacctctcgttgccttgttttcgtttttttttactgtgtgtgatcttgacaggcggtgagatcatcgttacacgcgcaaatagaaacgaagcgaagcgcggaagaggaatgaggaggacacacgccgatgcaccgcttgtgtggctcaggcgcgcgtta
+(.(((((  (((ddddddddd)))(((((  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiAAA  )))))          .....vvvvv..... (((((ttttttt)))))))))).)
+2   tRNA-Thr               [484210,484282]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Tyr               [484362,484446]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagttcgcgggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+4   tRNA-Ser              c[903243,903403]	109.5	100 	(gct)i(34,64)
+aagtagatggatgagccagttacgtctttcgcggatcgcctgcaactcctgcacaagcttctgctgcgcattcgcggctgtggaagcggcactggcgctgctgtcgcggtggggcgaagcgactgttgcacccagttcggtgccgaggccgtttctgctgc
+.((((((  ((((ddddddddd))))  (((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))                          ..(((tttttttt)))..)))))).
+5   tRNA-Gly             [1028436,1028506]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+6   tRNA-Thr            c[1029149,1029220]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+7   tRNA-Gly            c[1029283,1029353]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+8   tRNA-Pro             [1029427,1029498]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+9   tRNA-Gln            c[1606346,1606420]	119.8	35  	(ctg)
+tgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgtc
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+10  tRNA-Gly             [2234635,2234819]	101.8	131 	(gcc)i(35,94)
+caggatcttgggttggtttggaatgagcccagtcatgcgcatgtgacggtaaaacttgatgtaggggttcgcgcggcgacgggctgcgctggtcttcctcttggcggcggtgcgccgcgcctttgactttgccacggctgcgatgcgcgtctgtcgaattcgccgcttcaaggcggcggccttgc
+((((.((   ((((ddddddddddd))))(((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))....((vvvvvv))....   (((((tttttt))))))).))))
+11  tRNA-Cys             [2475816,2475887]	122.6	33  	(gca)
+ggattcatagctcagtggtagagcattcggctgcagtccgaatggtccccggttcaaacccgggtgggtcct
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+12  tRNA-Leu            c[2476677,2476759]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+13  tRNA-Met            c[2476822,2476893]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+14  tRNA-Pro             [2476966,2477038]	122.1	33  	(tgg)
+ggtcgtttggtctagtggtatgattcctgttttgggtacaggaggtcacgggttcaattcccgtaacgacccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>LMJLV39_SCAF000001 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1276 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000002 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=251 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000003 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=334 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000004 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1045 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000005 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=201 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000006 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=200 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000007 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=201 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000008 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=201 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000009 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=203 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000010 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=206 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000011 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=206 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000012 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=207 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000013 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=207 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000014 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=207 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000015 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=209 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000016 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=208 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000017 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=210 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000018 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=211 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000019 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=211 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000020 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=212 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000021 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=214 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000022 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=215 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000023 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=216 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000024 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=216 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000025 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=216 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000026 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=221 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000027 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=221 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000028 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=222 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000029 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=224 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000030 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=220 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000031 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=226 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000032 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=225 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000033 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=223 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000034 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=225 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000035 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=227 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000036 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=229 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000037 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=229 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000038 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=228 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000039 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=230 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000040 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=229 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000041 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=230 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000042 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=229 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000043 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=231 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000044 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=232 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000045 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=231 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000046 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=232 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000047 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=232 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000048 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=232 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000049 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=233 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000050 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=235 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000051 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=238 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000052 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=238 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000053 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=239 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000054 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=238 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000055 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=240 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000056 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=667 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000057 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=241 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000058 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=241 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000059 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=241 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000060 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=242 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000061 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=242 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000062 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=242 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000063 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=243 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000064 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=243 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000065 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=242 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000066 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=245 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000067 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=247 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000068 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=246 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000069 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=248 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000070 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=249 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000071 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=247 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000072 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=247 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000073 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=255 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000074 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=254 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000075 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=255 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000076 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=259 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000077 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=258 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000078 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=258 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000079 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=260 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000080 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=260 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000081 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=260 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000082 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=257 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000083 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=259 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000084 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=258 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000085 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=262 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000086 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=264 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000087 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=263 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000088 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=261 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000089 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=263 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000090 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=263 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000091 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=265 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000092 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=265 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000093 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=266 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000094 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=267 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000095 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=268 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000096 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=271 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000097 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=270 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000098 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=270 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000099 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=276 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000100 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=280 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000101 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=279 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000102 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=278 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000103 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=281 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000104 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=280 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000105 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=282 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000106 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=283 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000107 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=282 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000108 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=284 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000109 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=285 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000110 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=286 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000111 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=286 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000112 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=286 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000113 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=287 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000114 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=286 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000115 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=288 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000116 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=286 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000117 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=290 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000118 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=289 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000119 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=289 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000120 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=289 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000121 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=292 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000122 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=292 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000123 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=294 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000124 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=294 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000125 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=294 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000126 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=291 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000127 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=294 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000128 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=295 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000129 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=298 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000130 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=299 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000131 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=298 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000132 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=298 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000133 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=300 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000134 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=300 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000135 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=301 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000136 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=303 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000137 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=302 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000138 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=303 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000139 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=305 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000140 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=303 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000141 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=306 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000142 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=307 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000143 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=307 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000144 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=311 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000145 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=310 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000146 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=310 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000147 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=311 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000148 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=312 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000149 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=311 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000150 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=312 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000151 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=314 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000152 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=314 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000153 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=314 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000154 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=316 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000155 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=316 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000156 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=318 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000157 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=317 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000158 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=320 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000159 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=320 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000160 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=321 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000161 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=318 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000162 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=317 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000163 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=315 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000164 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=320 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000165 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=322 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000166 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=325 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000167 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=323 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000168 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=329 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000169 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=331 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000170 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=331 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000171 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=332 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000172 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=329 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000173 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=335 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000174 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=335 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000175 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=338 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000176 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=339 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000177 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=339 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000178 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=337 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000179 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=339 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000180 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=341 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000181 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=342 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000182 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=343 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000183 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=342 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000184 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=343 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000185 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=344 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000186 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=344 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000187 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=346 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000188 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=348 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000189 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=352 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000190 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=351 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000191 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=351 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000192 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=357 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000193 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=357 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000194 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=361 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000195 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=363 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000196 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=364 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000197 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=366 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000198 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=363 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000199 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=365 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000200 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=367 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000201 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=368 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000202 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=369 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000203 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=370 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000204 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=368 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000205 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=372 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000206 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=372 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000207 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=373 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000208 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=375 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000209 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=377 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000210 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=376 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000211 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=377 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000212 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=378 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000213 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=375 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000214 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=380 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000215 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=382 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000216 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=382 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000217 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=382 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000218 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=385 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000219 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=383 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000220 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=386 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000221 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=387 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000222 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=387 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000223 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=388 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000224 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=389 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000225 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=389 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000226 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=391 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000227 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=393 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000228 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=393 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000229 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=394 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000230 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=396 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000231 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=399 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000232 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=396 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000233 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=400 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000234 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=400 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000235 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=401 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000236 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=400 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000237 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=403 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000238 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=406 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000239 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=399 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000240 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=406 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000241 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=460 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000242 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=406 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000243 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=411 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000244 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=411 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000245 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=413 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000246 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=421 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000247 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=418 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000248 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=421 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000249 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=421 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000250 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=425 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000251 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=425 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000252 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=432 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000253 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=434 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000254 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=435 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000255 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=437 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000256 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=437 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000257 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=441 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000258 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=444 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000259 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=445 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000260 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=445 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000261 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=446 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000262 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=453 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000263 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=458 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000264 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=458 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000265 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=458 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000266 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=953 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000267 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=460 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000268 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=460 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000269 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=463 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000270 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=463 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000271 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=465 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000272 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=464 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000273 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=467 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000274 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=468 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000275 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=470 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000276 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=469 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000277 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=470 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000278 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=471 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000279 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=471 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000280 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=473 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000281 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=473 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000282 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=479 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000283 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=474 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000284 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=470 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000285 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=479 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000286 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=486 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000287 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=492 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000288 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=494 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000289 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=494 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000290 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=492 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000291 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=494 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000292 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=496 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000293 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=493 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000294 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=497 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000295 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=497 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000296 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=499 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000297 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=498 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000298 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=501 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000299 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=501 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000300 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=504 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000301 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=510 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000302 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=508 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000303 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=510 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000304 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=510 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000305 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=514 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000306 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=510 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000307 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=513 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000308 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=517 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000309 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=518 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000310 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=519 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000311 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=523 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000312 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=523 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000313 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1743 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000314 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=523 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000315 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=525 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000316 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=526 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000317 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=526 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000318 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=528 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000319 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=527 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000320 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=527 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000321 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=4304 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000322 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=540 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000323 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=541 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000324 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=545 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000325 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=547 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000326 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=5494 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000327 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=549 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000328 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=550 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000329 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=551 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000330 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=560 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000331 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=561 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000332 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=564 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000333 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=562 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000334 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=567 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000335 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=572 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000336 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=570 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000337 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=573 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000338 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=575 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000339 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=574 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000340 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=576 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000341 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=576 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000342 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=579 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000343 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=580 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000344 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=584 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000345 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=591 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000346 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=601 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000347 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=601 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000348 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=604 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000349 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=607 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000350 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=611 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000351 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=610 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000352 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=612 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000353 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=613 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000354 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=615 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000355 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=625 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000356 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=631 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000357 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=633 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000358 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=637 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000359 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=640 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000360 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=644 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000361 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=649 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000362 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=648 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000363 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=651 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000364 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=660 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000365 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=663 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000366 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=664 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000367 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=665 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000368 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1888 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000369 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=667 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000370 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=670 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000371 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=667 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000372 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=669 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000373 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=669 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000374 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=672 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000375 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=670 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000376 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=672 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000377 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=674 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000378 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=685 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000379 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=696 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000380 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=699 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000381 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=701 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000382 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=716 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000383 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=720 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000384 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=723 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000385 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=727 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000386 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=725 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000387 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=726 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000388 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=727 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000389 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=729 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000390 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=730 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000391 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=731 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000392 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=742 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000393 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=743 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000394 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=745 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000395 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=745 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000396 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=752 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000397 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=764 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000398 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=764 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000399 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=766 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000400 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=776 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000401 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=780 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000402 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=784 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000403 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=791 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000404 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=793 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000405 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=793 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000406 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=794 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000407 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=794 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000408 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=806 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000409 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=815 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000410 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=816 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000411 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=822 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000412 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=834 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000413 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=832 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000414 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=842 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000415 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=848 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000416 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=854 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000417 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=854 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000418 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=857 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000419 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=860 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000420 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1049 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000421 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=866 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000422 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=868 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000423 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=872 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000424 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=872 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000425 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=872 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000426 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=882 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000427 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=882 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000428 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=916 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000429 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=922 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000430 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=924 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000431 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=924 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000432 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=925 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000433 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=926 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000434 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=930 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000435 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=944 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000436 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=944 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000437 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=946 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000438 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=949 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000439 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=950 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000440 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=951 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000441 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=952 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000442 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=952 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000443 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=956 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000444 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=956 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000445 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=959 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000446 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=963 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000447 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=966 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000448 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=967 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000449 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=968 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000450 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=973 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000451 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=974 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000452 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=973 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000453 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=980 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000454 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=989 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000455 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=993 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000456 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=996 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000457 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=998 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000458 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1009 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000459 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1019 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000460 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1033 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000461 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1041 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000462 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1043 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000463 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1045 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000464 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1046 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000465 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1053 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000466 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1054 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000467 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1058 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000468 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1070 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000469 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1072 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000470 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1085 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000471 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1090 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000472 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1096 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000473 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1101 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000474 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1111 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000475 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1114 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000476 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1116 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000477 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1118 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000478 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=411 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000479 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1123 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000480 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1124 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000481 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1128 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000482 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1132 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000483 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1135 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000484 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1139 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000485 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1142 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000486 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1144 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000487 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1145 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000488 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1148 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000489 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1151 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000490 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1143 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000491 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1153 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000492 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1158 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000493 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1157 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000494 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1165 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000495 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1166 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000496 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1170 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000497 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1170 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000498 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1179 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000499 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1188 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000500 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1188 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000501 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1189 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000502 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1190 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000503 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1191 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000504 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1195 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000505 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1197 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000506 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1204 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000507 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=853 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000508 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1204 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000509 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1209 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000510 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1210 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000511 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1216 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000512 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=913 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000513 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1214 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000514 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1227 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000515 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1231 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000516 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1234 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000517 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1235 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000518 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1241 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000519 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1242 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000520 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1243 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000521 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1248 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000522 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1249 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000523 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1250 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000524 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1251 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000525 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1252 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000526 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1256 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000527 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1256 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000528 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1258 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000529 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1259 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000530 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1262 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000531 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1266 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000532 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1268 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000533 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1269 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000534 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1273 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000535 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1276 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000536 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1278 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000537 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1284 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000538 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1310 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000539 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1320 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000540 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1323 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000541 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1331 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000542 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1352 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000543 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1353 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000544 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1360 | SO=supercontig
+3 genes found
+1   tRNA-Gly                    c[692,763]	122.0	33  	(ccc)
+gcgccgctggtctagtggcatgatggtaccctcccaaggtattgacccgggttcgattcccgggcggcgcac
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Ala                    c[824,896]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+3   tRNA-Leu                    [970,1052]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>LMJLV39_SCAF000545 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1363 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000546 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1366 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000547 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1367 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000548 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1368 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000549 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1373 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000550 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1380 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000551 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1384 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000552 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1393 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000553 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1398 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000554 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1406 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000555 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1407 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000556 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1412 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000557 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1418 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000558 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1429 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000559 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=2075 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000560 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1431 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000561 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1436 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000562 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1450 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000563 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1448 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000564 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1464 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000565 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1473 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000566 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1481 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000567 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1488 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000568 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1497 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000569 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1510 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000570 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1514 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000571 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1517 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000572 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1520 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000573 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1522 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000574 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1529 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000575 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1549 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000576 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1558 | SO=supercontig
+2 genes found
+1   tRNA-Ala                    c[428,500]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+2   tRNA-Leu                     [574,656]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>LMJLV39_SCAF000577 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1564 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000578 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=924 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000579 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=660 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000580 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1588 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000581 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1599 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000582 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1598 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000583 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1636 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000584 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=8189 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000585 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1277 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000586 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=365 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000587 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1646 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000588 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1657 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000589 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1673 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000590 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1682 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000591 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1306 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000592 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=377 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000593 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1690 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000594 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1696 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000595 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1699 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000596 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1704 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000597 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1737 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000598 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1741 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000599 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1745 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000600 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1746 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000601 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1757 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000602 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1757 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000603 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1761 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000604 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1765 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000605 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1780 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000606 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1781 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000607 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1792 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000608 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1840 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000609 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1868 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000610 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1890 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000611 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1893 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000612 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1902 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000613 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1911 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000614 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1434 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000615 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1914 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000616 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1921 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000617 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1939 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000618 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1948 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000619 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1953 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000620 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1969 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000621 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=2000 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000622 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=2086 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000623 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=2096 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000624 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=2097 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000625 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=2142 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000626 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=2200 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000627 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=2207 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000628 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=2203 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000629 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=2207 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000630 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=2207 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000631 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=2216 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000632 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=2242 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000633 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=2281 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000634 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=2311 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000635 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=2310 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000636 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=2352 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000637 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=2396 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000638 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=2402 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000639 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=2409 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000640 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=2444 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000641 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=2471 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000642 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=2484 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000643 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=2574 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000644 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=2652 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000645 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=2753 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000646 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=2775 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000647 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=2915 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000648 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=3325 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000649 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=3417 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000650 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=3998 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000651 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=202 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000652 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=204 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000653 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=205 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000654 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=209 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000655 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=213 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000656 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=217 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000657 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=222 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000658 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=223 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000659 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=223 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000660 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=227 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000661 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=235 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000662 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=237 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000663 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=239 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000664 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=241 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000665 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=242 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000666 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=244 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000667 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=245 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000668 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=248 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000669 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=248 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000670 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=249 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000671 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=251 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000672 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=252 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000673 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=253 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000674 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=254 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000675 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=254 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000676 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=255 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000677 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=255 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000678 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=256 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000679 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=257 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000680 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=261 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000681 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=264 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000682 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=265 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000683 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=269 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000684 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=269 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000685 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=270 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000686 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=272 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000687 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=273 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000688 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=274 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000689 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=279 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000690 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=287 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000691 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=290 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000692 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=291 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000693 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=293 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000694 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=295 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000695 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=296 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000696 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=300 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000697 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=300 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000698 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=302 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000699 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1960 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000700 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=305 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000701 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=306 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000702 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=314 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000703 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=319 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000704 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=319 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000705 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=330 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000706 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=337 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000707 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=339 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000708 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=345 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000709 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=346 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000710 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=360 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000711 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=360 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000712 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=363 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000713 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=388 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000714 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=392 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000715 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=399 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000716 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=401 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000717 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=403 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000718 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=409 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000719 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=416 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000720 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=416 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000721 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=420 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000722 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=430 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000723 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=436 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000724 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=440 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000725 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=461 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000726 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=498 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000727 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=501 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000728 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=503 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000729 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=506 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000730 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=519 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000731 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=531 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000732 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=544 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000733 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=556 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000734 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=580 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000735 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=580 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000736 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=638 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000737 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=672 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000738 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=690 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000739 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=708 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000740 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=711 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000741 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=724 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000742 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=737 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000743 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=762 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000744 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=787 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000745 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=789 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000746 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=789 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000747 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=831 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000748 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1143 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000749 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=928 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000750 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=932 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000751 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=937 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000752 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=947 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000753 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=951 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000754 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=951 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000755 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=967 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000756 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=979 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000757 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1014 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000758 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1015 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000759 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1018 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000760 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1022 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000761 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1024 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000762 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=3558 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000763 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=20064 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000764 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1025 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000765 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1030 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000766 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1064 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000767 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1072 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000768 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1133 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000769 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1207 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000770 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1227 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000771 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1249 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000772 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1255 | SO=supercontig
+0 genes found
+>LMJLV39_SCAF000773 | organism=Leishmania_major_strain_LV39c5 | version=2015-01-16 | length=1256 | SO=supercontig
+0 genes found
+>end 	809 sequences 111 tRNA genes, nothing found in 781 sequences, (3.46% sensitivity)

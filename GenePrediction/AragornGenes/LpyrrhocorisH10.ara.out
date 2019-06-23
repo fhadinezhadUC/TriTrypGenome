@@ -1,0 +1,520 @@
+>LpyrH10_01 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=2995728 | SO=chromosome
+1 genes found
+1   tRNA-Cys               [283536,283728]	100.6	32  	(gca)i(37,103)
+gtggtgctggtgcggcaaactcactgcgcttgcaagagcagcagcaacagcagcaactcctcaactttccagagtcccatcgacgagctatcgagcaggaggtggtcggcttggagtggcgcacgtggacacagtcgcagcgcacagcagcggcgctgcagcggcttttgtcgctcgaggcggctgtgccttt
+(.(((((  (.(ddddddd).)  (((((  AAA  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii)))))......vvvv......        .((((ttttttt)))).))))).)
+>LpyrH10_02 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=2364170 | SO=chromosome
+3 genes found
+1   tRNA-Thr            c[1541147,1541295]	100.6	99  	(cgt)i(33,66)
+cgccggcgtcgcgagcgggagcgctggcggttgtggtgggctcagtcggccgccacaccgatgtcgctctgcaccattctgaccaagttcgaaccccgcgtagccgccctgggcaaggaggaccaggtggttcgaccctatggtggcga
+(((((.(   (((dddddddd))) (((((  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiAAA  )))))                  ((((ttttttt))))).)))))
+2   tRNA-Arg            c[1827300,1827373]	120.3	34  	(acg)
+tgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+3   tRNA-Cys            c[2331312,2331384]	122.6	33  	(gca)
+ggattcatagctcagtggtagagcattcggctgcagtccgaatggtccccggttcaaacccgggtgggtcctc
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>LpyrH10_03 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=1967654 | SO=chromosome
+14 genes found
+1   tRNA-SeC                c[93083,93170]	108.3	36  	(tca)
+gccgcgatgagctcagctggtgctgggtgcgggcttcaaacccgtaggtgagttgcactcacagccgttcgattcggccttcgtggcg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+2   tRNA-Gly            c[1094364,1094437]	116.4	34  	(tcc)
+gcaattgtggtccaacggttaagatccccgccttccaagcgggtgacccgggttcgactcccggcaattgcacc
+(((((((  (((dddddddddd))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+3   tRNA-Lys             [1094521,1094594]	121.6	34  	(ttt)
+gcattcctagctcagttggtagagcgcgtggcttttaacctcgtggtcgtgggttcgagccccacggaatgcgc
+(((((((  ((((dddddddd))))(((.((  AAA  )).)))    (((((ttttttt))))))))))))
+4   tRNA-Trp            c[1094632,1094703]	116.8	33  	(cca)
+gggggcttagctcagtggtagagcattggattccaaatccaggggtcgcaggttcaatccctgcagtcctca
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Arg            c[1094981,1095053]	121.1	33  	(tcg)
+ggcctcttggcgcaatggaagcgcatcagacttcggatctgagggttgcaggttcgagtcctgcaggggtcgc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Thr             [1095126,1095199]	122.0	34  	(tgt)
+aggccgcttagcacagtggcagtgcactggtcttgtaaaccaggggtcccgggttcaattcccggagtggcctt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+7   tRNA-Leu             [1095258,1095341]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+8   tRNA-Arg             [1100276,1100347]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+9   tRNA-Gln             [1100405,1100477]	121.8	34  	(ttg)
+gctcctatagtgtagtggttatcactttggactttgaatccggaaacccaggttcgaatcctggtaggagcac
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+10  tRNA-Val             [1100539,1100611]	111.3	34  	(tac)
+gcgtgggtgatctagtggttatgatgtctgctttacacgcagaacgtcgcgggttcgaaccccgccccgcgta
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+11  tRNA-Ile            c[1100649,1100722]	118.5	35  	(tat)
+gctcccgtggtctagtcggataggacgctggtcttatgaaccggatatcgcgggttcgagccccgccgggagca
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+12  tRNA-Lys            c[1132791,1132864]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+13  tRNA-Phe             [1331284,1331488]	100.8	148 	(gaa)i(31,115)
+gtcctgcgtagccagggttcatggtgatgaagatggcgcacccgggatccaagcgaatctgagctccctcgaagacaaactccggccgcttctgaatcacggcttcctggatcgtcgcgatctgctgcgcgatgacagacagcacctgaatctcaatgcggttgaactcatcgaagcagccccaggcgccggcctgggtgaggcc
+(((.(((   ((((ddddddd))))(.(((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  ))).)       ....vvvvvvvv.... (((((tttttt)))))))).)))
+14  tRNA-Cys             [1525391,1525488]	104.5	32  	(gca)i(35,4)
+ggagggtgtggtggacggatcttttctggttgcaactgatctagaggatgctgaaagcgaagcatcagcggaggatcgtaactccgctcacccctcac
+((.(((((  (.((ddddd)).) (((((  AAAiiii  )))))(..(.vvvvvvvvvv.)..)    ((.((ttttttttt)).))))))).))
+>LpyrH10_04 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=1863168 | SO=chromosome
+3 genes found
+1   tRNA-Thr               [805146,805247]	101.1	42  	(ggt)i(33,7)
+gagccggttgcgctgctgggcgagtgcctgcgccttgtcctggtgcggcagcggcggagggaagcgctcgatgccggtgcgttccaccacgtactcgacacc
+(.(.(((   ((((dddddddd)))) ((((.iiiiiii  AAA  .))))   .(.(..(vvvvvvv)..).). (((((tttttttt)))))))).).)
+2   tRNA-Val             [1298373,1298446]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Thr            c[1315672,1315743]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LpyrH10_05 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=1491553 | SO=chromosome
+13 genes found
+1   tRNA-Leu               [215182,215321]	100.2	81  	(cag)i(30,50)
+ctggaggagaaccaccggtgggtgccggcgcagcgcaacttccgcaacttctacgagagcctgctcacaacggtggagatcagcaccggcgcagagtggttggacgtgatgtacagcgcggtcgactcgcgctctccggt
+(((((((   (((ddddddd)))((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))                         (((((ttttttt))))))))))))
+2   tRNA-Val              c[489957,490031]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Tyr               [490106,490190]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagtaagcaggcatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+4   tRNA-Ile               [490253,490327]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Met               [490386,490458]	113.6	34  	(cat)
+gcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+6   tRNA-Leu              c[490491,490570]	119.8	35  	(tag)
+ggcggagtggccgagtggtctaaggcgccagatttaggctctggtctttcgaggcgtgggttcgaaccccacctccgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))          (((((ttttttt))))))))))))
+7   tRNA-Ser               [490644,490724]	116.9	34  	(tga)
+gtcaacatacccaagtggttacggggtttgacttgaaatcaaatgcgatctcgcgcgcaggttcgaaccctgctgttgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+8   tRNA-Arg               [617157,617236]	101.7	31  	(gcg)
+cggccgcctcgtggaccgacagcgactgctgcgaccagtcggagaaagtcgcgggttcgttcgagccggacggggcggtc
+(.(((.(   .((dddddd)).((((((  AAA  ))))))(.(vvvvv).)  (((((ttttttt)))))).))).)
+9   tRNA-Asn            c[1202922,1202995]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+10  tRNA-Pro            c[1203058,1203129]	124.4	33  	(cgg)
+ggccgcttggtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+11  tRNA-Thr             [1203210,1203281]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+12  tRNA-Tyr             [1203350,1203434]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagtaagcaggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+13  tRNA-Asn             [1203502,1203575]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>LpyrH10_06 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=1478621 | SO=chromosome
+23 genes found
+1   tRNA-Thr                    c[635,706]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcacgggttcgatccccgtagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Gly                    c[781,851]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Pro                     [927,998]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+4   tRNA-Leu              c[294306,294384]	100.1	34  	(cag)
+ttgtggtgaaggagtgggacctgaacgccgcctcagaagcgacggtgccggcaagcgtgttcaaccccgcactacaggc
+((((((( .(((ddddddd))).  ((.(((  AAA  ))).))          (((.(tttttt).))))))))))
+5   tRNA-Gln              c[493441,493515]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgac
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+6   tRNA-Arg              c[529934,530049]	100.5	28  	(cct)i(33,32)
+ctgccgctgcttcggggttgggcggctcctgcacgggctggtgacgcatgctggtgacggagagccgccggcgtgccaccgtcgagtgctgcgcgccgttcaatcggtgcggcaaa
+.((((((  (..ddddd..)(((((  AAA  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii)))))  ...((...vvvvv...))...  ((((tttttt)))))))))).
+7   tRNA-Ser               [717400,717480]	119.6	34  	(cga)
+gtcaccatacccaagtggttacgggggttgactcgaaatcaactgcgatctcgcgcgcaggttcgaatcctgctggtgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+8   tRNA-Gly            c[1039460,1039600]	101.9	83  	(tcc)i(28,54)
+cgctggcgcaggacggcatcggtgcctctctgcagcactacaaccagttgattgaggctgacctccgccaggccttcgacattccggagcactggagtctgatcgcgcagatgccgttcggttcgattgagaagccggcgg
+(((((((   .((ddddd)).((((. iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  .))))                        (((..ttttttt..))))))))))
+9   tRNA-Gly            c[1041508,1041648]	101.9	83  	(tcc)i(28,54)
+cgctggcgcaggacggcatcggtgcctctctgcagcactacaaccagttgattgaggctgacctccgccaggccttcgacattccggagcactggagtctgatcgcgcagatgccgttcggttcgattgagaagccggcgg
+(((((((   .((ddddd)).((((. iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  .))))                        (((..ttttttt..))))))))))
+10  tRNA-Gly            c[1043549,1043689]	101.9	83  	(tcc)i(28,54)
+cgctggcgcaggacggcatcggtgcctctctgcagcactacaaccagttgattgaggctgacctccgccaggccttcgacattccggagcactggagtctgatcgcgcagatgccgttcggttcgattgagaagccggcgg
+(((((((   .((ddddd)).((((. iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  .))))                        (((..ttttttt..))))))))))
+11  tRNA-Gly            c[1045590,1045730]	101.9	83  	(tcc)i(28,54)
+cgctggcgcaggacggcatcggtgcctctctgcagcactacaaccagttgattgaggctgacctccgccaggccttcgacattccggagcactggagtctgatcgcgcagatgccgttcggttcgattgagaagccggcgg
+(((((((   .((ddddd)).((((. iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  .))))                        (((..ttttttt..))))))))))
+12  tRNA-Gly            c[1047631,1047771]	101.9	83  	(tcc)i(28,54)
+cgctggcgcaggacggcatcggtgcctctctgcagcactacaaccagttgattgaggctgacctccgccaggccttcgacattccggagcactggagtctgatcgcgcagatgccgttcggttcgattgagaagccggcgg
+(((((((   .((ddddd)).((((. iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  .))))                        (((..ttttttt..))))))))))
+13  tRNA-Gly            c[1049672,1049812]	101.9	83  	(tcc)i(28,54)
+cgctggcgcaggacggcatcggtgcctctctgcagcactacaaccagttgattgaggctgacctccgccaggccttcgacattccggagcactggagtctgatcgcgcagatgccgttcggttcgattgagaagccggcgg
+(((((((   .((ddddd)).((((. iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  .))))                        (((..ttttttt..))))))))))
+14  tRNA-Gly            c[1051713,1051853]	101.9	83  	(tcc)i(28,54)
+cgctggcgcaggacggcatcggtgcctctctgcagcactacaaccagttgattgaggctgacctccgccaggccttcgacattccggagcactggagtctgatcgcgcagatgccgttcggttcgattgagaagccggcgg
+(((((((   .((ddddd)).((((. iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  .))))                        (((..ttttttt..))))))))))
+15  tRNA-Gly            c[1053754,1053894]	101.9	83  	(tcc)i(28,54)
+cgctggcgcaggacggcatcggtgcctctctgcagcactacaaccagttgattgaggctgacctccgccaggccttcgacattccggagcactggagtctgatcgcgcagatgccgttcggttcgattgagaagccggcgg
+(((((((   .((ddddd)).((((. iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  .))))                        (((..ttttttt..))))))))))
+16  tRNA-Gly            c[1055795,1055935]	101.9	83  	(tcc)i(28,54)
+cgctggcgcaggacggcatcggtgcctctctgcagcactacaaccagttgattgaggctgacctccgccaggccttcgacattccggagcactggagtctgatcgcgcagatgccgttcggttcgattgagaagccggcgg
+(((((((   .((ddddd)).((((. iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  .))))                        (((..ttttttt..))))))))))
+17  tRNA-Gly            c[1057836,1057976]	101.9	83  	(tcc)i(28,54)
+cgctggcgcaggacggcatcggtgcctctctgcagcactacaaccagttgattgaggctgacctccgccaggccttcgacattccggagcactggagtctgatcgcgcagatgccgttcggttcgattgagaagccggcgg
+(((((((   .((ddddd)).((((. iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  .))))                        (((..ttttttt..))))))))))
+18  tRNA-Gly            c[1059877,1060017]	101.9	83  	(tcc)i(28,54)
+cgctggcgcaggacggcatcggtgcctctctgcagcactacaaccagttgattgaggctgacctccgccaggccttcgacattccggagcactggagtctgatcgcgcagatgccgttcggttcgattgagaagccggcgg
+(((((((   .((ddddd)).((((. iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  .))))                        (((..ttttttt..))))))))))
+19  tRNA-Gly            c[1061918,1062058]	101.9	83  	(tcc)i(28,54)
+cgctggcgcaggacggcatcggtgcctctctgcagcactacaaccagttgattgaggctgacctccgccaggccttcgacattccggagcactggagtctgatcgcgcagatgccgttcggttcgattgagaagccggcgg
+(((((((   .((ddddd)).((((. iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  .))))                        (((..ttttttt..))))))))))
+20  tRNA-Cys             [1246148,1246220]	122.6	33  	(gca)
+ggattcatagctcagtggtagagcattcggctgcagtccgaatggtccccggttcaaacccgggtgggtcctc
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+21  tRNA-Leu            c[1246259,1246341]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+22  tRNA-Met            c[1246403,1246474]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+23  tRNA-Pro             [1246548,1246619]	122.1	33  	(tgg)
+ggtcgtttggtctagtggtatgattcctgttttgggtacaggaggtcacgggttcaattcccgtaacgaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>LpyrH10_07 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=1116982 | SO=chromosome
+1 genes found
+1   tRNA-Met              c[457201,457273]	113.6	34  	(cat)
+gcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+>LpyrH10_08 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=1053738 | SO=chromosome
+4 genes found
+1   tRNA-Thr                c[86585,86656]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Leu              c[714217,714299]	117.4	35  	(caa)
+ggcaagatggccgagtggtctaaggcgggagactcaagttctcttctattcgtaggcgcgggttcgaaccccgctcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Ser              c[714359,714439]	119.6	34  	(cga)
+gtcaccatacccaagtggttacgggggttgactcgaaatcaactgcgatctcgcgcgcaggttcgaatcctgctggtgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+4   tRNA-Gly               [717267,717453]	102.7	35  	(gcc)i(37,92)
+cgtgcggctcggcgggcttcgctagctgccgcctgcgctccgccgctttaccgtgcgacggcgccggcagcctcagctggtggtccacggcagttggcgggagcgcgatgccggctgggtttggcttgcccgctgcggtggtcgcggtggtggctaccagcgtgctgtgcgacgttgcgccggatgt
+(((.(((   (((ddddddddddd)))((.((  AAiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiA  )).))       ..(vvvvvvvvvv)..   (((.(ttttttt).)))))).)))
+>LpyrH10_09 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=910096 | SO=chromosome
+6 genes found
+1   tRNA-Tyr              c[403707,403791]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagctagcaggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+2   tRNA-Thr              c[403854,403925]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcacgggttcgatccccgtagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Arg              c[403986,404057]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Asp              c[404115,404186]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaag
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+5   tRNA-Gly               [903891,903961]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+6   tRNA-Thr               [904036,904107]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcacgggttcgatccccgtagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LpyrH10_10 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=871843 | SO=chromosome
+0 genes found
+>LpyrH10_11 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=820048 | SO=chromosome
+5 genes found
+1   tRNA-Pro               [188828,188899]	124.4	33  	(cgg)
+ggccgcttggtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Gln               [616731,616805]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgac
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+3   tRNA-Ile              c[616845,616919]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Leu              c[616982,617063]	111.7	36  	(taa)
+gctggggttcccgagttggtcaaaggggtgagacttaagttctcatgcgcaagcttcgtgggttcgaaccccacctccagca
+(((((((  (((.dddddddddd.)))((((((  AAA  ))))))           (((((ttttttt))))))))))))
+5   tRNA-Ile               [617149,617223]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LpyrH10_12 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=817777 | SO=chromosome
+5 genes found
+1   tRNA-Leu               [266998,267081]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+2   tRNA-Asp               [284830,284902]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Arg               [367780,367851]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Glu               [628083,628154]	118.5	34  	(ctc)
+tccggtgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcaccggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+5   tRNA-Gly              c[628204,628274]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+>LpyrH10_13 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=756024 | SO=chromosome
+0 genes found
+>LpyrH10_14 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=713073 | SO=chromosome
+6 genes found
+1   tRNA-???                c[29981,30078]	100.5	37  	(ggcg) 
+ccgttgctgggtcgaagttcaaaaagctgctgcagcggcgtgtgtggtgcagtgtgaagccgagcgtggcggtggtcgtgcaggtcggccgcagcgtc
+.((((((  (((.ddddddddddd.))) (((((  AAAA  )))))(((.((((..vvvv..)))).)))  (((((ttttttt))))))))))).
+2   tRNA-Ser              c[153144,153224]	121.3	34  	(gct)
+gcaaatatggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttctgtttgcg
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Pro               [407833,407904]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+4   tRNA-Val               [407968,408042]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Lys               [408102,408175]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+6   tRNA-His               [564675,564833]	101.7	100 	(gtg)i(33,67)
+ggctgctgggccgccggcttgcggttcgccgtggcgtcccccacggcgccgcccttctgtacctcacgcggaccggcgtgcagcggagacgacgacgacgtggtggcggtggtggtgatcgacggagctgccggatccgatcgcgtcggtcggccgcgg
+.((.(((  ((((dddddddd))))(((((  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiAAA  )))))          ((.((vvvv)).)) ..(((ttttttt)))..))).)).
+>LpyrH10_15 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=726778 | SO=chromosome
+1 genes found
+1   tRNA-Gln              c[490327,490401]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgac
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+>LpyrH10_16 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=644205 | SO=chromosome
+10 genes found
+1   tRNA-Met               [316160,316231]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Leu               [316293,316376]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+3   tRNA-Val               [453914,453987]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-His               [454051,454122]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+5   tRNA-Phe              c[454162,454234]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Glu               [454307,454380]	118.0	35  	(ttc)
+ttccgatgtagtataacggttagaacacctggctttcacccaggagatccgggttcgattcccggtatcggagt
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+7   tRNA-Glu              c[478424,478497]	118.0	35  	(ttc)
+ttccgatgtagtataacggttagaacacctggctttcacccaggagatccgggttcgattcccggtatcggagt
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+8   tRNA-Val              c[478556,478629]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+9   tRNA-Arg               [478704,478776]	118.6	33  	(ccg)
+gacgttgtggcgcaatggaagcgcgtcggattccggatccgaaggttgtgggttcgacccccatcagcgttgc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+10  tRNA-His               [478837,478908]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>LpyrH10_17 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=665156 | SO=chromosome
+3 genes found
+1   tRNA-Glu                c[50415,50510]	101.4	38  	(ctc)i(33,5)
+caattttgtcgcgggcggaggcgcggctgcctcggcgctctcgcagctcttcgagggcgccgagaaggcgtcggcgttcgatgtgcaggtagttga
+(((((.(   (((dddddddd))) (((((  iiiiiAAA  )))))   (.....vvvvv.....)    (.(((ttttttt))).)).)))))
+2   tRNA-Ala              c[218770,218842]	118.6	33  	(cgc)
+gggcgtatagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctattcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+3   tRNA-Pro              c[231295,231366]	124.4	33  	(cgg)
+ggccgcttggtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>LpyrH10_18 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=618647 | SO=chromosome
+7 genes found
+1   tRNA-Leu              c[182702,182784]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ala               [182857,182929]	118.6	33  	(cgc)
+gggcgtatagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctattcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+3   tRNA-Gly               [182985,183055]	122.0	33  	(ccc)
+gcgccgctggtctagtggcatgatggtaccctcccaaggtattgacccgggttcgattcccgggcggcgca
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+4   tRNA-Ala              c[187061,187133]	118.6	33  	(cgc)
+gggcgtatagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctattcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+5   tRNA-Leu               [187206,187288]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+6   tRNA-Met              c[410511,410583]	113.6	34  	(cat)
+gcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+7   tRNA-Arg               [410661,410732]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LpyrH10_19 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=605662 | SO=chromosome
+5 genes found
+1   tRNA-Lys                 [56212,56285]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Glu              c[466982,467056]	118.5	35  	(ctc)
+ttccggtgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcaccggaaac
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+3   tRNA-Ala              c[467117,467188]	117.5	33  	(tgc)
+gggcgtgtagctcagtggtagagcgcctgttttgcatacaggaggcctagggttcaaccccctactcgtcca
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+4   tRNA-Arg               [467270,467343]	125.8	34  	(tct)
+gctccagtggcctaatggataaggctttggacttctaatccaaagattgcgggttcgagtcccgcctggagtac
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+5   tRNA-Arg               [467400,467473]	118.5	34  	(cct)
+gctcttgtagcctaatggatatggcgtttgcttcctaagcaaaaggttgcgggttcgagtcccgccaggagtac
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LpyrH10_20 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=604854 | SO=chromosome
+1 genes found
+1   tRNA-Glu               [247101,247175]	118.5	35  	(ctc)
+ttccggtgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcaccggaaac
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+>LpyrH10_21 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=570758 | SO=chromosome
+3 genes found
+1   tRNA-Asp              c[229283,229355]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Ser               [229432,229512]	121.3	34  	(gct)
+gcaaatatggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttctgtttgcg
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Ala               [229573,229645]	108.3	34  	(agc)
+ggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctcca
+(((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+>LpyrH10_22 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=523060 | SO=chromosome
+3 genes found
+1   tRNA-Lys               [515993,516066]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Gly              c[516113,516183]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Asn              c[516244,516317]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>LpyrH10_23 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=502615 | SO=chromosome
+4 genes found
+1   tRNA-Val              c[121328,121400]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgta
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Trp              c[325589,325661]	116.8	33  	(cca)
+gggggcttagctcagtggtagagcattggattccaaatccaggggtcgcaggttcaatccctgcagtcctcac
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Ser               [352938,353139]	103.0	141 	(act)i(27,112)
+gtgtaggtggtcgaggacgacccgttcggcgagcccaccggattcttcgcactgccgctgctgggcgtgtggtgcgaaatgccctcctcaacgtcggagcacgtggagaaggacgagagcgaggaggaggaggagcagctactgcagcgggagcagctgcacaccccctcgcggctgtcggtgcgattcccgctcttcacgc
+(((.(((  ((((dddd))))(((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  ))))) .(..vvvv..).             ((.((ttttttt)).))))).)))
+4   tRNA-Asn              c[447445,447529]	100.3	39  	(gtt)
+ctcgttcgtggctgccgccttgctgcggtttggggtgtgttggactcctcggtgctgtcggcaggtgccgatcctgcggacacgg
+(..((((   ((((ddddddddddd))))  (((((  AAA  )))))            (((((ttttttt)))))))))..)
+>LpyrH10_24 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=483382 | SO=chromosome
+0 genes found
+>LpyrH10_25 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=666592 | SO=chromosome
+1 genes found
+1   tRNA-Ile              c[200294,200368]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LpyrH10_26 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=454809 | SO=chromosome
+3 genes found
+1   tRNA-Pro              c[148253,148377]	100.1	65  	(ggg)i(31,34)
+gagggccgtggcgaggcggcgtgtgcagctccccgcccgtgcccgctatcgttgcctcggtcaggggagctgaattcatggagggcaccgacgtggaagtggcgtgcaaagcgccgccgtcttcg
+((((((.(  (((dddddd))) (.(((  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiAAA  ))).)(.(vvvvvvvvvvvvvvv).)    (((((ttttttt)))))).))))))
+2   tRNA-Glu               [339959,340030]	118.5	34  	(ctc)
+tccggtgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcaccggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+3   tRNA-Asp              c[340072,340144]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+>LpyrH10_27 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=437959 | SO=chromosome
+0 genes found
+>LpyrH10_28 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=429499 | SO=chromosome
+0 genes found
+>LpyrH10_29 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=412459 | SO=chromosome
+2 genes found
+1   tRNA-Phe               [212547,212619]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Ser              c[212661,212741]	119.6	34  	(aga)
+gtcaccatacccaagtggttacggggactgactagaaatcagttgcgatctcgcgcgcaggttcgaatcctgctggtgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>LpyrH10_30 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=412374 | SO=chromosome
+1 genes found
+1   tRNA-Arg               [145466,145537]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LpyrH10_31 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=388584 | SO=chromosome
+0 genes found
+>LpyrH10_32 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=325280 | SO=chromosome
+3 genes found
+1   tRNA-Val                 [84018,84092]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Ala              c[127768,127840]	108.3	34  	(agc)
+ggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctcca
+(((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+3   tRNA-Leu              c[262605,262701]	100.8	39  	(caa)
+gtggccgtccaggccggcggagtagagccgcgccgccccaaacgcggcggagaagcggctgcacagcaccgcacggctgtggtccgtgaaggtcacg
+((((((.(   (((.dddddddddd.))) ((((((  AAA  ))))))       .(((vvvv))).   (((((ttttttt)))))).))))))
+>LpyrH10_33 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=323297 | SO=chromosome
+0 genes found
+>LpyrH10_34 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=299002 | SO=chromosome
+0 genes found
+>LpyrH10_35 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=230914 | SO=chromosome
+0 genes found
+>LpyrH10_36 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=161861 | SO=supercontig
+1 genes found
+1   tRNA-Lys                  c[1390,1463]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>LpyrH10_37 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=155872 | SO=supercontig
+1 genes found
+1   tRNA-Arg                 [81419,81490]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LpyrH10_38 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=175867 | SO=supercontig
+0 genes found
+>LpyrH10_39 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=131842 | SO=supercontig
+0 genes found
+>LpyrH10_40 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=72785 | SO=supercontig
+0 genes found
+>LpyrH10_41 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=25849 | SO=supercontig
+0 genes found
+>LpyrH10_42 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=22433 | SO=supercontig
+0 genes found
+>LpyrH10_43 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=15799 | SO=supercontig
+0 genes found
+>LpyrH10_44 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=10090 | SO=supercontig
+0 genes found
+>LpyrH10_45 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=9801 | SO=supercontig
+0 genes found
+>LpyrH10_46 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=6033 | SO=supercontig
+0 genes found
+>LpyrH10_47 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=4911 | SO=supercontig
+0 genes found
+>LpyrH10_48 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=4562 | SO=supercontig
+0 genes found
+>LpyrH10_49 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=4072 | SO=supercontig
+0 genes found
+>LpyrH10_50 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=4064 | SO=supercontig
+0 genes found
+>LpyrH10_51 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=3939 | SO=supercontig
+0 genes found
+>LpyrH10_52 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=3423 | SO=supercontig
+0 genes found
+>LpyrH10_53 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=3006 | SO=supercontig
+0 genes found
+>LpyrH10_54 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=2956 | SO=supercontig
+0 genes found
+>LpyrH10_55 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=2721 | SO=supercontig
+0 genes found
+>LpyrH10_56 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=2697 | SO=supercontig
+0 genes found
+>LpyrH10_57 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=2549 | SO=supercontig
+0 genes found
+>LpyrH10_58 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=2383 | SO=supercontig
+0 genes found
+>LpyrH10_59 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=2083 | SO=supercontig
+0 genes found
+>LpyrH10_60 | organism=Leptomonas_pyrrhocoris_H10 | version=2015-05-05 | length=2017 | SO=supercontig
+0 genes found
+>end 	60 sequences 133 tRNA genes, nothing found in 32 sequences, (46.67% sensitivity)

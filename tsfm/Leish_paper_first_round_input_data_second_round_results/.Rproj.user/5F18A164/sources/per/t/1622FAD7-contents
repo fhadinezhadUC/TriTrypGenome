@@ -1,0 +1,1625 @@
+---
+title: "Analysis of Mouse Germ Cell Ribotag Data of Arora and Laird"
+author: "David H. Ardell"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: 
+  
+  pdf_document:
+      toc: true
+      number_sections: true
+  html_document:
+      toc: true
+      number_sections: true
+      theme: united  # many options for theme, this one is my favorite.
+      highlight: tango  # specifies the syntax highlighting style
+editor_options: 
+  chunk_output_type: inline
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(CellDistinguisher)
+library(data.table)
+library(limma)
+library(edgeR)
+library(RColorBrewer)
+library(gplots)
+library(ggplot2)
+library(pheatmap)
+library(gridExtra)
+library(reshape2)
+options(digits=3)
+```
+# Introduction
+
+This file contains reproducible bioinformatic research in RMarkdown on Mouse Germ Stem Cell Ribotag and Whole-Gonad RNA-Seq data produced by Ripla Arora while she was in the lab of Diana Laird at UCSF. 
+
+# Initial QC, Mapping and Feature Counting
+
+## Characteristics of sequence libraries
+
+### Data as received from Ripla
+
+Raw data for 14 sequencing libraries were received via Box from Ripla
+Arora on May 11, 2017.
+
+According to Ripla:
+
+1. sample 01 (germ cell ribotag male replicate 1)
+2. sample 02 (germ cell ribotag male replicate 2)
+3. sample 03 (germ cell ribotag female replicate 1)
+4. sample 04 (germ cell ribotag female replicate 2)
+5. sample 05 (germ cell Dazl mutant male ribotag replicate 1)
+6. sample 06 (whole gonad input male replicate 1)
+7. sample 07 (whole gonad input male replicate 2)
+8. sample 08 (whole gonad input female replicate 1)
+9. sample 09 (whole gonad input female replicate 2)
+10. sample 10 (whole gonad Dazl mutant male input replicate 1)
+
+Ripla wrote, "Sample 05 and sample 10 are a mutant for which we only had one
+replicate. As we discussed our data set for ribotag-IP
+was germ-cell specific, but our inputs were whole tissue with multiple
+cell types. We used a published data set for germ cell specific input
+data which is in the subfolder 'miseq plos one dataset:'""
+
+11. DRR036853 (germ cell input female replicate 1)
+12. DRR036854 (germ cell input female replicate 2)
+13. DRR036855 (germ cell input male replicate 1)
+14. DRR036856 (germ cell input male replicate 2)
+
+From the sequencing order document described in the next section, I
+inferred that a NuGEN kit was used in making the libraries. After a
+bit of research using the spreadsheet barcode sequences, I figured out
+that an Ovation RNA-Seq Systems 1-16 kit was used. The barcode
+sequences provided below are identical to Appendix A in the Ovation
+Universal Model Orgs technical document. I assumed that TruSeq LT Kits
+and TruSeq v1/v2 Kit adapters were used, sequences provided here (page
+19):
+
+<https://support.illumina.com/downloads/illumina-customer-sequence-letter.html>
+
+
+
+
+### Sequencing of Ripla's libraries
+Information from the following was provided via an Excel spreadsheet
+from Ripla on June 20, 2017. The filename is:
+Conti-MC-1545_MC1545_CAT_020116.xlsx
+
+The libraries were sequenced by Marco Conti on 2/1/16 at the CAT
+Facility Sequencing facility at UCSF. Sequencing was single end.
+
+"Submitted by Gladstone Genomics Core (Linda) at 10nM, average size
+361bp, for sequencing on the HiSeq 4000, 2 lanes of SR50.  (NuGEN
+barcodes)"
+
+The sequencing facility provided the disclaimer "I am aware of the
+adapter dimers in my sample and that will reduce the number of true
+sequencing reads I get."
+
+| Sample name | Index  |
+|-------------+--------|
+| 01_A_BC07   | AAGCCT |
+| 02_B_BC08   | GTCGTA |
+| 03_C_BC09   | AAGAGG |
+| 04_D_BC10   | GGAGAA |
+| 05_E_BC11   | AGCATG |
+| 06_F_BC12   | GAGTCA |
+| 07_G_BC13   | CGTAGA |
+| 08_H_BC14   | TCAGAG |
+| 09_I_BC15   | CACAGT |
+| 10_J_BC16   | TTGGCA |
+
+
+### Published Data from Sakashita et al.
+
+The sequencing libraries DRR* are published data which comes from
+Sakashita et al. (2015) Sex Specification and Heterogeneity of
+Primordial Germ Cells in Mice. PLoS One 10(12):e0144836. 
+
+<https://www.ncbi.nlm.nih.gov/pubmed/26700643>
+
+<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4689518/>
+
+From the methods section of this paper:
+
+"Pre-amplified cDNA was fragmented into 200-bp fragments using an S2
+sonicator (Covaris, USA) and then used to construct sequencing
+libraries using a NEBNext Ultra DNA Library Prep Kit, following the
+manufacturers’ protocol (New England BioLabs). Indexed libraries were
+pooled (10 nM each), and sequenced using an Illumina MiSeq sequencer
+(single-end, 150 bp condition). Two biological replicates were used
+for each sample."
+
+"The RNA-seq and ChIP-seq data from this study have been deposited in
+the DNA Data Bank of Japan (DDBJ) under the accession number DRA003597
+and DRA003803."
+
+## Quality control filtering of reads
+I ran FastQC and AfterQC on the data and MultiQC to compile the full
+report. (Note to self: MultiQC requires activation of its own source
+conda environment on the MERCED cluster called "multiqc")
+
+The full MultiQC report is included separately. A few important
+observations from the quality control analysis are listed here:
+
+
+* The %GC of Ripla's libraries from ribotag are surprisingly about 10%
+  higher than for whole gonad.  
+* The %GC of Sakashita DRR036853 germcell library is suprisingly a bit
+  higher than the others (including its replicate), but similar to the
+  %GC of Ripla's libraries from whole gonad.
+* Arora's library sizes are about 1.75 times as large as the Sakashita
+  libraries.
+* FastQC did not detect any adaptor sequences in any of the data, but
+  I should verify that FastQC is aware of the adapters used in the
+  NEBNext Ultra libraries of Sakashita.
+* Ripla's ribotag and whole gonad reads, but not the Sakashita reads,
+  have some sequencing noise on their 5' ends, based on per-base
+  sequence content. Ribotag data is noisier than whole gonad data.
+
+Based on these results, I decided to do quality-filtering (but not
+adapter trimming) of reads using AfterQC. The percentages of bases
+trimmed were generally between 3% and 7% except for sample 3C, one of
+Ripla's female ribotagged libraries. Filtering was mainly due to
+homopolymeric tracts (labelled as "polyX" in the live version of the
+following plot, found in Figure 1). All subsequent results starting with
+mapping started with the reads classified as "good" by AfterQC.
+![Read filtering by After QC](AfterQC.png)
+
+## Mapping reads
+
+### Genome annotations
+
+We mapped reads against only the main contigs of the Genome Reference
+Consortium Mouse Build 38 patch release 5 (GRCm38.p5) assembly.
+
+To map against only protein-coding genes, we extracted only those
+features in the following way:
+
+```{bash eval=FALSE}
+perl -ne 'if (/gene_biotype=protein_coding/)
+                       {@info = split(/\t/, $_); 
+          if ($info[-1] =~ m/gene\=([\w\d\-\.\(\)]+)\;/)
+                       {print
+                       "$1\t$info[0]\t$info[3]\t$info[4]\t$info[6]\n";}}' 
+     GCF_000001635.25_GRCm38.p5_genomic.gff > mouse.syn
+```
+
+And selected only main contigs from genome assembly as follows:
+
+```{bash eval=FALSE}
+fasgrep -d "C57BL\/6J" GCF_000001635.25_GRCm38.p5_genomic.fna 
+            | fasgrep -v "^NW" > GCF_000001635.25_GRCm38.p5_genomic.modified.fna
+```
+
+### Index building 
+
+```{r eval=FALSE}
+#library(Rsubread)
+buildindex(basename="Mm", reference="GCF_000001635.25_GRCm38.p5_genomic.modified.fna",memory=10000)
+```
+
+### Alignment 
+
+Alignment was done with Rsubread using an indels parameter of 3. Read mapping statistics were as follows:
+![Numbers of reads mapped per library](20170904_Proportion_mapped_reads.png)
+
+## Feature counting of reads
+
+To better understand the analytic steps followed, consult for example
+[Law *et al.* (2016) RNA-seq analysis is easy as 1-2-3 with limma,
+Glimma and edgeR.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4937821/pdf/f1000research-5-10940.pdf)
+
+Feature counting was done using `FeatureCounts` from the `Rsubread` package and
+parameters `isPairedEnd=FALSE` and `allowMultiOverlap=FALSE`.
+
+# Deconvolution of Data
+An initial round of analysis motivated the use of deconvolution algorithms to subtract any signal of Germ Stem Cells (GSCs) from Ripla's whole-gonad RNAseq data, and to subtract signal of whole-gonad from Ripla's ribotag data. 
+I designed a two-step deconvolution strategy for the data, as
+indicated in the following figure. First, the Sakashita libraries are
+used to subtract the GSC signal from Ripla's whole gonad RNAseq
+dataset. Then, the deconvolved whole-gonad data is used to subtract
+whole-gonad signal from Ripla's ribotag data.
+
+![Deconvolution Strategy for Ribotag Data](ripla_ribotag_deconv_v5.png){width=70%}
+
+For this purpose we used [CellDistinguisher](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0193067).
+
+Their method accepts as input a specific number of underlying (hidden) basis expression profiles to be estimated from the data. The algorithm does not take named markers as input, but rather precedes in two steps:
+
+1. Estimates top distinguishing genes for a set number of inferred basis profiles using a topic modeling algorithm.
+2. Uses distinguishing genes to co-estimate mixture proportions and basis signatures.
+
+The number of distinguishers used for deconvolution is set by the user. 
+
+From here on, we document all analysis steps explicitly. 
+
+## First Iteration of Deconvolution
+
+To begin optimizing the procedure, I ran it using two different values for the numbers of distinguishers: 25, and 100. These values were used for both rounds of deconvolution. The recommended value is closer to 25, and 100 is the maximum: but the algorithms own metrics indicated that the additional distinguishers may have been informative for analysis. Compared with using only 25 distinguisers, using 100 distinguishers resulted in higher estimated purities of the deconvolved whole-gonad data and lowered the estimated purity of ribotag data in females, with the opposite trends occuring in males, indicating that the male data is noisier.
+
+Newberg et al. write: "The maximum number of distinguishers to be used per biological process depends on the size and quality of the data set analyzed. Intuitively, one would be tempted to use as many distinguishers as possible to get the best performance. However, in our experience that is not nec- essarily the best strategy. For our test sets, a maximum number of 10 to 20 distinguishers proved to be a good choice."
+
+
+
+### First-Round Deconvolution
+
+### Preparation for First-Round Deconvolution
+
+We filter all rows with 0s in all conditions.
+
+```{r load}
+load("ripla_ribotag.count_all.R.out") 
+
+## input for deconvolution: whole-gonad Arora RNA-Seq vs Sakashita GSC RNA-Seq
+male.counts.WG    <- as.matrix(fc$counts[,c(6,7,13,14)]) #RNA-Seq x 2,  sakashita x 2
+female.counts.WG  <- as.matrix(fc$counts[,c(8,9,11,12)])
+
+## filter rows with zeros in all conditions
+male.counts.WG.supp   <- male.counts.WG[rowSums(male.counts.WG==0)!=ncol(male.counts.WG),]
+female.counts.WG.supp <- female.counts.WG[rowSums(female.counts.WG==0)!=ncol(female.counts.WG),]
+
+## get corresponding gene-names
+genes=fc$annotation[,"GeneID"]
+genes.male.WG                  <- genes[rowSums(male.counts.WG==0)!=ncol(male.counts.WG)]
+genes.female.WG                <- genes[rowSums(female.counts.WG==0)!=ncol(female.counts.WG)]
+```
+
+### Computing Distinguishers for First-Round Deconvolution
+
+```{r disting1}
+## compute distinguishers for whole-gonad vs GSC
+MaleDistinguishers.WG.100      <- gecd_CellDistinguisher(
+                                            male.counts.WG.supp,
+                                            genesymb=genes.male.WG,
+                                            numCellClasses=2,
+                                            probesWithGenesOnly=TRUE,
+                                            minDistinguisherAlternatives=1,
+                                            maxDistinguisherAlternatives=100,
+                                            minAlternativesLengthsNormalized=0.5,
+                                            expressionQuantileForFilter=0.999,
+                                            expressionConcentrationRatio=0.333, 
+                                            verbose=1)
+
+FemaleDistinguishers.WG.100    <- gecd_CellDistinguisher(
+                                            female.counts.WG.supp,
+                                            genesymb=genes.female.WG,
+                                            numCellClasses=2,
+                                            probesWithGenesOnly=TRUE,
+                                            minDistinguisherAlternatives=1,
+                                            maxDistinguisherAlternatives=100,
+                                            minAlternativesLengthsNormalized=0.5,
+                                            expressionQuantileForFilter=0.999,
+                                            expressionConcentrationRatio=0.333, 
+                                            verbose=1)
+
+MaleDistinguishers.WG.25       <- gecd_CellDistinguisher(
+                                            male.counts.WG.supp,                         
+                                            genesymb=genes.male.WG,
+                                            numCellClasses=2,
+                                            probesWithGenesOnly=TRUE,
+                                            minDistinguisherAlternatives=1,
+                                            maxDistinguisherAlternatives=25,
+                                            minAlternativesLengthsNormalized=0.5,
+                                            expressionQuantileForFilter=0.999,
+                                            expressionConcentrationRatio=0.333, 
+                                            verbose=1)
+
+FemaleDistinguishers.WG.25     <- gecd_CellDistinguisher(
+                                            female.counts.WG.supp,
+                                            genesymb=genes.female.WG,
+                                            numCellClasses=2,
+                                            probesWithGenesOnly=TRUE,
+                                            minDistinguisherAlternatives=1,
+                                            maxDistinguisherAlternatives=25,
+                                            minAlternativesLengthsNormalized=0.5,
+                                            expressionQuantileForFilter=0.999,
+                                            expressionConcentrationRatio=0.333, 
+                                            verbose=1)
+```
+
+Here we show the top 25 distinguishers, returned in two columns. The left column starting with gene-name **Rplp1** is the germ-cell specific profile, and the right column headed by gene-name **Tshz2** corresponds to the whole-gonad, non-GSC-specific profile. The lists for the deconvolutions based on 100 distinguishers may be different.
+
+```{r disting1m}
+MaleDistinguishers.WG.25$bestDistinguishers
+```
+
+```{r disting1f}
+FemaleDistinguishers.WG.25$bestDistinguishers
+```
+
+### Computing First-Round Deconvolution
+```{r deconv1}
+## compute deconvolutions of WG data to decontaminate from GSC RNA-Seq. 
+## The order of signatures in output is: SakashitaGSC ("Rplp1"), AroraWG ("Tshz2")
+
+MaleDeconvolution.WG.25    <- gecd_DeconvolutionByDistinguishers(
+                                            male.counts.WG.supp,
+                                            MaleDistinguishers.WG.25$bestDistinguishers,
+                                            nonNegativeOnly = TRUE, 
+                                            convexSolution = TRUE, 
+                                            verbose = 0)
+
+MaleDeconvolution.WG.100   <- gecd_DeconvolutionByDistinguishers(
+                                            male.counts.WG.supp,
+                                            MaleDistinguishers.WG.100$bestDistinguishers,
+                                            nonNegativeOnly = TRUE,
+                                            convexSolution = TRUE, 
+                                            verbose = 0)
+
+FemaleDeconvolution.WG.25  <- gecd_DeconvolutionByDistinguishers(
+                                            female.counts.WG.supp,
+                                            FemaleDistinguishers.WG.25$bestDistinguishers,
+                                            nonNegativeOnly = TRUE, 
+                                            convexSolution = TRUE, 
+                                            verbose = 0)
+
+FemaleDeconvolution.WG.100 <- gecd_DeconvolutionByDistinguishers(
+                                            female.counts.WG.supp,
+                                            FemaleDistinguishers.WG.100$bestDistinguishers,
+                                            nonNegativeOnly = TRUE, 
+                                            convexSolution = TRUE, 
+                                            verbose = 0)
+```
+
+Here are the sample compositions for the first round deconvolution. Compared with using only 25 distinguisers, using 100 distinguishers resulted in higher estimated purities of the Sakashita data and lowered the estimated purity of whole-gonad data.
+
+```{r deconv1comp}
+t(MaleDeconvolution.WG.25$sampleCompositions)
+t(MaleDeconvolution.WG.100$sampleCompositions)
+t(FemaleDeconvolution.WG.25$sampleCompositions)
+t(FemaleDeconvolution.WG.100$sampleCompositions)
+```
+
+
+### Computing Replicates from Deconvolved Whole-Gonad Data for Second-Round Deconvolution
+The deconvolution algorithm computes a single set of basis expression profiles to explain all replicates. In order to estimate replicates of the deconvolved whole-gonad data, we compute the residual unexplained variance from each replicate, rescale the residuals by the mixture proportions, and add the rescaled residuals back to the expected (deconvolved) expression profiles.
+
+```{r deconv1.expCounts}
+male.counts.WG.supp.libsize        <- apply(male.counts.WG.supp,2,sum)
+female.counts.WG.supp.libsize      <- apply(female.counts.WG.supp,2,sum)
+
+expCountsMaleWG.100                <- 
+  MaleDeconvolution.WG.100$cellSubclassSignatures   %*% 
+  MaleDeconvolution.WG.100$sampleCompositions   %*% 
+  diag(male.counts.WG.supp.libsize)
+expCountsFemaleWG.100              <- 
+  FemaleDeconvolution.WG.100$cellSubclassSignatures %*% 
+  FemaleDeconvolution.WG.100$sampleCompositions %*% 
+  diag(female.counts.WG.supp.libsize)
+
+residualCountsMaleWG.100           <- 
+    (male.counts.WG.supp   - expCountsMaleWG.100)[,c(1,2)]
+residualCountsFemaleWG.100         <- 
+    (female.counts.WG.supp - expCountsFemaleWG.100)[,c(1,2)]
+
+expDeconvolvedMaleWG.100           <- 
+  MaleDeconvolution.WG.100$cellSubclassSignatures[,2]   %*% 
+  t(MaleDeconvolution.WG.100$sampleCompositions[2,])    %*% 
+  diag(male.counts.WG.supp.libsize)[,c(1,2)]
+expDeconvolvedFemaleWG.100         <- 
+  FemaleDeconvolution.WG.100$cellSubclassSignatures[,2] %*% 
+  t(FemaleDeconvolution.WG.100$sampleCompositions[2,])  %*% 
+  diag(female.counts.WG.supp.libsize)[,c(1,2)]
+
+rescaledResidualCountsMaleWG.100   <- 
+    residualCountsMaleWG.100    %*%  
+    diag(MaleDeconvolution.WG.100$sampleCompositions[2,c(1,2)])
+rescaledResidualCountsFemaleWG.100 <- 
+    residualCountsFemaleWG.100  %*%  
+    diag(FemaleDeconvolution.WG.100$sampleCompositions[2,c(1,2)])
+
+DeconvolvedMaleWG.100              <- 
+    expDeconvolvedMaleWG.100   + rescaledResidualCountsMaleWG.100
+DeconvolvedFemaleWG.100            <- 
+    expDeconvolvedFemaleWG.100 + rescaledResidualCountsFemaleWG.100
+
+expCountsMaleWG.25                 <- 
+    MaleDeconvolution.WG.25$cellSubclassSignatures   %*% 
+    MaleDeconvolution.WG.25$sampleCompositions       %*% 
+    diag(male.counts.WG.supp.libsize)
+expCountsFemaleWG.25               <- 
+    FemaleDeconvolution.WG.25$cellSubclassSignatures %*% 
+    FemaleDeconvolution.WG.25$sampleCompositions     %*% 
+    diag(female.counts.WG.supp.libsize)
+
+residualCountsMaleWG.25            <- 
+    (male.counts.WG.supp   - expCountsMaleWG.25)[,c(1,2)]
+residualCountsFemaleWG.25          <- 
+    (female.counts.WG.supp - expCountsFemaleWG.25)[,c(1,2)]
+
+expDeconvolvedMaleWG.25            <- 
+    MaleDeconvolution.WG.25$cellSubclassSignatures[,2]   %*% 
+    t(MaleDeconvolution.WG.25$sampleCompositions[2,])    %*% 
+    diag(male.counts.WG.supp.libsize)[,c(1,2)]
+expDeconvolvedFemaleWG.25          <- 
+    FemaleDeconvolution.WG.25$cellSubclassSignatures[,2] %*% 
+    t(FemaleDeconvolution.WG.25$sampleCompositions[2,])  %*% 
+    diag(female.counts.WG.supp.libsize)[,c(1,2)]
+
+rescaledResidualCountsMaleWG.25    <- 
+    residualCountsMaleWG.25    %*%  
+    diag(MaleDeconvolution.WG.25$sampleCompositions[2,c(1,2)])
+rescaledResidualCountsFemaleWG.25  <- 
+    residualCountsFemaleWG.25  %*%  
+    diag(FemaleDeconvolution.WG.25$sampleCompositions[2,c(1,2)])
+
+DeconvolvedMaleWG.25               <- 
+    expDeconvolvedMaleWG.25   + rescaledResidualCountsMaleWG.25
+DeconvolvedFemaleWG.25             <- 
+    expDeconvolvedFemaleWG.25 + rescaledResidualCountsFemaleWG.25
+```
+
+
+
+
+
+
+### Second-Round Deconvolution
+
+### Computing Input for Second-Round Deconvolutions of Ribotag data from Deconvolved Arora WG RNA-Seq
+
+To compute input for second-round deconvolution, we join the ribotag data to the deconvolved whole-gonad data, taking care to filter rows and genes that were already filtered in the first step, additionally filtering for all zeros in the second step.
+
+```{r deconv2prep}
+male.counts.RB.100        <-
+  cbind(as.matrix(fc$counts[rowSums(male.counts.WG == 0) != ncol(male.counts.WG), c(1, 2)]),
+        DeconvolvedMaleWG.100)
+female.counts.RB.100      <-
+  cbind(as.matrix(fc$counts[rowSums(female.counts.WG == 0) != ncol(female.counts.WG), c(3, 4)]),
+        DeconvolvedFemaleWG.100)
+male.counts.RB.25         <-
+  cbind(as.matrix(fc$counts[rowSums(male.counts.WG == 0) != ncol(male.counts.WG), c(1, 2)]),
+        DeconvolvedMaleWG.25)
+female.counts.RB.25       <-
+  cbind(as.matrix(fc$counts[rowSums(female.counts.WG == 0) != ncol(female.counts.WG), c(3, 4)]),
+        DeconvolvedFemaleWG.25)
+  
+
+male.counts.RB.100.supp   <-
+  male.counts.RB.100  [rowSums(male.counts.RB.100 == 0)  != ncol(male.counts.RB.100),]
+female.counts.RB.100.supp <-
+  female.counts.RB.100[rowSums(female.counts.RB.100 == 0) != ncol(female.counts.RB.100),]
+male.counts.RB.25.supp    <-
+  male.counts.RB.25   [rowSums(male.counts.RB.25 == 0)   != ncol(male.counts.RB.25),]
+female.counts.RB.25.supp  <-
+  female.counts.RB.25 [rowSums(female.counts.RB.25 == 0) != ncol(female.counts.RB.25),]
+
+  
+male.genes.RB.100.supp    <-
+  genes[rowSums(male.counts.WG == 0) != ncol(male.counts.WG)][rowSums(male.counts.RB.100 == 0) != ncol(male.counts.RB.100)]
+female.genes.RB.100.supp  <-
+  genes[rowSums(female.counts.WG == 0) != ncol(female.counts.WG)][rowSums(female.counts.RB.100 == 0) != ncol(female.counts.RB.100)]
+male.genes.RB.25.supp     <-
+  genes[rowSums(male.counts.WG == 0) != ncol(male.counts.WG)][rowSums(male.counts.RB.25 == 0) != ncol(male.counts.RB.25)]
+female.genes.RB.25.supp   <-
+  genes[rowSums(female.counts.WG == 0) != ncol(female.counts.WG)][rowSums(female.counts.RB.25 == 0) != ncol(female.counts.RB.25)]
+```
+
+
+### Computing Distinguishers for Second-Round Deconvolution
+
+```{r disting2}
+MaleDistinguishers.RB.25       <- 
+  gecd_CellDistinguisher(male.counts.RB.25.supp,
+                         genesymb=male.genes.RB.25.supp,
+                         numCellClasses=2,
+                         probesWithGenesOnly=TRUE,
+                         minDistinguisherAlternatives=1,
+                         maxDistinguisherAlternatives=25,
+                         minAlternativesLengthsNormalized=0.5,
+                         expressionQuantileForFilter=0.999,
+                         expressionConcentrationRatio=0.333, verbose=1)
+
+MaleDistinguishers.RB.100      <- 
+  gecd_CellDistinguisher(male.counts.RB.100.supp,
+                         genesymb=male.genes.RB.100.supp,
+                         numCellClasses=2,
+                         probesWithGenesOnly=TRUE,
+                         minDistinguisherAlternatives=1,
+                         maxDistinguisherAlternatives=100,
+                         minAlternativesLengthsNormalized=0.5,
+                         expressionQuantileForFilter=0.999,
+                         expressionConcentrationRatio=0.333, verbose=1)
+
+FemaleDistinguishers.RB.25    <- 
+  gecd_CellDistinguisher(female.counts.RB.25.supp,
+                         genesymb=female.genes.RB.25.supp,
+                         numCellClasses=2,
+                         probesWithGenesOnly=TRUE,
+                         minDistinguisherAlternatives=1,
+                         maxDistinguisherAlternatives=25,
+                         minAlternativesLengthsNormalized=0.5,
+                         expressionQuantileForFilter=0.999,
+                         expressionConcentrationRatio=0.333, verbose=1)
+
+FemaleDistinguishers.RB.100    <- 
+  gecd_CellDistinguisher(female.counts.RB.100.supp,
+                         genesymb=female.genes.RB.100.supp,
+                         numCellClasses=2,
+                         probesWithGenesOnly=TRUE,
+                         minDistinguisherAlternatives=1,
+                         maxDistinguisherAlternatives=100,
+                         minAlternativesLengthsNormalized=0.5,
+                         expressionQuantileForFilter=0.999,
+                         expressionConcentrationRatio=0.333, verbose=1)
+```
+
+Here we show the top 25 distinguishers, returned in two columns. The left columns starting with gene-name **Lrp3** correspond to the deconvolved whole-gonad, non-GSC-specific profiles, while the right columns headed by gene-name **Utf1** correspond to the ribotag-specific profile. 
+
+```{r disting2m}
+MaleDistinguishers.RB.25$bestDistinguishers
+```
+
+```{r disting2f}
+FemaleDistinguishers.RB.25$bestDistinguishers
+```
+
+Here we show the top 100 distinguishers. The left columns starting with gene-name **Lrp3** correspond to the deconvolved whole-gonad, non-GSC-specific profiles, while the right columns headed by gene-name **Dazl** correspond to the ribotag-specific profile. Notice that now in females, **Dazl** moves to the top of the list for distinguishers (the algorithm is not greedy, but the ranking of distinguishers can change as more are considered).
+
+```{r disting2m100}
+MaleDistinguishers.RB.100$bestDistinguishers
+```
+
+```{r disting2f100}
+FemaleDistinguishers.RB.100$bestDistinguishers
+```
+
+
+### Computing Second-Round Deconvolution
+```{r deconv2}
+MaleDeconvolution.RB.25    <-
+  gecd_DeconvolutionByDistinguishers(
+  male.counts.RB.25.supp,
+  MaleDistinguishers.RB.25$bestDistinguishers,
+  nonNegativeOnly = TRUE,
+  convexSolution = TRUE,
+  verbose = 0
+  )
+  MaleDeconvolution.RB.100   <-
+  gecd_DeconvolutionByDistinguishers(
+  male.counts.RB.100.supp,
+  MaleDistinguishers.RB.100$bestDistinguishers,
+  nonNegativeOnly = TRUE,
+  convexSolution = TRUE,
+  verbose = 0
+  )
+  
+  FemaleDeconvolution.RB.25  <-
+  gecd_DeconvolutionByDistinguishers(
+  female.counts.RB.25.supp,
+  FemaleDistinguishers.RB.25$bestDistinguishers,
+  nonNegativeOnly = TRUE,
+  convexSolution = TRUE,
+  verbose = 0
+  )
+  FemaleDeconvolution.RB.100 <-
+  gecd_DeconvolutionByDistinguishers(
+  female.counts.RB.100.supp,
+  FemaleDistinguishers.RB.100$bestDistinguishers,
+  nonNegativeOnly = TRUE,
+  convexSolution = TRUE,
+  verbose = 0
+  )
+```
+Here are the sample compositions for the second round deconvolution. Compared with using only 25 distinguisers, using 100 distinguishers resulted in higher estimated purities of the deconvolved whole-gonad data and lowered the estimated purity of ribotag data in females, with the opposite trends occuring in males, indicating that the male data is noisier.
+
+```{r deconv2comp}
+t(MaleDeconvolution.RB.25$sampleCompositions)
+t(MaleDeconvolution.RB.100$sampleCompositions)
+t(FemaleDeconvolution.RB.25$sampleCompositions)
+t(FemaleDeconvolution.RB.100$sampleCompositions)
+```
+
+### Computing Replicates from Second-Round Deconvolution
+```{r prep2}
+male.counts.RB.100.supp.libsize   <-
+  apply(male.counts.RB.100.supp, 2, sum)
+male.counts.RB.25.supp.libsize    <-
+  apply(male.counts.RB.25.supp, 2, sum)
+female.counts.RB.100.supp.libsize <-
+  apply(female.counts.RB.100.supp, 2, sum)
+female.counts.RB.25.supp.libsize  <-
+  apply(female.counts.RB.25.supp, 2, sum)
+  
+expCountsMaleRB.100                <-
+  MaleDeconvolution.RB.100$cellSubclassSignatures   %*% 
+  MaleDeconvolution.RB.100$sampleCompositions       %*% 
+  diag(male.counts.RB.100.supp.libsize)
+expCountsFemaleRB.100              <-
+  FemaleDeconvolution.RB.100$cellSubclassSignatures %*% 
+  FemaleDeconvolution.RB.100$sampleCompositions     %*% 
+  diag(female.counts.RB.100.supp.libsize)
+  
+residualCountsMaleRB.100           <-
+  (male.counts.RB.100.supp   - expCountsMaleRB.100)[, c(1, 2)]
+residualCountsFemaleRB.100         <-
+  (female.counts.RB.100.supp - expCountsFemaleRB.100)[, c(1, 2)]
+  
+expDeconvolvedMaleRB.100           <-
+  MaleDeconvolution.RB.100$cellSubclassSignatures[, 2]   %*% 
+  t(MaleDeconvolution.RB.100$sampleCompositions[2, ])    %*%
+  diag(male.counts.RB.100.supp.libsize)[, c(1, 2)]
+expDeconvolvedFemaleRB.100         <-
+  FemaleDeconvolution.RB.100$cellSubclassSignatures[, 2] %*% 
+  t(FemaleDeconvolution.RB.100$sampleCompositions[2, ])  %*% 
+  diag(female.counts.RB.100.supp.libsize)[, c(1, 2)]
+  
+rescaledResidualCountsMaleRB.100   <-
+  residualCountsMaleRB.100    %*%  
+  diag(MaleDeconvolution.RB.100$sampleCompositions[2, c(1, 2)])
+rescaledResidualCountsFemaleRB.100 <-
+  residualCountsFemaleRB.100  %*%  
+  diag(FemaleDeconvolution.RB.100$sampleCompositions[2, c(1, 2)])
+  
+  DeconvolvedMaleRB.100              <-
+  expDeconvolvedMaleRB.100   + rescaledResidualCountsMaleRB.100
+  DeconvolvedFemaleRB.100            <-
+  expDeconvolvedFemaleRB.100 + rescaledResidualCountsFemaleRB.100
+  
+expCountsMaleRB.25                 <-
+  MaleDeconvolution.RB.25$cellSubclassSignatures   %*% 
+  MaleDeconvolution.RB.25$sampleCompositions       %*% 
+  diag(male.counts.RB.25.supp.libsize)
+expCountsFemaleRB.25               <-
+  FemaleDeconvolution.RB.25$cellSubclassSignatures %*% 
+  FemaleDeconvolution.RB.25$sampleCompositions     %*% 
+  diag(female.counts.RB.25.supp.libsize)
+  
+residualCountsMaleRB.25            <-
+  (male.counts.RB.25.supp   - expCountsMaleRB.25)[, c(1, 2)]
+residualCountsFemaleRB.25          <-
+  (female.counts.RB.25.supp - expCountsFemaleRB.25)[, c(1, 2)]
+  
+expDeconvolvedMaleRB.25            <-
+  MaleDeconvolution.RB.25$cellSubclassSignatures[, 2]   %*% 
+  t(MaleDeconvolution.RB.25$sampleCompositions[2, ])    %*% 
+  diag(male.counts.RB.25.supp.libsize)[, c(1, 2)]
+expDeconvolvedFemaleRB.25          <-
+  FemaleDeconvolution.RB.25$cellSubclassSignatures[, 2] %*% 
+  t(FemaleDeconvolution.RB.25$sampleCompositions[2, ])  %*% 
+  diag(female.counts.RB.25.supp.libsize)[, c(1, 2)]
+  
+rescaledResidualCountsMaleRB.25    <-
+  residualCountsMaleRB.25    %*%  
+  diag(MaleDeconvolution.RB.25$sampleCompositions[2, c(1, 2)])
+rescaledResidualCountsFemaleRB.25  <-
+  residualCountsFemaleRB.25  %*%  
+  diag(FemaleDeconvolution.RB.25$sampleCompositions[2, c(1, 2)])
+  
+DeconvolvedMaleRB.25               <-
+  expDeconvolvedMaleRB.25   + rescaledResidualCountsMaleRB.25
+DeconvolvedFemaleRB.25             <-
+  expDeconvolvedFemaleRB.25 + rescaledResidualCountsFemaleRB.25
+```
+
+
+<!-- ## Second Iteration of Deconvolution: Optimizing Numbers of Distinguishers and Using ssKL from CellMix for Deconvolution -->
+
+<!-- In the first iteration, we found that in the first round of deconvolution, compared with using only 25 distinguisers, using 100 distinguishers resulted in higher estimated purities of the Sakashita data and lowered the estimated purity of whole-gonad data. In the second round of deconvolution, compared with using only 25 distinguishers, using 100 distinguishers resulted in higher estimated purities of the deconvolved whole-gonad data and lowered the estimated purity of ribotag data in females, with the opposite trends occuring in males, indicating that the male data is noisier. This led to the idea of optimizing sample composition trends against numbers of distinguishers, which we do here. -->
+
+<!-- ### Second Iteration: Optimizing Number of Distinguishers and First-Round Deconvolution  -->
+
+<!-- ```{r it2.deconv1.optimize} -->
+
+<!-- male.distinguisher.fun <- function (x) gecd_CellDistinguisher( -->
+<!--                                             male.counts.WG.supp,                          -->
+<!--                                             genesymb=genes.male.WG, -->
+<!--                                             numCellClasses=2, -->
+<!--                                             probesWithGenesOnly=TRUE, -->
+<!--                                             minDistinguisherAlternatives=1, -->
+<!--                                             maxDistinguisherAlternatives=x, -->
+<!--                                             minAlternativesLengthsNormalized=0.5, -->
+<!--                                             expressionQuantileForFilter=0.999, -->
+<!--                                             expressionConcentrationRatio=0.333,  -->
+<!--                                             verbose=1) -->
+
+<!-- female.distinguisher.fun <- function (x)gecd_CellDistinguisher( -->
+<!--                                             female.counts.WG.supp, -->
+<!--                                             genesymb=genes.female.WG, -->
+<!--                                             numCellClasses=2, -->
+<!--                                             probesWithGenesOnly=TRUE, -->
+<!--                                             minDistinguisherAlternatives=1, -->
+<!--                                             maxDistinguisherAlternatives=x, -->
+<!--                                             minAlternativesLengthsNormalized=0.5, -->
+<!--                                             expressionQuantileForFilter=0.999, -->
+<!--                                             expressionConcentrationRatio=0.333,  -->
+<!--                                             verbose=1) -->
+
+<!-- male.distinguishers.WG   <- lapply(seq(25,100,by=5),male.distinguisher.fun) -->
+<!-- female.distinguishers.WG <- lapply(seq(25,100,by=5),female.distinguisher.fun) -->
+
+<!-- library(CellMix) -->
+<!-- male.deconvolutionSSKL.fun   <- function (x) gecd_DeconvolutionCellMix(male.counts.WG.supp, x$bestDistinguishers, method="ssKL") -->
+<!-- female.deconvolutionSSKL.fun <- function (x) gecd_DeconvolutionCellMix(female.counts.WG.supp, x$bestDistinguishers, method="ssKL") -->
+<!-- male.deconvolution.fun       <- function (x) gecd_DeconvolutionByDistinguishers(male.counts.WG.supp, x$bestDistinguishers, nonNegativeOnly = TRUE,convexSolution = TRUE) -->
+<!-- female.deconvolution.fun     <- function (x) gecd_DeconvolutionByDistinguishers(female.counts.WG.supp, x$bestDistinguishers, nonNegativeOnly = TRUE,convexSolution = TRUE) -->
+
+<!-- male.deconvolutionSSKL       <- lapply(male.distinguishers.WG,male.deconvolutionSSKL.fun) -->
+<!-- female.deconvolutionSSKL     <- lapply(female.distinguishers.WG,female.deconvolutionSSKL.fun) -->
+<!-- male.deconvolution           <- lapply(male.distinguishers.WG,male.deconvolution.fun) -->
+<!-- female.deconvolution         <- lapply(female.distinguishers.WG,female.deconvolution.fun) -->
+
+<!-- sapply(male.deconvolution, function(x) x$sampleCompositions) -->
+<!-- sapply(male.deconvolutionSSKL, function(x) x$sampleCompositions) -->
+<!-- sapply(female.deconvolution, function(x) x$sampleCompositions) -->
+<!-- sapply(female.deconvolutionSSKL, function(x) x$sampleCompositions) -->
+
+<!-- ``` -->
+
+<!-- According to this analysis, using the original CellDistinguisher algorithm some advantage appears in using more distinguishers. With the CellMix algorithm *ssKL* on the other hand, the highest purity of the Sakashita data was estimated at the minimum of 25 distinguishers. We proceed using ssKL and 25 distinguishers for the first round of deconvolution.  -->
+
+<!-- ### Second Iteration: Computing Replicates from Deconvolved Whole-Gonad Data for Second-Round Deconvolution -->
+
+<!-- When returned from the SSKL algorithm, the estimated profiles are not normalized like when returned from the CellDistinguisher algorithm. So to begin, they need to be divided by column sums. -->
+
+<!-- ```{r it2.deconv1.reps} -->
+
+<!-- MaleDeconvolution.WG.25.2           <- male.deconvolutionSSKL[[1]]$cellSubclassSignatures -->
+<!-- FemaleDeconvolution.WG.25.2         <- female.deconvolutionSSKL[[1]]$cellSubclassSignatures -->
+<!-- MaleDeconvolution.WG.25.2.sums      <- apply(MaleDeconvolution.WG.25.2,2,sum) -->
+<!-- FemaleDeconvolution.WG.25.2.sums    <- apply(FemaleDeconvolution.WG.25.2,2,sum) -->
+<!-- MaleDeconvolution.WG.25.2           <- sweep(MaleDeconvolution.WG.25.2,2,MaleDeconvolution.WG.25.2.sums,"/") -->
+<!-- FemaleDeconvolution.WG.25.2         <- sweep(FemaleDeconvolution.WG.25.2,2,FemaleDeconvolution.WG.25.2.sums,"/") -->
+
+<!-- expCountsMaleWG.25.2                <-  -->
+<!--   MaleDeconvolution.WG.25.2    %*%  -->
+<!--   male.deconvolutionSSKL[[1]]$sampleCompositions   %*%  -->
+<!--   diag(male.counts.WG.supp.libsize) -->
+
+<!-- expCountsFemaleWG.25.2             <-  -->
+<!--   FemaleDeconvolution.WG.25.2  %*%  -->
+<!--   female.deconvolutionSSKL[[1]]$sampleCompositions %*%  -->
+<!--   diag(female.counts.WG.supp.libsize) -->
+
+<!-- residualCountsMaleWG.25.2           <-  -->
+<!--     (male.counts.WG.supp   - expCountsMaleWG.25.2)[,c(1,2)] -->
+<!-- residualCountsFemaleWG.25.2         <-  -->
+<!--     (female.counts.WG.supp - expCountsFemaleWG.25.2)[,c(1,2)] -->
+
+<!-- expDeconvolvedMaleWG.25.2           <-  -->
+<!--     MaleDeconvolution.WG.25.2[,2]   %*%  -->
+<!--     t(male.deconvolutionSSKL[[1]]$sampleCompositions[2,])    %*%  -->
+<!--     diag(male.counts.WG.supp.libsize)[,c(1,2)] -->
+<!-- expDeconvolvedFemaleWG.25.2          <-  -->
+<!--     FemaleDeconvolution.WG.25.2[,2] %*%  -->
+<!--     t(female.deconvolutionSSKL[[1]]$sampleCompositions[2,])  %*%  -->
+<!--     diag(female.counts.WG.supp.libsize)[,c(1,2)] -->
+
+<!-- rescaledResidualCountsMaleWG.25.2    <-  -->
+<!--     residualCountsMaleWG.25.2   %*%   -->
+<!--     diag(MaleDeconvolution.WG.25.2 [2,c(1,2)]) -->
+<!-- rescaledResidualCountsFemaleWG.25.2  <-  -->
+<!--     residualCountsFemaleWG.25.2  %*%   -->
+<!--     diag(FemaleDeconvolution.WG.25.2 [2,c(1,2)]) -->
+
+<!-- DeconvolvedMaleWG.25.2               <-  -->
+<!--     expDeconvolvedMaleWG.25.2   + rescaledResidualCountsMaleWG.25.2 -->
+<!-- DeconvolvedFemaleWG.25.2             <-  -->
+<!--     expDeconvolvedFemaleWG.25.2 + rescaledResidualCountsFemaleWG.25.2 -->
+
+<!-- ``` -->
+
+<!-- ### Second Iteration: Computing Input for Second-Round Deconvolution -->
+
+<!-- To compute input for second-round deconvolution, we join the ribotag data to the deconvolved whole-gonad data, taking care to filter rows and genes that were already filtered in the first step, additionally filtering for all zeros in the second step. -->
+
+<!-- ```{r it2:r2.prep} -->
+
+<!-- male.counts.RB.25.2         <- cbind(as.matrix(fc$counts[rowSums(male.counts.WG == 0)   != ncol(male.counts.WG), c(1, 2)]),   DeconvolvedMaleWG.25.2) -->
+<!-- female.counts.RB.25.2       <- cbind(as.matrix(fc$counts[rowSums(female.counts.WG == 0) != ncol(female.counts.WG), c(3, 4)]), DeconvolvedFemaleWG.25.2) -->
+<!-- male.counts.RB.25.supp.2    <- male.counts.RB.25.2   [rowSums(male.counts.RB.25.2 == 0)     != ncol(male.counts.RB.25.2),] -->
+<!-- female.counts.RB.25.supp.2  <- female.counts.RB.25.2 [rowSums(female.counts.RB.25.2 == 0)   != ncol(female.counts.RB.25.2),] -->
+<!-- male.genes.RB.25.supp.2     <- genes[rowSums(male.counts.WG == 0) != ncol(male.counts.WG)][rowSums(male.counts.RB.25.2 == 0) != ncol(male.counts.RB.25.2)] -->
+<!-- female.genes.RB.25.supp.2   <- genes[rowSums(female.counts.WG == 0) != ncol(female.counts.WG)][rowSums(female.counts.RB.25.2 == 0) != ncol(female.counts.RB.25.2)] -->
+<!-- ``` -->
+
+<!-- ### Second Iteration: Optimizing Distinguishers and Computing Second-Round Deconvolution -->
+
+<!-- Here again we inspect the sample composition trends against number of distinguishers. -->
+
+<!-- ```{r it2:r2.disting} -->
+<!-- male.distinguisher.fun.RB.25.2     <- function(x) gecd_CellDistinguisher(male.counts.RB.25.supp.2, -->
+<!--                                                              genesymb=male.genes.RB.25.supp.2, -->
+<!--                                                              numCellClasses=2, -->
+<!--                                                              probesWithGenesOnly=TRUE, -->
+<!--                                                              minDistinguisherAlternatives=1, -->
+<!--                                                              maxDistinguisherAlternatives=x, -->
+<!--                                                             minAlternativesLengthsNormalized=0.5, -->
+<!--                                                             expressionQuantileForFilter=0.999, -->
+<!--                                                              expressionConcentrationRatio=0.333, verbose=1) -->
+
+<!-- female.distinguisher.fun.RB.25.2 <- function (x)gecd_CellDistinguisher( -->
+<!--                                             female.counts.RB.25.supp.2, -->
+<!--                                             genesymb=female.genes.RB.25.supp.2, -->
+<!--                                             numCellClasses=2, -->
+<!--                                             probesWithGenesOnly=TRUE, -->
+<!--                                             minDistinguisherAlternatives=1, -->
+<!--                                             maxDistinguisherAlternatives=x, -->
+<!--                                             minAlternativesLengthsNormalized=0.5, -->
+<!--                                             expressionQuantileForFilter=0.999, -->
+<!--                                             expressionConcentrationRatio=0.333,  -->
+<!--                                             verbose=1) -->
+
+<!-- male.distinguishers.RB.25.2          <- lapply(seq(25,100,by=5),male.distinguisher.fun.RB.25.2) -->
+<!-- female.distinguishers.RB.25.2        <- lapply(seq(25,100,by=5),female.distinguisher.fun.RB.25.2) -->
+
+<!-- male.deconvolutionSSKL.fun.RB.25.2   <- function (x) gecd_DeconvolutionCellMix(male.counts.RB.25.supp.2  , x$bestDistinguishers, method="ssKL") -->
+<!-- female.deconvolutionSSKL.fun.RB.25.2 <- function (x) gecd_DeconvolutionCellMix(female.counts.RB.25.supp.2, x$bestDistinguishers, method="ssKL") -->
+<!-- male.deconvolution.fun.RB.25.2       <- function (x) gecd_DeconvolutionByDistinguishers(male.counts.RB.25.supp.2, x$bestDistinguishers, nonNegativeOnly = TRUE,convexSolution = TRUE) -->
+<!-- female.deconvolution.fun.RB.25.2     <- function (x) gecd_DeconvolutionByDistinguishers(female.counts.RB.25.supp.2, x$bestDistinguishers, nonNegativeOnly = TRUE,convexSolution = TRUE) -->
+
+<!-- male.deconvolution.RB.25.2       <- lapply(male.distinguishers.RB.25.2,male.deconvolution.fun.RB.25.2) -->
+<!-- female.deconvolution.RB.25.2     <- lapply(female.distinguishers.RB.25.2,female.deconvolution.fun.RB.25.2) -->
+<!-- male.deconvolutionSSKL.RB.25.2       <- lapply(male.distinguishers.RB.25.2,male.deconvolutionSSKL.fun.RB.25.2) -->
+<!-- female.deconvolutionSSKL.RB.25.2     <- lapply(female.distinguishers.RB.25.2,female.deconvolutionSSKL.fun.RB.25.2) -->
+
+<!-- sapply(male.deconvolutionSSKL.RB.25.2, function(x) x$sampleCompositions) -->
+<!-- sapply(female.deconvolutionSSKL.RB.25.2, function(x) x$sampleCompositions) -->
+
+<!-- ``` -->
+
+
+# Differential Analysis of Translation
+
+## Analysis of First Iteration of Deconvolved Data
+### Input for Differential Translation Analysis
+
+#### Construction of DGELists
+Now that we have completed the deconvolution steps, we proceed with analysis of differential expression in RNA-seq versus ribotag data (differential translation). First we make DGElists (from edgeR) to contrast the original Sakashita data (we could have used the deconvolved Sakashita data) against deconvolved ribotag data from round 2 deconvolution. We also make a DGEList from un-deconvolved Sakashita data for comparison to the deconvolved results.
+
+```{r dgelist}
+maleWG.DT.100     <- data.table(male.counts.WG[,c(3,4)],keep.rownames=TRUE)
+maleRB.DT.100     <- data.table(DeconvolvedMaleRB.100,keep.rownames=TRUE)
+
+male.DT.100       <- merge(maleWG.DT.100,maleRB.DT.100)[,list(rn,DRR036855.R1.good.fq.bam,
+                                                                DRR036856.R1.good.fq.bam,V1,V2)]
+names(male.DT.100)<- c("rn","MGSC.rnaseq.R1","MGSC.rnaseq.R2","MGSC.ribotag.R1","MGSC.ribotag.R2")
+
+femaleWG.DT.100   <- data.table(female.counts.WG[,c(3,4)],keep.rownames=TRUE)
+femaleRB.DT.100   <- data.table(DeconvolvedFemaleRB.100,keep.rownames=TRUE)
+
+female.DT.100     <- merge(femaleWG.DT.100,femaleRB.DT.100)[,list(rn,DRR036853.R1.good.fq.bam,
+                                                                  DRR036854.R1.good.fq.bam,V1,V2)]
+names(female.DT.100)  <- c("rn","FGSC.rnaseq.R1","FGSC.rnaseq.R2","FGSC.ribotag.R1","FGSC.ribotag.R2")
+
+both.DT.100       <- merge(male.DT.100,female.DT.100)
+both.M.100        <- as.matrix(both.DT.100[,c(2:3,6:7,4:5,8:9)])
+both.M.100[both.M.100 < 0] = 0 # see filtering step below
+rownames(both.M.100)  <- t(both.DT.100[,list(rn)])
+
+DGEListDeconv.100 <- DGEList(counts=both.M.100, genes=both.DT.100[,list(rn)])
+
+maleWG.DT.25      <- data.table(male.counts.WG[,c(3,4)],keep.rownames=TRUE)
+maleRB.DT.25      <- data.table(DeconvolvedMaleRB.25,keep.rownames=TRUE)
+
+male.DT.25        <- merge(maleWG.DT.25,maleRB.DT.25)[,list(rn,DRR036855.R1.good.fq.bam,
+                                                            DRR036856.R1.good.fq.bam,V1,V2)]
+names(male.DT.25) <- c("rn","MGSC.rnaseq.R1","MGSC.rnaseq.R2","MGSC.ribotag.R1","MGSC.ribotag.R2")
+
+femaleWG.DT.25    <- data.table(female.counts.WG[,c(3,4)],keep.rownames=TRUE)
+femaleRB.DT.25    <- data.table(DeconvolvedFemaleRB.25,keep.rownames=TRUE)
+
+female.DT.25      <- merge(femaleWG.DT.25,femaleRB.DT.25)[,list(rn,DRR036853.R1.good.fq.bam,
+                                                                  DRR036854.R1.good.fq.bam,V1,V2)]
+names(female.DT.25)  <- c("rn","FGSC.rnaseq.R1","FGSC.rnaseq.R2","FGSC.ribotag.R1","FGSC.ribotag.R2")
+
+both.DT.25           <- merge(male.DT.25,female.DT.25)
+both.M.25            <- as.matrix(both.DT.25[,c(2:3,6:7,4:5,8:9)])
+both.M.25[both.M.25 < 0] = 0 # see filtering step below
+rownames(both.M.25)  <- t(both.DT.25[,list(rn)])
+
+DGEListDeconv.025 <- DGEList(counts=both.M.25, genes=both.DT.25[,list(rn)])
+
+## Also make DGEList from un-deconvoluted data for comparison:
+DGEListSakashita  <- DGEList(counts=fc$counts[,c(13:14,11:12,1:4)], genes=fc$annotation[,"GeneID"])
+colnames(DGEListSakashita)       <- c("MGSC.rnaseq.R1","MGSC.rnaseq.R2",
+                                      "FGSC.rnaseq.R1","FGSC.rnaseq.R2",
+                                      "MGSC.ribotag.R1","MGSC.ribotag.R2",
+                                      "FGSC.ribotag.R1","FGSC.ribotag.R2")
+
+# set sample-names and groups/factors:
+
+DGEListSakashita$samples$group   <- as.factor(rep(c("Male.RNAseq","Male.ribotag",
+                                                    "Female.RNAseq","Female.ribotag"), c(2,2,2,2)))
+DGEListDeconv.100$samples$group  <- as.factor(rep(c("Male.RNAseq","Male.ribotag",
+                                                    "Female.RNAseq","Female.ribotag"), c(2,2,2,2)))
+DGEListDeconv.025$samples$group  <- as.factor(rep(c("Male.RNAseq","Male.ribotag",
+                                                    "Female.RNAseq","Female.ribotag"), c(2,2,2,2)))
+```
+
+#### Filtering low-expression genes
+```{r filterDGE}
+# filter low-expressed genes  
+
+paste("DGEList Deconv.100 - dimensions before filtering: ", paste(dim(DGEListDeconv.100),collapse=","))
+keep <- rowSums(cpm(DGEListDeconv.100) > 1) >= 2
+DGEListDeconv.100 <- DGEListDeconv.100[keep,]
+DGEListDeconv.100$samples$lib.size <- colSums(DGEListDeconv.100$counts)
+paste("DGEList Deconv.100 - dimensions after filtering: ", paste(dim(DGEListDeconv.100),collapse=","))
+
+paste("DGEList Deconv.025 - dimensions before filtering: ", paste(dim(DGEListDeconv.025),collapse=","))
+keep <- rowSums(cpm(DGEListDeconv.025) > 1) >= 2
+DGEListDeconv.025 <- DGEListDeconv.025[keep,]
+DGEListDeconv.025$samples$lib.size <- colSums(DGEListDeconv.025$counts)
+paste("DGEList Deconv.025 - dimensions after filtering: ", paste(dim(DGEListDeconv.025),collapse=","))
+
+paste("DGEList Sakashita - dimensions before filtering: ", paste(dim(DGEListSakashita),collapse=","))
+keep <- rowSums(cpm(DGEListSakashita) > 1) >= 2
+DGEListSakashita <- DGEListSakashita[keep,]
+DGEListSakashita$samples$lib.size <- colSums(DGEListSakashita$counts)
+paste("DGEList Sakashita - dimensions after filtering: ", paste(dim(DGEListSakashita),collapse=","))
+
+# Plot the new library sizes after filtering
+
+libnames <- c("M1","M2","F1","F2","Mr1","Mr2","Fr1","Fr2")
+p1 <- ggplot(DGEListSakashita$samples,aes(x=libnames,y=lib.size)) + geom_col() + 
+    labs(title="Sakashita", x="Library",y="Size")
+p2 <- ggplot(DGEListDeconv.025$samples,aes(x=libnames,y=lib.size)) + geom_col() + 
+    labs(title="Deconv.025", x="Library",y="Size")
+p3 <- ggplot(DGEListDeconv.100$samples,aes(x=libnames,y=lib.size)) + geom_col() + 
+    labs(title="Deconv.100", x="Library",y="Size")
+grid.arrange(p1, p2, p3, ncol=3)
+
+# plot boxplots of log2 CPM
+
+logcountsD100 <- cpm(DGEListDeconv.100, log = TRUE)
+logcountsD25 <- cpm(DGEListDeconv.025, log = TRUE)
+logcountsS <- cpm(DGEListSakashita, log = TRUE)
+vMelt100 <- melt(
+logcountsD100,
+measure.vars = c(
+"MGSC.rnaseq.R1",
+"MGSC.rnaseq.R2",
+"MGSC.ribotag.R1",
+"MGSC.ribotag.R2",
+"FGSC.rnaseq.R1",
+"FGSC.rnaseq.R2",
+"FGSC.ribotag.R1",
+"FGSC.ribotag.R2"
+)
+)
+vMelt025 <-
+melt(
+logcountsD25,
+measure.vars = c(
+"MGSC.rnaseq.R1",
+"MGSC.rnaseq.R2",
+"MGSC.ribotag.R1",
+"MGSC.ribotag.R2",
+"FGSC.rnaseq.R1",
+"FGSC.rnaseq.R2",
+"FGSC.ribotag.R1",
+"FGSC.ribotag.R2"
+)
+)
+vMeltS  <-
+melt(
+logcountsS,
+measure.vars = c(
+"MGSC.rnaseq.R1",
+"MGSC.rnaseq.R2",
+"MGSC.ribotag.R1",
+"MGSC.ribotag.R2",
+"FGSC.rnaseq.R1",
+"FGSC.rnaseq.R2",
+"FGSC.ribotag.R1",
+"FGSC.ribotag.R2"
+)
+)
+p1 <- ggplot(vMeltS, aes(Var2, value))   + geom_boxplot() +
+labs(title = "Sakashita", x = "Library", y = "log2 CPM")
+p2 <- ggplot(vMelt025, aes(Var2, value)) + geom_boxplot() +
+labs(title = "Deconv.025", x = "Library", y = "log2 CPM")
+p3 <- ggplot(vMelt100, aes(Var2, value)) + geom_boxplot() +
+labs(title = "Deconv.100", x = "Library", y = "log2 CPM")
+grid.arrange(p1, p2, p3, ncol=3)
+
+```
+
+### TMM Normalization of Data and MDS Plots 
+The following MDS plots are ordered from left to right: Sakashita, Deconv.025, Deconv.100
+```{r tmm}
+#Normalize using TMM
+DGEListDeconv.100.TMM <- calcNormFactors(DGEListDeconv.100, method = "TMM")
+DGEListDeconv.025.TMM <- calcNormFactors(DGEListDeconv.025, method = "TMM")
+DGEListSakashita.TMM  <- calcNormFactors(DGEListSakashita,  method = "TMM")
+
+par(mfrow=c(1,3))
+plotMDS(logcountsS, col=c(1,1,2,2,3,3,4,4))
+title("Sakashita")
+legend("bottomright", legend=unique(DGEListSakashita.TMM$samples$group), 
+        col=1:4, pch=15, xpd=TRUE, cex=0.8, bty = "n")
+plotMDS(logcountsD25, col=c(1,1,2,2,3,3,4,4))
+title("Deconv.025")
+legend("bottomright", legend=unique(DGEListDeconv.025.TMM$samples$group), 
+        col=1:4, pch=15, xpd=TRUE, cex=0.8, bty = "n")
+plotMDS(logcountsD100, col=c(1,1,2,2,3,3,4,4))
+title("Deconv.100")
+legend("bottomright", legend=unique(DGEListDeconv.100.TMM$samples$group), 
+        col=1:4, pch=15, xpd=TRUE, cex=0.8, bty = "n")
+```
+
+
+### Set-up of Statistical Designs
+
+```{r designs}
+
+factorDeconv.100           <- factor(DGEListDeconv.100.TMM$samples$group,
+                                     levels=c("Male.ribotag","Female.ribotag",
+                                                "Male.RNAseq","Female.RNAseq"))
+designDeconv.100           <- model.matrix(~ 0 + factorDeconv.100)
+colnames(designDeconv.100) <- c("Male.ribotag","Female.ribotag",
+                                  "Male.RNAseq","Female.RNAseq")
+contrastsDeconv.100        <- 
+  makeContrasts(RibotagInMale      = Male.ribotag - Male.RNAseq,
+                                     RibotagInFemale    = Female.ribotag - Female.RNAseq,
+                                     SexEffectOnRibotag = ((Male.ribotag - Male.RNAseq) - 
+                                                             (Female.ribotag - Female.RNAseq)),
+                                           levels=designDeconv.100)
+
+factorDeconv.025           <- factor(DGEListDeconv.025.TMM$samples$group,
+                                     levels=c("Male.ribotag","Female.ribotag",
+                                                "Male.RNAseq","Female.RNAseq"))
+designDeconv.025           <- model.matrix(~ 0 + factorDeconv.025)
+colnames(designDeconv.025) <- c("Male.ribotag","Female.ribotag",
+                                  "Male.RNAseq","Female.RNAseq")
+contrastsDeconv.025        <- 
+  makeContrasts(RibotagInMale      = Male.ribotag - Male.RNAseq,
+                                     RibotagInFemale    = Female.ribotag - Female.RNAseq,
+                                     SexEffectOnRibotag = ((Male.ribotag - Male.RNAseq) - 
+                                                              (Female.ribotag - Female.RNAseq)),
+                                           levels=designDeconv.025)
+
+factorSakashita            <- factor(DGEListSakashita.TMM$samples$group,
+                                     levels=c("Male.ribotag","Female.ribotag",
+                                                "Male.RNAseq","Female.RNAseq"))
+designSakashita            <- model.matrix(~ 0 + factorSakashita)
+colnames(designSakashita)  <- c("Male.ribotag","Female.ribotag",
+                                  "Male.RNAseq","Female.RNAseq")
+contrastsSakashita         <- makeContrasts(RibotagInMale      = Male.ribotag - Male.RNAseq,
+                                           RibotagInFemale    = Female.ribotag - Female.RNAseq,
+                                           SexEffectOnRibotag = ((Male.ribotag - Male.RNAseq) - 
+                                                                    (Female.ribotag - Female.RNAseq)),
+                                           levels=designSakashita)
+```
+
+### Voom Normalization
+```{r voom}
+par(mfrow=c(1,3))
+voomSakashita              <- voom(DGEListSakashita.TMM, designSakashita, plot=TRUE)
+title(sub ="Sakashita")
+voomDeconv.025             <- voom(DGEListDeconv.025.TMM, designDeconv.025, plot=TRUE)
+title(sub ="Deconv.025")
+voomDeconv.100             <- voom(DGEListDeconv.100.TMM, designDeconv.100, plot=TRUE)
+title(sub ="Deconv.100")
+```
+
+### Model Fits and Residuals
+```{r fits}
+fitDeconv.100              <- lmFit(voomDeconv.100,designDeconv.100)
+contrastsFitDeconv.100     <- contrasts.fit(fitDeconv.100, contrastsDeconv.100)
+ebayesFitDeconv.100        <- eBayes(contrastsFitDeconv.100)
+
+
+fitDeconv.025              <- lmFit(voomDeconv.025,designDeconv.025)
+contrastsFitDeconv.025     <- contrasts.fit(fitDeconv.025, contrastsDeconv.025)
+ebayesFitDeconv.025        <- eBayes(contrastsFitDeconv.025)
+
+
+fitSakashita              <- lmFit(voomSakashita,designSakashita)
+contrastsFitSakashita     <- contrasts.fit(fitSakashita, contrastsSakashita)
+ebayesFitSakashita        <- eBayes(contrastsFitSakashita)
+
+par(mfrow=c(1,3))
+plotSA(ebayesFitSakashita)
+title(sub ="Sakashita")
+plotSA(ebayesFitDeconv.025)
+title(sub ="Deconv.025")
+plotSA(ebayesFitDeconv.100)
+title(sub ="Deconv.100")
+```
+
+## Test Decision Total Summaries
+
+No log-fold change thresholds have been applied.
+
+```{r sumtot}
+dtDeconv.100               <- decideTests(ebayesFitDeconv.100)
+summary(dtDeconv.100)
+
+dtDeconv.025               <- decideTests(ebayesFitDeconv.025)
+summary(dtDeconv.025)
+
+dtSakashita                <- decideTests(ebayesFitSakashita)
+summary(dtSakashita)
+```
+
+## TopTables of Top 100 Most Significant Genes Sorted by Adjusted P-value 
+
+### Sakashita Comparison
+```{r toptableS}
+#SAKASHITA — RIBOTAG IN MALE
+topTable(ebayesFitSakashita, coef=1, adjust="BH", sort.by="P", number=100, confint=TRUE)
+#SAKASHITA — RIBOTAG IN FEMALE
+topTable(ebayesFitSakashita, coef=2, adjust="BH", sort.by="P", number=100, confint=TRUE)
+#SAKASHITA — SEX EFFECT ON RIBOTAG
+topTable(ebayesFitSakashita, coef=3, adjust="BH", sort.by="P", number=100, confint=TRUE)
+```
+
+### Deconv.025 Comparison
+```{r toptable025}
+#DECONV.025 — RIBOTAG IN MALE
+topTable(ebayesFitDeconv.025, coef=1, adjust="BH", sort.by="P", number=100, confint=TRUE)
+#DECONV.025 — RIBOTAG IN FEMALE
+topTable(ebayesFitDeconv.025, coef=2, adjust="BH", sort.by="P", number=100, confint=TRUE)
+#DECONV.025 — SEX EFFECT ON RIBOTAG
+topTable(ebayesFitDeconv.025, coef=3, adjust="BH", sort.by="P", number=100, confint=TRUE)
+```
+
+### Deconv.100 Comparison
+```{r toptable100}
+#DECONV.100 — RIBOTAG IN MALE
+topTable(ebayesFitDeconv.100, coef=1, adjust="BH", sort.by="P", number=100, confint=TRUE)
+#DECONV.100 — RIBOTAG IN FEMALE
+topTable(ebayesFitDeconv.100, coef=2, adjust="BH", sort.by="P", number=100, confint=TRUE)
+#DECONV.100 — SEX EFFECT ON RIBOTAG
+topTable(ebayesFitDeconv.100, coef=3, adjust="BH", sort.by="P", number=100, confint=TRUE)
+
+```
+
+## Heatmaps
+
+```{r heat}
+mypalette <- brewer.pal(11,"RdYlBu")
+morecols  <- colorRampPalette(mypalette)
+varDeconv.100      <- apply(voomDeconv.100$E, 1, var)
+selectDeconv.100   <- names(sort(varDeconv.100, decreasing=TRUE))[1:200]
+variableDeconv.100 <- voomDeconv.100$E[selectDeconv.100,]
+
+varDeconv.025      <- apply(voomDeconv.025$E, 1, var)
+selectDeconv.025   <- names(sort(varDeconv.025, decreasing=TRUE))[1:200]
+variableDeconv.025 <- voomDeconv.025$E[selectDeconv.025,]
+
+
+varSakashita      <- apply(voomSakashita$E, 1, var)
+selectSakashita   <- names(sort(varSakashita, decreasing=TRUE))[1:200]
+variableSakashita <- voomSakashita$E[selectSakashita,]
+
+par(mfrow=c(1,3))
+pheatmap(variableSakashita,col=rev(morecols(50)), trace="none", main="200 Most Variably Expressed Genes (Sakashita)",scale="row",fontsize.row=1)
+pheatmap(variableDeconv.025,col=rev(morecols(50)), trace="none", main="200 Most Variably Expressed Genes (Deconv.025)",scale="row",fontsize.row=1)
+pheatmap(variableDeconv.100,col=rev(morecols(50)), trace="none", main="200 Most Variably Expressed Genes (Deconv.100)",scale="row",fontsize.row=1)
+```
+
+## MD-plots
+
+```{r md}
+dtDeconv.100.RibotagInMaleFactor       <- as.factor(dtDeconv.100[,1])
+dtDeconv.100.RibotagInMaleFactorLabels <- c("Undertranslated","Proportionally translated","Overtranslated")
+dtDeconv.100.RibotagInFemaleFactor <- as.factor(dtDeconv.100[,2])
+dtDeconv.100.RibotagInFemaleFactorLabels <- c("Undertranslated","Proportionally translated","Overtranslated")
+dtDeconv.100.SexSpecificRibotag <- as.factor(dtDeconv.100[,3])
+dtDeconv.100.SexSpecificRibotagLabels <- c("Undertranslated in males","Proportionally translated by sex","Overtranslated in males")
+
+dtDeconv.025.RibotagInMaleFactor       <- as.factor(dtDeconv.025[,1])
+dtDeconv.025.RibotagInMaleFactorLabels <- c("Undertranslated","Proportionally translated","Overtranslated")
+dtDeconv.025.RibotagInFemaleFactor <- as.factor(dtDeconv.025[,2])
+dtDeconv.025.RibotagInFemaleFactorLabels <- c("Undertranslated","Proportionally translated","Overtranslated")
+dtDeconv.025.SexSpecificRibotag <- as.factor(dtDeconv.025[,3])
+dtDeconv.025.SexSpecificRibotagLabels <- c("Undertranslated in males","Proportionally translated by sex","Overtranslated in males")
+
+dtSakashita.RibotagInMaleFactor       <- as.factor(dtSakashita[,1])
+dtSakashita.RibotagInMaleFactorLabels <- c("Undertranslated","Proportionally translated","Overtranslated")
+dtSakashita.RibotagInFemaleFactor <- as.factor(dtSakashita[,2])
+dtSakashita.RibotagInFemaleFactorLabels <- c("Undertranslated","Proportionally translated","Overtranslated")
+dtSakashita.SexSpecificRibotag <- as.factor(dtSakashita[,3])
+dtSakashita.SexSpecificRibotagLabels <- c("Undertranslated in males","Proportionally translated by sex","Overtranslated in males")
+
+par(mfrow=c(1,3))
+plotMD(ebayesFitSakashita,column=1,status=dtSakashita.RibotagInMaleFactorLabels[dtSakashita.RibotagInMaleFactor],hl.cex=0.3,main="MD-plot for RibotagInMale (Sakashita comparison, 5% FDR)")
+title(sub="Sakashita")
+plotMD(ebayesFitDeconv.025,column=1,status=dtDeconv.025.RibotagInMaleFactorLabels[dtDeconv.025.RibotagInMaleFactor],hl.cex=0.3,main="MD-plot for RibotagInMale (Deconv.025 comparison, 5% FDR)")
+title(sub="Deconv.025")
+plotMD(ebayesFitDeconv.100,column=1,status=dtDeconv.100.RibotagInMaleFactorLabels[dtDeconv.100.RibotagInMaleFactor],hl.cex=0.3,main="MD-plot for RibotagInMale (Deconv.100 comparison, 5% FDR)")
+title(sub="Deconv.100")
+
+par(mfrow=c(1,3))
+plotMD(ebayesFitSakashita,column=2,status=dtSakashita.RibotagInFemaleFactorLabels[dtSakashita.RibotagInFemaleFactor],hl.cex=0.3,main="MD-plot for RibotagInFemale (Sakashita comparison, 5% FDR)")
+title(sub="Sakashita")
+plotMD(ebayesFitDeconv.025,column=2,status=dtDeconv.025.RibotagInFemaleFactorLabels[dtDeconv.025.RibotagInFemaleFactor],hl.cex=0.3,main="MD-plot for RibotagInFemale (Deconv.025 comparison, 5% FDR)")
+title(sub="Deconv.025")
+plotMD(ebayesFitDeconv.100,column=2,status=dtDeconv.100.RibotagInFemaleFactorLabels[dtDeconv.100.RibotagInFemaleFactor],hl.cex=0.3,main="MD-plot for RibotagInFemale (Deconv.100 comparison, 5% FDR)")
+title(sub="Deconv.100")
+
+par(mfrow=c(1,3))
+plotMD(ebayesFitSakashita,column=3,status=dtSakashita.SexSpecificRibotagLabels[dtSakashita.SexSpecificRibotag],main="MD-plot for Sex Effect on Ribotag (Sakashita comparison, 5% FDR)",legend="bottomright")
+title(sub="Sakashita")
+plotMD(ebayesFitDeconv.025,column=3,status=dtDeconv.025.SexSpecificRibotagLabels[dtDeconv.025.SexSpecificRibotag],main="MD-plot for Sex Effect on Ribotag (Deconv.025 comparison, 5% FDR)",legend="bottomright")
+title(sub="Deconv.025")
+plotMD(ebayesFitDeconv.100,column=3,status=dtDeconv.100.SexSpecificRibotagLabels[dtDeconv.100.SexSpecificRibotag],main="MD-plot for Sex Effect on Ribotag (Deconv.100 comparison, 5% FDR)",legend="bottomright")
+title(sub="Deconv.100")
+```
+
+## Decisions and Raw Counts for Known Markers
+
+```{r counts}
+SakashitaCounts                    <- data.table(DGEListSakashita.TMM$counts,keep.rownames=TRUE)
+dtSakashita.df                     <- data.table(dtSakashita,keep.rownames=TRUE)
+Sakashita.CountsTests              <- merge(dtSakashita.df,SakashitaCounts)
+Sakashita.Controls  <- Sakashita.CountsTests[c("Ddx4","Dazl","Pou5f1","Dppa3","Phlda2","Sox9","Fgf9","Cyb26b1","Foxl2","Wnt4","Rspo1","Pecam1","Cdh1","Sf1","Lhx9","Emx2","Cbx2","Lgr5"),]
+Sakashita.Controls
+
+Deconv.025.Counts                  <- data.table(DGEListDeconv.025.TMM$counts,keep.rownames=TRUE)
+dtDeconv.025.dt                    <- data.table(dtDeconv.025,keep.rownames=TRUE)
+Deconv.025.CountsTests             <- merge(merge(dtDeconv.025.dt,Deconv.025.Counts,by=c("rn")),SakashitaCounts[,c(1:4)],by=c("rn"))
+Deconv.025.Controls <- Deconv.025.CountsTests[c("Ddx4","Dazl","Pou5f1","Dppa3","Phlda2","Sox9","Fgf9","Cyb26b1","Foxl2","Wnt4","Rspo1","Pecam1","Cdh1","Sf1","Lhx9","Emx2","Cbx2","Lgr5"),]
+Deconv.025.Controls
+
+Deconv.100.Counts                  <- data.table(DGEListDeconv.100.TMM$counts,keep.rownames=TRUE)
+dtDeconv.100.dt                    <- data.table(dtDeconv.100,keep.rownames=TRUE)
+Deconv.100.CountsTests             <- merge(merge(dtDeconv.100.dt,Deconv.100.Counts,by=c("rn")),SakashitaCounts[,c(1:4)],by=c("rn"))
+Deconv.100.Controls <- Deconv.100.CountsTests[c("Ddx4","Dazl","Pou5f1","Dppa3","Phlda2","Sox9","Fgf9","Cyb26b1","Foxl2","Wnt4","Rspo1","Pecam1","Cdh1","Sf1","Lhx9","Emx2","Cbx2","Lgr5"),]
+Deconv.100.Controls
+```Show in New WindowClear OutputExpand/Collapse Output
+Show in New WindowClear OutputExpand/Collapse Output
+Show in New WindowClear OutputExpand/Collapse Output
+Show in New WindowClear OutputExpand/Collapse Output
+      [,1]            [,2]    
+ [1,] "Rplp1"         "Tshz2" 
+ [2,] "Park7"         "Igfbp5"
+ [3,] "Dppa5a"        "Gpc6"  
+ [4,] "Cox4i1"        "Nfia"  
+ [5,] "Ubb"           "Cdh11" 
+ [6,] "Psmb6"         "Hmga2" 
+ [7,] "Gpx1"          "Grb10" 
+ [8,] "Snrpb"         "Nfib"  
+ [9,] "Aamp"          "Col1a1"
+[10,] "2700094K13Rik" "Vcan"  
+[11,] "Mdh2"          "Cald1" 
+[12,] "Rps11"         "Zfpm2" 
+[13,] "Cct3"          "Col1a2"
+[14,] "Banf1"         "Col3a1"
+[15,] "Ndufa6"        "Meis1" 
+[16,] "Rpl14"         "Adgrl3"
+[17,] "Hint1"         "Sparc" 
+[18,] "Lefty1"        "Tenm4" 
+[19,] "Nme1"          "Atrnl1"
+[20,] "Cox5a"         "Zeb2"  
+[21,] "Rhox3g"        "Mest"  
+[22,] "Rps9"          "Gnas"  
+[23,] "Tomm6"         "Ptn"   
+[24,] "Rplp0"         "Robo2" 
+[25,] "Uqcrc1"        "Sema5a"
+Show in New WindowClear OutputExpand/Collapse Output
+      [,1]      [,2]    
+ [1,] "Rplp1"   "Tshz2" 
+ [2,] "Rps14"   "Hmga2" 
+ [3,] "Id3"     "Nfia"  
+ [4,] "Uqcrc1"  "Cdh11" 
+ [5,] "Dppa3"   "Nfib"  
+ [6,] "Park7"   "Mest"  
+ [7,] "Ubb"     "Col1a1"
+ [8,] "Ndufa6"  "Col1a2"
+ [9,] "Smc1b"   "Meis1" 
+[10,] "Rhox5"   "Vcan"  
+[11,] "Psmb6"   "Col3a1"
+[12,] "Snrpb"   "Adgrl3"
+[13,] "Fkbp6"   "Grb10" 
+[14,] "Cct3"    "Tenm4" 
+[15,] "Ubc"     "Meis2" 
+[16,] "Rps11"   "Zfpm2" 
+[17,] "Cox5a"   "Flrt2" 
+[18,] "Psmd2"   "Ptn"   
+[19,] "Rpa2"    "Wt1"   
+[20,] "Ddx4"    "Cald1" 
+[21,] "Tex19.1" "Gpc6"  
+[22,] "Banf1"   "Ldb2"  
+[23,] "Rhox9"   "Unc5c" 
+[24,] "Hint1"   "Sema5a"
+[25,] "Ndufb8"  "Zeb2"  
+Show in New WindowClear OutputExpand/Collapse Output
+Show in New WindowClear OutputExpand/Collapse Output
+                                            Rplp1   Tshz2
+X06_F_BC12_S27_gonad_male_1.R1.good.fq.bam 0.0239 0.97613
+X07_G_BC13_S28_gonad_male_2.R1.good.fq.bam 0.0278 0.97222
+DRR036855.R1.good.fq.bam                   0.9953 0.00469
+DRR036856.R1.good.fq.bam                   0.9967 0.00331
+                                            Rplp1   Tshz2
+X06_F_BC12_S27_gonad_male_1.R1.good.fq.bam 0.0253 0.97473
+X07_G_BC13_S28_gonad_male_2.R1.good.fq.bam 0.0384 0.96160
+DRR036855.R1.good.fq.bam                   0.9963 0.00368
+DRR036856.R1.good.fq.bam                   0.9960 0.00401
+                                              Rplp1   Tshz2
+X08_H_BC14_S29_gonad_female_1.R1.good.fq.bam 0.0277 0.97226
+X09_I_BC15_S30_gonad_female_2.R1.good.fq.bam 0.0327 0.96728
+DRR036853.R1.good.fq.bam                     0.9953 0.00469
+DRR036854.R1.good.fq.bam                     0.9922 0.00778
+                                              Rplp1   Tshz2
+X08_H_BC14_S29_gonad_female_1.R1.good.fq.bam 0.0295 0.97050
+X09_I_BC15_S30_gonad_female_2.R1.good.fq.bam 0.0434 0.95661
+DRR036853.R1.good.fq.bam                     0.9989 0.00115
+DRR036854.R1.good.fq.bam                     0.9904 0.00962
+Show in New WindowClear OutputExpand/Collapse Output
+Show in New WindowClear OutputExpand/Collapse Output
+Show in New WindowClear OutputExpand/Collapse Output
+Show in New WindowClear OutputExpand/Collapse Output
+      [,1]     [,2]      
+ [1,] "Lrp3"   "Utf1"    
+ [2,] "Stxbp4" "Sall4"   
+ [3,] "Ptn"    "Wdr92"   
+ [4,] "Gnas"   "Sspn"    
+ [5,] "Tpm1"   "Kcnip1"  
+ [6,] "Nrep"   "Cd44"    
+ [7,] "Fstl1"  "Mdh2"    
+ [8,] "Col1a1" "Cct5"    
+ [9,] "Alcam"  "Col6a6"  
+[10,] "Igfbp5" "Zbtb7a"  
+[11,] "Col3a1" "Stip1"   
+[12,] "Cdh11"  "Sdc4"    
+[13,] "Col1a2" "Dazl"    
+[14,] "Adgrl3" "Cct2"    
+[15,] "Cald1"  "Hsp90aa1"
+[16,] "Marcks" "Ddx4"    
+[17,] "Grb10"  "Eif3g"   
+[18,] "Meis1"  "Cct8"    
+[19,] "Tmsb4x" "Trim28"  
+[20,] "Slit2"  "L1td1"   
+[21,] "Ednra"  "Tex19.1" 
+[22,] "Tenm4"  "Bcl2l11" 
+[23,] "Dcn"    "Il31ra"  
+[24,] "Atrnl1" "Gpx1"    
+[25,] "Zfpm2"  "Cct7"    
+Show in New WindowClear OutputExpand/Collapse Output
+      [,1]     [,2]      
+ [1,] "Lrp3"   "Utf1"    
+ [2,] "Ptn"    "Dazl"    
+ [3,] "Col3a1" "Sall4"   
+ [4,] "Stxbp4" "Dusp9"   
+ [5,] "Meis1"  "Rhox5"   
+ [6,] "Vcan"   "Kcnip1"  
+ [7,] "Adgrl3" "Dppa3"   
+ [8,] "Col1a1" "Rhox9"   
+ [9,] "Zfpm2"  "Cct7"    
+[10,] "Slit2"  "Mdh2"    
+[11,] "Nrep"   "Ddx4"    
+[12,] "Tenm4"  "Hsp90aa1"
+[13,] "Tshz2"  "Tex19.1" 
+[14,] "Cdh11"  "Stip1"   
+[15,] "Gpc6"   "Cct2"    
+[16,] "Tenm3"  "Phlda2"  
+[17,] "Magi2"  "Rpa2"    
+[18,] "Col1a2" "Smc1b"   
+[19,] "Fbn2"   "Ago2"    
+[20,] "Efna5"  "Lin28a"  
+[21,] "Alcam"  "Zbtb7a"  
+[22,] "Ncam1"  "Cct5"    
+[23,] "Cald1"  "Grn"     
+[24,] "Fstl1"  "Cct8"    
+[25,] "Magi1"  "Trim28"  
+Show in New WindowClear OutputExpand/Collapse Output
+       [,1]      [,2]      
+  [1,] "Lrp3"    "Utf1"    
+  [2,] "Stxbp4"  "Sall4"   
+  [3,] "Ptn"     "Wdr92"   
+  [4,] "Gnas"    "Sspn"    
+  [5,] "Tpm1"    "Cct5"    
+  [6,] "Nrep"    "Mdh2"    
+  [7,] "Fstl1"   "Kcnip1"  
+  [8,] "Col1a1"  "Cd44"    
+  [9,] "Alcam"   "Dazl"    
+ [10,] "Igfbp5"  "Sdc4"    
+ [11,] "Col3a1"  "Col6a6"  
+ [12,] "Cdh11"   "Zbtb7a"  
+ [13,] "Col1a2"  "Stip1"   
+ [14,] "Adgrl3"  "Cct8"    
+ [15,] "Cald1"   "Cct2"    
+ [16,] "Marcks"  "Hsp90aa1"
+ [17,] "Grb10"   "Ddx4"    
+ [18,] "Meis1"   "Gpx1"    
+ [19,] "Tmsb4x"  "Eif3g"   
+ [20,] "Slit2"   "Trim28"  
+ [21,] "Ednra"   "Tex19.1" 
+ [22,] "Tenm4"   "Cct7"    
+ [23,] "Dcn"     "L1td1"   
+ [24,] "Atrnl1"  "Bcl2l11" 
+ [25,] "Zfpm2"   "Il31ra"  
+ [26,] "Vcan"    "Rpl8"    
+ [27,] "Tshz2"   "Mycn"    
+ [28,] "Nid1"    "Psmc5"   
+ [29,] "Magi2"   "Wee1"    
+ [30,] "Ncam1"   "Ckb"     
+ [31,] "Unc5c"   "Mcm2"    
+ [32,] "Mest"    "Ago2"    
+ [33,] "Agtr2"   "Nabp1"   
+ [34,] "Muc16"   "Zfp185"  
+ [35,] "Sfrp1"   "Dnah7b"  
+ [36,] "Aldh1a2" "Park7"   
+ [37,] "Ghr"     "Trim71"  
+ [38,] "Cped1"   "Arhgap21"
+ [39,] "Thsd4"   "Stk35"   
+ [40,] "Pcsk5"   "Psmd2"   
+ [41,] "Sema5a"  "Igdcc3"  
+ [42,] "Gpc6"    "Prdm1"   
+ [43,] "Pmp22"   "Rpa2"    
+ [44,] "Fras1"   "Baz2a"   
+ [45,] "Asxl3"   "Hspa9"   
+ [46,] "Efna5"   "Msh6"    
+ [47,] "Sdk1"    "Grn"     
+ [48,] "Frem1"   "Poldip3" 
+ [49,] "Dytn"    "Lefty2"  
+ [50,] "Tenm3"   "Hist1h4d"
+ [51,] "Mmp2"    "Asna1"   
+ [52,] "Tpm4"    "Ifitm3"  
+ [53,] "Spaca6"  "Fam222b" 
+ [54,] "Adamts9" "Hspd1"   
+ [55,] "Zeb2"    "Arid3b"  
+ [56,] "Hbb-bs"  "Cdh1"    
+ [57,] "Plxdc2"  "Prtg"    
+ [58,] "Nbea"    "Otud4"   
+ [59,] "Hsd3b1"  "Dusp9"   
+ [60,] "Kif26b"  "Cct3"    
+ [61,] "Bgn"     "Ifitm1"  
+ [62,] "Nfat5"   "Rsph3b"  
+ [63,] "Palld"   "Msh2"    
+ [64,] "Hmcn1"   "Fkbp4"   
+ [65,] "Sned1"   "Cirh1a"  
+ [66,] "Nr2f2"   "Apex1"   
+ [67,] "Sema6a"  "Parp1"   
+ [68,] "Kcnd2"   "Slc9a3r1"
+ [69,] "Robo2"   "Zfp281"  
+ [70,] "Golgb1"  "Lin28a"  
+ [71,] "Pcdh9"   "Hsph1"   
+ [72,] "Ldb2"    "Tmem56"  
+ [73,] "Dnm3"    "Pa2g4"   
+ [74,] "Axl"     "Rps14"   
+ [75,] "Col6a2"  "Mphosph8"
+ [76,] "Ltbp1"   "Cops7a"  
+ [77,] "Chd3"    "Plaa"    
+ [78,] "Map1b"   "Hspa8"   
+ [79,] "Slit3"   "Arf6"    
+ [80,] "Ptprd"   "Ube2c"   
+ [81,] "Sulf1"   "Tubb4b"  
+ [82,] "App"     "C1qbp"   
+ [83,] "Wt1"     "Esrp1"   
+ [84,] "Zeb1"    "Six4"    
+ [85,] "Magi1"   "Nol8"    
+ [86,] "Meis2"   "Cops6"   
+ [87,] "Nhs"     "Stk31"   
+ [88,] "Aff3"    "Rps3"    
+ [89,] "Tcaf1"   "Psmb6"   
+ [90,] "Grip1"   "Cct4"    
+ [91,] "Nav2"    "Epcam"   
+ [92,] "Lsamp"   "Psmd12"  
+ [93,] "Parva"   "Alg13"   
+ [94,] "Gucy1a3" "Cad"     
+ [95,] "Pard3b"  "Cherp"   
+ [96,] "Igfbp4"  "Hells"   
+ [97,] "Plcl1"   "Gtpbp4"  
+ [98,] "Fbn2"    "Ccnb2"   
+ [99,] "Farp1"   "Ap3b2"   
+[100,] "Mcc"     "Zfp770"  
+Show in New WindowClear OutputExpand/Collapse Output
+       [,1]         [,2]      
+  [1,] "Lrp3"       "Dazl"    
+  [2,] "Ptn"        "Utf1"    
+  [3,] "Col3a1"     "Sall4"   
+  [4,] "Stxbp4"     "Dusp9"   
+  [5,] "Meis1"      "Rhox5"   
+  [6,] "Adgrl3"     "Kcnip1"  
+  [7,] "Vcan"       "Dppa3"   
+  [8,] "Col1a1"     "Rhox9"   
+  [9,] "Zfpm2"      "Cct7"    
+ [10,] "Slit2"      "Mdh2"    
+ [11,] "Nrep"       "Ddx4"    
+ [12,] "Tenm4"      "Hsp90aa1"
+ [13,] "Tshz2"      "Tex19.1" 
+ [14,] "Cdh11"      "Stip1"   
+ [15,] "Gpc6"       "Rpa2"    
+ [16,] "Tenm3"      "Smc1b"   
+ [17,] "Magi2"      "Cct2"    
+ [18,] "Fbn2"       "Phlda2"  
+ [19,] "Col1a2"     "Cct8"    
+ [20,] "Efna5"      "Cct5"    
+ [21,] "Ncam1"      "Lin28a"  
+ [22,] "Alcam"      "Psmd2"   
+ [23,] "Cald1"      "Ago2"    
+ [24,] "Fstl1"      "Grn"     
+ [25,] "Magi1"      "Zbtb7a"  
+ [26,] "Unc5c"      "Trim28"  
+ [27,] "Rbfox1"     "Ccnb2"   
+ [28,] "Wt1"        "Rhox6"   
+ [29,] "Sema5a"     "Alg13"   
+ [30,] "Ghr"        "Sohlh2"  
+ [31,] "Grb10"      "Sspn"    
+ [32,] "Ldb2"       "Hells"   
+ [33,] "Thsd4"      "Alpl"    
+ [34,] "Agtr2"      "Stk35"   
+ [35,] "Sdk1"       "Idh3g"   
+ [36,] "Adamts19"   "Uqcrc1"  
+ [37,] "Plcl1"      "Eif3g"   
+ [38,] "Dcn"        "Wee1"    
+ [39,] "Kcnd2"      "Uba1"    
+ [40,] "Dach1"      "Cct6a"   
+ [41,] "Sox5"       "Fkbp6"   
+ [42,] "Cped1"      "Msh6"    
+ [43,] "Nfat5"      "Prtg"    
+ [44,] "Nbea"       "Bcl2l11" 
+ [45,] "Frem1"      "Hspa4"   
+ [46,] "Fras1"      "Hspa9"   
+ [47,] "Aldh1a2"    "Stk31"   
+ [48,] "Pcsk5"      "Baz2a"   
+ [49,] "Sfrp1"      "Trim71"  
+ [50,] "Ptprd"      "Hspd1"   
+ [51,] "Sema6a"     "Zfp185"  
+ [52,] "Meis2"      "Phf19"   
+ [53,] "Marcks"     "Cad"     
+ [54,] "App"        "Cox4i1"  
+ [55,] "Sulf1"      "Parp1"   
+ [56,] "Ltbp1"      "Mcm2"    
+ [57,] "Dock4"      "Wdr92"   
+ [58,] "Asxl3"      "Tuba3a"  
+ [59,] "Maml3"      "Igdcc3"  
+ [60,] "Foxp1"      "Ifitm3"  
+ [61,] "Ror1"       "Jade3"   
+ [62,] "Nid1"       "Rbm44"   
+ [63,] "Adamts9"    "Lig1"    
+ [64,] "Ank3"       "Cct3"    
+ [65,] "Ext1"       "Hist1h4d"
+ [66,] "Pard3b"     "Slbp"    
+ [67,] "Ptprk"      "Plaa"    
+ [68,] "Muc16"      "Mycn"    
+ [69,] "Golgb1"     "Park7"   
+ [70,] "Gnas"       "Cops7a"  
+ [71,] "Tcf4"       "Ddx1"    
+ [72,] "Mcc"        "Cyc1"    
+ [73,] "Tmsb4x"     "Cirh1a"  
+ [74,] "Grip1"      "Ulk1"    
+ [75,] "Nhs"        "Cox5a"   
+ [76,] "Zeb1"       "Otud4"   
+ [77,] "Flrt2"      "Zfp281"  
+ [78,] "Adgrl2"     "Hat1"    
+ [79,] "Mbnl2"      "Id3"     
+ [80,] "Tcf7l2"     "Mael"    
+ [81,] "Dnm3"       "Bub1"    
+ [82,] "Ppp3ca"     "Prdm1"   
+ [83,] "Robo2"      "Mov10l1" 
+ [84,] "Aff3"       "Kat2a"   
+ [85,] "Col12a1"    "Tcp1"    
+ [86,] "Slit3"      "Dnah7b"  
+ [87,] "Nrp1"       "Arhgap19"
+ [88,] "Samd5"      "Eif3c"   
+ [89,] "Frmd4b"     "Ckb"     
+ [90,] "Rbms1"      "Kit"     
+ [91,] "Itga8"      "Mcm6"    
+ [92,] "Ankrd10"    "Esco2"   
+ [93,] "Xkr4"       "Hcfc1"   
+ [94,] "Sned1"      "Gtpbp4"  
+ [95,] "Zeb2"       "Skiv2l2" 
+ [96,] "Npas3"      "Arid3b"  
+ [97,] "Dab1"       "Syce2"   
+ [98,] "St6galnac3" "Mcm5"    
+ [99,] "Ano1"       "Ddx3x"   
+[100,] "Spaca6"     "Mcm3"    
+Show in New WindowClear OutputExpand/Collapse Output
+                                                 Lrp3   Utf1
+X01_A_BC07_S22_germ_ribo_male_1.R1.good.fq.bam 0.0101 0.9899
+X02_B_BC08_S23_germ_ribo_male_2.R1.good.fq.bam 0.0937 0.9063
+                                               0.9473 0.0527
+                                               0.9207 0.0793
+                                                  Lrp3   Utf1
+X01_A_BC07_S22_germ_ribo_male_1.R1.good.fq.bam 0.00899 0.9910
+X02_B_BC08_S23_germ_ribo_male_2.R1.good.fq.bam 0.08949 0.9105
+                                               0.92670 0.0733
+                                               0.90196 0.0980
+                                                   Lrp3   Utf1
+X03_C_BC09_S24_germ_ribo_female_1.R1.good.fq.bam 0.0883 0.9117
+X04_D_BC10_S25_germ_ribo_female_2.R1.good.fq.bam 0.1586 0.8414
+                                                 0.9435 0.0565
+                                                 0.9276 0.0724
+                                                   Lrp3   Dazl
+X03_C_BC09_S24_germ_ribo_female_1.R1.good.fq.bam 0.0925 0.9075
+X04_D_BC10_S25_germ_ribo_female_2.R1.good.fq.bam 0.1376 0.8624
+                                                 0.9874 0.0126
+                                                 0.9691 0.0309

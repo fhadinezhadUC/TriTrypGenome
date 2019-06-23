@@ -1,0 +1,7 @@
+Sequence     		tRNA	Bounds	tRNA	Anti	Intron Bounds	Inf	      
+Name         	tRNA #	Begin	End 	Type	Codon	Begin	End	Score	Note
+--------     	------	-----	------	----	-----	-----	----	------	------
+AUPL01001712 	1	2487	2416	Cys	GCA	0	0	79.1	
+AUPL01001898 	1	1138	1220	Ser	AGA	0	0	61.9	
+AUPL01002787 	1	2991	2918	Ile	AAT	0	0	80.1	
+AUPL01006996 	1	407 	488 	Leu	AAG	0	0	73.8	

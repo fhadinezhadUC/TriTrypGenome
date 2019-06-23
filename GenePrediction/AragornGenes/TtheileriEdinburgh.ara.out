@@ -1,0 +1,999 @@
+>NBCO01000001 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=1635300 | SO=contig
+15 genes found
+1   tRNA-Glu               [694140,694211]	117.2	34  	(ctc)
+tccggtgtggtatagtggctagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+2   tRNA-Val              c[762433,762507]	118.8	35  	(aac)
+gcgctggtggtctaggtggttatgacgtcgctttaacacggcgaaggtcccgggttcgagtcccggccggcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Tyr               [762637,762724]	108.4	34  	(gta)i(38,15)
+ccttctgtagctcaattggtagagcatgtgactgtagaatttaaaagcagatatcacagggtcgctggttcgattccggccggaagga
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiiiiiii )))))     (((((ttttttt))))))))))))
+4   tRNA-Met              c[763745,763817]	113.6	34  	(cat)
+gcgagcgtggcgcagtcggcagcgcgtgggtttcataatcccaaggtcgtgagttcgagcctcaccgatcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+5   tRNA-Glu               [763960,764031]	117.2	34  	(ctc)
+tccggtgtggtatagtggctagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+6   tRNA-Met               [764149,764221]	113.6	34  	(cat)
+gcgagcgtggcgcagtcggcagcgcgtgggtttcataatcccaaggtcgtgagttcgagcctcaccgatcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+7   tRNA-Ser              c[764315,764395]	117.3	34  	(tga)
+gtcgacatacccaagtggttacggggtttgacttgaaatcaaatgcgatctcgcgcgcaggttcgaaccctgctgtcgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+8   tRNA-Leu               [764548,764630]	119.8	36  	(tag)
+tggcggtgtggccgagtggtctaaggcgccagatttaggctctggtctcgtagaggcgtgggttcgaaccccaccaccgtcaa
+((((((((  (((ddddddddddd)))((((((  AAA  ))))))           (((((ttttttt)))))))))))))
+9   tRNA-Met              c[766500,766572]	113.6	34  	(cat)
+gcgagcgtggcgcagtcggcagcgcgtgggtttcataatcccaaggtcgtgagttcgagcctcaccgatcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+10  tRNA-Asn            c[1372420,1372492]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggag
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+11  tRNA-Tyr             [1372627,1372712]	108.4	34  	(gta)i(38,13)
+ccttctgtagctcaattggtagagcatgtgactgtagatattaagcaggtatcacagggtcgctggttcgattccggccggaagga
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiiiii )))))     (((((ttttttt))))))))))))
+12  tRNA-Leu            c[1373651,1373733]	117.0	35  	(caa)
+ggcaagatggccgagtggtctaaggcgggagactcaagttctcttctcttcggaggcgtgggttcgaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+13  tRNA-Thr            c[1373945,1374016]	120.3	33  	(cgt)
+ggctgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+14  tRNA-Pro             [1374299,1374370]	122.8	33  	(cgg)
+ggccgcttggtctagtggtatgattcctgtttcgggtacaggaggtcacgggttcaattcccgtagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+15  tRNA-Phe             [1432943,1433015]	119.9	34  	(gaa)
+gccgctatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtggcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>NBCO01000002 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=1158363 | SO=contig
+8 genes found
+1   tRNA-SeC              c[225699,225786]	106.6	36  	(tca)
+gccacgatgagcttagctggtgctgggtgcgggcttcaaacccgtaggcgagttggactcgcagccgttcgattcggcctttgtggtg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+2   tRNA-SeC              c[227892,227979]	106.6	36  	(tca)
+gccacgatgagcttagctggtgctgggtgcgggcttcaaacccgtaggcgagttggactcgcagccgttcgattcggcctttgtggtg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+3   tRNA-SeC              c[232726,232813]	106.6	36  	(tca)
+gccacgatgagcttagctggtgctgggtgcgggcttcaaacccgtaggcgagttggactcgcagccgttcgattcggcctttgtggtg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+4   tRNA-Gly              c[388573,388643]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+5   tRNA-Ser              c[479136,479216]	119.6	34  	(aga)
+gtcaccatacccaagtggttacggggactgactagaaatcagttgcgatctcgcgcgcaggttcgaatcctgctggtgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+6   tRNA-Thr               [812454,812527]	120.1	34  	(tgt)
+aggctctgtagcacagtggcagtgcactggtcttgtaaaccaggggtcccgagttcaattctcggcagggcctt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+7   tRNA-Lys              c[823731,823802]	123.7	33  	(ttt)
+gccttcctagctcagcggtagagcgcacggcttttaaccgtgtggtcgtgggttcgatccccacggatggcg
+(((.(((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt)))))))).)))
+8   tRNA-Gly              c[824178,824249]	119.8	34  	(tcc)
+gcaatcgtggtccaacggctaagatttccgccttccaagcggaagacccgggttcgactcccggcgattgca
+(((((((  (((dddddddddd)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+>NBCO01000003 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=1126320 | SO=contig
+3 genes found
+1   tRNA-Ser                c[51523,51603]	119.6	34  	(cga)
+gtcaccatacccaagtggttacggggactgactcgaaatcagttgcgatctcgcgcgcaggttcgaatcctgctggtgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ala               [873268,873342]	109.1	35  	(agc)
+tggggatgtagctcagatggtagagcgcccgcttagcatgcgggaggtattgggatcgatacccaacttctccag
+((((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+3   tRNA-Val             [1113779,1113851]	113.6	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcgatccccgcccgtcgtg
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>NBCO01000004 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=1036937 | SO=contig
+1 genes found
+1   tRNA-Gly              c[725996,726066]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+>NBCO01000005 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=1012172 | SO=contig
+4 genes found
+1   tRNA-Gly                c[36208,36280]	119.8	34  	(tcc)
+gcaatcgtggtccaacggctaagatttccgccttccaagcggaagacccgggttcgactcccggcgattgcac
+(((((((  (((dddddddddd)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Cys                c[53684,53755]	121.4	33  	(gca)
+ggattcatagctcagtggtagagcgttcggctgcagtccgaatggtccccggttcaaacccgggtgggtcct
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+3   tRNA-Val               [736549,736621]	113.6	34  	(tac)
+gcgtgggtgatctagtggttatgatgtctgctttacacgcagaaagtcgcgggttcgaaccccgccccgcgta
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Met               [962597,962668]	112.8	33  	(cat)
+agcaccctggcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaaccggtgcta
+((((((.  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))).))))))
+>NBCO01000006 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=961496 | SO=contig
+0 genes found
+>NBCO01000007 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=935303 | SO=contig
+1 genes found
+1   tRNA-Thr              c[415686,415759]	121.6	34  	(cgt)
+aggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcctt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+>NBCO01000008 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=912357 | SO=contig
+9 genes found
+1   tRNA-Tyr               [183747,183862]	102.1	56  	(gta)i(35,19)
+ggctaatttggtagatggaaatgcttcacctgtggtatatgaaacctgttatgttgtaattatagcaggtagacagaagaaagttactaaaatggttccatatcatagattagcca
+((((((((  (.((ddddddddd)).)  (((((iiiiiiiiiiiiiiiiiii  AAA  )))))       ..((.vvvvv.))..   .((((ttttttt)))).))))))))
+2   tRNA-Ala               [430806,430877]	117.5	33  	(tgc)
+gggcgtgtagctcagtggtagagcgcctgttttgcatacaggaggcctagggttcaatcccctactcgtcca
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+3   tRNA-Ala              c[432320,432391]	117.5	33  	(tgc)
+gggcgtgtagctcagtggtagagcgcctgttttgcatacaggaggcctagggttcaatcccctactcgtcca
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+4   tRNA-Arg               [432523,432595]	123.3	34  	(tct)
+gctccagtggcctaatggataaggctttggacttctaatccaaggattgcgggttcgagtcccgtctggagta
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+5   tRNA-Lys               [432728,432799]	123.7	33  	(ttt)
+gccttcctagctcagcggtagagcgcacggcttttaaccgtgtggtcgtgggttcgatccccacggatggcg
+(((.(((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt)))))))).)))
+6   tRNA-Arg               [432874,432946]	120.8	34  	(cct)
+gcctccgtggcctaatggatatggcactcgcttcctaagcgaggggttgcgggttcgagtcccgccgggggta
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+7   tRNA-Asn               [751570,751642]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggag
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+8   tRNA-Asn              c[849360,849432]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggag
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+9   tRNA-Asn              c[850273,850345]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggag
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>NBCO01000009 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=665001 | SO=contig
+4 genes found
+1   tRNA-Ser               [518665,518745]	119.6	34  	(aga)
+gtcaccatacccaagtggttacggggactgactagaaatcagttgcgatctcgcgcgcaggttcgaatcctgctggtgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Thr               [518842,518913]	122.4	33  	(agt)
+ggccgcttagctcaatggcagagcgccgtcctagtaagacggaggttgggggttcgatccccccagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Leu              c[530882,530964]	117.0	35  	(caa)
+ggcaagatggccgagtggtctaaggcgggagactcaagttctcttctcttcggaggcgtgggttcgaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+4   tRNA-Ser              c[531083,531163]	119.6	34  	(cga)
+gtcaccatacccaagtggttacggggactgactcgaaatcagttgcgatctcgcgcgcaggttcgaatcctgctggtgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>NBCO01000010 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=626866 | SO=contig
+2 genes found
+1   tRNA-Arg               [230085,230156]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgagtcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Leu               [421071,421152]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtgacgttcaggtcgtcatctctccggaggcgtgggttcaaaccccactcttgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>NBCO01000011 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=626277 | SO=contig
+1 genes found
+1   tRNA-Thr              c[268222,268295]	120.1	34  	(tgt)
+aggctctgtagcacagtggcagtgcactggtcttgtaaaccaggggtcccgagttcaattctcggcagggcctt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+>NBCO01000012 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=595072 | SO=contig
+3 genes found
+1   tRNA-Leu                  c[9083,9164]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtgacgttcaggtcgtcatctctccggaggcgtgggttcaaaccccactcttgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ala               [214913,215049]	100.8	88  	(tgc)i(34,53)
+ttttattcggggctccggcgaaagcccccgcgtccgatcgcgcggggttcctcgaaatccggcccgccgcatgttctggtgaggcgttgcctcgcggggcggaggggtgcggtgcggttccaccccgcgaccaaaat
+((((..(   ((((dddddddd)))) ((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))               (((((ttttttt))))))..))))
+3   tRNA-Glu              c[215423,215494]	118.9	34  	(ttc)
+tccgatatggtataacggttagaacacctggctttcacccaggagatccgggttcgattcccggtatcggag
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>NBCO01000013 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=572910 | SO=contig
+17 genes found
+1   tRNA-Ala              c[207931,208003]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+2   tRNA-Ala              c[259960,260032]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+3   tRNA-Asn               [261786,261858]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggag
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+4   tRNA-Trp               [261964,262036]	116.8	33  	(cca)
+gggggcttagctcagtggtagagcattggattccaaatccaggggtcgcaggttcaatccctgcagtcctcac
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Trp               [262428,262499]	116.8	33  	(cca)
+gggggcttagctcagtggtagagcattggattccaaatccaggggtcgcaggttcaatccctgcagtcctca
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Leu               [379403,379484]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtgacgttcaggtcgtcatctctccggaggcgtgggttcaaaccccactcttgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+7   tRNA-Arg               [379815,379888]	120.3	34  	(acg)
+tgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgagtcctgtcacggatgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+8   tRNA-Thr               [382142,382213]	120.1	33  	(tgt)
+ggctctgtagcacagtggcagtgcactggtcttgtaaaccaggggtcccgagttcaattctcggcagggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+9   tRNA-Leu              c[404193,404274]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtgacgttcaggtcgtcatctctccggaggcgtgggttcaaaccccactcttgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+10  tRNA-Gly              c[404403,404474]	119.8	34  	(tcc)
+gcaatcgtggtccaacggtcaagatttccgccttccaagcggaagacccgggttcgactcccggcgattgca
+(((((((  (((dddddddddd)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+11  tRNA-Lys              c[405935,406007]	123.7	34  	(ctt)
+gcccttctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgagccccacggagggtg
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+12  tRNA-Val              c[406082,406154]	113.6	34  	(tac)
+gcgtgggtgatctagtggttatgatgtctgctttacacgcagaaaatcgcgggttcgaaccccgccccgcgta
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+13  tRNA-Gln              c[406229,406300]	124.9	34  	(ttg)
+ggtcctatagtgtagtggttatcacttcggactttgaatccgaaaacccaggttcgaatcctggtaggacca
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+14  tRNA-Ile               [406382,406455]	117.8	35  	(tat)
+gctcccgtggtctagttggttaggacgttggtcttatgaaccgaatatcgcgggttcgagccccgccgggagca
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+15  tRNA-Lys              c[468490,468562]	123.7	34  	(ctt)
+gcccttctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgagccccacggagggtg
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+16  tRNA-Lys              c[481629,481701]	123.7	34  	(ctt)
+gcccttctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgagccccacggagggtg
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+17  tRNA-Lys              c[487609,487683]	123.7	34  	(ctt)
+gcccttctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgagccccacggagggtgcc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>NBCO01000014 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=565556 | SO=contig
+1 genes found
+1   tRNA-Gln              c[212582,212653]	121.1	34  	(ctg)
+gctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagca
+(((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>NBCO01000015 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=549782 | SO=contig
+6 genes found
+1   tRNA-Ser              c[176838,176918]	123.0	34  	(gct)
+gcaaacgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgtaggttcgaaccctaccgtttgcg
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ile              c[204952,205025]	120.9	35  	(aat)
+gctcccatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagca
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Ile              c[370921,370994]	119.6	35  	(aat)
+gctcctatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagca
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Gln              c[371083,371154]	121.1	34  	(ctg)
+gctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagca
+(((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+5   tRNA-Gln               [371291,371362]	121.1	34  	(ctg)
+gctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagca
+(((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+6   tRNA-Leu               [371440,371521]	112.3	36  	(taa)
+gctggggttcccgagttggtcaaaggggtaagacttaagttcttatgcgcaagcttcgtgggttcgaaccccacccccagca
+(((((((  (((.dddddddddd.)))((((((  AAA  ))))))           (((((ttttttt))))))))))))
+>NBCO01000016 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=532253 | SO=contig
+2 genes found
+1   tRNA-Arg              c[521436,521509]	122.0	34  	(tcg)
+cgatctcgtggcgcaatggaagcgcatcagacttcggatctgagggttgcaggttcgagtcctgccgggatcgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+2   tRNA-His              c[521748,521818]	120.7	33  	(gtg)
+gggaagatagttcagtggcagaacatcagattgtggctctgaatacccgggttcgattcccggtcttccct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>NBCO01000017 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=525577 | SO=contig
+1 genes found
+1   tRNA-Lys              c[287333,287443]	100.8	30  	(ttt)i(34,25)
+aagaggatggtgtggtactcactttactttttgcagcccaaggttcaacagttcagagtgtaaaaattgatattattggtgttggttgttacagttctactgtttctttta
+(((((((  (.(ddddd).)  (((((  AAA iiiiiiiiiiiiiiiiiiiiiiiii ))))) ....vvvvv....            ((((ttttt)))))))))))
+>NBCO01000018 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=521834 | SO=contig
+2 genes found
+1   tRNA-Arg               [233904,233977]	117.5	34  	(tcg)
+cgatctcgtggcgcaatagaagcgcatcagacttcggatctgagggttgcaggttcgagtcctgccgggatcgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+2   tRNA-Arg               [428849,428951]	100.1	45  	(acg)i(34,10)
+gctgaaagtggtcgaacgagacgaccatactttgaatgaactttacgatgagtagaagtcttcactgggactgacggtaaatgttcctcacctgttttcagct
+(((((((   ((((ddddddd))))  ((((( iiiiiiiiii AAA  )))))  ....(vvvvvvvvvvv).... (.(.(ttttttt).).))))))))
+>NBCO01000019 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=517122 | SO=contig
+2 genes found
+1   tRNA-Ala              c[364420,364494]	109.1	35  	(agc)
+tggggatgtagctcagatggtagagcgcccgcttagcatgcgggaggtattgggatcgatacccaacttctccat
+((((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+2   tRNA-Val               [509958,510030]	113.6	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcgatccccgcccgtcgta
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>NBCO01000020 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=515301 | SO=contig
+3 genes found
+1   tRNA-Ser               [285751,285831]	123.0	34  	(gct)
+gcaaacgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgtaggttcgaaccctaccgtttgcg
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Val               [285912,285986]	118.4	35  	(aac)
+gcgctggtggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaccggcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Ala              c[304775,304849]	109.1	35  	(agc)
+tggggatgtagctcagatggtagagcgcccgcttagcatgcgggaggtattgggatcgatacccaacttctccat
+((((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+>NBCO01000021 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=495741 | SO=contig
+7 genes found
+1   tRNA-Ile                c[73576,73649]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagca
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Tyr              c[118815,118901]	108.4	34  	(gta)i(38,14)
+ccttctgtagctcaattggtagagcatgtgactgtagaatgataagcagctatcacagggtcgctggttcgattccggccggaagga
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiiiiii )))))     (((((ttttttt))))))))))))
+3   tRNA-Ile              c[178720,178793]	119.6	35  	(aat)
+gctcctatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagca
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Pro               [326700,326771]	122.8	33  	(cgg)
+ggccgcttggtctagtggtatgattcctgtttcgggtacaggaggtcacgggttcaattcccgtagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+5   tRNA-Ser               [461991,462071]	117.3	34  	(tga)
+gtcgacatacccaagtggttacggggtttgacttgaaatcaaatgcgatctcgcgcgcaggttcgaaccctgctgtcgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+6   tRNA-Thr               [462454,462525]	117.5	33  	(agt)
+ggccgcttagctcaatggcagagcgccgtcctagtaagacggaggtcgggggttcgatccccccagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+7   tRNA-Val               [478502,478575]	113.6	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcgatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>NBCO01000022 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=468161 | SO=contig
+0 genes found
+>NBCO01000023 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=459411 | SO=contig
+2 genes found
+1   tRNA-Val                  c[2067,2140]	113.5	35  	(aac)
+gcgctgatggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggtttgagtcccgatcggcgta
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Arg                  c[8438,8509]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgagtcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>NBCO01000024 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=457962 | SO=contig
+4 genes found
+1   tRNA-Gly              c[181718,181788]	121.6	33  	(ccc)
+gcgccgttggtctagtggcatgatggtaccctcccaaggtattgacccgggttcgattcccggacggcgca
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Arg               [352769,352862]	105.2	31  	(ccg)
+agcggttggagcggttggcgcaagtccgccccgatcgggcccgcgcggcggaggtgcagttgttgcaggccgtgcgagccgggcgtctgcagcc
+.((((.( (.(ddddddd).) .(((((  AAA  ))))).   (((((((..vvvv..))))))) (.(((ttttttt))).)).)))).
+3   tRNA-Glu               [449569,449640]	117.2	34  	(ctc)
+tccggtgtggtatagtgggtagaacaagcggctctcacccgctagacccgggttcgacccccggcatcggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+4   tRNA-Tyr              c[451146,451232]	108.4	34  	(gta)i(38,14)
+ccttctgtagctcaattggtagagcatgtgactgtagaaaaataagcagatatcacagggtcgctggttcgattccggccggaagga
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiiiiii )))))     (((((ttttttt))))))))))))
+>NBCO01000025 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=455504 | SO=contig
+4 genes found
+1   tRNA-Arg               [103294,103367]	120.3	34  	(acg)
+cgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgagtcctgtcacggatgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+2   tRNA-Arg               [104012,104085]	120.3	34  	(acg)
+cgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgagtcctgtcacggatgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+3   tRNA-Gly               [164336,164407]	119.8	34  	(tcc)
+gcaatcgtggtccaacggctaagatttccgccttccaagcggaagacccgggttcgactcccggcgattgca
+(((((((  (((dddddddddd)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+4   tRNA-Met              c[198564,198636]	113.2	34  	(cat)
+gcgagcatggcgcagtcggcagcgcgtgggtttcataatcccaaggtcgtgagttcgagcctcactgatcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+>NBCO01000026 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=453752 | SO=contig
+5 genes found
+1   tRNA-Val              c[234925,234997]	113.6	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcgatccccgcccgtcgta
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Thr              c[405517,405588]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Thr              c[406049,406120]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Phe              c[427048,427120]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Phe              c[451115,451187]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>NBCO01000027 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=440304 | SO=contig
+0 genes found
+>NBCO01000028 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=435312 | SO=contig
+0 genes found
+>NBCO01000029 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=434175 | SO=contig
+1 genes found
+1   tRNA-His              c[284213,284283]	120.7	33  	(gtg)
+gggaagatagttcagtggcagaacatcagattgtggctctgaatacccgggttcgattcccggtcttccct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>NBCO01000030 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=422337 | SO=contig
+0 genes found
+>NBCO01000031 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=386007 | SO=contig
+1 genes found
+1   tRNA-Ile              c[120676,120749]	119.6	35  	(aat)
+gctcctatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagca
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>NBCO01000032 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=375435 | SO=contig
+1 genes found
+1   tRNA-Glu               [174591,174664]	117.2	35  	(ctc)
+ttccggtgtggtatagtggctagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaat
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+>NBCO01000033 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=368676 | SO=contig
+6 genes found
+1   tRNA-Leu              c[180834,180917]	116.7	36  	(aag)
+tggcgagatggtcgagtggtctaagacgttggattaaggttccaatccttccgagggcgtgggttcaaaccccactctcgtcaa
+((((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+2   tRNA-Val              c[201404,201476]	113.6	34  	(tac)
+gcgtgggtgatctagtggttatgatgtctgctttacacgcagaaagtcgcgggttcgaaccccgccccgcgta
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Val              c[207349,207421]	113.6	34  	(tac)
+gcgtgggtgatctagtggttatgatgtctgctttacacgcagaaggtcgcgggttcgaaccccgccccgcgta
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Ala              c[212814,212885]	117.5	33  	(tgc)
+gggcgtgtagctcagtggtagagcgcctgttttgcatacaggaggcctagggttcaatcccctactcgtcca
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+5   tRNA-Ala              c[218199,218270]	115.3	33  	(tgc)
+gggcgtgtagctcagtggtagagcgcctgttttgcatacaggaggcccagggttcaatcccctactcgtcca
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     .((((ttttttt)))).).)))))
+6   tRNA-Leu               [321939,322020]	108.4	36  	(taa)
+gctggggttcccgagatggtcaaaggggtaagacttaagttcttatgcgcaagcttcgtgggttcgaaccccaccaccagca
+(((((.(  (((.dddddddddd.)))((((((  AAA  ))))))           (((((ttttttt)))))).)))))
+>NBCO01000034 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=343358 | SO=contig
+3 genes found
+1   tRNA-Pro              c[152249,152320]	123.6	33  	(tgg)
+ggccgcttggtctagtggtatgattcctgctttgggtgcaggaggtcacgggttcaattcccgtagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Met               [152468,152539]	116.7	33  	(cat)
+agcaccgtggcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaaccggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Leu               [152649,152732]	116.7	36  	(aag)
+tggcgagatggtcgagtggtctaagacgttggattaaggttccaatccttccgagggcgtgggttcaaaccccactctcgtcaa
+((((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+>NBCO01000035 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=335838 | SO=contig
+6 genes found
+1   tRNA-Arg                 [21253,21326]	120.3	34  	(acg)
+cgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgagtcctgtcacggatgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+2   tRNA-Pro               [153000,153071]	124.0	33  	(agg)
+ggcccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctgggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+3   tRNA-Pro               [159790,159861]	124.0	33  	(agg)
+ggcccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctgggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+4   tRNA-Lys              c[160291,160363]	123.7	34  	(ctt)
+gcccttctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgagccccacggagggtg
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+5   tRNA-Pro              c[160980,161051]	124.0	33  	(agg)
+ggcccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctgggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+6   tRNA-Ala              c[303429,303500]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtcca
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+>NBCO01000036 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=322816 | SO=contig
+0 genes found
+>NBCO01000037 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=312289 | SO=contig
+2 genes found
+1   tRNA-Gly              c[234177,234247]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Thr               [234391,234462]	117.5	33  	(agt)
+ggccgcttagctcaatggcagagcgccgtcctagtaagacggaggtcgggggttcgatccccccagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>NBCO01000038 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=302486 | SO=contig
+4 genes found
+1   tRNA-Phe               [194001,194073]	119.9	34  	(gaa)
+gccgctatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtggcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Gly               [194169,194239]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Arg              c[217622,217695]	120.3	34  	(acg)
+tgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgagtcctgtcacggatgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+4   tRNA-Glu              c[217816,217889]	118.9	34  	(ttc)
+tccgatatggtataacggttagaacacctggctttcacccaggagatccgggttcgattcccggtatcggagcc
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>NBCO01000039 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=282001 | SO=contig
+0 genes found
+>NBCO01000040 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=279912 | SO=contig
+0 genes found
+>NBCO01000041 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=269110 | SO=contig
+0 genes found
+>NBCO01000042 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=257224 | SO=contig
+0 genes found
+>NBCO01000043 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=254070 | SO=contig
+1 genes found
+1   tRNA-Ser                c[45790,45872]	119.6	35  	(aga)
+tgtcaccatacccaagtggttacggggactgactagaaatcagttgcgatctcgcgcgcaggttcgaatcctgctggtgacgg
+((((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+>NBCO01000044 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=245094 | SO=contig
+1 genes found
+1   tRNA-Leu               [173295,173378]	116.7	36  	(aag)
+tggcgagatggtcgagtggtctaagacgttggattaaggttccaatccttccgagggcgtgggttcaaaccccactctcgtcaa
+((((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+>NBCO01000045 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=218165 | SO=contig
+0 genes found
+>NBCO01000046 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=190029 | SO=contig
+7 genes found
+1   tRNA-Val                  c[2043,2116]	113.6	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcgatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-His                   [2227,2297]	120.7	33  	(gtg)
+gggaagatagttcagtggcagaacatcagattgtggctctgaatacccgggttcgattcccggtcttccct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+3   tRNA-Glu                   [2390,2462]	118.9	34  	(ttc)
+tccgatatggtataacggttagaacacctggctttcacccaggagatccgggttcgattcccggtatcggaac
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+4   tRNA-Phe                   [2569,2641]	119.9	34  	(gaa)
+gccgctatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtggcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Phe                c[14592,14664]	119.9	34  	(gaa)
+gccgctatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtggcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Arg                 [14779,14851]	119.0	33  	(ccg)
+gacgttgtggcgcaatggaagcgcgtcggattccggatccgaaggttgcgggttcgacccccgtcagcgttgc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+7   tRNA-Ala                 [14912,14984]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+>NBCO01000047 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=174377 | SO=contig
+0 genes found
+>NBCO01000048 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=150480 | SO=contig
+0 genes found
+>NBCO01000049 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=140831 | SO=contig
+0 genes found
+>NBCO01000050 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=126921 | SO=contig
+0 genes found
+>NBCO01000051 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=112902 | SO=contig
+0 genes found
+>NBCO01000052 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=95971 | SO=contig
+0 genes found
+>NBCO01000053 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=87902 | SO=contig
+0 genes found
+>NBCO01000054 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=87240 | SO=contig
+0 genes found
+>NBCO01000055 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=85089 | SO=contig
+0 genes found
+>NBCO01000056 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=82847 | SO=contig
+0 genes found
+>NBCO01000057 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=81779 | SO=contig
+0 genes found
+>NBCO01000058 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=81384 | SO=contig
+0 genes found
+>NBCO01000059 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=77334 | SO=contig
+0 genes found
+>NBCO01000060 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=74130 | SO=contig
+0 genes found
+>NBCO01000061 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=72614 | SO=contig
+4 genes found
+1   tRNA-Gln                 [10181,10252]	124.9	34  	(ttg)
+ggtcctatagtgtagtggttatcacttcggactttgaatccgaaaacccaggttcgaatcctggtaggacca
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Phe                 [14241,14313]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Phe                 [30838,30910]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Phe                 [50169,50241]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>NBCO01000062 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=69392 | SO=contig
+0 genes found
+>NBCO01000063 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=68099 | SO=contig
+1 genes found
+1   tRNA-Leu                 [52775,52856]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtgacgttcaggtcgtcatctctccggaggcgtgggttcaaaccccactcttgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>NBCO01000064 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=67896 | SO=contig
+0 genes found
+>NBCO01000065 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=66185 | SO=contig
+0 genes found
+>NBCO01000066 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=65945 | SO=contig
+0 genes found
+>NBCO01000067 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=65670 | SO=contig
+0 genes found
+>NBCO01000068 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=60152 | SO=contig
+0 genes found
+>NBCO01000069 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=60082 | SO=contig
+0 genes found
+>NBCO01000070 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=59749 | SO=contig
+0 genes found
+>NBCO01000071 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=59517 | SO=contig
+3 genes found
+1   tRNA-Phe                   [7014,7086]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Phe                 [15565,15637]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Phe                 [47055,47127]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>NBCO01000072 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=59109 | SO=contig
+1 genes found
+1   tRNA-Met                  c[8021,8092]	116.7	33  	(cat)
+agcaccgtggcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaaccggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>NBCO01000073 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=58881 | SO=contig
+0 genes found
+>NBCO01000074 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=55352 | SO=contig
+0 genes found
+>NBCO01000075 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=53995 | SO=contig
+1 genes found
+1   tRNA-Glu                   [5355,5426]	117.2	34  	(ctc)
+tccggtgtggtatagtggctagaacaagcggttctcacccgctagacccgggttcgatccccggcatcggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>NBCO01000076 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=51958 | SO=contig
+0 genes found
+>NBCO01000077 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=46707 | SO=contig
+0 genes found
+>NBCO01000078 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=45516 | SO=contig
+1 genes found
+1   tRNA-Gly                c[31699,31770]	116.0	34  	(tcc)
+gcaatcgtggtccaacggctaagatatccgccttccaagcggaagacccgggttcgactcccggcgattgca
+(((((((  (((dddddddddd))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>NBCO01000079 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=45102 | SO=contig
+0 genes found
+>NBCO01000080 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=44655 | SO=contig
+0 genes found
+>NBCO01000081 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=43962 | SO=contig
+0 genes found
+>NBCO01000082 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=43853 | SO=contig
+0 genes found
+>NBCO01000083 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=42943 | SO=contig
+0 genes found
+>NBCO01000084 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=41892 | SO=contig
+0 genes found
+>NBCO01000085 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=40218 | SO=contig
+0 genes found
+>NBCO01000086 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=39861 | SO=contig
+0 genes found
+>NBCO01000087 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=38529 | SO=contig
+3 genes found
+1   tRNA-Phe                   [4543,4615]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Phe                 [13079,13151]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Phe                 [16494,16566]	119.9	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggttgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>NBCO01000088 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=37651 | SO=contig
+1 genes found
+1   tRNA-Glu                   [6476,6547]	117.2	34  	(ctc)
+tccggtgtggtatagtggctagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>NBCO01000089 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=36121 | SO=contig
+0 genes found
+>NBCO01000090 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=35536 | SO=contig
+0 genes found
+>NBCO01000091 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=35431 | SO=contig
+3 genes found
+1   tRNA-Cys                 [16688,16759]	121.4	33  	(gca)
+ggattcatagctcagtggtagagcgttcggctgcagtccgaatggtccccggttcaaacccgggtgggtcct
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Pro                c[16832,16903]	123.6	33  	(tgg)
+ggccgcttggtctagtggtatgattcctgctttgggtgcaggaggtcacgggttcaattcccgtagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+3   tRNA-Cys                c[18901,18972]	121.4	33  	(gca)
+ggattcatagctcagtggtagagcgttcggctgcagtccgaatggtccccggttcaaacccgggtgggtcct
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>NBCO01000092 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=34795 | SO=contig
+0 genes found
+>NBCO01000093 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=33689 | SO=contig
+1 genes found
+1   tRNA-Leu                   [3896,3977]	111.4	36  	(taa)
+gctggggttcccgagttggtcaaaggggtaagacttaagttcttatgcgcaagctacgtgggttcgaaccccacccccggca
+(((((((  (((.dddddddddd.)))((((((  AAA  ))))))           (((((ttttttt))))))))))))
+>NBCO01000094 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=32931 | SO=contig
+0 genes found
+>NBCO01000095 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=32922 | SO=contig
+0 genes found
+>NBCO01000096 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=32850 | SO=contig
+0 genes found
+>NBCO01000097 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=31082 | SO=contig
+0 genes found
+>NBCO01000098 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=30912 | SO=contig
+0 genes found
+>NBCO01000099 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=30656 | SO=contig
+0 genes found
+>NBCO01000100 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=30147 | SO=contig
+0 genes found
+>NBCO01000101 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=30142 | SO=contig
+2 genes found
+1   tRNA-Glu                 [10923,10994]	117.2	34  	(ctc)
+tccggtgtggtatagtggctagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+2   tRNA-Arg                c[25530,25603]	122.0	34  	(tcg)
+cgatctcgtggcgcaatggaagcgcatcagacttcggatctgagggttgcaggttcgagtcctgccgggatcgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+>NBCO01000102 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=29701 | SO=contig
+0 genes found
+>NBCO01000103 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=28048 | SO=contig
+0 genes found
+>NBCO01000104 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=26853 | SO=contig
+0 genes found
+>NBCO01000105 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=26741 | SO=contig
+0 genes found
+>NBCO01000106 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=26155 | SO=contig
+0 genes found
+>NBCO01000107 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=25516 | SO=contig
+0 genes found
+>NBCO01000108 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=25255 | SO=contig
+0 genes found
+>NBCO01000109 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=24577 | SO=contig
+0 genes found
+>NBCO01000110 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=24247 | SO=contig
+0 genes found
+>NBCO01000111 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=24129 | SO=contig
+0 genes found
+>NBCO01000112 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=24005 | SO=contig
+0 genes found
+>NBCO01000113 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=23584 | SO=contig
+2 genes found
+1   tRNA-Glu                   [9480,9552]	118.9	34  	(ttc)
+tccgatatggtataacggttagaacacctggctttcacccaggagatccgggttcgattcccggtatcggaac
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+2   tRNA-Gln                   [9925,9996]	121.1	34  	(ctg)
+gctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagca
+(((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>NBCO01000114 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=23219 | SO=contig
+0 genes found
+>NBCO01000115 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=23193 | SO=contig
+0 genes found
+>NBCO01000116 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=23186 | SO=contig
+0 genes found
+>NBCO01000117 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=22979 | SO=contig
+0 genes found
+>NBCO01000118 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=21084 | SO=contig
+0 genes found
+>NBCO01000119 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=20775 | SO=contig
+0 genes found
+>NBCO01000120 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=20611 | SO=contig
+0 genes found
+>NBCO01000121 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=20105 | SO=contig
+0 genes found
+>NBCO01000122 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=19974 | SO=contig
+0 genes found
+>NBCO01000123 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=19019 | SO=contig
+0 genes found
+>NBCO01000124 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=18814 | SO=contig
+1 genes found
+1   tRNA-Glu                c[18666,18737]	117.2	34  	(ctc)
+tccggtgtggtatagtggctagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>NBCO01000125 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=18539 | SO=contig
+0 genes found
+>NBCO01000127 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=18275 | SO=contig
+0 genes found
+>NBCO01000128 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=17710 | SO=contig
+0 genes found
+>NBCO01000129 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=17615 | SO=contig
+0 genes found
+>NBCO01000130 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=17519 | SO=contig
+0 genes found
+>NBCO01000131 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=17439 | SO=contig
+0 genes found
+>NBCO01000132 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=17190 | SO=contig
+0 genes found
+>NBCO01000133 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=17028 | SO=contig
+0 genes found
+>NBCO01000134 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=16342 | SO=contig
+0 genes found
+>NBCO01000135 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=15535 | SO=contig
+0 genes found
+>NBCO01000136 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=15241 | SO=contig
+0 genes found
+>NBCO01000137 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=15151 | SO=contig
+0 genes found
+>NBCO01000138 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=14284 | SO=contig
+0 genes found
+>NBCO01000139 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=13733 | SO=contig
+0 genes found
+>NBCO01000140 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=13202 | SO=contig
+0 genes found
+>NBCO01000141 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=13168 | SO=contig
+0 genes found
+>NBCO01000142 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=13094 | SO=contig
+0 genes found
+>NBCO01000143 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=12138 | SO=contig
+0 genes found
+>NBCO01000144 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=12033 | SO=contig
+0 genes found
+>NBCO01000145 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=11622 | SO=contig
+0 genes found
+>NBCO01000146 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=11492 | SO=contig
+0 genes found
+>NBCO01000147 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=10799 | SO=contig
+0 genes found
+>NBCO01000148 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=10696 | SO=contig
+0 genes found
+>NBCO01000149 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=10682 | SO=contig
+0 genes found
+>NBCO01000150 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=10644 | SO=contig
+0 genes found
+>NBCO01000151 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=10302 | SO=contig
+0 genes found
+>NBCO01000152 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=10262 | SO=contig
+0 genes found
+>NBCO01000153 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=10149 | SO=contig
+0 genes found
+>NBCO01000154 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=9996 | SO=contig
+0 genes found
+>NBCO01000155 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=9892 | SO=contig
+0 genes found
+>NBCO01000156 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=9433 | SO=contig
+0 genes found
+>NBCO01000157 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=9336 | SO=contig
+0 genes found
+>NBCO01000158 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=9283 | SO=contig
+0 genes found
+>NBCO01000160 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=8729 | SO=contig
+0 genes found
+>NBCO01000164 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=8150 | SO=contig
+0 genes found
+>NBCO01000165 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=8142 | SO=contig
+0 genes found
+>NBCO01000166 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=8019 | SO=contig
+0 genes found
+>NBCO01000167 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=7880 | SO=contig
+0 genes found
+>NBCO01000169 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=7789 | SO=contig
+0 genes found
+>NBCO01000170 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=7352 | SO=contig
+0 genes found
+>NBCO01000171 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=7125 | SO=contig
+0 genes found
+>NBCO01000173 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=6967 | SO=contig
+0 genes found
+>NBCO01000174 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=6697 | SO=contig
+0 genes found
+>NBCO01000175 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=6682 | SO=contig
+0 genes found
+>NBCO01000176 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=6662 | SO=contig
+0 genes found
+>NBCO01000177 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=6518 | SO=contig
+0 genes found
+>NBCO01000178 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=6517 | SO=contig
+0 genes found
+>NBCO01000179 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=6515 | SO=contig
+0 genes found
+>NBCO01000181 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=6298 | SO=contig
+0 genes found
+>NBCO01000182 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=6242 | SO=contig
+0 genes found
+>NBCO01000183 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=6028 | SO=contig
+0 genes found
+>NBCO01000184 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=5973 | SO=contig
+0 genes found
+>NBCO01000187 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=5848 | SO=contig
+0 genes found
+>NBCO01000188 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=5836 | SO=contig
+0 genes found
+>NBCO01000189 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=5630 | SO=contig
+0 genes found
+>NBCO01000191 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=5549 | SO=contig
+0 genes found
+>NBCO01000192 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=5533 | SO=contig
+0 genes found
+>NBCO01000193 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=5526 | SO=contig
+0 genes found
+>NBCO01000194 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=5441 | SO=contig
+0 genes found
+>NBCO01000195 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=5321 | SO=contig
+0 genes found
+>NBCO01000196 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=5316 | SO=contig
+0 genes found
+>NBCO01000197 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=5239 | SO=contig
+0 genes found
+>NBCO01000198 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=5092 | SO=contig
+0 genes found
+>NBCO01000199 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=5066 | SO=contig
+0 genes found
+>NBCO01000202 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=4650 | SO=contig
+0 genes found
+>NBCO01000203 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=4573 | SO=contig
+0 genes found
+>NBCO01000204 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=4561 | SO=contig
+0 genes found
+>NBCO01000205 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=4438 | SO=contig
+0 genes found
+>NBCO01000206 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=4404 | SO=contig
+0 genes found
+>NBCO01000207 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=4321 | SO=contig
+0 genes found
+>NBCO01000208 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=4295 | SO=contig
+0 genes found
+>NBCO01000209 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=4265 | SO=contig
+0 genes found
+>NBCO01000211 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=4180 | SO=contig
+0 genes found
+>NBCO01000212 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=4046 | SO=contig
+0 genes found
+>NBCO01000213 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=4037 | SO=contig
+0 genes found
+>NBCO01000216 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=4005 | SO=contig
+0 genes found
+>NBCO01000217 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=3987 | SO=contig
+0 genes found
+>NBCO01000218 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=3904 | SO=contig
+0 genes found
+>NBCO01000219 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=3806 | SO=contig
+0 genes found
+>NBCO01000220 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=3665 | SO=contig
+0 genes found
+>NBCO01000221 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=3611 | SO=contig
+0 genes found
+>NBCO01000222 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=3519 | SO=contig
+0 genes found
+>NBCO01000224 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=3426 | SO=contig
+0 genes found
+>NBCO01000225 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=3384 | SO=contig
+0 genes found
+>NBCO01000226 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=3367 | SO=contig
+0 genes found
+>NBCO01000228 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=3232 | SO=contig
+0 genes found
+>NBCO01000229 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=3170 | SO=contig
+0 genes found
+>NBCO01000232 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=2963 | SO=contig
+0 genes found
+>NBCO01000234 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=2933 | SO=contig
+0 genes found
+>NBCO01000235 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=2932 | SO=contig
+0 genes found
+>NBCO01000238 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=2927 | SO=contig
+0 genes found
+>NBCO01000242 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=2916 | SO=contig
+0 genes found
+>NBCO01000251 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=2826 | SO=contig
+0 genes found
+>NBCO01000255 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=2785 | SO=contig
+0 genes found
+>NBCO01000258 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=2740 | SO=contig
+0 genes found
+>NBCO01000259 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=2687 | SO=contig
+0 genes found
+>NBCO01000260 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=2641 | SO=contig
+0 genes found
+>NBCO01000262 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=2609 | SO=contig
+0 genes found
+>NBCO01000263 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=2589 | SO=contig
+0 genes found
+>NBCO01000266 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=2469 | SO=contig
+0 genes found
+>NBCO01000267 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=2406 | SO=contig
+0 genes found
+>NBCO01000268 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=2404 | SO=contig
+0 genes found
+>NBCO01000269 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=2307 | SO=contig
+0 genes found
+>NBCO01000270 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=2208 | SO=contig
+0 genes found
+>NBCO01000272 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=2174 | SO=contig
+0 genes found
+>NBCO01000273 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=2167 | SO=contig
+0 genes found
+>NBCO01000274 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=2144 | SO=contig
+0 genes found
+>NBCO01000275 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=1940 | SO=contig
+0 genes found
+>NBCO01000278 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=1752 | SO=contig
+0 genes found
+>NBCO01000279 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=1739 | SO=contig
+0 genes found
+>NBCO01000280 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=1737 | SO=contig
+0 genes found
+>NBCO01000281 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=1735 | SO=contig
+0 genes found
+>NBCO01000282 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=1722 | SO=contig
+0 genes found
+>NBCO01000286 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=1482 | SO=contig
+0 genes found
+>NBCO01000288 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=1401 | SO=contig
+0 genes found
+>NBCO01000289 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=1347 | SO=contig
+0 genes found
+>NBCO01000290 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=1326 | SO=contig
+0 genes found
+>NBCO01000291 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=1318 | SO=contig
+0 genes found
+>NBCO01000292 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=1279 | SO=contig
+0 genes found
+>NBCO01000293 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=1273 | SO=contig
+0 genes found
+>NBCO01000294 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=1203 | SO=contig
+0 genes found
+>NBCO01000298 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=1148 | SO=contig
+0 genes found
+>NBCO01000299 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=1148 | SO=contig
+0 genes found
+>NBCO01000304 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=1127 | SO=contig
+0 genes found
+>NBCO01000308 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=1083 | SO=contig
+0 genes found
+>NBCO01000309 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=1076 | SO=contig
+0 genes found
+>NBCO01000313 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=1054 | SO=contig
+0 genes found
+>NBCO01000316 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=1017 | SO=contig
+0 genes found
+>NBCO01000319 | organism=Trypanosoma_theileri_isolate_Edinburgh | version=2017-04-12 | length=791 | SO=contig
+0 genes found
+>end 	253 sequences 164 tRNA genes, nothing found in 205 sequences, (18.97% sensitivity)

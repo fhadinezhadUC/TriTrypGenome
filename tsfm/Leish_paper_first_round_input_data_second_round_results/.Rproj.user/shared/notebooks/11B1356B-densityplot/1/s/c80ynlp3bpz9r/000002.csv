@@ -1,0 +1,82 @@
+"0","```r
+gcContent <- function(x) {
+  x <- DNAString(toupper(x))
+  alf <- alphabetFrequency(x, as.prob = TRUE)
+  sum(alf[c(\"G\", \"C\")]) * 100
+}
+Apercentage <- function(x) {
+  x <- DNAString(toupper(x))
+  alf <- alphabetFrequency(x, as.prob = TRUE)
+  sum(alf[c(\"A\")]) * 100
+}
+Cpercentage <- function(x) {
+  x <- DNAString(toupper(x))
+  alf <- alphabetFrequency(x, as.prob = TRUE)
+  sum(alf[c(\"C\")]) * 100
+}
+Gpercentage <- function(x) {
+  x <- DNAString(toupper(x))
+  alf <- alphabetFrequency(x, as.prob = TRUE)
+  sum(alf[c(\"G\")]) * 100
+}
+Tpercentage <- function(x) {
+  x <- DNAString(toupper(x))
+  alf <- alphabetFrequency(x, as.prob = TRUE)
+  sum(alf[c(\"T\")]) * 100
+}
+geneDF <- read.table(\"integrated_tse_ara.txt\",header = TRUE, colClasses = \"character\")
+  # cuttoff score for TSE 50, for ARA 107
+  geneDF$arascore <- as.double(geneDF$arascore)
+```"
+"1","NAs introduced by coercion
+"
+"0","```r
+  geneDF$tsescore <- as.double(geneDF$tsescore)
+```"
+"1","NAs introduced by coercion
+"
+"0","```r
+  
+  dismiss0 <-
+    (geneDF$foundby == \"both\") &
+    (geneDF$arascore < 107 | geneDF$tsescore < 50)
+  dismiss1 <-
+    (geneDF$foundby == \"ara\") &
+    (geneDF$arascore < 107) # most of these genes were pseudo or truncated or both
+  dismiss2 <- (geneDF$foundby == \"tse\") & (geneDF$tsescore < 50)
+  geneDF <- geneDF[(!dismiss0 & !dismiss1 & !dismiss2), ]
+  
+  # genefunc column is added which shows the presented gene identity in table
+  # Genes marked as ?? include: pseudo|truncated genes, genes with unmatched identity, genes with unassigned identity|anticodon by any of genefinders.
+  
+  ambiguty1 <-
+    geneDF$tsefunc == \"\" &  geneDF$arafunc == \"\" # 2 genes
+  ambiguty2 <-
+    geneDF$tsenote != \"notfound\" # 2 genes not the same 2 genes in ambiguty1
+  # THIS CAUSED ERRORS FOR ME. \"level sets of factors are different\"
+  # > levels(geneDF$tsefunc)
+  # [1] \"\"  \"?\" \"A\" \"C\" \"D\" \"E\" \"F\" \"G\" \"H\" \"I\" \"K\" \"L\" \"M\" \"N\" \"P\" \"Q\" \"R\" \"S\" \"T\" \"V\" \"W\" \"X\" \"Y\" \"Z\"
+  # > levels(geneDF$arafunc)
+  # [1] \"\"  \"#\" \"A\" \"C\" \"D\" \"E\" \"F\" \"G\" \"H\" \"I\" \"K\" \"L\" \"M\" \"N\" \"O\" \"P\" \"Q\" \"R\" \"S\" \"T\" \"V\" \"W\" \"X\" \"Y\" \"Z\"
+  # Here is how I fixed it: but note that for later, we should do something else for example with genes that aragorn classifies as O
+  geneDF$tsefunc <- factor(geneDF$tsefunc,levels=union(levels(geneDF$tsefunc),levels(geneDF$arafunc)))
+  geneDF$arafunc <- factor(geneDF$arafunc,levels=union(levels(geneDF$tsefunc),levels(geneDF$arafunc)))
+  ambiguty3 <-
+    geneDF$foundby == \"both\" &
+    geneDF$tsefunc != geneDF$arafunc # 22 genes  
+  
+  ambiguty4 <- logical(length = nrow(geneDF))
+  for (i in 1:nrow(geneDF)) {
+    if (geneDF$foundby[i] != \"ara\")
+      ambiguty4[i] <- length(grep(\"n|N\", geneDF$tsegeneseq[i])) == 1
+    else
+      ambiguty4[i] <- length(grep(\"n|N\", geneDF$arageneseq[i])) == 1
+  }
+  
+  ambiguties <- ambiguty1 | ambiguty2 | ambiguty3 | ambiguty4
+  geneDF$genefunc <- \"\"
+  geneDF[ambiguties, ]$genefunc <- \"??\"
+```"
+"1","Error in `[<-.data.frame`(`*tmp*`, ambiguties, , value = list(geneid = c(NA,  : 
+  missing values are not allowed in subscripted assignments of data frames
+"

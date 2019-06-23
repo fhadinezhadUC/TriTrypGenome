@@ -1,0 +1,579 @@
+>LbrM.01 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=231164 | SO=chromosome
+0 genes found
+>LbrM.02 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=290514 | SO=chromosome
+0 genes found
+>LbrM.03 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=362421 | SO=chromosome
+0 genes found
+>LbrM.04 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=444124 | SO=chromosome
+1 genes found
+1   tRNA-Arg                   [6988,7059]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LbrM.05 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=451537 | SO=chromosome
+3 genes found
+1   tRNA-Ser                c[67394,67556]	101.8	106 	(tga)i(36,69)
+tggcgccgaaggactggggtggagggccgttcgctgccagttggagaatgggctggcccaggcagggctcgtcgtgctgcgacaccttgcttgagttcagcaggttgaacgcggaggagggctttcggaggagcacccgtcgatcctcttcggtgggtgccag
+(((((((   ((.(dddddddddd).)) ((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))      .((vvvvvvv)).   (((((tttttttt))))))))))))
+2   tRNA-Ser              c[102781,102943]	101.8	106 	(tga)i(36,69)
+tggcgccgaaggactggggtggagggccgttcgctgccagttggagaatgggctggcccaggcagggctcgtcgtgctgcgacaccttgcttgagttcagcaggttgaacgcggaggagggctttcggaggagcacccgtcgatcctcttcggtgggtgccag
+(((((((   ((.(dddddddddd).)) ((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))      .((vvvvvvv)).   (((((tttttttt))))))))))))
+3   tRNA-Arg               [350414,350485]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LbrM.06 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=512965 | SO=chromosome
+1 genes found
+1   tRNA-SeC                c[69188,69275]	108.3	36  	(tca)
+gccgcgatgagctcagctggtgctgggtgcgggcttcaaacccgtaggtgagttgctctcacagccgttcgattcggccttcgtggcg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+>LbrM.07 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=563954 | SO=chromosome
+0 genes found
+>LbrM.08 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=386780 | SO=chromosome
+0 genes found
+>LbrM.09 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=556679 | SO=chromosome
+8 genes found
+1   tRNA-Met               [281010,281081]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Leu               [281141,281224]	117.1	35  	(cag)
+ggcaagatggtcgagtggtccaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+3   tRNA-Val               [395278,395351]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-His               [395608,395679]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+5   tRNA-Glu              c[403492,403565]	118.0	34  	(ttc)
+tccgatgtagtataacggttagaacacctggctttcacccaggagatccgggttcgattcccggtatcggagcc
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+6   tRNA-Val              c[403807,403880]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+7   tRNA-Arg               [403955,404026]	118.6	33  	(ccg)
+gacgttgtggcgcaatggaagcgcgtcggattccggatccgaaggttgtgggttcgacccccatcagcgttg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+8   tRNA-His               [404088,404159]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>LbrM.10 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=564221 | SO=chromosome
+3 genes found
+1   tRNA-Thr               [126833,126947]	100.3	60  	(cgt)i(34,24)
+tggcggtggtggtggaggttcgtgccacgcttgactttgcgtttttcctcgcctttgttcgtatcgcgtcgtgtgtgtgcgtgtgcgtgtgcgtttgagccccgtcaccgccaac
+((((((((   ((((ddddddddd))))((.((iiiiiiiiiiiiiiiiiiiiiiii  AAA  )).))  (((vvvvvv)))     (((.(ttttttt).)))))))))))
+2   tRNA-Lys               [512010,512083]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+3   tRNA-Asn              c[512247,512319]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggag
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>LbrM.11 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=558541 | SO=chromosome
+7 genes found
+1   tRNA-Leu                c[63421,63503]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ala                 [63575,63647]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+3   tRNA-Leu                c[68661,68743]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+4   tRNA-Ala                 [68815,68887]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+5   tRNA-Gly                 [68943,69014]	122.0	33  	(ccc)
+gcgccgctggtctagtggcatgatggtaccctcccaaggtattgacccgggttcgattcccgggcggcgcac
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+6   tRNA-Met              c[340929,341001]	113.6	34  	(cat)
+gcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+7   tRNA-Arg               [341071,341145]	120.3	34  	(acg)
+cgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgac
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+>LbrM.12 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=456321 | SO=chromosome
+0 genes found
+>LbrM.13 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=616006 | SO=chromosome
+0 genes found
+>LbrM.14 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=648278 | SO=chromosome
+0 genes found
+>LbrM.15 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=606906 | SO=chromosome
+3 genes found
+1   tRNA-Gly               [205479,205675]	102.7	35  	(acc)i(40,104)
+tggcgttggccgacttgaccaacggcagcgtgctaccgcacagctcctccttgcacaacaaggacgtgggagactccgccgcgccacccacatcactgcacttgactggcggcggtggaaacccctacacgcacccgagctcgtacgcaaaccacgacggccctggggtggctggtggcatgcctgtagtgccatcc
+((((((( ((((dddddddddd)))) (((((  AAA  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii))))) ..(.vvvv.)..         ((.((ttttttt)).)))))))))
+2   tRNA-Asp               [324913,324985]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+3   tRNA-Glu              c[325016,325087]	118.1	34  	(ctc)
+tccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>LbrM.16 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=688705 | SO=chromosome
+4 genes found
+1   tRNA-Gly                 [90601,90708]	102.3	52  	(gcc)i(33,18)
+tcgccgctctcgcacaggaggcgcgccaccgcagcccatgcgtgcgccctcgccgccggtgcaccggcaatcggcaggggcggtggtccggatgccgccagcggcgaa
+((((((((   ((.(ddddd).))  ((((( iiiiiiiiiiiiiiiiii AAA  )))))(.((.((vvvvv)).)).) (((((tttttttt)))))))))))))
+2   tRNA-Gly               [100109,100216]	102.3	52  	(gcc)i(33,18)
+tcgccgctctcgcacaggaggcgcgccaccgcagcccatgcgtgcgccctcgccgccggtgcaccggcaatcggcaggggcggtggtccggatgccgccagcggcgaa
+((((((((   ((.(ddddd).))  ((((( iiiiiiiiiiiiiiiiii AAA  )))))(.((.((vvvvv)).)).) (((((tttttttt)))))))))))))
+3   tRNA-Gln              c[442087,442161]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgtc
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+4   tRNA-Tyr              c[505775,505868]	100.7	34  	(gta)
+catcgcaggcgatgccggggtcgccgcgcagttgtagcttgggcgggcgtcgtttgccacgccgctcgcactggttcagcgtcagctgcgacac
+..((((( ((((dddddddd)))) ((.(((  AAA  ))).)) (((((vvvvvvvv)))))      .((((ttttttt)))).)))))..
+>LbrM.17 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=694698 | SO=chromosome
+3 genes found
+1   tRNA-Asp              c[296224,296295]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaag
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Ser               [296371,296455]	121.7	35  	(gct)
+tgcaaatgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcgacc
+((((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+3   tRNA-Ala               [296511,296586]	108.3	35  	(agc)
+tggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctccagc
+((((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+>LbrM.18 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=675783 | SO=chromosome
+0 genes found
+>LbrM.19 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=733564 | SO=chromosome
+1 genes found
+1   tRNA-Ser                 [15323,15485]	101.8	106 	(cga)i(36,69)
+tggcgccgaaggactggggtggggggccgttcgctgccagttggagaatgggctgacccaggcggggctcgtcgtgctgcgacaccttgcttgagttcagcaggtcgaacgcggaggagggctttcggaggagcacccgtcgatcctcttcggtgggtgccag
+(((((((   ((.(dddddddddd).)) ((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))      .((vvvvvvv)).   (((((tttttttt))))))))))))
+>LbrM.20.1 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=1662735 | SO=chromosome
+11 genes found
+1   tRNA-Val              c[419811,419885]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Ile               [420035,420109]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Met               [420171,420244]	113.6	34  	(cat)
+gcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgcac
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+4   tRNA-Leu              c[420300,420380]	119.8	35  	(tag)
+ggcggagtggccgagtggtctaaggcgccagatttaggctctggtctttcgaggcgtgggttcgaaccccacctccgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))          (((((ttttttt))))))))))))
+5   tRNA-Ser               [420456,420536]	116.9	34  	(tga)
+gtcaacatacccaagtggttacggggtttgacttgaaatcaaatgcgatctcgcgcgcaggttcgaaccctgctgttgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+6   tRNA-Ser              c[643681,643752]	103.2	33  	(gga)
+tgtcctctggcgtggcggaacaccttggcgttggaaacgctgacggtgtcgttttgctcgagagggggacgg
+(((((((( (.((dddddd)).) ((((((  AAA  ))))))   (.(((ttttttt))).)))))))))
+7   tRNA-Asn            c[1249492,1249565]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+8   tRNA-Pro            c[1249623,1249694]	124.4	33  	(cgg)
+ggccgcttggtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+9   tRNA-Thr             [1249774,1249846]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+10  tRNA-Tyr             [1249904,1249988]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagactgcaggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+11  tRNA-Asn             [1250053,1250126]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>LbrM.20.2 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=724111 | SO=chromosome
+0 genes found
+>LbrM.21 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=687743 | SO=chromosome
+4 genes found
+1   tRNA-Ser              c[159452,159532]	123.0	34  	(gct)
+gcaaacgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcg
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Pro               [430873,430944]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+3   tRNA-Val               [431048,431122]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Lys               [431186,431259]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>LbrM.22 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=641930 | SO=chromosome
+0 genes found
+>LbrM.23 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=797329 | SO=chromosome
+10 genes found
+1   tRNA-Ile               [215144,215217]	118.5	35  	(tat)
+gctcccgtggtctagttggttaggacgctggtcttatgaaccggatatcgcgggttcgagccccgccgggagca
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Val              c[215273,215345]	111.3	34  	(tac)
+gcgtgggtgatctagtggttatgatgtctgctttacacgcagaacgtcgcgggttcgaaccccgccccgcgta
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Gln              c[215413,215484]	124.9	34  	(ttg)
+ggtcctatggtgtagtggttatcacttcggactttgaatccgaaaacccaggttcgaatcctggtaggacca
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+4   tRNA-Arg              c[215747,215820]	120.3	34  	(acg)
+cgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatga
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+5   tRNA-Leu              c[216045,216128]	117.1	35  	(cag)
+ggcaagatggtcgagtggtccaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+6   tRNA-Thr              c[216187,216260]	119.3	34  	(tgt)
+aggccgcttagcacagtggcagtgcattggtcttgtaaaccaagggtcccgagttcaattctcggagtggcctt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+7   tRNA-Arg               [216332,216405]	121.1	34  	(tcg)
+cggcctcttggcgcaatggaagcgcatcagacttcggatctgagggttgcaggttcgagtcctgcaggggtcgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+8   tRNA-Lys               [216735,216809]	122.0	35  	(ttt)
+cgcactcctagctcagttggtagagcgcgtggcttttaacctcgtggtcgtgggttcgagccccacggagtgcgt
+((((((((  ((((dddddddd))))(((.((  AAA  )).)))    (((((ttttttt)))))))))))))
+9   tRNA-Gly              c[216843,216916]	116.4	34  	(tcc)
+gcaattgtggtccaacggttaagatccccgccttccaagcgggtgacccgggttcgactcccggcaattgcacc
+(((((((  (((dddddddddd))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+10  tRNA-Trp               [216992,217063]	116.8	33  	(cca)
+gggggcttagctcagtggtagagcattggattccaaatccaggggtcgcaggttcaatccctgcagctctca
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LbrM.24 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=829282 | SO=chromosome
+7 genes found
+1   tRNA-Pro               [206772,206843]	124.4	33  	(cgg)
+ggccgcttggtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Ile              c[523265,523354]	102.8	34  	(gat)
+ccggcggtggcggacgagcttgtgggcggcaccgatattgccgagtgcatgcgtcgcgcagggcttgttgtgccagacaacatcaccggc
+((((.((  .((dddddddddd)). (((((  AAA  )))))    (.(((vvvvv))).)   (((((ttttttt))))))).))))
+3   tRNA-Gln               [600447,600521]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgtc
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+4   tRNA-Leu              c[600707,600788]	111.7	36  	(taa)
+gctggggttcccgagttggtcaaaggggtgagacttaagttctcatgcgcaagcttcgtgggttcgaaccccacctccagca
+(((((((  (((.dddddddddd.)))((((((  AAA  ))))))           (((((ttttttt))))))))))))
+5   tRNA-Ile               [600866,600940]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Asp              c[659345,659417]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+7   tRNA-Leu              c[767234,767438]	101.6	36  	(gag)i(41,112)
+ggtggtgttggagcggcgttggggtggtcgtacttgaggcacattcagctacccgcgggcccgtcgcgactcccgtggagcggcgtggtgttcgggcaccgcggttgtcgtggtgtgacggggataccggagaatacactggaggcgttccggtacgccgccgcacacgggtgtggcggtatcgagtgcgacgctcgcctcacca
+(((((.(   .(.(dddddddd).).  (((((  AAA  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii)))))...(.vvvvvvvvvvvvvv.)... ((((ttttttt))))).)))))
+>LbrM.25 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=712314 | SO=chromosome
+0 genes found
+>LbrM.26 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=992961 | SO=chromosome
+0 genes found
+>LbrM.27 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=1157752 | SO=chromosome
+1 genes found
+1   tRNA-Ser              c[346996,347087]	104.8	33  	(gga)
+aggggggtgggggggcctcgcctcgcccccccggaagggcggcagggcaaacatgcgggcccggggcgggtgttcggtatgccccccggctg
+((..(((  (((dddddddd))) (((.((  AAA  )).))).((((..vvvvvv..)))).    (((((ttttttt))))))))..))
+>LbrM.28 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=1159459 | SO=chromosome
+1 genes found
+1   tRNA-Ser              c[230744,230826]	101.5	43  	(cga)i(32,10)
+ggcggcgctgctcaagattgtggaggaggtcaaggcggttgtcgaggacttcaagccgtgggtgccattcctatcgtcgctgc
+(((((((   (((ddddddddd)))((((( iiiiiiiiii AAA  )))))     (((((ttttttt))))))))))))
+>LbrM.29 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=1175128 | SO=chromosome
+0 genes found
+>LbrM.30 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=1327198 | SO=chromosome
+1 genes found
+1   tRNA-Thr              c[700110,700181]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LbrM.31 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=1550184 | SO=chromosome
+7 genes found
+1   tRNA-Leu                c[64028,64109]	117.8	35  	(caa)
+ggcaggatggccgagtggtctaaggcgggagactcaagttctcttctattcgtaggcgcgggttcgaaccccgctcctgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ser                c[64164,64244]	119.6	34  	(cga)
+gtcaccatacccaagtggttacgggggttgactcgaaatcaactgcgatctcgcgcgcaggttcgaatcctgctggtgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Ala               [251914,251988]	108.3	35  	(agc)
+tggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctccat
+((((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+4   tRNA-Gly               [582440,582510]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+5   tRNA-Glu              c[582560,582631]	118.1	34  	(ctc)
+tccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+6   tRNA-Phe             [1384152,1384224]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+7   tRNA-Ser            c[1384266,1384347]	118.3	34  	(aga)
+gtcaccatacccaagtggttacggggactgactagaaatcagttgcgatctcgcgcgtaggttcgaatcctgctggtgacgc
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>LbrM.32 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=1573228 | SO=chromosome
+1 genes found
+1   tRNA-Val               [795761,795900]	101.3	80  	(cac)i(30,48)
+cggccccgtgcaacggacgaattgacttgccttgcgctggtgtcgctgcgagtgtcagtgaggaagcaagaaacaagttcacgagaagtgcgatgacagcaagaaggaagtgccgctggttccgctgcagcggggccagc
+.((((((   (((dddddddd)))((((.iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  .))))                         ((((.ttttttt.)))))))))).
+>LbrM.33 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=1504364 | SO=chromosome
+5 genes found
+1   tRNA-Arg              c[105786,105859]	118.9	34  	(cct)
+gcccttgtagcctaatggatatggcgtttgcttcctaagcaaaaggttgcgggttcgagtcccgccaggggtac
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Arg              c[105919,105993]	125.8	35  	(tct)
+tgctccagtggcctaatggataaggctttggacttctaatccaaagattgcgggttcgaatcccgcctggagtag
+((((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt)))))))))))))
+3   tRNA-Ala               [106070,106141]	117.5	33  	(tgc)
+gggcgtgtagctcagtggtagagcgcctgttttgcatacaggaggcctagggttcaaacccctactcgtcca
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+4   tRNA-Lys              c[559822,559895]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+5   tRNA-Ala            c[1040437,1040542]	101.5	46  	(tgc)i(34,11)
+gcagcagctgccaaaggtgttgtcagccaggacaaacaaccgcattgcgcttgtggggcagtgcgggttgtccatcgccgcagtgtgagtccgcgctgccgcccca
+((.((((   (..(dddddddd)..) ((.(( iiiiiiiiiii AAA  )).))        (((.vvvvvv.))) (((.(ttttttt).))))))).))
+>LbrM.34 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=2012582 | SO=chromosome
+0 genes found
+>LbrM.35 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=2686643 | SO=chromosome
+15 genes found
+1   tRNA-Gly               [338073,338258]	100.7	37  	(tcc)i(41,86)
+ggtggttttggagtagtcttgctgtctcgtcctttttccactttcttccctcgtcgtcaagggcaacaacgcaccacattaagggataatgtgcgtgtgcgtggatggtttaagacttgatgagcgcaaggagactgtaacttgacggtgagaggataccaagtgctagtcctgtgcgccgctgcc
+((((((.(  (((.dddddddddd.))) (((((  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii ))))) ...vvvvv...              .((.(ttttttt).)).).))))))
+2   tRNA-Thr               [505908,505981]	117.1	34  	(agt)
+aggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggccta
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+3   tRNA-Tyr               [506048,506132]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagttcgcaggcatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+4   tRNA-Thr               [512301,512374]	117.1	34  	(agt)
+aggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggccta
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+5   tRNA-Tyr               [512441,512525]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagttcgcaggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+6   tRNA-Ala               [812930,813133]	102.6	37  	(ggc)i(38,108)
+caggcagtggagaatagctgctatttcgtcagttctgaatgtgtcgtccctacaacggagattggcgctgttgcgctgtacgacatagttgagcgtctgcccgcgcttgatccgctcttctgcagtataacgtggggcaatgatggccgaaccgcagagaccttcatcgaggtcgcctcagtgtgccagtcgctgctgtctgtc
+(((((((  ((((dddddddddd))))  (.(((  AiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiAA  ))).)     ..((vvvvvvv))..    (((((ttttttt))))))))))))
+7   tRNA-Pro            c[1039819,1039890]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+8   tRNA-Gly             [1039964,1040035]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgcac
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+9   tRNA-Thr             [1040097,1040168]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+10  tRNA-Thr            c[1040496,1040567]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+11  tRNA-Gly            c[1040630,1040701]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgcac
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+12  tRNA-Cys             [2469635,2469707]	122.6	33  	(gca)
+ggattcatagctcagtggtagagcattcggctgcagtccgaatggtccccggttcaaacccgggtgggtcctc
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+13  tRNA-Leu            c[2472706,2472788]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+14  tRNA-Met            c[2472855,2472926]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+15  tRNA-Pro             [2472999,2473070]	122.1	33  	(tgg)
+ggtcgtttggtctagtggtatgattcctgttttgggtacaggaggtcacgggttcaattcccgtaacgaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>LbrM.00_0_0-6518 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=6518 | SO=contig
+0 genes found
+>LbrM.00_100_824506-835619 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=11113 | SO=contig
+0 genes found
+>LbrM.00_101_835719-840767 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=5048 | SO=contig
+0 genes found
+>LbrM.00_102_840867-850747 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=9880 | SO=contig
+0 genes found
+>LbrM.00_10_52022-53591 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=1569 | SO=contig
+0 genes found
+>LbrM.00_11_53691-57819 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=4128 | SO=contig
+0 genes found
+>LbrM.00_12_57919-61777 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=3858 | SO=contig
+0 genes found
+>LbrM.00_13_61877-64970 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=3093 | SO=contig
+0 genes found
+>LbrM.00_14_65070-74215 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=9145 | SO=contig
+0 genes found
+>LbrM.00_15_74315-79990 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=5675 | SO=contig
+0 genes found
+>LbrM.00_16_80090-87611 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=7521 | SO=contig
+0 genes found
+>LbrM.00_17_87711-92378 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=4667 | SO=contig
+0 genes found
+>LbrM.00_18_92478-114126 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=21648 | SO=contig
+0 genes found
+>LbrM.00_19_114226-120156 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=5930 | SO=contig
+0 genes found
+>LbrM.00_1_6618-9705 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=3087 | SO=contig
+0 genes found
+>LbrM.00_20_120256-133862 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=13606 | SO=contig
+0 genes found
+>LbrM.00_21_133962-137265 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=3303 | SO=contig
+0 genes found
+>LbrM.00_22_137365-141286 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=3921 | SO=contig
+0 genes found
+>LbrM.00_23_141386-145446 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=4060 | SO=contig
+0 genes found
+>LbrM.00_24_145546-170819 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=25273 | SO=contig
+0 genes found
+>LbrM.00_25_170919-182412 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=11493 | SO=contig
+0 genes found
+>LbrM.00_26_182512-190202 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=7690 | SO=contig
+0 genes found
+>LbrM.00_27_190302-194549 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=4247 | SO=contig
+0 genes found
+>LbrM.00_28_194649-199262 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=4613 | SO=contig
+0 genes found
+>LbrM.00_29_199362-206093 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=6731 | SO=contig
+0 genes found
+>LbrM.00_2_9805-14507 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=4702 | SO=contig
+0 genes found
+>LbrM.00_30_206193-212447 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=6254 | SO=contig
+0 genes found
+>LbrM.00_31_212547-221444 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=8897 | SO=contig
+0 genes found
+>LbrM.00_32_221544-223052 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=1508 | SO=contig
+0 genes found
+>LbrM.00_33_223152-224594 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=1442 | SO=contig
+0 genes found
+>LbrM.00_34_224694-242561 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=17867 | SO=contig
+0 genes found
+>LbrM.00_35_242661-287707 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=45046 | SO=contig
+0 genes found
+>LbrM.00_36_287807-359985 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=72178 | SO=contig
+0 genes found
+>LbrM.00_37_360085-375199 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=15114 | SO=contig
+0 genes found
+>LbrM.00_38_375299-378502 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=3203 | SO=contig
+0 genes found
+>LbrM.00_39_378602-408366 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=29764 | SO=contig
+0 genes found
+>LbrM.00_3_14607-16197 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=1590 | SO=contig
+0 genes found
+>LbrM.00_40_408466-423485 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=15019 | SO=contig
+0 genes found
+>LbrM.00_41_423585-436033 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=12448 | SO=contig
+0 genes found
+>LbrM.00_42_436133-440323 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=4190 | SO=contig
+0 genes found
+>LbrM.00_43_440423-444587 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=4164 | SO=contig
+0 genes found
+>LbrM.00_44_444687-457485 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=12798 | SO=contig
+0 genes found
+>LbrM.00_45_457585-463412 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=5827 | SO=contig
+0 genes found
+>LbrM.00_46_463512-494453 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=30941 | SO=contig
+0 genes found
+>LbrM.00_47_494553-504104 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=9551 | SO=contig
+0 genes found
+>LbrM.00_48_504204-508785 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=4581 | SO=contig
+0 genes found
+>LbrM.00_49_508885-510454 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=1569 | SO=contig
+0 genes found
+>LbrM.00_4_16297-25089 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=8792 | SO=contig
+0 genes found
+>LbrM.00_50_510554-518217 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=7663 | SO=contig
+0 genes found
+>LbrM.00_51_518317-526977 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=8660 | SO=contig
+0 genes found
+>LbrM.00_52_527077-533350 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=6273 | SO=contig
+0 genes found
+>LbrM.00_53_533450-534398 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=948 | SO=contig
+0 genes found
+>LbrM.00_54_534498-540669 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=6171 | SO=contig
+0 genes found
+>LbrM.00_55_540769-553472 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=12703 | SO=contig
+0 genes found
+>LbrM.00_56_553572-559987 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=6415 | SO=contig
+0 genes found
+>LbrM.00_57_560087-567161 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=7074 | SO=contig
+0 genes found
+>LbrM.00_58_567261-573515 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=6254 | SO=contig
+0 genes found
+>LbrM.00_59_573615-575338 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=1723 | SO=contig
+0 genes found
+>LbrM.00_5_25189-33972 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=8783 | SO=contig
+0 genes found
+>LbrM.00_60_575438-582815 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=7377 | SO=contig
+0 genes found
+>LbrM.00_61_582915-587869 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=4954 | SO=contig
+0 genes found
+>LbrM.00_62_587969-598616 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=10647 | SO=contig
+0 genes found
+>LbrM.00_63_598716-603797 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=5081 | SO=contig
+0 genes found
+>LbrM.00_64_603897-607900 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=4003 | SO=contig
+3 genes found
+1   tRNA-Lys                  c[3373,3446]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Val                  c[3510,3584]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Pro                  c[3689,3760]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>LbrM.00_65_608000-616322 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=8322 | SO=contig
+0 genes found
+>LbrM.00_66_616422-619409 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=2987 | SO=contig
+0 genes found
+>LbrM.00_67_619509-622890 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=3381 | SO=contig
+0 genes found
+>LbrM.00_68_622990-625308 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=2318 | SO=contig
+0 genes found
+>LbrM.00_69_625408-631620 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=6212 | SO=contig
+0 genes found
+>LbrM.00_6_34072-38295 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=4223 | SO=contig
+0 genes found
+>LbrM.00_70_631720-638461 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=6741 | SO=contig
+0 genes found
+>LbrM.00_71_638561-642088 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=3527 | SO=contig
+0 genes found
+>LbrM.00_72_642188-646214 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=4026 | SO=contig
+0 genes found
+>LbrM.00_73_646314-649453 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=3139 | SO=contig
+0 genes found
+>LbrM.00_74_649553-654730 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=5177 | SO=contig
+0 genes found
+>LbrM.00_75_654830-659773 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=4943 | SO=contig
+0 genes found
+>LbrM.00_76_659873-666000 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=6127 | SO=contig
+0 genes found
+>LbrM.00_77_666100-672113 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=6013 | SO=contig
+0 genes found
+>LbrM.00_78_672213-677261 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=5048 | SO=contig
+0 genes found
+>LbrM.00_79_677361-687881 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=10520 | SO=contig
+0 genes found
+>LbrM.00_7_38395-44421 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=6026 | SO=contig
+0 genes found
+>LbrM.00_80_687981-692289 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=4308 | SO=contig
+0 genes found
+>LbrM.00_81_692389-702030 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=9641 | SO=contig
+0 genes found
+>LbrM.00_82_702130-718176 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=16046 | SO=contig
+0 genes found
+>LbrM.00_83_718276-720060 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=1784 | SO=contig
+0 genes found
+>LbrM.00_84_720160-724134 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=3974 | SO=contig
+0 genes found
+>LbrM.00_85_724234-731913 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=7679 | SO=contig
+0 genes found
+>LbrM.00_86_732013-742202 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=10189 | SO=contig
+0 genes found
+>LbrM.00_87_742302-744157 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=1855 | SO=contig
+0 genes found
+>LbrM.00_88_744257-745355 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=1098 | SO=contig
+0 genes found
+>LbrM.00_89_745455-760539 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=15084 | SO=contig
+0 genes found
+>LbrM.00_8_44521-48088 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=3567 | SO=contig
+0 genes found
+>LbrM.00_90_760639-767453 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=6814 | SO=contig
+0 genes found
+>LbrM.00_91_767553-775341 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=7788 | SO=contig
+0 genes found
+>LbrM.00_92_775441-777378 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=1937 | SO=contig
+0 genes found
+>LbrM.00_93_777478-778579 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=1101 | SO=contig
+0 genes found
+>LbrM.00_94_778679-783135 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=4456 | SO=contig
+0 genes found
+>LbrM.00_95_783235-801483 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=18248 | SO=contig
+0 genes found
+>LbrM.00_96_801583-808437 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=6854 | SO=contig
+0 genes found
+>LbrM.00_97_808537-814983 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=6446 | SO=contig
+0 genes found
+>LbrM.00_98_815083-821373 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=6290 | SO=contig
+0 genes found
+>LbrM.00_99_821473-824406 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=2933 | SO=contig
+0 genes found
+>LbrM.00_9_48188-51922 | organism=Leishmania_braziliensis_MHOM/BR/75/M2904 | version=2016-05-28 | length=3734 | SO=contig
+0 genes found
+>end 	139 sequences 100 tRNA genes, nothing found in 117 sequences, (15.83% sensitivity)

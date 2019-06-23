@@ -1,0 +1,2589 @@
+>AYLP01000001 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=462134 | SO=contig
+0 genes found
+>AYLP01000002 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=330307 | SO=contig
+0 genes found
+>AYLP01000003 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=324486 | SO=contig
+0 genes found
+>AYLP01000004 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=316123 | SO=contig
+1 genes found
+1   tRNA-Leu              c[107487,107570]	116.7	36  	(aag)
+.ggcgagatggtcgagtggtctaagacgttggattaaggttccaatccttccgagggcgtgggttcaaaccccactctcgtcag
+((((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt)))))))))))))
+>AYLP01000005 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=313511 | SO=contig
+0 genes found
+>AYLP01000006 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=306591 | SO=contig
+0 genes found
+>AYLP01000007 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=284387 | SO=contig
+0 genes found
+>AYLP01000008 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=278876 | SO=contig
+0 genes found
+>AYLP01000009 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=275177 | SO=contig
+0 genes found
+>AYLP01000010 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=275165 | SO=contig
+1 genes found
+1   tRNA-Cys               [211671,211744]	122.6	34  	(gca)
+aggattcatagctcagtggtagagcattcggctgcagtccgaatggtccccggttcaaacccgggtgggtccta
+((((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt)))))))))))))
+>AYLP01000011 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=253023 | SO=contig
+0 genes found
+>AYLP01000012 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=252269 | SO=contig
+0 genes found
+>AYLP01000013 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=236870 | SO=contig
+0 genes found
+>AYLP01000014 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=235004 | SO=contig
+0 genes found
+>AYLP01000015 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=230251 | SO=contig
+0 genes found
+>AYLP01000016 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=224697 | SO=contig
+0 genes found
+>AYLP01000017 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=213954 | SO=contig
+0 genes found
+>AYLP01000018 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=207938 | SO=contig
+0 genes found
+>AYLP01000019 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=198543 | SO=contig
+0 genes found
+>AYLP01000020 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=197727 | SO=contig
+1 genes found
+1   tRNA-Asn              c[197601,197675]	118.7	35  	(gtt)
+ttcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagt
+((((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt)))))))))))))
+>AYLP01000021 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=197742 | SO=contig
+0 genes found
+>AYLP01000022 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=189040 | SO=contig
+0 genes found
+>AYLP01000023 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=185993 | SO=contig
+0 genes found
+>AYLP01000024 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=178756 | SO=contig
+0 genes found
+>AYLP01000025 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=178901 | SO=contig
+0 genes found
+>AYLP01000026 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=177749 | SO=contig
+0 genes found
+>AYLP01000027 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=176697 | SO=contig
+0 genes found
+>AYLP01000028 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=176561 | SO=contig
+5 genes found
+1   tRNA-Met                       c[1,73]	113.2	34  	(cat)
+gcgagcatggcgcagtcggcagcgcgtgggtttcataatcccaaggtcgtgagttcgagcctcactgatcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+2   tRNA-Glu                    c[150,223]	117.2	35  	(ctc)
+ttccggtgtggtatagtggttagaacaagcggctctcacccgctagacccgggttcaattcccggcatcggaat
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+3   tRNA-Met                     [304,376]	113.2	34  	(cat)
+gcgagcatggcgcagtcggcagcgcgtgggtttcataatcccaaggtcgtgagttcgagcctcactgatcgca
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+4   tRNA-Ser                    c[396,476]	117.3	34  	(tga)
+gtcgacatacccaagtggttacggggtttgacttgaaatcaaatgcgatctcgcgcgcaggttcgaaccctgctgtcgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+5   tRNA-Leu                     [557,638]	119.8	36  	(tag)
+tggcggtgtggccgagtggtctaaggcgccagatttaggctctggtctctaggggcgtgggttcgagccccaccaccgtcag
+((((((((  (((ddddddddddd)))((((((  AAA  ))))))          (((((ttttttt)))))))))))))
+>AYLP01000029 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=166721 | SO=contig
+0 genes found
+>AYLP01000030 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=163514 | SO=contig
+0 genes found
+>AYLP01000031 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=160049 | SO=contig
+0 genes found
+>AYLP01000032 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=159231 | SO=contig
+0 genes found
+>AYLP01000033 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=157694 | SO=contig
+0 genes found
+>AYLP01000034 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=154535 | SO=contig
+0 genes found
+>AYLP01000035 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=151828 | SO=contig
+0 genes found
+>AYLP01000036 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=148615 | SO=contig
+0 genes found
+>AYLP01000037 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=145689 | SO=contig
+0 genes found
+>AYLP01000038 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=145265 | SO=contig
+0 genes found
+>AYLP01000039 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=143661 | SO=contig
+0 genes found
+>AYLP01000040 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=142902 | SO=contig
+0 genes found
+>AYLP01000041 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=139653 | SO=contig
+0 genes found
+>AYLP01000042 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=138081 | SO=contig
+0 genes found
+>AYLP01000043 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=137295 | SO=contig
+3 genes found
+1   tRNA-Gly                 [20406,20476]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Thr                c[51254,51326]	117.5	33  	(agt)
+ggccgcttagctcaatggcagagcgccgtcctagtaagacggaggtcgggggttcgatccccccagtggcctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Gly                 [51408,51478]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+>AYLP01000044 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=137395 | SO=contig
+0 genes found
+>AYLP01000045 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=136712 | SO=contig
+0 genes found
+>AYLP01000046 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=136600 | SO=contig
+0 genes found
+>AYLP01000047 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=128561 | SO=contig
+0 genes found
+>AYLP01000048 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=127311 | SO=contig
+0 genes found
+>AYLP01000049 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=126344 | SO=contig
+0 genes found
+>AYLP01000050 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=122462 | SO=contig
+0 genes found
+>AYLP01000051 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=120907 | SO=contig
+0 genes found
+>AYLP01000052 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=120477 | SO=contig
+1 genes found
+1   tRNA-His                        [3,74]	120.7	33  	(gtg)
+gggaagatagttcagtggcagaacatcagattgtggctctgaatacccgggttcgattcccggtcttccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>AYLP01000053 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=120443 | SO=contig
+0 genes found
+>AYLP01000054 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=117415 | SO=contig
+0 genes found
+>AYLP01000055 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=113528 | SO=contig
+0 genes found
+>AYLP01000056 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=113513 | SO=contig
+0 genes found
+>AYLP01000057 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=113426 | SO=contig
+0 genes found
+>AYLP01000058 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=113220 | SO=contig
+0 genes found
+>AYLP01000059 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=111865 | SO=contig
+0 genes found
+>AYLP01000060 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=111790 | SO=contig
+0 genes found
+>AYLP01000061 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=111152 | SO=contig
+0 genes found
+>AYLP01000062 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=111102 | SO=contig
+0 genes found
+>AYLP01000063 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=110289 | SO=contig
+0 genes found
+>AYLP01000064 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=109867 | SO=contig
+0 genes found
+>AYLP01000065 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=106739 | SO=contig
+0 genes found
+>AYLP01000066 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=106308 | SO=contig
+0 genes found
+>AYLP01000067 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=105101 | SO=contig
+0 genes found
+>AYLP01000068 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=103355 | SO=contig
+0 genes found
+>AYLP01000069 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=103174 | SO=contig
+0 genes found
+>AYLP01000070 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=101759 | SO=contig
+2 genes found
+1   tRNA-Leu                  c[1178,1260]	117.0	35  	(caa)
+ggcaagatggccgagtggtctaaggcgggagactcaagttctcttctattcgtaggcgtgggttcgaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ser                  c[1317,1397]	119.6	34  	(cga)
+gtcaccatacccaagtggttacggggactgactcgaaatcagttgcgatctcgcgcgcaggttcgaatcctgctggtgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>AYLP01000071 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=101500 | SO=contig
+0 genes found
+>AYLP01000072 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=100984 | SO=contig
+0 genes found
+>AYLP01000073 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=100882 | SO=contig
+0 genes found
+>AYLP01000074 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=96272 | SO=contig
+0 genes found
+>AYLP01000075 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=94863 | SO=contig
+2 genes found
+1   tRNA-Ala                 [38759,38831]	117.5	33  	(tgc)
+gggcgtgtagctcagtggtagagcgcctgttttgcatacaggaggcctagggttcaaacccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+2   tRNA-Asn                c[38873,38945]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggag
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>AYLP01000076 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=92938 | SO=contig
+0 genes found
+>AYLP01000077 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=92578 | SO=contig
+0 genes found
+>AYLP01000078 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=90929 | SO=contig
+3 genes found
+1   tRNA-Leu                c[74811,74894]	113.0	37  	(taa)
+tgctggggttcccgagttggtcaaaggggtgagacttaagttctcatgcgtaagcttcgtgggttcgaaccccacccccagcaa
+((((((((  (((.dddddddddd.)))((((((  AAA  ))))))           (((((ttttttt)))))))))))))
+2   tRNA-Gln                c[74962,75033]	121.5	34  	(ctg)
+gctcccatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtgggagca
+(((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+3   tRNA-Ile                 [75122,75196]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>AYLP01000079 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=87942 | SO=contig
+0 genes found
+>AYLP01000080 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=86814 | SO=contig
+0 genes found
+>AYLP01000081 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=86519 | SO=contig
+0 genes found
+>AYLP01000082 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=85396 | SO=contig
+0 genes found
+>AYLP01000083 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=81358 | SO=contig
+0 genes found
+>AYLP01000084 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=80717 | SO=contig
+0 genes found
+>AYLP01000085 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=79497 | SO=contig
+0 genes found
+>AYLP01000086 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=78389 | SO=contig
+0 genes found
+>AYLP01000087 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=77562 | SO=contig
+0 genes found
+>AYLP01000088 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=75916 | SO=contig
+1 genes found
+1   tRNA-SeC                c[63810,63897]	107.9	36  	(tca)
+gccacgatgagctcagctggtgctgggtgcgggcttcaaacccgtaggcgagttggactcgcagccgttcgattcggcctttgtggtg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+>AYLP01000089 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=75344 | SO=contig
+0 genes found
+>AYLP01000090 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=75212 | SO=contig
+1 genes found
+1   tRNA-Leu                 [59238,59310]	112.7	36  	(taa)i(31,4)
+gcgcagttggtccagtgggagaattcccgcatcattaaagcggggggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((( iiii AAA  )))))   (((((ttttttt))))))))))))
+>AYLP01000091 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=75121 | SO=contig
+0 genes found
+>AYLP01000092 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=74721 | SO=contig
+0 genes found
+>AYLP01000093 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=73751 | SO=contig
+0 genes found
+>AYLP01000094 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=73398 | SO=contig
+0 genes found
+>AYLP01000095 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=73061 | SO=contig
+0 genes found
+>AYLP01000096 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=70073 | SO=contig
+0 genes found
+>AYLP01000097 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=70006 | SO=contig
+1 genes found
+1   tRNA-Ser                 [69765,69845]	119.6	34  	(aga)
+gtcaccatacccaagtggttacggggactgactagaaatcagttgcgatctcgcgcgcaggttcgaatcctgctggtgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>AYLP01000098 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=69926 | SO=contig
+0 genes found
+>AYLP01000099 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=69946 | SO=contig
+0 genes found
+>AYLP01000100 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=69653 | SO=contig
+0 genes found
+>AYLP01000101 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=69354 | SO=contig
+0 genes found
+>AYLP01000102 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=68994 | SO=contig
+0 genes found
+>AYLP01000103 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=68850 | SO=contig
+0 genes found
+>AYLP01000104 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=68766 | SO=contig
+0 genes found
+>AYLP01000105 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=68585 | SO=contig
+0 genes found
+>AYLP01000106 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=65942 | SO=contig
+0 genes found
+>AYLP01000107 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=64695 | SO=contig
+0 genes found
+>AYLP01000108 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=64606 | SO=contig
+3 genes found
+1   tRNA-Leu                c[27519,27601]	116.7	35  	(aag)
+ggcgagatggtcgagtggtctaagacgttggattaaggttccaatccttccgagggcgtgggttcaaaccccactctcgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Met                c[27660,27731]	116.7	33  	(cat)
+agcaccgtggcgcagtggaagcgcgatgggctcataacccataggacgttggatcgaaaccaaccggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Pro                 [27808,27879]	122.8	33  	(tgg)
+ggccgcttggtctagtggtatgattcctgttttgggtacaggaggtcacgggttcaattcccgtagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>AYLP01000109 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=64422 | SO=contig
+0 genes found
+>AYLP01000110 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=62265 | SO=contig
+0 genes found
+>AYLP01000111 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=61888 | SO=contig
+0 genes found
+>AYLP01000112 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=61578 | SO=contig
+0 genes found
+>AYLP01000113 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=61233 | SO=contig
+0 genes found
+>AYLP01000114 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=60853 | SO=contig
+0 genes found
+>AYLP01000115 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=60511 | SO=contig
+1 genes found
+1   tRNA-Leu                 [42653,42784]	101.1	72  	(gag)i(29,42)
+acggaaagggcgtcttggcgcacctggtgatgtgttcgcctcgagtacagctgggtgtggtggaaggagatgagggctgtgttccgcaggagtgcatgcatgtgggcatgggtgccattcccattcttcgta
+(((((.(  (((dddddd))) (.((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  ))).)                          (((((ttttttt)))))).)))))
+>AYLP01000116 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=59462 | SO=contig
+0 genes found
+>AYLP01000117 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=58690 | SO=contig
+0 genes found
+>AYLP01000118 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=58128 | SO=contig
+0 genes found
+>AYLP01000119 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=57735 | SO=contig
+0 genes found
+>AYLP01000120 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=57738 | SO=contig
+0 genes found
+>AYLP01000121 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=57704 | SO=contig
+0 genes found
+>AYLP01000122 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=57212 | SO=contig
+0 genes found
+>AYLP01000123 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=57007 | SO=contig
+0 genes found
+>AYLP01000124 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=57042 | SO=contig
+0 genes found
+>AYLP01000125 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=56858 | SO=contig
+0 genes found
+>AYLP01000126 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=56729 | SO=contig
+1 genes found
+1   tRNA-Trp                c[51737,51810]	116.8	34  	(cca)
+tgggggcttagctcagtggtagagcattggattccaaatccaggggtcgcaggttcaatccctgcagtcctcaa
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+>AYLP01000127 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=54989 | SO=contig
+0 genes found
+>AYLP01000128 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=53219 | SO=contig
+0 genes found
+>AYLP01000129 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=52385 | SO=contig
+0 genes found
+>AYLP01000130 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=52114 | SO=contig
+0 genes found
+>AYLP01000131 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=51448 | SO=contig
+0 genes found
+>AYLP01000132 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=50660 | SO=contig
+0 genes found
+>AYLP01000133 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=49818 | SO=contig
+0 genes found
+>AYLP01000134 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=49278 | SO=contig
+0 genes found
+>AYLP01000135 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=48985 | SO=contig
+10 genes found
+1   tRNA-Arg                 [39879,39950]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Lys                c[39989,40061]	122.8	34  	(ctt)
+gcccttctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggggggtg
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+3   tRNA-Arg                c[40535,40608]	122.0	34  	(tcg)
+cgatctcgtggcgcaatggaagcgcatcagacttcggatctgagggttgcaggttcgagtcctgccgggatcgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+4   tRNA-Thr                 [40694,40767]	120.5	34  	(tgt)
+aggcctcgtagcacagtggcagtgcactggtcttgtaaaccaggggtcccgagttcaattctcggcggggcctt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+5   tRNA-Leu                 [40832,40913]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtgacgttcaggtcgtcatctctccggaggcgtgggttcaaaccccactcttgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+6   tRNA-Gly                c[40962,41033]	116.7	34  	(tcc)
+gcaatcgtggtccaacggttaagatccccgccttccaagcgggtgacccgggttcgactcccggcgattgca
+(((((((  (((dddddddddd))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+7   tRNA-Lys                c[41259,41331]	122.8	34  	(ctt)
+gcccttctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggggggtg
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+8   tRNA-Val                c[41402,41474]	113.6	34  	(tac)
+gcgtgggtgatctagtggttatgatgtctgctttacacgcagaaagtcgcgggttcgaaccccgccccgcgta
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+9   tRNA-Gln                c[41537,41609]	124.9	34  	(ttg)
+ggtcctatggtgtagtggttatcacttcggactttgaatccgaaaacccaggttcgaatcctggtaggaccac
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+10  tRNA-Ile                 [41695,41768]	116.2	35  	(tat)
+gctcctgtggtctagttggttaggacgttggtcttatgagccgaatatcgcgggttcgagccccgccaggagca
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>AYLP01000136 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=47464 | SO=contig
+1 genes found
+1   tRNA-Glu                 c[9945,10038]	100.7	37  	(ttc)
+ggtggcggtggcggtggtggcggtggtggcgcggttttcgattgcgcaacgctggccgcgttgaatttcggttcctgtcctgttgtcaccgcca
+(((((((   ((.(ddddddddd).)) ((((((  AAA  ))))))(((((vvvvv)))))    .(.((ttttttt)).).)))))))
+>AYLP01000137 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=47206 | SO=contig
+0 genes found
+>AYLP01000138 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=46957 | SO=contig
+0 genes found
+>AYLP01000139 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=46806 | SO=contig
+0 genes found
+>AYLP01000140 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=46181 | SO=contig
+0 genes found
+>AYLP01000141 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=46292 | SO=contig
+0 genes found
+>AYLP01000142 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=45858 | SO=contig
+0 genes found
+>AYLP01000143 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=45703 | SO=contig
+0 genes found
+>AYLP01000144 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=45673 | SO=contig
+0 genes found
+>AYLP01000145 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=45302 | SO=contig
+0 genes found
+>AYLP01000146 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=44513 | SO=contig
+0 genes found
+>AYLP01000147 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=44054 | SO=contig
+0 genes found
+>AYLP01000148 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=43862 | SO=contig
+0 genes found
+>AYLP01000149 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=43684 | SO=contig
+1 genes found
+1   tRNA-His                c[14209,14311]	101.0	46  	(atg)i(34,11)
+tacgcctccacgattggagcagcgtgccgcaacgcaccctgttttatggaatgcgccgtggcttcccaaggagccaaagctcgttcgacttgggcagtcgtaa
+((((.(( ((((dddddddddd)))) ((((. iiiiiiiiiii AAA  .))))    ...(vvvv)...       (((((ttttttt))))))).))))
+>AYLP01000150 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=42966 | SO=contig
+0 genes found
+>AYLP01000151 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=42739 | SO=contig
+0 genes found
+>AYLP01000152 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=41178 | SO=contig
+0 genes found
+>AYLP01000153 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=40453 | SO=contig
+0 genes found
+>AYLP01000154 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=40034 | SO=contig
+0 genes found
+>AYLP01000155 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=39809 | SO=contig
+0 genes found
+>AYLP01000156 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=39465 | SO=contig
+1 genes found
+1   tRNA-Glu                 [38971,39042]	117.2	34  	(ctc)
+tccggtgtggtatagtggctagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaa
+(((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>AYLP01000157 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=39021 | SO=contig
+0 genes found
+>AYLP01000158 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=38284 | SO=contig
+0 genes found
+>AYLP01000159 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=38268 | SO=contig
+0 genes found
+>AYLP01000160 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=38175 | SO=contig
+0 genes found
+>AYLP01000161 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=38188 | SO=contig
+0 genes found
+>AYLP01000162 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=38114 | SO=contig
+0 genes found
+>AYLP01000163 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=37986 | SO=contig
+0 genes found
+>AYLP01000164 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=37870 | SO=contig
+0 genes found
+>AYLP01000165 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=37882 | SO=contig
+0 genes found
+>AYLP01000166 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=37791 | SO=contig
+0 genes found
+>AYLP01000167 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=37689 | SO=contig
+0 genes found
+>AYLP01000168 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=36644 | SO=contig
+0 genes found
+>AYLP01000169 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=35873 | SO=contig
+0 genes found
+>AYLP01000170 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=35339 | SO=contig
+0 genes found
+>AYLP01000171 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=35176 | SO=contig
+0 genes found
+>AYLP01000172 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=35061 | SO=contig
+0 genes found
+>AYLP01000173 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=35048 | SO=contig
+0 genes found
+>AYLP01000174 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=35020 | SO=contig
+0 genes found
+>AYLP01000175 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=34726 | SO=contig
+0 genes found
+>AYLP01000176 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=34742 | SO=contig
+0 genes found
+>AYLP01000177 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=34551 | SO=contig
+0 genes found
+>AYLP01000178 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=34055 | SO=contig
+0 genes found
+>AYLP01000179 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=33410 | SO=contig
+0 genes found
+>AYLP01000180 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=33279 | SO=contig
+0 genes found
+>AYLP01000181 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=33231 | SO=contig
+0 genes found
+>AYLP01000182 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=33162 | SO=contig
+0 genes found
+>AYLP01000183 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=32929 | SO=contig
+0 genes found
+>AYLP01000184 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=32544 | SO=contig
+0 genes found
+>AYLP01000185 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=32435 | SO=contig
+0 genes found
+>AYLP01000186 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=31666 | SO=contig
+0 genes found
+>AYLP01000187 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=31585 | SO=contig
+0 genes found
+>AYLP01000188 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=30998 | SO=contig
+0 genes found
+>AYLP01000189 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=30561 | SO=contig
+0 genes found
+>AYLP01000190 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=29894 | SO=contig
+0 genes found
+>AYLP01000191 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=29878 | SO=contig
+0 genes found
+>AYLP01000192 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=29868 | SO=contig
+0 genes found
+>AYLP01000193 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=29592 | SO=contig
+0 genes found
+>AYLP01000194 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=29433 | SO=contig
+0 genes found
+>AYLP01000195 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=28781 | SO=contig
+0 genes found
+>AYLP01000196 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=28538 | SO=contig
+0 genes found
+>AYLP01000197 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=28342 | SO=contig
+0 genes found
+>AYLP01000198 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=28220 | SO=contig
+0 genes found
+>AYLP01000199 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=28206 | SO=contig
+0 genes found
+>AYLP01000200 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=27894 | SO=contig
+0 genes found
+>AYLP01000201 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=27913 | SO=contig
+0 genes found
+>AYLP01000202 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=27496 | SO=contig
+0 genes found
+>AYLP01000203 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=27365 | SO=contig
+0 genes found
+>AYLP01000204 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=27220 | SO=contig
+0 genes found
+>AYLP01000205 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=27139 | SO=contig
+0 genes found
+>AYLP01000206 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=26930 | SO=contig
+0 genes found
+>AYLP01000207 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=26581 | SO=contig
+0 genes found
+>AYLP01000208 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=26356 | SO=contig
+0 genes found
+>AYLP01000209 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=25788 | SO=contig
+0 genes found
+>AYLP01000210 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=25787 | SO=contig
+0 genes found
+>AYLP01000211 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=25593 | SO=contig
+0 genes found
+>AYLP01000212 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=25522 | SO=contig
+0 genes found
+>AYLP01000213 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=25276 | SO=contig
+0 genes found
+>AYLP01000214 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=25167 | SO=contig
+0 genes found
+>AYLP01000215 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=24600 | SO=contig
+0 genes found
+>AYLP01000216 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=24473 | SO=contig
+0 genes found
+>AYLP01000217 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=24418 | SO=contig
+0 genes found
+>AYLP01000218 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=24310 | SO=contig
+0 genes found
+>AYLP01000219 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=24249 | SO=contig
+0 genes found
+>AYLP01000220 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=23932 | SO=contig
+0 genes found
+>AYLP01000221 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=23867 | SO=contig
+0 genes found
+>AYLP01000222 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=23829 | SO=contig
+0 genes found
+>AYLP01000223 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=23799 | SO=contig
+0 genes found
+>AYLP01000224 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=23079 | SO=contig
+0 genes found
+>AYLP01000225 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=22762 | SO=contig
+0 genes found
+>AYLP01000226 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=22639 | SO=contig
+0 genes found
+>AYLP01000227 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=22608 | SO=contig
+0 genes found
+>AYLP01000228 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=22297 | SO=contig
+0 genes found
+>AYLP01000229 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=22262 | SO=contig
+0 genes found
+>AYLP01000230 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=22218 | SO=contig
+0 genes found
+>AYLP01000231 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=22228 | SO=contig
+0 genes found
+>AYLP01000232 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=21954 | SO=contig
+0 genes found
+>AYLP01000233 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=21930 | SO=contig
+0 genes found
+>AYLP01000234 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=21865 | SO=contig
+0 genes found
+>AYLP01000235 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=21894 | SO=contig
+0 genes found
+>AYLP01000236 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=21860 | SO=contig
+0 genes found
+>AYLP01000237 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=21806 | SO=contig
+0 genes found
+>AYLP01000238 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=21764 | SO=contig
+0 genes found
+>AYLP01000239 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=21753 | SO=contig
+0 genes found
+>AYLP01000240 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=21605 | SO=contig
+0 genes found
+>AYLP01000241 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=21566 | SO=contig
+0 genes found
+>AYLP01000242 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=21556 | SO=contig
+0 genes found
+>AYLP01000243 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=21498 | SO=contig
+0 genes found
+>AYLP01000244 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=21288 | SO=contig
+0 genes found
+>AYLP01000245 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=21161 | SO=contig
+0 genes found
+>AYLP01000246 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=21161 | SO=contig
+0 genes found
+>AYLP01000247 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=21115 | SO=contig
+0 genes found
+>AYLP01000248 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=20774 | SO=contig
+0 genes found
+>AYLP01000249 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=20606 | SO=contig
+0 genes found
+>AYLP01000250 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=20426 | SO=contig
+0 genes found
+>AYLP01000251 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=20270 | SO=contig
+0 genes found
+>AYLP01000252 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=20255 | SO=contig
+0 genes found
+>AYLP01000253 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=20124 | SO=contig
+0 genes found
+>AYLP01000254 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=20089 | SO=contig
+0 genes found
+>AYLP01000255 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=20016 | SO=contig
+0 genes found
+>AYLP01000256 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=19873 | SO=contig
+0 genes found
+>AYLP01000257 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=19864 | SO=contig
+0 genes found
+>AYLP01000258 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=19800 | SO=contig
+0 genes found
+>AYLP01000259 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=19686 | SO=contig
+0 genes found
+>AYLP01000260 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=19688 | SO=contig
+0 genes found
+>AYLP01000261 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=19699 | SO=contig
+0 genes found
+>AYLP01000262 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=19715 | SO=contig
+0 genes found
+>AYLP01000263 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=19638 | SO=contig
+0 genes found
+>AYLP01000264 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=19624 | SO=contig
+0 genes found
+>AYLP01000265 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=19585 | SO=contig
+0 genes found
+>AYLP01000266 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=19471 | SO=contig
+0 genes found
+>AYLP01000267 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=19468 | SO=contig
+0 genes found
+>AYLP01000268 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=19155 | SO=contig
+0 genes found
+>AYLP01000269 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=18980 | SO=contig
+0 genes found
+>AYLP01000270 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=19004 | SO=contig
+0 genes found
+>AYLP01000271 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=18944 | SO=contig
+0 genes found
+>AYLP01000272 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=18974 | SO=contig
+0 genes found
+>AYLP01000273 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=18876 | SO=contig
+0 genes found
+>AYLP01000274 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=18818 | SO=contig
+0 genes found
+>AYLP01000275 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=18666 | SO=contig
+0 genes found
+>AYLP01000276 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=18663 | SO=contig
+0 genes found
+>AYLP01000277 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=18534 | SO=contig
+0 genes found
+>AYLP01000278 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=18471 | SO=contig
+0 genes found
+>AYLP01000279 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=18412 | SO=contig
+0 genes found
+>AYLP01000280 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=18325 | SO=contig
+0 genes found
+>AYLP01000281 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=18257 | SO=contig
+0 genes found
+>AYLP01000282 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=18060 | SO=contig
+0 genes found
+>AYLP01000283 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=18045 | SO=contig
+0 genes found
+>AYLP01000284 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=18029 | SO=contig
+0 genes found
+>AYLP01000285 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=18008 | SO=contig
+0 genes found
+>AYLP01000286 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=17967 | SO=contig
+0 genes found
+>AYLP01000287 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=17828 | SO=contig
+0 genes found
+>AYLP01000288 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=17701 | SO=contig
+0 genes found
+>AYLP01000289 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=17550 | SO=contig
+0 genes found
+>AYLP01000290 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=17558 | SO=contig
+0 genes found
+>AYLP01000291 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=17528 | SO=contig
+0 genes found
+>AYLP01000292 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=17487 | SO=contig
+0 genes found
+>AYLP01000293 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=17487 | SO=contig
+0 genes found
+>AYLP01000294 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=17458 | SO=contig
+0 genes found
+>AYLP01000295 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=17421 | SO=contig
+0 genes found
+>AYLP01000296 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=17396 | SO=contig
+0 genes found
+>AYLP01000297 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=17368 | SO=contig
+0 genes found
+>AYLP01000298 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=17266 | SO=contig
+0 genes found
+>AYLP01000299 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=17098 | SO=contig
+0 genes found
+>AYLP01000300 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=17106 | SO=contig
+0 genes found
+>AYLP01000301 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=17041 | SO=contig
+0 genes found
+>AYLP01000302 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=16995 | SO=contig
+0 genes found
+>AYLP01000303 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=16976 | SO=contig
+0 genes found
+>AYLP01000304 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=16921 | SO=contig
+0 genes found
+>AYLP01000305 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=16886 | SO=contig
+0 genes found
+>AYLP01000306 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=16848 | SO=contig
+0 genes found
+>AYLP01000307 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=16800 | SO=contig
+0 genes found
+>AYLP01000308 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=16450 | SO=contig
+0 genes found
+>AYLP01000309 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=16437 | SO=contig
+0 genes found
+>AYLP01000310 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=16399 | SO=contig
+0 genes found
+>AYLP01000311 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=16377 | SO=contig
+0 genes found
+>AYLP01000312 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=16338 | SO=contig
+0 genes found
+>AYLP01000313 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=16317 | SO=contig
+0 genes found
+>AYLP01000314 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=16307 | SO=contig
+0 genes found
+>AYLP01000315 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=16287 | SO=contig
+0 genes found
+>AYLP01000316 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=16250 | SO=contig
+0 genes found
+>AYLP01000317 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=16258 | SO=contig
+0 genes found
+>AYLP01000318 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=16215 | SO=contig
+0 genes found
+>AYLP01000319 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=16024 | SO=contig
+0 genes found
+>AYLP01000320 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=15991 | SO=contig
+0 genes found
+>AYLP01000321 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=15922 | SO=contig
+0 genes found
+>AYLP01000322 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=15872 | SO=contig
+0 genes found
+>AYLP01000323 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=15796 | SO=contig
+0 genes found
+>AYLP01000324 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=15659 | SO=contig
+0 genes found
+>AYLP01000325 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=15610 | SO=contig
+0 genes found
+>AYLP01000326 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=15566 | SO=contig
+0 genes found
+>AYLP01000327 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=15559 | SO=contig
+0 genes found
+>AYLP01000328 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=15501 | SO=contig
+0 genes found
+>AYLP01000329 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=15386 | SO=contig
+0 genes found
+>AYLP01000330 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=15388 | SO=contig
+0 genes found
+>AYLP01000331 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=15382 | SO=contig
+0 genes found
+>AYLP01000332 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=15336 | SO=contig
+0 genes found
+>AYLP01000333 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=15262 | SO=contig
+0 genes found
+>AYLP01000334 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=15187 | SO=contig
+0 genes found
+>AYLP01000335 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=15135 | SO=contig
+0 genes found
+>AYLP01000336 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=15127 | SO=contig
+0 genes found
+>AYLP01000337 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=15024 | SO=contig
+0 genes found
+>AYLP01000338 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=14973 | SO=contig
+0 genes found
+>AYLP01000339 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=14890 | SO=contig
+0 genes found
+>AYLP01000340 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=14881 | SO=contig
+0 genes found
+>AYLP01000341 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=14861 | SO=contig
+0 genes found
+>AYLP01000342 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=14877 | SO=contig
+0 genes found
+>AYLP01000343 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=14851 | SO=contig
+0 genes found
+>AYLP01000344 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=14840 | SO=contig
+0 genes found
+>AYLP01000345 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=14844 | SO=contig
+3 genes found
+1   tRNA-Asp                c[13979,14050]	124.0	34  	(gtc)
+ttctcggtagtatagtggtaagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaag
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Ser                 [14155,14235]	123.0	34  	(gct)
+gcaaacgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgtaggttcgaaccctaccgtttgcg
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Ala                 [14303,14378]	109.1	35  	(agc)
+tggggatgtagctcagatggtagagcgcccgcttagcatgcgggaggtattgggatcgatacccaacttctccaac
+((((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+>AYLP01000346 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=14804 | SO=contig
+0 genes found
+>AYLP01000347 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=14805 | SO=contig
+0 genes found
+>AYLP01000348 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=14828 | SO=contig
+0 genes found
+>AYLP01000349 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=14808 | SO=contig
+0 genes found
+>AYLP01000350 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=14688 | SO=contig
+0 genes found
+>AYLP01000351 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=14606 | SO=contig
+0 genes found
+>AYLP01000352 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=14582 | SO=contig
+0 genes found
+>AYLP01000353 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=14496 | SO=contig
+0 genes found
+>AYLP01000354 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=14372 | SO=contig
+0 genes found
+>AYLP01000355 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=14364 | SO=contig
+0 genes found
+>AYLP01000356 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=14349 | SO=contig
+0 genes found
+>AYLP01000357 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=14197 | SO=contig
+0 genes found
+>AYLP01000358 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=14094 | SO=contig
+0 genes found
+>AYLP01000359 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=14058 | SO=contig
+0 genes found
+>AYLP01000360 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=14015 | SO=contig
+0 genes found
+>AYLP01000361 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=13972 | SO=contig
+0 genes found
+>AYLP01000362 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=13964 | SO=contig
+0 genes found
+>AYLP01000363 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=13913 | SO=contig
+0 genes found
+>AYLP01000364 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=13853 | SO=contig
+0 genes found
+>AYLP01000365 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=13715 | SO=contig
+0 genes found
+>AYLP01000366 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=13661 | SO=contig
+0 genes found
+>AYLP01000367 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=13645 | SO=contig
+0 genes found
+>AYLP01000368 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=13583 | SO=contig
+0 genes found
+>AYLP01000369 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=13611 | SO=contig
+0 genes found
+>AYLP01000370 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=13512 | SO=contig
+0 genes found
+>AYLP01000371 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=13540 | SO=contig
+0 genes found
+>AYLP01000372 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=13502 | SO=contig
+0 genes found
+>AYLP01000373 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=13514 | SO=contig
+0 genes found
+>AYLP01000374 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=13398 | SO=contig
+0 genes found
+>AYLP01000375 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=13369 | SO=contig
+0 genes found
+>AYLP01000376 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=13287 | SO=contig
+0 genes found
+>AYLP01000377 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=13240 | SO=contig
+0 genes found
+>AYLP01000378 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=13105 | SO=contig
+0 genes found
+>AYLP01000379 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=13099 | SO=contig
+0 genes found
+>AYLP01000380 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=13079 | SO=contig
+0 genes found
+>AYLP01000381 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=13057 | SO=contig
+0 genes found
+>AYLP01000382 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=13004 | SO=contig
+0 genes found
+>AYLP01000383 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=12947 | SO=contig
+0 genes found
+>AYLP01000384 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=12950 | SO=contig
+0 genes found
+>AYLP01000385 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=12964 | SO=contig
+0 genes found
+>AYLP01000386 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=12946 | SO=contig
+0 genes found
+>AYLP01000387 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=12948 | SO=contig
+0 genes found
+>AYLP01000388 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=12956 | SO=contig
+0 genes found
+>AYLP01000389 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=12859 | SO=contig
+0 genes found
+>AYLP01000390 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=12857 | SO=contig
+0 genes found
+>AYLP01000391 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=12867 | SO=contig
+0 genes found
+>AYLP01000392 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=12844 | SO=contig
+0 genes found
+>AYLP01000393 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=12638 | SO=contig
+0 genes found
+>AYLP01000394 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=12550 | SO=contig
+0 genes found
+>AYLP01000395 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=12509 | SO=contig
+0 genes found
+>AYLP01000396 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=12469 | SO=contig
+0 genes found
+>AYLP01000397 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=12299 | SO=contig
+0 genes found
+>AYLP01000398 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=12231 | SO=contig
+0 genes found
+>AYLP01000399 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=12240 | SO=contig
+0 genes found
+>AYLP01000400 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=12224 | SO=contig
+0 genes found
+>AYLP01000401 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=12192 | SO=contig
+0 genes found
+>AYLP01000402 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=12184 | SO=contig
+0 genes found
+>AYLP01000403 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=12156 | SO=contig
+0 genes found
+>AYLP01000404 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=12163 | SO=contig
+0 genes found
+>AYLP01000405 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=12159 | SO=contig
+0 genes found
+>AYLP01000406 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=12152 | SO=contig
+0 genes found
+>AYLP01000407 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=12114 | SO=contig
+0 genes found
+>AYLP01000408 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=12099 | SO=contig
+0 genes found
+>AYLP01000409 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=12074 | SO=contig
+0 genes found
+>AYLP01000410 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=12089 | SO=contig
+0 genes found
+>AYLP01000411 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=12043 | SO=contig
+0 genes found
+>AYLP01000412 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=11932 | SO=contig
+0 genes found
+>AYLP01000413 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=11896 | SO=contig
+0 genes found
+>AYLP01000414 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=11865 | SO=contig
+0 genes found
+>AYLP01000415 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=11837 | SO=contig
+0 genes found
+>AYLP01000416 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=11829 | SO=contig
+0 genes found
+>AYLP01000417 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=11824 | SO=contig
+0 genes found
+>AYLP01000418 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=11862 | SO=contig
+0 genes found
+>AYLP01000419 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=11825 | SO=contig
+0 genes found
+>AYLP01000420 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=11787 | SO=contig
+0 genes found
+>AYLP01000421 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=11748 | SO=contig
+0 genes found
+>AYLP01000422 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=11734 | SO=contig
+0 genes found
+>AYLP01000423 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=11689 | SO=contig
+0 genes found
+>AYLP01000424 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=11659 | SO=contig
+0 genes found
+>AYLP01000425 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=11660 | SO=contig
+0 genes found
+>AYLP01000426 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=11649 | SO=contig
+0 genes found
+>AYLP01000427 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=11478 | SO=contig
+0 genes found
+>AYLP01000428 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=11403 | SO=contig
+0 genes found
+>AYLP01000429 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=11409 | SO=contig
+0 genes found
+>AYLP01000430 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=11336 | SO=contig
+0 genes found
+>AYLP01000431 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=11280 | SO=contig
+0 genes found
+>AYLP01000432 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=11254 | SO=contig
+0 genes found
+>AYLP01000433 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=11256 | SO=contig
+0 genes found
+>AYLP01000434 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=11213 | SO=contig
+0 genes found
+>AYLP01000435 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=11209 | SO=contig
+0 genes found
+>AYLP01000436 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=11219 | SO=contig
+0 genes found
+>AYLP01000437 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=11221 | SO=contig
+0 genes found
+>AYLP01000438 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=11164 | SO=contig
+0 genes found
+>AYLP01000439 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=11153 | SO=contig
+0 genes found
+>AYLP01000440 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=11157 | SO=contig
+0 genes found
+>AYLP01000441 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=11005 | SO=contig
+0 genes found
+>AYLP01000442 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10981 | SO=contig
+0 genes found
+>AYLP01000443 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10927 | SO=contig
+0 genes found
+>AYLP01000444 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10930 | SO=contig
+0 genes found
+>AYLP01000445 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10917 | SO=contig
+0 genes found
+>AYLP01000446 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10894 | SO=contig
+0 genes found
+>AYLP01000447 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10822 | SO=contig
+0 genes found
+>AYLP01000448 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10806 | SO=contig
+0 genes found
+>AYLP01000449 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10788 | SO=contig
+0 genes found
+>AYLP01000450 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10796 | SO=contig
+0 genes found
+>AYLP01000451 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10768 | SO=contig
+0 genes found
+>AYLP01000452 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10739 | SO=contig
+0 genes found
+>AYLP01000453 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10695 | SO=contig
+0 genes found
+>AYLP01000454 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10710 | SO=contig
+0 genes found
+>AYLP01000455 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10595 | SO=contig
+0 genes found
+>AYLP01000456 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10613 | SO=contig
+0 genes found
+>AYLP01000457 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10549 | SO=contig
+0 genes found
+>AYLP01000458 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10578 | SO=contig
+0 genes found
+>AYLP01000459 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10560 | SO=contig
+0 genes found
+>AYLP01000460 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10530 | SO=contig
+0 genes found
+>AYLP01000461 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10489 | SO=contig
+0 genes found
+>AYLP01000462 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10372 | SO=contig
+0 genes found
+>AYLP01000463 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10389 | SO=contig
+0 genes found
+>AYLP01000464 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10388 | SO=contig
+0 genes found
+>AYLP01000465 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10348 | SO=contig
+0 genes found
+>AYLP01000466 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10298 | SO=contig
+0 genes found
+>AYLP01000467 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10293 | SO=contig
+0 genes found
+>AYLP01000468 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10251 | SO=contig
+0 genes found
+>AYLP01000469 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10251 | SO=contig
+0 genes found
+>AYLP01000470 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10245 | SO=contig
+0 genes found
+>AYLP01000471 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10205 | SO=contig
+0 genes found
+>AYLP01000472 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10196 | SO=contig
+0 genes found
+>AYLP01000473 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10192 | SO=contig
+0 genes found
+>AYLP01000474 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10188 | SO=contig
+0 genes found
+>AYLP01000475 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10134 | SO=contig
+0 genes found
+>AYLP01000476 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10074 | SO=contig
+0 genes found
+>AYLP01000477 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10062 | SO=contig
+0 genes found
+>AYLP01000478 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=10026 | SO=contig
+0 genes found
+>AYLP01000479 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9952 | SO=contig
+0 genes found
+>AYLP01000480 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9977 | SO=contig
+0 genes found
+>AYLP01000481 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9984 | SO=contig
+0 genes found
+>AYLP01000482 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9957 | SO=contig
+0 genes found
+>AYLP01000483 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9919 | SO=contig
+0 genes found
+>AYLP01000484 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9942 | SO=contig
+0 genes found
+>AYLP01000485 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9919 | SO=contig
+1 genes found
+1   tRNA-Ile                   [9513,9587]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>AYLP01000486 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9888 | SO=contig
+0 genes found
+>AYLP01000487 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9894 | SO=contig
+0 genes found
+>AYLP01000488 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9885 | SO=contig
+0 genes found
+>AYLP01000489 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9828 | SO=contig
+0 genes found
+>AYLP01000490 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9818 | SO=contig
+0 genes found
+>AYLP01000491 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9814 | SO=contig
+1 genes found
+1   tRNA-Ser                   [4341,4546]	100.8	35  	(gga)i(39,112)
+ccgtggtggtgaccggcgggctgggctccatcctggagatgcaggcactcggcgtgttcgcgaggatgtcatgcgctttggcgcaggagcgtgcgagcaccgttgcgctgccgtacttcctgtcggtgttcgctgcccttgatccgctgtggatggtggtgggcaacgcgctgctcgccgctgtgttcgggtgcgtgcactacggt
+((((((((   .((ddddddddd)). (((((  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii )))))  (..(((vvvvv)))..)      ((((tttttttt))))))))))))
+>AYLP01000492 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9779 | SO=contig
+0 genes found
+>AYLP01000493 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9777 | SO=contig
+0 genes found
+>AYLP01000494 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9757 | SO=contig
+0 genes found
+>AYLP01000495 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9663 | SO=contig
+0 genes found
+>AYLP01000496 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9677 | SO=contig
+0 genes found
+>AYLP01000497 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9641 | SO=contig
+0 genes found
+>AYLP01000498 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9566 | SO=contig
+0 genes found
+>AYLP01000499 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9560 | SO=contig
+0 genes found
+>AYLP01000500 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9561 | SO=contig
+0 genes found
+>AYLP01000501 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9539 | SO=contig
+0 genes found
+>AYLP01000502 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9531 | SO=contig
+0 genes found
+>AYLP01000503 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9528 | SO=contig
+0 genes found
+>AYLP01000504 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9500 | SO=contig
+0 genes found
+>AYLP01000505 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9498 | SO=contig
+0 genes found
+>AYLP01000506 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9461 | SO=contig
+1 genes found
+1   tRNA-Ser                   [6502,6707]	100.8	35  	(gga)i(39,112)
+ccgtggtggtgaccggcgggctgggctccatcctggagatgcaggcactgggcgtgttcgcgaggatgtcatgcgcctcggcgcaggagcgtgcgagcaccgttgcactgccgtacttcttgtcggtgtttgctgcccttgacccgctgtggatggtggtgggcaacgcgctgctcgccgctgtgttcgggtgcgtgcactacggt
+((((((((   .((ddddddddd)). (((((  AAA iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii )))))  (..((vvvvvvv))..)      ((((tttttttt))))))))))))
+>AYLP01000507 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9436 | SO=contig
+0 genes found
+>AYLP01000508 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9422 | SO=contig
+0 genes found
+>AYLP01000509 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9414 | SO=contig
+0 genes found
+>AYLP01000510 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9392 | SO=contig
+0 genes found
+>AYLP01000511 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9403 | SO=contig
+0 genes found
+>AYLP01000512 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9325 | SO=contig
+0 genes found
+>AYLP01000513 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9309 | SO=contig
+0 genes found
+>AYLP01000514 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9314 | SO=contig
+0 genes found
+>AYLP01000515 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9305 | SO=contig
+0 genes found
+>AYLP01000516 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9290 | SO=contig
+0 genes found
+>AYLP01000517 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9214 | SO=contig
+0 genes found
+>AYLP01000518 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9222 | SO=contig
+0 genes found
+>AYLP01000519 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9194 | SO=contig
+0 genes found
+>AYLP01000520 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9166 | SO=contig
+0 genes found
+>AYLP01000521 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9169 | SO=contig
+0 genes found
+>AYLP01000522 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9191 | SO=contig
+0 genes found
+>AYLP01000523 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9125 | SO=contig
+0 genes found
+>AYLP01000524 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9107 | SO=contig
+0 genes found
+>AYLP01000525 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9081 | SO=contig
+0 genes found
+>AYLP01000526 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9053 | SO=contig
+0 genes found
+>AYLP01000527 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9048 | SO=contig
+0 genes found
+>AYLP01000528 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=9010 | SO=contig
+0 genes found
+>AYLP01000529 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8971 | SO=contig
+0 genes found
+>AYLP01000530 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8958 | SO=contig
+0 genes found
+>AYLP01000531 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8924 | SO=contig
+0 genes found
+>AYLP01000532 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8920 | SO=contig
+0 genes found
+>AYLP01000533 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8931 | SO=contig
+0 genes found
+>AYLP01000534 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8924 | SO=contig
+0 genes found
+>AYLP01000535 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8902 | SO=contig
+0 genes found
+>AYLP01000536 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8904 | SO=contig
+0 genes found
+>AYLP01000537 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8844 | SO=contig
+0 genes found
+>AYLP01000538 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8801 | SO=contig
+0 genes found
+>AYLP01000539 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8792 | SO=contig
+0 genes found
+>AYLP01000540 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8758 | SO=contig
+0 genes found
+>AYLP01000541 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8702 | SO=contig
+0 genes found
+>AYLP01000542 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8640 | SO=contig
+0 genes found
+>AYLP01000543 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8646 | SO=contig
+0 genes found
+>AYLP01000544 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8625 | SO=contig
+0 genes found
+>AYLP01000545 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8637 | SO=contig
+0 genes found
+>AYLP01000546 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8621 | SO=contig
+0 genes found
+>AYLP01000547 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8636 | SO=contig
+0 genes found
+>AYLP01000548 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8607 | SO=contig
+0 genes found
+>AYLP01000549 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8571 | SO=contig
+0 genes found
+>AYLP01000550 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8531 | SO=contig
+0 genes found
+>AYLP01000551 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8511 | SO=contig
+0 genes found
+>AYLP01000552 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8526 | SO=contig
+0 genes found
+>AYLP01000553 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8515 | SO=contig
+0 genes found
+>AYLP01000554 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8474 | SO=contig
+0 genes found
+>AYLP01000555 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8457 | SO=contig
+0 genes found
+>AYLP01000556 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8456 | SO=contig
+0 genes found
+>AYLP01000557 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8421 | SO=contig
+0 genes found
+>AYLP01000558 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8436 | SO=contig
+0 genes found
+>AYLP01000559 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8397 | SO=contig
+0 genes found
+>AYLP01000560 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8366 | SO=contig
+0 genes found
+>AYLP01000561 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8380 | SO=contig
+0 genes found
+>AYLP01000562 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8360 | SO=contig
+0 genes found
+>AYLP01000563 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8270 | SO=contig
+0 genes found
+>AYLP01000564 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8271 | SO=contig
+0 genes found
+>AYLP01000565 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8263 | SO=contig
+0 genes found
+>AYLP01000566 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8229 | SO=contig
+0 genes found
+>AYLP01000567 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8184 | SO=contig
+0 genes found
+>AYLP01000568 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8184 | SO=contig
+0 genes found
+>AYLP01000569 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8133 | SO=contig
+0 genes found
+>AYLP01000570 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8123 | SO=contig
+0 genes found
+>AYLP01000571 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8122 | SO=contig
+0 genes found
+>AYLP01000572 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8094 | SO=contig
+0 genes found
+>AYLP01000573 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8063 | SO=contig
+0 genes found
+>AYLP01000574 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8054 | SO=contig
+0 genes found
+>AYLP01000575 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8044 | SO=contig
+0 genes found
+>AYLP01000576 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8050 | SO=contig
+0 genes found
+>AYLP01000577 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8048 | SO=contig
+0 genes found
+>AYLP01000578 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8038 | SO=contig
+0 genes found
+>AYLP01000579 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8023 | SO=contig
+0 genes found
+>AYLP01000580 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8019 | SO=contig
+0 genes found
+>AYLP01000581 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=8016 | SO=contig
+0 genes found
+>AYLP01000582 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7979 | SO=contig
+0 genes found
+>AYLP01000583 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7964 | SO=contig
+0 genes found
+>AYLP01000584 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7915 | SO=contig
+0 genes found
+>AYLP01000585 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7885 | SO=contig
+0 genes found
+>AYLP01000586 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7818 | SO=contig
+0 genes found
+>AYLP01000587 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7833 | SO=contig
+0 genes found
+>AYLP01000588 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7825 | SO=contig
+0 genes found
+>AYLP01000589 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7778 | SO=contig
+0 genes found
+>AYLP01000590 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7736 | SO=contig
+0 genes found
+>AYLP01000591 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7724 | SO=contig
+0 genes found
+>AYLP01000592 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7647 | SO=contig
+0 genes found
+>AYLP01000593 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7651 | SO=contig
+0 genes found
+>AYLP01000594 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7656 | SO=contig
+0 genes found
+>AYLP01000595 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7645 | SO=contig
+0 genes found
+>AYLP01000596 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7641 | SO=contig
+0 genes found
+>AYLP01000597 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7638 | SO=contig
+0 genes found
+>AYLP01000598 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7609 | SO=contig
+0 genes found
+>AYLP01000599 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7611 | SO=contig
+0 genes found
+>AYLP01000600 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7598 | SO=contig
+0 genes found
+>AYLP01000601 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7592 | SO=contig
+0 genes found
+>AYLP01000602 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7573 | SO=contig
+0 genes found
+>AYLP01000603 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7578 | SO=contig
+0 genes found
+>AYLP01000604 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7557 | SO=contig
+0 genes found
+>AYLP01000605 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7552 | SO=contig
+0 genes found
+>AYLP01000606 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7566 | SO=contig
+0 genes found
+>AYLP01000607 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7546 | SO=contig
+0 genes found
+>AYLP01000608 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7539 | SO=contig
+0 genes found
+>AYLP01000609 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7525 | SO=contig
+0 genes found
+>AYLP01000610 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7525 | SO=contig
+0 genes found
+>AYLP01000611 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7504 | SO=contig
+0 genes found
+>AYLP01000612 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7472 | SO=contig
+0 genes found
+>AYLP01000613 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7478 | SO=contig
+0 genes found
+>AYLP01000614 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7476 | SO=contig
+0 genes found
+>AYLP01000615 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7463 | SO=contig
+0 genes found
+>AYLP01000616 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7470 | SO=contig
+0 genes found
+>AYLP01000617 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7459 | SO=contig
+0 genes found
+>AYLP01000618 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7446 | SO=contig
+0 genes found
+>AYLP01000619 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7426 | SO=contig
+0 genes found
+>AYLP01000620 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7414 | SO=contig
+0 genes found
+>AYLP01000621 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7428 | SO=contig
+0 genes found
+>AYLP01000622 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7330 | SO=contig
+0 genes found
+>AYLP01000623 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7333 | SO=contig
+0 genes found
+>AYLP01000624 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7324 | SO=contig
+0 genes found
+>AYLP01000625 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7278 | SO=contig
+0 genes found
+>AYLP01000626 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7279 | SO=contig
+0 genes found
+>AYLP01000627 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7287 | SO=contig
+0 genes found
+>AYLP01000628 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7272 | SO=contig
+0 genes found
+>AYLP01000629 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7264 | SO=contig
+0 genes found
+>AYLP01000630 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7268 | SO=contig
+0 genes found
+>AYLP01000631 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7259 | SO=contig
+0 genes found
+>AYLP01000632 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7243 | SO=contig
+0 genes found
+>AYLP01000633 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7241 | SO=contig
+0 genes found
+>AYLP01000634 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7214 | SO=contig
+0 genes found
+>AYLP01000635 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7203 | SO=contig
+0 genes found
+>AYLP01000636 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7175 | SO=contig
+0 genes found
+>AYLP01000637 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7172 | SO=contig
+0 genes found
+>AYLP01000638 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7165 | SO=contig
+0 genes found
+>AYLP01000639 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7134 | SO=contig
+0 genes found
+>AYLP01000640 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7080 | SO=contig
+0 genes found
+>AYLP01000641 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7085 | SO=contig
+0 genes found
+>AYLP01000642 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7059 | SO=contig
+0 genes found
+>AYLP01000643 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7061 | SO=contig
+0 genes found
+>AYLP01000644 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7061 | SO=contig
+0 genes found
+>AYLP01000645 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7023 | SO=contig
+0 genes found
+>AYLP01000646 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7012 | SO=contig
+0 genes found
+>AYLP01000647 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=7003 | SO=contig
+0 genes found
+>AYLP01000648 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6989 | SO=contig
+0 genes found
+>AYLP01000649 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6978 | SO=contig
+0 genes found
+>AYLP01000650 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6939 | SO=contig
+0 genes found
+>AYLP01000651 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6911 | SO=contig
+1 genes found
+1   tRNA-Asn                       [12,86]	118.7	35  	(gtt)
+ttcctccctggcgcagccggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagt
+((((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt)))))))))))))
+>AYLP01000652 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6902 | SO=contig
+0 genes found
+>AYLP01000653 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6832 | SO=contig
+0 genes found
+>AYLP01000654 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6810 | SO=contig
+0 genes found
+>AYLP01000655 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6779 | SO=contig
+0 genes found
+>AYLP01000656 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6748 | SO=contig
+0 genes found
+>AYLP01000657 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6755 | SO=contig
+0 genes found
+>AYLP01000658 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6753 | SO=contig
+0 genes found
+>AYLP01000659 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6745 | SO=contig
+0 genes found
+>AYLP01000660 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6739 | SO=contig
+0 genes found
+>AYLP01000661 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6734 | SO=contig
+0 genes found
+>AYLP01000662 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6693 | SO=contig
+0 genes found
+>AYLP01000663 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6714 | SO=contig
+0 genes found
+>AYLP01000664 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6661 | SO=contig
+0 genes found
+>AYLP01000665 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6645 | SO=contig
+0 genes found
+>AYLP01000666 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6597 | SO=contig
+0 genes found
+>AYLP01000667 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6600 | SO=contig
+0 genes found
+>AYLP01000668 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6540 | SO=contig
+0 genes found
+>AYLP01000669 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6525 | SO=contig
+0 genes found
+>AYLP01000670 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6515 | SO=contig
+0 genes found
+>AYLP01000671 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6499 | SO=contig
+0 genes found
+>AYLP01000672 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6504 | SO=contig
+0 genes found
+>AYLP01000673 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6481 | SO=contig
+0 genes found
+>AYLP01000674 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6476 | SO=contig
+0 genes found
+>AYLP01000675 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6483 | SO=contig
+0 genes found
+>AYLP01000676 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6442 | SO=contig
+0 genes found
+>AYLP01000677 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6441 | SO=contig
+0 genes found
+>AYLP01000678 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6432 | SO=contig
+0 genes found
+>AYLP01000679 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6432 | SO=contig
+0 genes found
+>AYLP01000680 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6426 | SO=contig
+0 genes found
+>AYLP01000681 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6442 | SO=contig
+0 genes found
+>AYLP01000682 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6406 | SO=contig
+0 genes found
+>AYLP01000683 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6412 | SO=contig
+0 genes found
+>AYLP01000684 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6380 | SO=contig
+0 genes found
+>AYLP01000685 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6388 | SO=contig
+0 genes found
+>AYLP01000686 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6374 | SO=contig
+0 genes found
+>AYLP01000687 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6371 | SO=contig
+0 genes found
+>AYLP01000688 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6337 | SO=contig
+0 genes found
+>AYLP01000689 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6333 | SO=contig
+0 genes found
+>AYLP01000690 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6321 | SO=contig
+0 genes found
+>AYLP01000691 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6320 | SO=contig
+0 genes found
+>AYLP01000692 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6306 | SO=contig
+0 genes found
+>AYLP01000693 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6281 | SO=contig
+0 genes found
+>AYLP01000694 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6277 | SO=contig
+0 genes found
+>AYLP01000695 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6270 | SO=contig
+0 genes found
+>AYLP01000696 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6271 | SO=contig
+0 genes found
+>AYLP01000697 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6292 | SO=contig
+0 genes found
+>AYLP01000698 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6198 | SO=contig
+0 genes found
+>AYLP01000699 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6187 | SO=contig
+0 genes found
+>AYLP01000700 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6144 | SO=contig
+0 genes found
+>AYLP01000701 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6141 | SO=contig
+0 genes found
+>AYLP01000702 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6115 | SO=contig
+0 genes found
+>AYLP01000703 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6111 | SO=contig
+0 genes found
+>AYLP01000704 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6085 | SO=contig
+0 genes found
+>AYLP01000705 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6058 | SO=contig
+0 genes found
+>AYLP01000706 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6041 | SO=contig
+2 genes found
+1   tRNA-Ala                  c[5743,5815]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+2   tRNA-Arg                  c[5869,5942]	119.0	34  	(ccg)
+cgacgttgtggcgcaatggaagcgcgtcggattccggatccgaaggttgcgggttcgacccccgtcagcgttgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+>AYLP01000707 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6052 | SO=contig
+0 genes found
+>AYLP01000708 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6032 | SO=contig
+0 genes found
+>AYLP01000709 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6013 | SO=contig
+0 genes found
+>AYLP01000710 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=6025 | SO=contig
+0 genes found
+>AYLP01000711 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5993 | SO=contig
+0 genes found
+>AYLP01000712 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5989 | SO=contig
+0 genes found
+>AYLP01000713 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5986 | SO=contig
+0 genes found
+>AYLP01000714 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5963 | SO=contig
+0 genes found
+>AYLP01000715 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5933 | SO=contig
+0 genes found
+>AYLP01000716 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5926 | SO=contig
+0 genes found
+>AYLP01000717 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5938 | SO=contig
+0 genes found
+>AYLP01000718 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5920 | SO=contig
+0 genes found
+>AYLP01000719 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5897 | SO=contig
+0 genes found
+>AYLP01000720 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5889 | SO=contig
+0 genes found
+>AYLP01000721 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5885 | SO=contig
+2 genes found
+1   tRNA-Asn                     c[35,120]	108.4	34  	(gtt)i(36,13)
+ccttctgtagctcaattggtagagcatgtgactgtagaacttcggcagtaatcacagggtcgctggttcgattccggccggaagga
+(((((((  ((((dddddddd)))) (((((  AAiiiiiiiiiiiiiA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Val                     [216,290]	118.0	35  	(aac)
+gcgctgatggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgatcggcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>AYLP01000722 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5899 | SO=contig
+0 genes found
+>AYLP01000723 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5890 | SO=contig
+0 genes found
+>AYLP01000724 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5858 | SO=contig
+0 genes found
+>AYLP01000725 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5833 | SO=contig
+0 genes found
+>AYLP01000726 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5838 | SO=contig
+0 genes found
+>AYLP01000727 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5831 | SO=contig
+0 genes found
+>AYLP01000728 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5821 | SO=contig
+0 genes found
+>AYLP01000729 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5810 | SO=contig
+0 genes found
+>AYLP01000730 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5815 | SO=contig
+0 genes found
+>AYLP01000731 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5815 | SO=contig
+0 genes found
+>AYLP01000732 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5810 | SO=contig
+0 genes found
+>AYLP01000733 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5786 | SO=contig
+0 genes found
+>AYLP01000734 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5768 | SO=contig
+0 genes found
+>AYLP01000735 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5745 | SO=contig
+0 genes found
+>AYLP01000736 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5730 | SO=contig
+0 genes found
+>AYLP01000737 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5734 | SO=contig
+0 genes found
+>AYLP01000738 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5739 | SO=contig
+0 genes found
+>AYLP01000739 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5723 | SO=contig
+0 genes found
+>AYLP01000740 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5724 | SO=contig
+0 genes found
+>AYLP01000741 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5684 | SO=contig
+0 genes found
+>AYLP01000742 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5694 | SO=contig
+0 genes found
+>AYLP01000743 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5675 | SO=contig
+0 genes found
+>AYLP01000744 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5665 | SO=contig
+0 genes found
+>AYLP01000745 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5636 | SO=contig
+0 genes found
+>AYLP01000746 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5638 | SO=contig
+0 genes found
+>AYLP01000747 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5603 | SO=contig
+0 genes found
+>AYLP01000748 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5609 | SO=contig
+0 genes found
+>AYLP01000749 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5605 | SO=contig
+0 genes found
+>AYLP01000750 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5587 | SO=contig
+0 genes found
+>AYLP01000751 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5586 | SO=contig
+0 genes found
+>AYLP01000752 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5576 | SO=contig
+0 genes found
+>AYLP01000753 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5562 | SO=contig
+0 genes found
+>AYLP01000754 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5550 | SO=contig
+0 genes found
+>AYLP01000755 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5530 | SO=contig
+0 genes found
+>AYLP01000756 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5527 | SO=contig
+0 genes found
+>AYLP01000757 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5531 | SO=contig
+0 genes found
+>AYLP01000758 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5526 | SO=contig
+0 genes found
+>AYLP01000759 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5518 | SO=contig
+0 genes found
+>AYLP01000760 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5525 | SO=contig
+0 genes found
+>AYLP01000761 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5523 | SO=contig
+0 genes found
+>AYLP01000762 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5530 | SO=contig
+0 genes found
+>AYLP01000763 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5530 | SO=contig
+0 genes found
+>AYLP01000764 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5476 | SO=contig
+0 genes found
+>AYLP01000765 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5478 | SO=contig
+0 genes found
+>AYLP01000766 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5460 | SO=contig
+0 genes found
+>AYLP01000767 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5450 | SO=contig
+0 genes found
+>AYLP01000768 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5438 | SO=contig
+0 genes found
+>AYLP01000769 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5445 | SO=contig
+0 genes found
+>AYLP01000770 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5428 | SO=contig
+0 genes found
+>AYLP01000771 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5429 | SO=contig
+0 genes found
+>AYLP01000772 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5434 | SO=contig
+0 genes found
+>AYLP01000773 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5411 | SO=contig
+0 genes found
+>AYLP01000774 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5376 | SO=contig
+0 genes found
+>AYLP01000775 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5375 | SO=contig
+0 genes found
+>AYLP01000776 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5373 | SO=contig
+0 genes found
+>AYLP01000777 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5352 | SO=contig
+0 genes found
+>AYLP01000778 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5340 | SO=contig
+0 genes found
+>AYLP01000779 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5343 | SO=contig
+0 genes found
+>AYLP01000780 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5326 | SO=contig
+0 genes found
+>AYLP01000781 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5316 | SO=contig
+0 genes found
+>AYLP01000782 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5302 | SO=contig
+0 genes found
+>AYLP01000783 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5282 | SO=contig
+0 genes found
+>AYLP01000784 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5276 | SO=contig
+0 genes found
+>AYLP01000785 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5212 | SO=contig
+0 genes found
+>AYLP01000786 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5200 | SO=contig
+0 genes found
+>AYLP01000787 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5197 | SO=contig
+0 genes found
+>AYLP01000788 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5188 | SO=contig
+0 genes found
+>AYLP01000789 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5191 | SO=contig
+0 genes found
+>AYLP01000790 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5159 | SO=contig
+0 genes found
+>AYLP01000791 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5146 | SO=contig
+0 genes found
+>AYLP01000792 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5131 | SO=contig
+0 genes found
+>AYLP01000793 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5142 | SO=contig
+0 genes found
+>AYLP01000794 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5138 | SO=contig
+0 genes found
+>AYLP01000795 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5120 | SO=contig
+0 genes found
+>AYLP01000796 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5119 | SO=contig
+0 genes found
+>AYLP01000797 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5106 | SO=contig
+0 genes found
+>AYLP01000798 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5097 | SO=contig
+0 genes found
+>AYLP01000799 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5097 | SO=contig
+0 genes found
+>AYLP01000800 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5104 | SO=contig
+0 genes found
+>AYLP01000801 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5101 | SO=contig
+0 genes found
+>AYLP01000802 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5095 | SO=contig
+0 genes found
+>AYLP01000803 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5104 | SO=contig
+0 genes found
+>AYLP01000804 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5078 | SO=contig
+0 genes found
+>AYLP01000805 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5091 | SO=contig
+0 genes found
+>AYLP01000806 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5070 | SO=contig
+0 genes found
+>AYLP01000807 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5067 | SO=contig
+0 genes found
+>AYLP01000808 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5058 | SO=contig
+0 genes found
+>AYLP01000809 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5063 | SO=contig
+0 genes found
+>AYLP01000810 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5039 | SO=contig
+0 genes found
+>AYLP01000811 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5060 | SO=contig
+0 genes found
+>AYLP01000812 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5064 | SO=contig
+0 genes found
+>AYLP01000813 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5047 | SO=contig
+0 genes found
+>AYLP01000814 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5017 | SO=contig
+0 genes found
+>AYLP01000815 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5024 | SO=contig
+0 genes found
+>AYLP01000816 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=5008 | SO=contig
+0 genes found
+>AYLP01000817 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4992 | SO=contig
+0 genes found
+>AYLP01000818 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4988 | SO=contig
+0 genes found
+>AYLP01000819 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4907 | SO=contig
+0 genes found
+>AYLP01000820 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4900 | SO=contig
+0 genes found
+>AYLP01000821 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4888 | SO=contig
+0 genes found
+>AYLP01000822 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4888 | SO=contig
+0 genes found
+>AYLP01000823 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4881 | SO=contig
+0 genes found
+>AYLP01000824 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4890 | SO=contig
+0 genes found
+>AYLP01000825 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4874 | SO=contig
+0 genes found
+>AYLP01000826 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4862 | SO=contig
+0 genes found
+>AYLP01000827 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4852 | SO=contig
+0 genes found
+>AYLP01000828 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4811 | SO=contig
+0 genes found
+>AYLP01000829 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4811 | SO=contig
+0 genes found
+>AYLP01000830 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4803 | SO=contig
+0 genes found
+>AYLP01000831 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4813 | SO=contig
+0 genes found
+>AYLP01000832 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4792 | SO=contig
+0 genes found
+>AYLP01000833 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4772 | SO=contig
+0 genes found
+>AYLP01000834 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4763 | SO=contig
+0 genes found
+>AYLP01000835 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4764 | SO=contig
+0 genes found
+>AYLP01000836 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4760 | SO=contig
+0 genes found
+>AYLP01000837 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4712 | SO=contig
+0 genes found
+>AYLP01000838 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4701 | SO=contig
+0 genes found
+>AYLP01000839 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4695 | SO=contig
+0 genes found
+>AYLP01000840 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4688 | SO=contig
+0 genes found
+>AYLP01000841 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4683 | SO=contig
+0 genes found
+>AYLP01000842 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4674 | SO=contig
+0 genes found
+>AYLP01000843 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4682 | SO=contig
+0 genes found
+>AYLP01000844 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4660 | SO=contig
+0 genes found
+>AYLP01000845 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4654 | SO=contig
+0 genes found
+>AYLP01000846 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4653 | SO=contig
+0 genes found
+>AYLP01000847 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4634 | SO=contig
+0 genes found
+>AYLP01000848 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4599 | SO=contig
+0 genes found
+>AYLP01000849 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4598 | SO=contig
+0 genes found
+>AYLP01000850 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4583 | SO=contig
+0 genes found
+>AYLP01000851 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4600 | SO=contig
+0 genes found
+>AYLP01000852 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4583 | SO=contig
+0 genes found
+>AYLP01000853 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4578 | SO=contig
+0 genes found
+>AYLP01000854 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4577 | SO=contig
+0 genes found
+>AYLP01000855 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4548 | SO=contig
+0 genes found
+>AYLP01000856 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4534 | SO=contig
+0 genes found
+>AYLP01000857 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4533 | SO=contig
+0 genes found
+>AYLP01000858 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4509 | SO=contig
+0 genes found
+>AYLP01000859 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4516 | SO=contig
+0 genes found
+>AYLP01000860 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4505 | SO=contig
+0 genes found
+>AYLP01000861 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4491 | SO=contig
+0 genes found
+>AYLP01000862 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4490 | SO=contig
+0 genes found
+>AYLP01000863 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4490 | SO=contig
+0 genes found
+>AYLP01000864 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4464 | SO=contig
+0 genes found
+>AYLP01000865 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4470 | SO=contig
+0 genes found
+>AYLP01000866 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4460 | SO=contig
+0 genes found
+>AYLP01000867 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4458 | SO=contig
+0 genes found
+>AYLP01000868 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4444 | SO=contig
+0 genes found
+>AYLP01000869 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4429 | SO=contig
+0 genes found
+>AYLP01000870 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4427 | SO=contig
+0 genes found
+>AYLP01000871 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4409 | SO=contig
+0 genes found
+>AYLP01000872 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4419 | SO=contig
+0 genes found
+>AYLP01000873 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4415 | SO=contig
+0 genes found
+>AYLP01000874 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4390 | SO=contig
+0 genes found
+>AYLP01000875 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4388 | SO=contig
+0 genes found
+>AYLP01000876 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4391 | SO=contig
+0 genes found
+>AYLP01000877 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4407 | SO=contig
+0 genes found
+>AYLP01000878 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4382 | SO=contig
+0 genes found
+>AYLP01000879 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4360 | SO=contig
+0 genes found
+>AYLP01000880 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4322 | SO=contig
+0 genes found
+>AYLP01000881 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4314 | SO=contig
+0 genes found
+>AYLP01000882 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4286 | SO=contig
+0 genes found
+>AYLP01000883 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4302 | SO=contig
+0 genes found
+>AYLP01000884 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4292 | SO=contig
+0 genes found
+>AYLP01000885 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4273 | SO=contig
+0 genes found
+>AYLP01000886 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4285 | SO=contig
+0 genes found
+>AYLP01000887 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4272 | SO=contig
+0 genes found
+>AYLP01000888 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4267 | SO=contig
+0 genes found
+>AYLP01000889 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4255 | SO=contig
+0 genes found
+>AYLP01000890 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4251 | SO=contig
+0 genes found
+>AYLP01000891 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4237 | SO=contig
+0 genes found
+>AYLP01000892 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4211 | SO=contig
+0 genes found
+>AYLP01000893 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4209 | SO=contig
+0 genes found
+>AYLP01000894 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4209 | SO=contig
+0 genes found
+>AYLP01000895 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4192 | SO=contig
+0 genes found
+>AYLP01000896 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4181 | SO=contig
+0 genes found
+>AYLP01000897 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4180 | SO=contig
+0 genes found
+>AYLP01000898 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4192 | SO=contig
+0 genes found
+>AYLP01000899 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4187 | SO=contig
+0 genes found
+>AYLP01000900 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4136 | SO=contig
+0 genes found
+>AYLP01000901 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4135 | SO=contig
+0 genes found
+>AYLP01000902 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4143 | SO=contig
+0 genes found
+>AYLP01000903 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4138 | SO=contig
+0 genes found
+>AYLP01000904 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4146 | SO=contig
+0 genes found
+>AYLP01000905 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4120 | SO=contig
+0 genes found
+>AYLP01000906 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4108 | SO=contig
+0 genes found
+>AYLP01000907 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4112 | SO=contig
+0 genes found
+>AYLP01000908 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4099 | SO=contig
+0 genes found
+>AYLP01000909 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4087 | SO=contig
+0 genes found
+>AYLP01000910 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4084 | SO=contig
+0 genes found
+>AYLP01000911 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4034 | SO=contig
+0 genes found
+>AYLP01000912 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4041 | SO=contig
+0 genes found
+>AYLP01000913 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4032 | SO=contig
+0 genes found
+>AYLP01000914 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=4022 | SO=contig
+0 genes found
+>AYLP01000915 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3995 | SO=contig
+0 genes found
+>AYLP01000916 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3988 | SO=contig
+0 genes found
+>AYLP01000917 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3962 | SO=contig
+0 genes found
+>AYLP01000918 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3972 | SO=contig
+0 genes found
+>AYLP01000919 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3968 | SO=contig
+0 genes found
+>AYLP01000920 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3954 | SO=contig
+0 genes found
+>AYLP01000921 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3959 | SO=contig
+0 genes found
+>AYLP01000922 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3956 | SO=contig
+0 genes found
+>AYLP01000923 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3941 | SO=contig
+0 genes found
+>AYLP01000924 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3944 | SO=contig
+0 genes found
+>AYLP01000925 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3939 | SO=contig
+0 genes found
+>AYLP01000926 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3909 | SO=contig
+0 genes found
+>AYLP01000927 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3910 | SO=contig
+0 genes found
+>AYLP01000928 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3908 | SO=contig
+0 genes found
+>AYLP01000929 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3894 | SO=contig
+0 genes found
+>AYLP01000930 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3891 | SO=contig
+0 genes found
+>AYLP01000931 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3884 | SO=contig
+0 genes found
+>AYLP01000932 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3901 | SO=contig
+0 genes found
+>AYLP01000933 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3865 | SO=contig
+0 genes found
+>AYLP01000934 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3864 | SO=contig
+0 genes found
+>AYLP01000935 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3863 | SO=contig
+0 genes found
+>AYLP01000936 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3855 | SO=contig
+0 genes found
+>AYLP01000937 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3841 | SO=contig
+0 genes found
+>AYLP01000938 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3833 | SO=contig
+0 genes found
+>AYLP01000939 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3830 | SO=contig
+0 genes found
+>AYLP01000940 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3816 | SO=contig
+3 genes found
+1   tRNA-Asp                  c[2951,3022]	124.0	34  	(gtc)
+ttctcggtagtatagtggtaagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaag
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Ser                   [3126,3206]	123.0	34  	(gct)
+gcaaacgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgtaggttcgaaccctaccgtttgcg
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Ala                   [3274,3349]	109.1	35  	(agc)
+tggggatgtagctcagatggtagagcgcccgcttagcatgcgggaggtattgggatcgatacccaacttctccaac
+((((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+>AYLP01000941 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3816 | SO=contig
+0 genes found
+>AYLP01000942 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3814 | SO=contig
+0 genes found
+>AYLP01000943 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3801 | SO=contig
+0 genes found
+>AYLP01000944 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3784 | SO=contig
+0 genes found
+>AYLP01000945 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3788 | SO=contig
+0 genes found
+>AYLP01000946 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3795 | SO=contig
+0 genes found
+>AYLP01000947 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3784 | SO=contig
+0 genes found
+>AYLP01000948 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3784 | SO=contig
+0 genes found
+>AYLP01000949 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3755 | SO=contig
+0 genes found
+>AYLP01000950 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3755 | SO=contig
+0 genes found
+>AYLP01000951 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3763 | SO=contig
+0 genes found
+>AYLP01000952 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3759 | SO=contig
+0 genes found
+>AYLP01000953 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3747 | SO=contig
+0 genes found
+>AYLP01000954 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3730 | SO=contig
+0 genes found
+>AYLP01000955 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3729 | SO=contig
+0 genes found
+>AYLP01000956 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3728 | SO=contig
+0 genes found
+>AYLP01000957 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3738 | SO=contig
+0 genes found
+>AYLP01000958 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3696 | SO=contig
+0 genes found
+>AYLP01000959 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3693 | SO=contig
+0 genes found
+>AYLP01000960 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3663 | SO=contig
+0 genes found
+>AYLP01000961 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3660 | SO=contig
+0 genes found
+>AYLP01000962 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3649 | SO=contig
+0 genes found
+>AYLP01000963 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3651 | SO=contig
+0 genes found
+>AYLP01000964 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3647 | SO=contig
+0 genes found
+>AYLP01000965 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3633 | SO=contig
+0 genes found
+>AYLP01000966 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3632 | SO=contig
+0 genes found
+>AYLP01000967 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3628 | SO=contig
+0 genes found
+>AYLP01000968 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3622 | SO=contig
+0 genes found
+>AYLP01000969 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3620 | SO=contig
+0 genes found
+>AYLP01000970 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3621 | SO=contig
+0 genes found
+>AYLP01000971 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3607 | SO=contig
+0 genes found
+>AYLP01000972 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3616 | SO=contig
+0 genes found
+>AYLP01000973 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3601 | SO=contig
+0 genes found
+>AYLP01000974 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3602 | SO=contig
+0 genes found
+>AYLP01000975 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3581 | SO=contig
+0 genes found
+>AYLP01000976 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3579 | SO=contig
+0 genes found
+>AYLP01000977 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3565 | SO=contig
+0 genes found
+>AYLP01000978 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3551 | SO=contig
+0 genes found
+>AYLP01000979 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3549 | SO=contig
+0 genes found
+>AYLP01000980 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3524 | SO=contig
+0 genes found
+>AYLP01000981 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3521 | SO=contig
+0 genes found
+>AYLP01000982 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3505 | SO=contig
+0 genes found
+>AYLP01000983 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3494 | SO=contig
+0 genes found
+>AYLP01000984 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3495 | SO=contig
+0 genes found
+>AYLP01000985 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3494 | SO=contig
+0 genes found
+>AYLP01000986 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3497 | SO=contig
+0 genes found
+>AYLP01000987 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3470 | SO=contig
+0 genes found
+>AYLP01000988 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3469 | SO=contig
+0 genes found
+>AYLP01000989 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3458 | SO=contig
+0 genes found
+>AYLP01000990 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3462 | SO=contig
+0 genes found
+>AYLP01000991 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3460 | SO=contig
+0 genes found
+>AYLP01000992 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3425 | SO=contig
+0 genes found
+>AYLP01000993 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3413 | SO=contig
+0 genes found
+>AYLP01000994 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3424 | SO=contig
+0 genes found
+>AYLP01000995 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3401 | SO=contig
+0 genes found
+>AYLP01000996 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3394 | SO=contig
+0 genes found
+>AYLP01000997 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3394 | SO=contig
+0 genes found
+>AYLP01000998 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3395 | SO=contig
+0 genes found
+>AYLP01000999 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3378 | SO=contig
+0 genes found
+>AYLP01001000 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3373 | SO=contig
+0 genes found
+>AYLP01001001 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3366 | SO=contig
+0 genes found
+>AYLP01001002 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3371 | SO=contig
+0 genes found
+>AYLP01001003 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3359 | SO=contig
+0 genes found
+>AYLP01001004 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3350 | SO=contig
+0 genes found
+>AYLP01001005 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3337 | SO=contig
+0 genes found
+>AYLP01001006 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3335 | SO=contig
+0 genes found
+>AYLP01001007 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3325 | SO=contig
+0 genes found
+>AYLP01001008 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3315 | SO=contig
+0 genes found
+>AYLP01001009 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3307 | SO=contig
+0 genes found
+>AYLP01001010 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3268 | SO=contig
+0 genes found
+>AYLP01001011 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3249 | SO=contig
+0 genes found
+>AYLP01001012 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3241 | SO=contig
+0 genes found
+>AYLP01001013 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3246 | SO=contig
+0 genes found
+>AYLP01001014 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3230 | SO=contig
+0 genes found
+>AYLP01001015 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3238 | SO=contig
+0 genes found
+>AYLP01001016 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3206 | SO=contig
+0 genes found
+>AYLP01001017 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3215 | SO=contig
+0 genes found
+>AYLP01001018 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3208 | SO=contig
+0 genes found
+>AYLP01001019 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3198 | SO=contig
+0 genes found
+>AYLP01001020 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3210 | SO=contig
+0 genes found
+>AYLP01001021 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3198 | SO=contig
+0 genes found
+>AYLP01001022 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3189 | SO=contig
+0 genes found
+>AYLP01001023 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3183 | SO=contig
+0 genes found
+>AYLP01001024 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3166 | SO=contig
+0 genes found
+>AYLP01001025 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3118 | SO=contig
+0 genes found
+>AYLP01001026 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3125 | SO=contig
+0 genes found
+>AYLP01001027 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3117 | SO=contig
+0 genes found
+>AYLP01001028 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3101 | SO=contig
+0 genes found
+>AYLP01001029 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3090 | SO=contig
+0 genes found
+>AYLP01001030 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3100 | SO=contig
+0 genes found
+>AYLP01001031 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3077 | SO=contig
+0 genes found
+>AYLP01001032 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3075 | SO=contig
+0 genes found
+>AYLP01001033 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3076 | SO=contig
+0 genes found
+>AYLP01001034 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3077 | SO=contig
+0 genes found
+>AYLP01001035 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3074 | SO=contig
+0 genes found
+>AYLP01001036 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3065 | SO=contig
+0 genes found
+>AYLP01001037 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3062 | SO=contig
+0 genes found
+>AYLP01001038 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3049 | SO=contig
+0 genes found
+>AYLP01001039 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3046 | SO=contig
+0 genes found
+>AYLP01001040 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3046 | SO=contig
+0 genes found
+>AYLP01001041 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3041 | SO=contig
+0 genes found
+>AYLP01001042 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3018 | SO=contig
+0 genes found
+>AYLP01001043 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3022 | SO=contig
+0 genes found
+>AYLP01001044 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3021 | SO=contig
+0 genes found
+>AYLP01001045 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3012 | SO=contig
+0 genes found
+>AYLP01001046 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3015 | SO=contig
+0 genes found
+>AYLP01001047 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3003 | SO=contig
+0 genes found
+>AYLP01001048 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3013 | SO=contig
+0 genes found
+>AYLP01001049 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3000 | SO=contig
+0 genes found
+>AYLP01001050 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3002 | SO=contig
+0 genes found
+>AYLP01001051 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=3004 | SO=contig
+0 genes found
+>AYLP01001052 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2995 | SO=contig
+0 genes found
+>AYLP01001053 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2986 | SO=contig
+0 genes found
+>AYLP01001054 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2966 | SO=contig
+0 genes found
+>AYLP01001055 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2962 | SO=contig
+0 genes found
+>AYLP01001056 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2947 | SO=contig
+0 genes found
+>AYLP01001057 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2940 | SO=contig
+0 genes found
+>AYLP01001058 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2940 | SO=contig
+0 genes found
+>AYLP01001059 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2922 | SO=contig
+0 genes found
+>AYLP01001060 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2923 | SO=contig
+0 genes found
+>AYLP01001061 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2903 | SO=contig
+0 genes found
+>AYLP01001062 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2908 | SO=contig
+0 genes found
+>AYLP01001063 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2890 | SO=contig
+0 genes found
+>AYLP01001064 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2893 | SO=contig
+0 genes found
+>AYLP01001065 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2885 | SO=contig
+0 genes found
+>AYLP01001066 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2892 | SO=contig
+0 genes found
+>AYLP01001067 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2869 | SO=contig
+0 genes found
+>AYLP01001068 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2855 | SO=contig
+0 genes found
+>AYLP01001069 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2852 | SO=contig
+0 genes found
+>AYLP01001070 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2846 | SO=contig
+0 genes found
+>AYLP01001071 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2833 | SO=contig
+0 genes found
+>AYLP01001072 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2829 | SO=contig
+0 genes found
+>AYLP01001073 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2816 | SO=contig
+0 genes found
+>AYLP01001074 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2810 | SO=contig
+0 genes found
+>AYLP01001075 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2809 | SO=contig
+0 genes found
+>AYLP01001076 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2818 | SO=contig
+0 genes found
+>AYLP01001077 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2798 | SO=contig
+0 genes found
+>AYLP01001078 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2794 | SO=contig
+0 genes found
+>AYLP01001079 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2781 | SO=contig
+0 genes found
+>AYLP01001080 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2776 | SO=contig
+0 genes found
+>AYLP01001081 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2782 | SO=contig
+0 genes found
+>AYLP01001082 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2771 | SO=contig
+0 genes found
+>AYLP01001083 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2758 | SO=contig
+0 genes found
+>AYLP01001084 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2744 | SO=contig
+0 genes found
+>AYLP01001085 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2743 | SO=contig
+0 genes found
+>AYLP01001086 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2733 | SO=contig
+0 genes found
+>AYLP01001087 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2725 | SO=contig
+0 genes found
+>AYLP01001088 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2717 | SO=contig
+0 genes found
+>AYLP01001089 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2708 | SO=contig
+0 genes found
+>AYLP01001090 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2702 | SO=contig
+0 genes found
+>AYLP01001091 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2694 | SO=contig
+0 genes found
+>AYLP01001092 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2692 | SO=contig
+0 genes found
+>AYLP01001093 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2685 | SO=contig
+0 genes found
+>AYLP01001094 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2690 | SO=contig
+0 genes found
+>AYLP01001095 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2681 | SO=contig
+0 genes found
+>AYLP01001096 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2672 | SO=contig
+0 genes found
+>AYLP01001097 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2654 | SO=contig
+0 genes found
+>AYLP01001098 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2650 | SO=contig
+0 genes found
+>AYLP01001099 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2661 | SO=contig
+0 genes found
+>AYLP01001100 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2631 | SO=contig
+0 genes found
+>AYLP01001101 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2622 | SO=contig
+0 genes found
+>AYLP01001102 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2629 | SO=contig
+0 genes found
+>AYLP01001103 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2611 | SO=contig
+0 genes found
+>AYLP01001104 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2614 | SO=contig
+0 genes found
+>AYLP01001105 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2605 | SO=contig
+0 genes found
+>AYLP01001106 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2594 | SO=contig
+1 genes found
+1   tRNA-Pro                     [412,483]	124.0	33  	(agg)
+ggcccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctgggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>AYLP01001107 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2593 | SO=contig
+0 genes found
+>AYLP01001108 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2584 | SO=contig
+0 genes found
+>AYLP01001109 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2579 | SO=contig
+0 genes found
+>AYLP01001110 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2558 | SO=contig
+0 genes found
+>AYLP01001111 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2560 | SO=contig
+0 genes found
+>AYLP01001112 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2547 | SO=contig
+0 genes found
+>AYLP01001113 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2541 | SO=contig
+0 genes found
+>AYLP01001114 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2528 | SO=contig
+0 genes found
+>AYLP01001115 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2513 | SO=contig
+0 genes found
+>AYLP01001116 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2510 | SO=contig
+0 genes found
+>AYLP01001117 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2506 | SO=contig
+0 genes found
+>AYLP01001118 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2482 | SO=contig
+0 genes found
+>AYLP01001119 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2479 | SO=contig
+0 genes found
+>AYLP01001120 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2472 | SO=contig
+0 genes found
+>AYLP01001121 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2466 | SO=contig
+0 genes found
+>AYLP01001122 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2455 | SO=contig
+0 genes found
+>AYLP01001123 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2421 | SO=contig
+0 genes found
+>AYLP01001124 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2429 | SO=contig
+0 genes found
+>AYLP01001125 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2418 | SO=contig
+0 genes found
+>AYLP01001126 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2421 | SO=contig
+0 genes found
+>AYLP01001127 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2403 | SO=contig
+0 genes found
+>AYLP01001128 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2396 | SO=contig
+0 genes found
+>AYLP01001129 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2387 | SO=contig
+0 genes found
+>AYLP01001130 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2383 | SO=contig
+0 genes found
+>AYLP01001131 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2375 | SO=contig
+0 genes found
+>AYLP01001132 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2367 | SO=contig
+0 genes found
+>AYLP01001133 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2350 | SO=contig
+0 genes found
+>AYLP01001134 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2341 | SO=contig
+0 genes found
+>AYLP01001135 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2343 | SO=contig
+0 genes found
+>AYLP01001136 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2331 | SO=contig
+0 genes found
+>AYLP01001137 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2328 | SO=contig
+0 genes found
+>AYLP01001138 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2325 | SO=contig
+0 genes found
+>AYLP01001139 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2321 | SO=contig
+0 genes found
+>AYLP01001140 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2312 | SO=contig
+0 genes found
+>AYLP01001141 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2306 | SO=contig
+0 genes found
+>AYLP01001142 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2303 | SO=contig
+1 genes found
+1   tRNA-Pro                     [118,190]	124.0	33  	(agg)
+ggcccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctgggcccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>AYLP01001143 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2299 | SO=contig
+0 genes found
+>AYLP01001144 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2299 | SO=contig
+0 genes found
+>AYLP01001145 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2298 | SO=contig
+0 genes found
+>AYLP01001146 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2295 | SO=contig
+0 genes found
+>AYLP01001147 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2294 | SO=contig
+0 genes found
+>AYLP01001148 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2296 | SO=contig
+0 genes found
+>AYLP01001149 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2286 | SO=contig
+0 genes found
+>AYLP01001150 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2287 | SO=contig
+0 genes found
+>AYLP01001151 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2284 | SO=contig
+0 genes found
+>AYLP01001152 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2292 | SO=contig
+0 genes found
+>AYLP01001153 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2258 | SO=contig
+0 genes found
+>AYLP01001154 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2232 | SO=contig
+0 genes found
+>AYLP01001155 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2224 | SO=contig
+0 genes found
+>AYLP01001156 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2218 | SO=contig
+0 genes found
+>AYLP01001157 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2218 | SO=contig
+0 genes found
+>AYLP01001158 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2218 | SO=contig
+0 genes found
+>AYLP01001159 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2224 | SO=contig
+0 genes found
+>AYLP01001160 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2224 | SO=contig
+0 genes found
+>AYLP01001161 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2222 | SO=contig
+0 genes found
+>AYLP01001162 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2211 | SO=contig
+0 genes found
+>AYLP01001163 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2213 | SO=contig
+0 genes found
+>AYLP01001164 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2197 | SO=contig
+0 genes found
+>AYLP01001165 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2197 | SO=contig
+0 genes found
+>AYLP01001166 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2196 | SO=contig
+0 genes found
+>AYLP01001167 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2181 | SO=contig
+0 genes found
+>AYLP01001168 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2179 | SO=contig
+0 genes found
+>AYLP01001169 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2178 | SO=contig
+0 genes found
+>AYLP01001170 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2181 | SO=contig
+0 genes found
+>AYLP01001171 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2179 | SO=contig
+0 genes found
+>AYLP01001172 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2157 | SO=contig
+0 genes found
+>AYLP01001173 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2154 | SO=contig
+0 genes found
+>AYLP01001174 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2149 | SO=contig
+0 genes found
+>AYLP01001175 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2148 | SO=contig
+0 genes found
+>AYLP01001176 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2138 | SO=contig
+0 genes found
+>AYLP01001177 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2137 | SO=contig
+0 genes found
+>AYLP01001178 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2134 | SO=contig
+0 genes found
+>AYLP01001179 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2118 | SO=contig
+0 genes found
+>AYLP01001180 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2110 | SO=contig
+0 genes found
+>AYLP01001181 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2108 | SO=contig
+0 genes found
+>AYLP01001182 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2108 | SO=contig
+0 genes found
+>AYLP01001183 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2096 | SO=contig
+0 genes found
+>AYLP01001184 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2092 | SO=contig
+0 genes found
+>AYLP01001185 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2090 | SO=contig
+0 genes found
+>AYLP01001186 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2086 | SO=contig
+0 genes found
+>AYLP01001187 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2079 | SO=contig
+0 genes found
+>AYLP01001188 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2078 | SO=contig
+0 genes found
+>AYLP01001189 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2076 | SO=contig
+0 genes found
+>AYLP01001190 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2075 | SO=contig
+0 genes found
+>AYLP01001191 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2069 | SO=contig
+0 genes found
+>AYLP01001192 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2071 | SO=contig
+0 genes found
+>AYLP01001193 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2064 | SO=contig
+0 genes found
+>AYLP01001194 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2059 | SO=contig
+0 genes found
+>AYLP01001195 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2058 | SO=contig
+0 genes found
+>AYLP01001196 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2055 | SO=contig
+0 genes found
+>AYLP01001197 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2054 | SO=contig
+0 genes found
+>AYLP01001198 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2049 | SO=contig
+0 genes found
+>AYLP01001199 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2047 | SO=contig
+0 genes found
+>AYLP01001200 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2053 | SO=contig
+0 genes found
+>AYLP01001201 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2046 | SO=contig
+0 genes found
+>AYLP01001202 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2049 | SO=contig
+0 genes found
+>AYLP01001203 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2040 | SO=contig
+0 genes found
+>AYLP01001204 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2024 | SO=contig
+0 genes found
+>AYLP01001205 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2024 | SO=contig
+0 genes found
+>AYLP01001206 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2021 | SO=contig
+0 genes found
+>AYLP01001207 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2011 | SO=contig
+0 genes found
+>AYLP01001208 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2009 | SO=contig
+0 genes found
+>AYLP01001209 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2007 | SO=contig
+0 genes found
+>AYLP01001210 | organism=Trypanosoma_cruzi_Dm28c | version=2013-11-13 | length=2004 | SO=contig
+0 genes found
+>end 	1210 sequences 56 tRNA genes, nothing found in 1181 sequences, (2.40% sensitivity)

@@ -1,0 +1,1501 @@
+>LmxM.01 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=273291 | SO=chromosome
+0 genes found
+>LmxM.02 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=298030 | SO=chromosome
+0 genes found
+>LmxM.03 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=375930 | SO=chromosome
+1 genes found
+1   tRNA-Lys               [249999,250072]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>LmxM.04 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=438817 | SO=chromosome
+1 genes found
+1   tRNA-Gly              c[143624,143818]	101.2	133 	(gcc)i(30,103)
+gccgagcatgcgacgggcaccgtgcagttggtgcttcgtcggagcggcgccgcctctgccgtcggcacagtcgcgacggcgctgttgcccgagcttgacaccgttgtcagtcacgtgcgactgtcctcctcggccgactgcatgggagagcaggtgccgtttcaactcctgggctcggagatcgaggttcggcac
+(((((((   ((.dddddd.))(((((  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiAAA  )))))         ....(vvvvv)....  ((.((tttttttt)).)))))))))
+>LmxM.05 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=451064 | SO=chromosome
+1 genes found
+1   tRNA-Arg               [361857,361928]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LmxM.06 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=479586 | SO=chromosome
+1 genes found
+1   tRNA-SeC                c[69352,69439]	108.3	36  	(tca)
+gccgcgatgagctcagctggtgctgggtgcgggcttcaaacccgtaggtgagttgctctcacagccgttcgattcggccttcgtggcg
+(((((((.( (((((((dddd)))))))(((((  AAA  )))))  (((((vvvvv))))) ((((ttttttt))))).)))))))
+>LmxM.07 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=568535 | SO=chromosome
+1 genes found
+1   tRNA-Arg              c[362192,362263]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatg
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LmxM.08 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1671993 | SO=chromosome
+4 genes found
+1   tRNA-Ser               [371234,371314]	119.6	34  	(cga)
+gtcaccatacccaagtggttacgggggttgactcgaaatcaactgcgatctcgcgcgcaggttcgaatcctgctggtgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Leu               [371370,371451]	117.8	35  	(caa)
+ggcaggatggccgagtggtctaaggcgggagactcaagttctcttctattcgtaggcgcgggttcgaaccccgctcctgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Asp               [690859,690977]	102.4	59  	(atc)i(35,24)
+cactactgttgcttaggttgctgtggccggggcggtgcaacgcggaagccgagccaagatcggctccgccagaggcaacgctcagcgctgcggccgccgtgatactcggcgagtagcga
+(.(((((   (((.ddddddddd.)))(((((  iiiiiiiiiiiiiiiiiiiiiiiiAAA  )))))        ......vvvvv...... (((((ttttttt)))))))))).)
+4   tRNA-Ile               [953142,953230]	102.6	36  	(aat)
+ttcaagatggcgtgggcaccgttgacgtcggcgttaatgcggctgatgggagactctcgtgtgtgtgtgtgccacaccctctcctggcg
+.(((.((  ((((ddddddddddd))))((((.  AAA  .))))(((((vvvvv)))))    (.(.(ttttttt).).))).))).
+>LmxM.09 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=543865 | SO=chromosome
+9 genes found
+1   tRNA-Met               [252160,252231]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Leu               [252293,252376]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+3   tRNA-Val               [380785,380858]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-His               [381102,381173]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+5   tRNA-Phe              c[381364,381436]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Glu              c[391427,391500]	118.0	35  	(ttc)
+ttccgatgtagtataacggttagaacacctggctttcacccaggagatccgggttcgattcccggtatcggagt
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+7   tRNA-Val              c[391735,391808]	112.1	34  	(cac)
+gcgatggtcgtctagtggttaggacattcgcctcacacgcgagagatcgcgggttcaatccccgcccgtcgtac
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+8   tRNA-Arg               [391883,391955]	118.6	33  	(ccg)
+gacgttgtggcgcaatggaagcgcgtcggattccggatccgaaggttgtgggttcgacccccatcagcgttgc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+9   tRNA-His               [392019,392090]	116.1	33  	(gtg)
+ggggaaatagttcagtggcagaacatcagattgtggctctgaatacccgggtccgattcccggtttcccctc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+>LmxM.10 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=516955 | SO=chromosome
+4 genes found
+1   tRNA-Trp                   [1683,1805]	102.1	64  	(cca)i(32,30)
+ttgcttgtgccgcgaggagagcggcaagcgtggtatgactgcgcctcagggagcacgtgcactccaagacgctctaaaagagggtcgtccgtttttactcccgttccttgtgcgatagggaaa
+((.((((  ((((ddddddd))))  (((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  ))))).(..(.(vvvvv).)..).      ((.((ttttttt)).)))))).))
+2   tRNA-Lys               [480568,480641]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+3   tRNA-Gly              c[480678,480748]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+4   tRNA-Asn              c[480805,480877]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggag
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>LmxM.11 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=558295 | SO=chromosome
+7 genes found
+1   tRNA-Leu              c[158151,158232]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ala               [158306,158378]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+3   tRNA-Gly              c[163343,163414]	122.0	33  	(ccc)
+gcgccgctggtctagtggcatgatggtaccctcccaaggtattgacccgggttcgattcccgggcggcgcac
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+4   tRNA-Ala              c[163474,163546]	119.0	33  	(cgc)
+gggcgtgtagctcagtggtagagcgtccgtttcgcatacggaaggcctagggttcgatcccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+5   tRNA-Leu               [163620,163701]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+6   tRNA-Met              c[361347,361421]	113.6	35  	(cat)
+tgcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgcat
+(((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).)))))
+7   tRNA-Arg               [361496,361568]	120.3	33  	(acg)
+gtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgc
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LmxM.12 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=507359 | SO=chromosome
+1 genes found
+1   tRNA-Gly               [488968,489046]	100.6	38  	(gcc)
+tgcgtctgggacttgtggagtggaagtccccctcgctgccaccggggctggacgtcgctacgctcgacggggtgcaccc
+(((((((  ((((ddddddddddd))))  (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LmxM.13 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=613217 | SO=chromosome
+0 genes found
+>LmxM.14 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=610423 | SO=chromosome
+1 genes found
+1   tRNA-Pro               [276021,276210]	100.3	129 	(cgg)i(28,99)
+gtgcggtggcgagcgttgggcagcagtggtgccactatcgccgccaactggtttcggtggcagcaagggagacgcgagccgcggcggaggggagagacgcagcggtgtggaaaagccgacacccaccgcggtggctgcggcatgcgccggggtgagagggctcccgttgtgcaacttcggcgaccgcacg
+((((((( ((.ddddddd.)) (((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))       (((...vvvv...)))   (((((tttttttt))))))))))))
+>LmxM.15 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=574822 | SO=chromosome
+2 genes found
+1   tRNA-Asp               [288738,288810]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Glu              c[288849,288922]	118.1	35  	(ctc)
+ttccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaat
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+>LmxM.16 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=688984 | SO=chromosome
+1 genes found
+1   tRNA-Gln              c[439261,439335]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgac
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+>LmxM.17 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=665230 | SO=chromosome
+3 genes found
+1   tRNA-Asp              c[330766,330838]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaagc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+2   tRNA-Ser               [330915,330995]	121.7	34  	(gct)
+gcaaatgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcg
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+3   tRNA-Ala               [331055,331130]	108.3	35  	(agc)
+tggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctccaac
+((((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).))))))
+>LmxM.18 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=693749 | SO=chromosome
+1 genes found
+1   tRNA-Gly               [540169,540267]	102.1	39  	(ccc)
+atggtgaatgccccgggacccattaggtccacatgtatccctaacatgctgaacggcgttggcgcgccgttgcaggcgatctactcgtcttcgtcgtcc
+(((((((   ..((ddddddddddd))..  (((((  AAA  )))))   ((((((((vvvv))))))))  (((((ttttttt))))))))))))
+>LmxM.19 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=655046 | SO=chromosome
+0 genes found
+>LmxM.20 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3343498 | SO=chromosome
+15 genes found
+1   tRNA-Tyr              c[484608,484692]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagttcgcaggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+2   tRNA-Thr              c[484784,484855]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Thr               [485635,485706]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Tyr               [485798,485882]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagttcgcaggtatcacagggtcgctggttcgattccggccggaaggac
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+5   tRNA-Gly             [1018965,1019035]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+6   tRNA-Thr            c[1019332,1019403]	117.1	33  	(agt)
+ggctgcttagctcaatggcagagcgccgtcctagtaagacggaggtcaggggttcgatccccctagcggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+7   tRNA-Gly            c[1019467,1019537]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgca
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+8   tRNA-Pro             [1019611,1019683]	123.6	33  	(agg)
+ggtccagtggtctagtggtatgattctcccttagggtgggagaggtcccgggttcaattcccggctggacccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+9   tRNA-Pyl            c[1516632,1516746]	101.1	55  	(cta)i(33,21)
+ccagcagctgctgcgtgggcagcaaaaccgccgccatgttcggccgctgccgatctacggcggtggaggtggttgtgtcgtttcgcagactgcgtcccgagccgcggttgttggt
+(((((((   .(((ddddddd))). ((((( iiiiiiiiiiiiiiiiiiiii AAA  )))))  ..((((.vvvvvvvv.)))).. (((((tttttttt))))))))))))
+10  tRNA-Gln            c[1587123,1587197]	119.8	35  	(ctg)
+tgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtgac
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+11  tRNA-Thr            c[1943734,1943826]	100.5	50  	(cgt)i(35,14)
+cgggcgtggtggggcggtcgggttgcagcgcggcggtcgcggcgcaggtcgtggccgtggtgggcgtatgttcgagtcgtacgcggtcgtcca
+(((.((( ((((dddddddddd))))  ((((( iiiiiiiiiiiiii AAA  )))))      (((((ttttttt)))))))).)))
+12  tRNA-Cys             [2433914,2433985]	122.6	33  	(gca)
+ggattcatagctcagtggtagagcattcggctgcagtccgaatggtccccggttcaaacccgggtgggtcct
+(((((((  ((((ddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+13  tRNA-Leu            c[2434748,2434830]	116.4	35  	(aag)
+ggtgagatggtcgagtggtctaagacgttggattaaggttccaatcctttcgagggcgtgggttcaaaccccactctcatcac
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+14  tRNA-Met            c[2434894,2434965]	115.4	33  	(cat)
+agcaccgtagcgcagtggaagcgcgatgggctcataacccataggtcgttggatcgaaaccaatcggtgcta
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+15  tRNA-Pro             [2435038,2435110]	122.1	33  	(tgg)
+ggtcgtttggtctagtggtatgattcctgttttgggtacaggaggtcacgggttcaattcccgtaacgacccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>LmxM.21 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=736625 | SO=chromosome
+5 genes found
+1   tRNA-Ser              c[156239,156319]	123.0	34  	(gct)
+gcaaacgtggccgagtggttaaggcgcctgcctgctaagcaggtgtgatctcacgcgaaggttcgaacccttccgtttgcg
+(((((((  (((dddddddddd)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+2   tRNA-Ile               [182488,182591]	104.4	32  	(gat)i(37,12)
+gcgtctgctggttcggcttgtgtgtcgcgctgatgcacttcgcaagcacgcggttgtgcgcgatcccggcagagcagtcgtagtgcagctccgcgtagatgcgc
+(((((((   ((.ddddddd.)) (((((  AAA  iiiiiiiiiiii))))) (((.(vvvvvvvvvvvv).)))  (((.(ttttttt).))))))))))
+3   tRNA-Pro               [431007,431078]	123.6	33  	(agg)
+ggtccagtggtctagtggcatgattctcccttagggtgggagaggtcccgggttcaattcccggctggaccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+4   tRNA-Val               [431226,431299]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgta
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Lys               [431365,431438]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+>LmxM.22 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=683778 | SO=chromosome
+0 genes found
+>LmxM.23 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=744475 | SO=chromosome
+12 genes found
+1   tRNA-Phe              c[155705,155784]	100.7	42  	(gaa)i(33,7)
+gggggagtggcggaagaggcaccgcatgccctacagcacgtgaaggggggcggctgaggttcgccttcctctttctcccc
+(((((((  ((((dddddddd))))  (((((iiiiiii  AAA  )))))   .((((tttttttt)))).)))))))
+2   tRNA-Ile               [217271,217344]	118.5	35  	(tat)
+gctcccgtggtctagttggttaggacgctggtcttatgaaccggatgtcgcgggttcgagccccgccgggagca
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Val              c[217397,217469]	111.3	34  	(tac)
+gcgtgggtgatctagtggttatgatgtctgctttacacgcagaacgtcgcgggttcgaaccccgccccgcgta
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+4   tRNA-Gln              c[217536,217609]	124.9	35  	(ttg)
+tggtcctatagtgtagtggttatcacttcggactttgaatccgaaaacccaggttcgaatcctggtaggaccag
+((((((((  (((.dddddddd.)))((((((  AAA  ))))))   (((((ttttttt)))))))))))))
+5   tRNA-Arg              c[217850,217923]	120.3	34  	(acg)
+tgtccgtgtggctcaatggaagagcatctgactacggatcagagggttgcaggttcgaatcctgtcacggatgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+6   tRNA-Leu              c[218142,218224]	117.1	35  	(cag)
+ggcaagatggtcgagtggtctaagacgtcacgttcaggtcgtgatctcccctggaggcgtgggttcaaaccccactcttgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))(((vvvvv)))  (((((ttttttt))))))))))))
+7   tRNA-Thr              c[218283,218356]	120.1	34  	(tgt)
+gggccgcttagcacagtggcagtgcactggtcttgtaaaccaggggtcccgagttcaattctcggagtggcctt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+8   tRNA-Arg               [218427,218500]	121.1	34  	(tcg)
+tggcctcttggcgcaatggaagcgcatcagacttcggatctgagggttgcaggttcgagtcctgcaggggtcgt
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+9   tRNA-Lys               [218816,218888]	120.7	34  	(ttt)
+gcacttctagctcagttggtagagcgcgtggcttttaacctcgtggtcgtgggttcgagccccacggagtgcg
+(((((((  ((((dddddddd))))(((.((  AAA  )).)))    (((((ttttttt))))))))))))
+10  tRNA-Gly              c[218928,219000]	116.4	34  	(tcc)
+gcaattgtggtccaacggttaagatccccgccttccaagcgggtgacccgggttcgactcccggcaattgcac
+(((((((  (((dddddddddd))) (((((  AAA  )))))    (((((ttttttt))))))))))))
+11  tRNA-Trp               [219075,219149]	115.5	34  	(cca)
+tgggggcttagctcagtggtagagcattggattccaaatccaggggtcgtaggttcaatccctgcagctctcaac
+((((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))))))))))
+12  tRNA-Ser              c[272962,273038]	100.1	38  	(gct)
+agaggcagtggtgcaggagctattggtaccgggtcctgctggggctgctggcggtcgtgcgatgcaggctgccatca
+.(.((((   ((((ddddddddddd)))) .((((  AAA  )))).     (.(.(ttttttt).).))))).).
+>LmxM.24 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=838989 | SO=chromosome
+6 genes found
+1   tRNA-Pro               [206541,206612]	124.4	33  	(cgg)
+ggccgcttagtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+2   tRNA-Gln               [626467,626541]	119.8	35  	(ctg)
+cgctcctatagtgtagcggttatcacctcggactctgaatccgataaccctggttcgagtccaggtaggagtggc
+((((((((  (((.dddddddd.))) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+3   tRNA-Leu              c[626778,626861]	111.7	37  	(taa)
+tgctggggttcccgagttggtcaaaggggtgagacttaagttctcatgcgcaagcttcgtgggttcgaaccccacctccagcaa
+((((((((  (((.dddddddddd.)))((((((  AAA  ))))))           (((((ttttttt)))))))))))))
+4   tRNA-Ile               [626942,627016]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+5   tRNA-Ile               [628063,628137]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Asp              c[684993,685064]	124.0	34  	(gtc)
+ttctcggtagtatagtggttagtatacccgcctgtcacgcgggtgacccgggttcaattcccggccgggaag
+(((((((  ((((dddddddd))))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+>LmxM.25 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=883937 | SO=chromosome
+0 genes found
+>LmxM.26 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1028550 | SO=chromosome
+0 genes found
+>LmxM.27 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1044075 | SO=chromosome
+0 genes found
+>LmxM.28 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1137555 | SO=chromosome
+1 genes found
+1   tRNA-Arg               [200276,200345]	101.9	30  	(gcg)
+gccgggctgtggaggttaccgtttgcgatgcgagcgcgggcagtcgctgtgctggtgcggcgacccggct
+((((((.  (((dddddd))) (((((  AAA  )))))     (((((tttttttt))))).))))))
+>LmxM.29 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1322285 | SO=chromosome
+1 genes found
+1   tRNA-Thr              c[736547,736618]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+>LmxM.30 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1439542 | SO=chromosome
+6 genes found
+1   tRNA-His               [161988,162077]	102.1	32  	(gtg)
+tcgtcggggttctgcaggcggcggtccttctgtgacagggtgaagagtagtttctgcttcttcctgagttcgatctttagcacgacggac
+((((((.(   ((((ddddd)))).((((  AAA  )))).((((.(vvvvvvv).))))   (((((ttttttt)))))).))))))
+2   tRNA-Ala               [219043,219115]	108.3	34  	(agc)
+ggggatgtagctcagatggtagagcgaccgcttagcatgcggtaggtattgggatcgatacccaacttctcca
+(((((.(  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+3   tRNA-Gly               [487888,487959]	122.6	33  	(gcc)
+gcgcagttggtctagtggtagaattctcgcctgccacgcgggaggcccgggttcgattcccggactgcgcac
+(((((((  ((.(ddddddd).))((((((  AAA  ))))))   (((((ttttttt))))))))))))
+4   tRNA-Glu              c[488006,488080]	118.1	35  	(ctc)
+ttccgatgtggtatagtggatagaacaagcggctctcacccgctagacccgggttcgatccccggcatcggaaac
+((((((((  ((.(dddddddd).)) (((((  AAA  )))))    (((((ttttttt)))))))))))))
+5   tRNA-Phe             [1278048,1278120]	121.2	34  	(gaa)
+gccgcgatagctcagttgggagagcgtcagactgaagatctgaaggtccctggttcgatcccgggtcgcggca
+(((((((  ((((dddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+6   tRNA-Ser            c[1278162,1278243]	119.6	34  	(aga)
+gtcaccatacccaagtggttacggggactgactagaaatcagttgcgatctcgcgcgcaggttcgaatcctgctggtgacgc
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+>LmxM.31 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1524016 | SO=chromosome
+1 genes found
+1   tRNA-Arg               [331252,331374]	102.0	65  	(tcg)i(32,31)
+tttggtactggcgagcgcttgcgtgcgtgcttgcgcgagtagtgtttccttcttgggtcgcgcttcgtcagtgtcggaggcgacagtctgtctccctcgcggtgcaacaccgcggcgctaaaa
+((((((.(  (((dddddddddd)))(((((iiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  AAA  )))))                       (((((ttttttt)))))).))))))
+>LmxM.32 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1407111 | SO=chromosome
+6 genes found
+1   tRNA-Arg              c[101519,101592]	118.9	34  	(cct)
+gcccttgtagcctaatggatatggcgtttgcttcctaagcaaaaggttgcgggttcgagtcccgccaggggtac
+(((((((  (((.dddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Arg              c[101651,101724]	125.8	34  	(tct)
+gctccagtggcctaatggataaggctttggacttctaatccaaagattgcgggttcgaatcccgcctggagtac
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+3   tRNA-Ala               [101800,101872]	117.5	33  	(tgc)
+gggcgtgtagctcagtggtagagcgcctgttttgcatacaggaggcctagggttcaaacccctactcgtccac
+(((((.(  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt)))))).)))))
+4   tRNA-Arg               [324811,325010]	100.7	139 	(gcg)i(31,107)
+gggtcggtgggcggtggtggcgctgcgcccggtatcggcacgtccgtagcgccgcctggtcgaccgccgttgccgccgtacggtgaccgcgtacagagcgatggtgacttgagctacaccacggctgacagcggaaatgcgatggcgccagctggtgccccgataccgccgccccaaggttcatcctcgtcgttgacccc
+(((((((  ((((ddddddd))))((((( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  )))))        (.(vvvvvvvvvvv).) (.(.(tttttttt).).))))))))
+5   tRNA-Lys              c[485267,485340]	124.6	34  	(ctt)
+gcattcctagctcagtcggtagagcgcacggctcttaaccgtgtggtcgtgggttcgatccccacggagtgcgc
+(((((((  ((((dddddddd))))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+6   tRNA-Arg            c[1210689,1210883]	100.6	133 	(gcg)i(34,98)
+ctgcgctgttgaggaggaagttgccgcgctgacgctcttgctcgagcgaggcggcagactagagaagccaaaaaatgctgaaggaaaggcgtcacgcaagccggacaaggtcagcggcagctcagattgcctgcgtgtaagcggcgggagcgacgatgcgccagctttgctggcgccgcctcctgcggtgaagcc
+((.((((   (.((ddddddddd)).)(((.( iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii AAA  ).)))           .(.(vvvvvv).). ((.((tttttttt)).)))))).))
+>LmxM.33 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1649823 | SO=chromosome
+10 genes found
+1   tRNA-Val              c[454796,454870]	118.0	35  	(aac)
+gcgcggttggtctaggtggttatgacgtcgctttaacacggcgaaggtctcgggttcgagtcccgaactgcgtac
+(((((((  (((.ddddddddd.))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+2   tRNA-Ile               [455103,455177]	119.6	35  	(aat)
+gctctcatagctcagtcggttagagcgtgggtctaataagcccaaggtcacaggttcgacccctgttgggagcac
+(((((((  ((((ddddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+3   tRNA-Met               [455237,455311]	113.6	34  	(cat)
+gcgagcgtagcgcagtcggcagcgcgtgggtctcataatcccaaggtcgtgagttcgatcctcaccggtcgcacc
+((((.((  ((((dddddddd)))) ((((.  AAA  .))))     (((((ttttttt))))))).))))
+4   tRNA-Leu              c[455343,455422]	119.8	35  	(tag)
+ggcggagtggccgagtggtctaaggcgccagatttaggctctggtctttcgaggcgtgggttcgaaccccacctccgtca
+(((((((  (((ddddddddddd)))((((((  AAA  ))))))          (((((ttttttt))))))))))))
+5   tRNA-Ser               [455497,455577]	116.9	34  	(tga)
+gtcaacatacccaagtggttacggggtttgacttgaaatcaaatgcgatctcgcgcgcaggttcgaaccctgctgttgacg
+(((((((  (((.dddddddd.)))((((((  AAA  ))))))            (((((ttttttt))))))))))))
+6   tRNA-Asn            c[1338043,1338116]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+7   tRNA-Tyr            c[1338176,1338259]	108.4	34  	(gta)i(38,11)
+ccttctgtagctcaattggtagagcatgtgactgtagagttcgcaggtatcacagggtcgctggttcgattccggccggaagga
+(((((((  ((((dddddddd)))) (((((  AAA iiiiiiiiiii )))))     (((((ttttttt))))))))))))
+8   tRNA-Thr            c[1338326,1338397]	121.6	33  	(cgt)
+ggccgcttagcacagtggcagtgcaccactctcgtaaagtgggggtcgcgagttcgattctcgcagtggcct
+(((((((  ((((ddddddd)))) (((((  AAA  )))))     (((((ttttttt))))))))))))
+9   tRNA-Pro             [1338482,1338553]	124.4	33  	(cgg)
+ggccgcttagtctagtggtatgattcccgcttcgggtgcgggaggtcaggggttcaattcccctagcggccc
+(((((((  (((.ddddddd.)))((((((  AAA  ))))))    (((((ttttttt))))))))))))
+10  tRNA-Asn             [1338614,1338687]	118.7	34  	(gtt)
+tcctccctggcgcagtcggcagcgcgttaggctgttaacctacaggtcgttggttcgaatccaacgggaggagc
+(((((((  ((((dddddddd)))) .((((  AAA  )))).     (((((ttttttt))))))))))))
+>LmxM.34 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1968239 | SO=chromosome
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_1 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=10377 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_10 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=4058 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_100 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2273 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_101 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3284 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_102 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=4586 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_103 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=6243 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_104 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2786 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_105 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=4357 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_106 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1368 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_107 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1549 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_108 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1259 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_109 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1107 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_11 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=15170 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_110 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1926 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_111 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1059 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_112 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1196 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_113 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1035 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_114 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1076 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_115 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=501 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_116 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1642 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_117 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1691 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_118 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1186 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_119 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1437 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_12 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3384 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_120 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1402 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_121 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1190 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_122 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1132 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_123 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1179 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_124 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1157 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_125 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1034 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_126 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1314 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_127 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1591 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_128 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1409 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_129 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1537 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_13 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=6341 | SO=contig
+1 genes found
+1   tRNA-His                  c[4944,5033]	102.1	32  	(gtg)
+tcgtcggggttctgcaggcggcggtccttctgtgacagggtgaagagtagtttctgcttcttcctgagttcgatctttagcacgacggac
+((((((.(   ((((ddddd)))).((((  AAA  )))).((((.(vvvvvvv).))))   (((((ttttttt)))))).))))))
+>1036_mexFOS1_13k16.p1kpIBF_130 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1895 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_131 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1082 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_132 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2723 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_133 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=717 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_134 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1191 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_135 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1111 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_136 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1423 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_137 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1139 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_138 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=187 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_139 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1136 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_14 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=5624 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_140 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2046 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_141 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1059 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_142 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=995 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_143 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1300 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_144 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1978 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_145 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2953 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_146 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1003 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_147 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1013 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_148 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3063 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_149 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1455 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_15 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2949 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_150 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=937 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_151 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=4243 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_152 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1049 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_153 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1200 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_154 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1057 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_155 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1761 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_156 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1087 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_157 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1266 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_158 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1712 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_159 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1049 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_16 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2595 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_160 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1670 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_161 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1141 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_162 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=972 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_163 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1659 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_164 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1382 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_165 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1245 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_166 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1350 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_167 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1000 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_168 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1219 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_169 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=979 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_17 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=12192 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_170 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1596 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_171 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1613 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_172 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1301 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_173 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1022 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_174 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1105 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_175 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1344 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_176 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1845 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_177 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1088 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_178 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1382 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_179 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2846 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_18 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=6268 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_180 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2906 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_181 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1567 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_182 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1224 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_183 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1222 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_184 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=741 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_185 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1038 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_186 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1433 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_187 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1131 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_188 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1060 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_189 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=736 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_19 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3899 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_190 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1116 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_191 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1405 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_192 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1409 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_193 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3856 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_194 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1277 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_195 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=802 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_196 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1010 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_197 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1377 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_198 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1257 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_199 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1284 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_2 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3413 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_20 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=9205 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_200 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1677 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_201 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1114 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_202 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1311 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_203 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1305 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_204 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1667 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_205 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1722 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_206 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1160 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_207 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2728 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_208 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=982 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_209 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1276 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_21 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=4288 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_210 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1476 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_211 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1108 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_212 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1233 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_213 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=810 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_214 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1784 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_215 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1363 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_216 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=7351 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_217 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1156 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_218 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1428 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_219 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2358 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_22 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3178 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_220 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1884 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_221 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1134 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_222 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=711 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_223 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1841 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_224 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=732 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_225 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=782 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_226 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=650 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_227 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1607 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_228 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3434 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_229 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1062 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_23 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=18024 | SO=contig
+1 genes found
+1   tRNA-His                c[14456,14545]	102.1	32  	(gtg)
+tcgtcggggttctgcaggcggcggtccttctgtgacagggtgaagagtagtttctgcttcttcctgagttcgatctttagcacgacggac
+((((((.(   ((((ddddd)))).((((  AAA  )))).((((.(vvvvvvv).))))   (((((ttttttt)))))).))))))
+>1036_mexFOS1_13k16.p1kpIBF_230 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1725 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_231 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1605 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_232 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1197 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_233 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=879 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_234 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1600 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_235 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=655 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_236 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1626 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_237 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=796 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_238 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=671 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_239 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1318 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_24 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=25703 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_240 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=751 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_241 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1490 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_242 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1843 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_243 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1013 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_244 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1001 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_245 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1742 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_246 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1307 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_247 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1051 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_248 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=808 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_249 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3924 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_25 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2877 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_250 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1503 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_251 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1531 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_252 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=679 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_253 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1384 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_254 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1280 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_255 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=16507 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_256 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1235 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_257 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1062 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_258 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1145 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_259 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1399 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_26 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2112 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_260 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1471 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_261 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1680 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_262 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1072 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_263 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1416 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_264 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1218 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_265 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=988 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_266 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1004 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_267 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1105 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_268 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1055 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_269 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1205 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_27 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3095 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_270 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1327 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_271 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2556 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_272 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1186 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_273 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=852 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_274 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=123 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_275 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1432 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_276 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1865 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_277 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1169 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_278 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1296 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_279 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1490 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_28 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1908 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_280 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=569 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_281 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3671 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_282 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1812 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_283 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1426 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_284 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1017 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_285 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1207 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_286 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1383 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_287 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1171 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_288 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=312 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_289 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=396 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_29 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=11898 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_290 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1572 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_291 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1062 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_292 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1041 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_293 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=482 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_294 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1932 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_295 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1221 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_296 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1349 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_297 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1082 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_298 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1391 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_299 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1342 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_3 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2427 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_30 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=7012 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_300 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1922 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_301 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1519 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_302 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=718 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_303 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1601 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_304 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1129 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_305 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=597 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_306 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=406 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_307 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1748 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_308 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1214 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_309 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1689 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_31 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3054 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_310 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1401 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_311 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1154 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_312 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=642 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_313 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1012 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_314 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=968 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_315 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1202 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_316 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1314 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_317 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1032 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_318 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1391 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_319 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1296 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_32 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2476 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_320 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1434 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_321 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1562 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_322 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1620 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_323 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1143 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_324 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=269 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_325 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1171 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_326 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1371 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_327 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1270 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_328 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1226 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_329 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1105 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_33 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2962 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_330 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1656 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_331 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2144 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_332 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=972 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_333 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1416 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_334 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1132 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_335 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=691 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_336 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1175 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_337 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1033 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_338 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1835 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_339 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=4998 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_34 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3355 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_340 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=376 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_341 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1312 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_342 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3834 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_343 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1439 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_344 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1691 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_345 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2303 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_346 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1261 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_347 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1408 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_348 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1512 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_349 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=701 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_35 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3391 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_350 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1167 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_351 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1777 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_352 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2610 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_353 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1560 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_354 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1033 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_355 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1150 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_356 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=769 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_357 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1677 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_358 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=4787 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_359 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1407 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_36 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1987 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_360 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1577 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_361 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1029 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_362 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1340 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_363 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=771 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_364 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1134 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_365 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1338 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_366 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2459 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_367 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1068 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_368 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1232 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_369 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1101 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_37 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=4528 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_370 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1300 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_371 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1841 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_372 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=964 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_373 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=801 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_374 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1403 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_375 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1192 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_376 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1233 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_377 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1289 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_378 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=630 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_379 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=991 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_38 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2557 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_380 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1239 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_381 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1337 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_382 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1877 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_383 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=4127 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_384 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1327 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_385 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1486 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_386 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1148 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_387 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2338 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_388 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=264 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_389 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=843 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_39 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3867 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_390 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=8269 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_391 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1695 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_392 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1145 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_393 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1961 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_394 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1618 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_395 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1492 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_396 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1289 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_397 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1832 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_398 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1025 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_399 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1107 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_4 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2817 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_40 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2937 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_400 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1809 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_401 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1552 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_402 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1055 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_403 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1298 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_404 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=999 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_405 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1217 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_406 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1224 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_407 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3122 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_408 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1041 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_409 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=999 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_41 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3555 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_410 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1317 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_411 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1683 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_412 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1534 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_413 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1066 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_414 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1169 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_415 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1223 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_416 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=735 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_417 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1502 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_418 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1787 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_419 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1877 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_42 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=5321 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_420 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1165 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_421 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1241 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_422 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3125 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_423 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=985 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_424 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1217 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_425 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1401 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_426 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1421 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_427 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1143 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_428 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=528 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_429 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1246 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_43 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2880 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_430 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=647 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_431 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1150 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_432 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=598 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_433 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1794 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_434 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1114 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_435 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1275 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_436 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=613 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_437 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=959 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_438 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1210 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_439 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1541 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_44 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3564 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_440 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1551 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_441 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1034 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_442 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1962 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_443 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1632 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_444 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=727 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_445 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1611 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_446 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1330 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_447 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1007 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_448 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1322 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_449 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1312 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_45 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=4351 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_450 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1087 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_451 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=737 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_452 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1730 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_453 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=358 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_454 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=280 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_455 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=963 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_456 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1266 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_457 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1083 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_458 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1953 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_459 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1609 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_46 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3843 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_460 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1215 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_461 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1622 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_462 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1069 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_463 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1659 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_464 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1159 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_465 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1005 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_466 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3167 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_467 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1285 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_468 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=997 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_469 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=983 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_47 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=4875 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_470 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=807 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_471 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1881 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_472 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1142 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_473 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1160 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_474 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1012 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_475 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=825 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_476 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=795 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_477 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1046 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_478 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1183 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_479 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1778 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_48 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2082 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_480 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1473 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_481 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1050 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_482 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1077 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_483 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1137 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_484 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=869 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_485 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1407 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_486 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1299 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_487 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1043 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_488 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1280 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_489 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1144 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_49 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2180 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_490 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1638 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_491 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=997 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_492 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1185 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_493 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=983 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_494 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1189 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_495 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1206 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_496 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1052 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_497 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1161 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_498 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2060 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_499 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1182 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_5 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2628 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_50 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2259 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_500 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1510 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_501 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1215 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_502 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1176 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_503 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=805 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_504 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1007 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_505 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=949 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_506 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1364 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_507 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=966 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_508 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1050 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_509 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1425 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_51 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2259 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_510 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1278 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_511 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1131 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_512 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1082 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_513 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1848 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_514 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1845 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_515 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1269 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_516 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1415 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_517 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1152 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_518 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1434 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_519 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1075 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_52 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=7711 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_520 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=18166 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_521 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1213 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_522 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1969 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_523 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1497 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_524 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1426 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_525 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1098 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_526 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=985 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_527 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1575 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_528 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1277 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_529 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3352 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_53 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=4325 | SO=contig
+1 genes found
+1   tRNA-His                   [3785,3874]	102.1	32  	(gtg)
+tcgtcggggttctgcaggcggcggtccttctgtgacagggtgaagagtagtttctgcttcttcctgagttcgatctttagcacgacggac
+((((((.(   ((((ddddd)))).((((  AAA  )))).((((.(vvvvvvv).))))   (((((ttttttt)))))).))))))
+>1036_mexFOS1_13k16.p1kpIBF_530 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1197 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_531 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1180 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_532 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1844 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_533 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1267 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_534 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=333 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_535 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1314 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_536 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=801 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_537 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1504 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_538 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1127 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_539 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1188 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_54 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2792 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_540 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=816 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_541 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=981 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_542 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1771 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_543 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1800 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_544 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1191 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_545 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=4525 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_546 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1285 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_547 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=553 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_548 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=186 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_549 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=614 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_55 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2020 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_550 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1485 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_551 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1530 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_552 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1018 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_553 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1318 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_554 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1206 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_56 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2434 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_57 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3300 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_58 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2207 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_59 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=4373 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_6 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2119 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_60 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3447 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_61 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=9216 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_62 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=8541 | SO=contig
+1 genes found
+1   tRNA-His                   [4426,4515]	102.1	32  	(gtg)
+tcgtcggggttctgcaggcggcggtccttctgtgacagggtgaagagtagtttctgcttcttcctgagttcgatctttagcacgacggac
+((((((.(   ((((ddddd)))).((((  AAA  )))).((((.(vvvvvvv).))))   (((((ttttttt)))))).))))))
+>1036_mexFOS1_13k16.p1kpIBF_63 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=12076 | SO=contig
+1 genes found
+1   tRNA-His                 [10253,10342]	102.1	32  	(gtg)
+tcgtcggggttctgcaggcggcggtccttctgtgacagggtgaagagtagtttctgcttcttcctgagttcgatctttagcacgacggac
+((((((.(   ((((ddddd)))).((((  AAA  )))).((((.(vvvvvvv).))))   (((((ttttttt)))))).))))))
+>1036_mexFOS1_13k16.p1kpIBF_64 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=7270 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_65 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=4215 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_66 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3415 | SO=contig
+1 genes found
+1   tRNA-His                   [2141,2230]	102.1	32  	(gtg)
+tcgtcggggttctgcaggcggcggtccttctgtgacagggtgaagagtagtttctgcttcttcctgagttcgatctttagcacgacggac
+((((((.(   ((((ddddd)))).((((  AAA  )))).((((.(vvvvvvv).))))   (((((ttttttt)))))).))))))
+>1036_mexFOS1_13k16.p1kpIBF_67 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=13029 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_68 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2869 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_69 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=4381 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_7 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=8014 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_70 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3215 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_71 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=4038 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_72 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2712 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_73 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3210 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_74 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3134 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_75 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2850 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_76 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3461 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_77 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2472 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_78 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2236 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_79 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=1988 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_8 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3449 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_80 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=5831 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_81 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3803 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_82 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=13140 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_83 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=4674 | SO=contig
+1 genes found
+1   tRNA-Ile                   [2914,3017]	104.4	32  	(gat)i(37,12)
+gcgtctgctggttcggcttgtgtgtcgcgctgatgcacttcgcaagcacgcggttgtgcgcgatcccggcagagcagtcgtagtgcagctccgcgtagatgcgc
+(((((((   ((.ddddddd.)) (((((  AAA  iiiiiiiiiiii))))) (((.(vvvvvvvvvvvv).)))  (((.(ttttttt).))))))))))
+>1036_mexFOS1_13k16.p1kpIBF_84 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=7765 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_85 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3039 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_86 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3179 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_87 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=5952 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_88 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2404 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_89 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=8305 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_9 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=6227 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_90 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3462 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_91 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2581 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_92 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2741 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_93 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=3273 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_94 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=12976 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_95 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=7795 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_96 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2469 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_97 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=2044 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_98 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=7545 | SO=contig
+0 genes found
+>1036_mexFOS1_13k16.p1kpIBF_99 | organism=Leishmania_mexicana_MHOM/GT/2001/U1103 | version=2016-05-28 | length=4126 | SO=contig
+0 genes found
+>end 	588 sequences 108 tRNA genes, nothing found in 556 sequences, (5.44% sensitivity)
