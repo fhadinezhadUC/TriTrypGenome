@@ -1,0 +1,58 @@
+high confidence functional annotation set. Genes we think are actually transcribed and functional in translation. 
+But based on your evidence from clusters, scores and genetic codes (??), which would be great if you could synthesize, describe and interpret together into one place, if you feel confident in a subset of these unmatched genes to include them in the CIF annotation set also, then this needs to be fully described, and then we can include them.
+IN your self-contained finalized written descriptions, you can include links (that I may later remove or not) to the respective evidence in the repo or section in latex document. So your repo is your own project directory with the ultimate record of work, in which details can be examined from the summary as necessary. 
+
+make two variant CIF annotation gene sets, one excluding them entirely, and another including the subset you are confident in. 
+For generating table 11, if in the Rmarkdown you can make explicit which gene sets can be loaded at the top, that will help make sure that we don’t accidentally include invalid data in Table 1 with teh summary stats on the gene sets.
+
+####################################################################################################
+
+For the first gene set:
+
+Remove genes with both tse and ara score less than the limit. 
+
+genes LtarentolaeParrotTarII_LtaP23_43 from genome LtarentolaeParrotTarII :
+This gene was not assigned any identity by oth identifiers. 
+it appeared within cluster IVQRLT#KGW. with dir +-----++-+
+We also observed cluster IVQRLTRKGW 18 times in 18 different Leishmania genomes with the same strand. 
+We also observed cluster IVQRLTRWKG with strand +-----++-+ and +---+-+-++ in Leishmania and others.
+the sequence of this gene:
+GGCCTCTTGGCGCAATGGAAGCGCATCAGACTTCGGTCTGAGGGtTGCAGGTTCGAGTCCTGCAGGGGTCG
+>>>>>>>..>>>>.......<<<<.>>>>........<<<<.....>>>>>.......<<<<<<<<<<<<.
+cggcctcttggcgcaatggaagcgcatcagacttcggtctgagggttgcaggttcgagtcctgcaggggtcgg
+((((((((  ((((ddddddd)))) (((((  AA  )))))     (((((ttttttt)))))))))))))
+This could have been tcg(cgu) which codes for R.
+How does the sequence of other R genes within similar clusters look like 
+I looked at the same genes in genome LenriettiiLEM3045 which is one of the genomes having this cluster. and I observed a deletion of an "A"
+in the gene of LtarentolaeParrotTarII incompare to the other genes.
+GGCCTCTTGGCGCAATGGAAGCGCATCAGACTTCGGATCTGAGGGtTGCAGGTTCGAGTCCTGCAGGGGTCG
+>>>>>>>..>>>>.......<<<<.>>>>>.......<<<<<.....>>>>>.......<<<<<<<<<<<<.
+I will mark this gene as R but in note column 
+(maybe visualize the clusters with their strand as a small figure.)
+
+
+The other unassigned identity appeared as singleton so we were not able to verify the identity based on clusters. 
+However by looking at this gene's seuence
+TCCGGTGTGGTATAGTGGCtAGAACAAGCGGCTCTCACCGCTAGaCCCGGGTTCGATCCCCGGCATCGGAA
+tccggtgtggtatagtggctagaacaagcggctctcaccgctagacccgggttcgatccccggcatcggaa
+>>>>>>>..>>.>........<.<<.>>>>........<<<<....>>>>>.......<<<<<<<<<<<<.
+(((((((  ((.(dddddddd).)) (((((  AA  )))))    (((((ttttttt))))))))))))
+
+
+
+
+Like you said I was using the evidence from clusters, scores and genetic codes, to resolve some of the ambiguties. if we cannot assign a gene with these evidances I just described (high score genes complementing major cluster, which also has the right 3 base anticodon and only lacks one base in its loop in compare to the same genes within same cluster from other genomes), because they may lack a key structural feature, then I cannot say for sure that other genes with mismatched identity should be assigned any of the reported identities. because they have more than one base difference. 
+
+I am spending too much time on this which is redundant. I just change the score filtering to Keep genes that either their ara score is > 106 or their tse score is > 49.
+
+And I assume based on what you said recently you find the table before applying the score filtering. so I would make three sets of "intersection", "tse only" and "ara only " 
+
+
+non of our genome clusters miss any of the classes, its about individual genomes. 
+and if it is always annotated different between two genefinders, then this means that we have no evidence to actually add them.
+
+
+
+visulized clusters of genomes 
+
+

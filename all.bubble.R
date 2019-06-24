@@ -20,7 +20,7 @@ library("heR.Misc"); ## THIS IS REQUIRED FOR THE BUBBLEPLOT FUNCTION AND MUST BE
 # THESE ARE THE COORDINATES FOR THE TRNA STRUCTURE BACKBONE IN THE FIGURES
 
 # positions x= 8.75 and y= 10.5 are manually added
-TableDir <- "/home/fatemeh/TryTripGenome/tsfm/sites72/Logos/"
+TableDir <- "/home/fatemeh/TriTrypGenome/tsfm/sites72/Logos/"
 line.x <- c(6.875,6.500,6.125,5.750,5.375,5.000,4.625,4.625,5.000,5.000,2.375
             ,2.750,2.375,2.750,2.500,2.875,3.250,2.875,2.500,2.125,1.750,1.375,1.000
             ,0.625,0.250,0.625,1.000,1.500,1.125,1.500,1.125,1.500,1.125,1.500,1.125
@@ -69,7 +69,7 @@ rt.coord.labels.y <- coord.labels.y[rt];
 
 tRNA_L_skel_df <-
   read.table(
-    "/home/fatemeh/TryTripGenome/tsfm/sites72/tRNA_L_skel_Leish.sites72.txt",
+    "/home/fatemeh/TriTrypGenome/tsfm/sites72/tRNA_L_skel_Leish.sites72.txt",
     sep = ",",
     header = FALSE
   )
@@ -93,7 +93,6 @@ for (i in 1:length(clusterdir)) {
       sep = ""
     )
   df <- read.table(tablepath, header = TRUE)
-  df$coord <- df$coord + 1
   df <- match_bubble_coords(df, tRNA_L_skel_df)
   # write the tables 
   outputpath <-
@@ -197,14 +196,15 @@ all.bubble <- function(df,name="bubble",outputpath,alpha=0.5,fact=0.5,area=TRUE,
 
 
 match_bubble_coords <- function(df, tRNA_L_skel_df) {
-  for (i in 1:nrow(tRNA_L_skel_df)) {
-    samecoord = df$coord == tRNA_L_skel_df$sprinzl[i]
-    df$x[samecoord] = tRNA_L_skel_df$x[i]
-    df$y[samecoord] = tRNA_L_skel_df$y[i]
-    df$sprinzl[samecoord] = tRNA_L_skel_df$sprinzl[i]
+  tRNA_L_skel_df$sprinzl <- as.character(tRNA_L_skel_df$sprinzl)
+  tRNA_L_skel_df$sprinzl2 <- as.character(tRNA_L_skel_df$sprinzl2)
+  tRNA_L_skel_df<-tRNA_L_skel_df[!is.na(tRNA_L_skel_df$sprinzl),]
+  for (i in 1:nrow(df)) {
+    samecoord = tRNA_L_skel_df$sprinzl == df$coord[i]
+    df$x[i] = tRNA_L_skel_df[samecoord,]$x
+    df$y[i] = tRNA_L_skel_df[samecoord,]$y
+    df$sprinzl[i] = tRNA_L_skel_df[samecoord,]$sprinzl2
   }
-  #df$x[df$coord == 74] = 8.75
-  #df$y[df$coord == 74] = 10.5
   df
 }
   

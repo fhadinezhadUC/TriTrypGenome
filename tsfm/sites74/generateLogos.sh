@@ -20,7 +20,7 @@ printf "***************$name1***************"
 name2=${name1%".v5"}
 name3="$name2.sites74.v5"
 printf "$name3"
-python3 "$tsfmpath/tsfm.py" -c "$folderpath/tsfm_finalinput_HomoC_structfile.txt" --logo "$folderpath/$name1/$name3"
+python3 "$tsfmpath/tsfm.py" -c "$folderpath/tRNA_L_skel_Leish_sites74_struct.txt" --logo "$folderpath/$name1/$name3"
 mv -- *.eps "$folderpath/Logos/$name1/Func"
 fi
 done
@@ -28,18 +28,18 @@ done
 for name1 in $folders; do 
 if [ $name1 != "Logos" ]
 then
-printf "***************$name***************"
+printf "***************$name1***************"
 name2=${name1%".v5"}
 name3="$name2.sites72.v5"
 
-python3 "$tsfmpath/tsfm.py" -c "$folderpath/tsfm_finalinput_HomoC_structfile.txt" --idlogo "$folderpath/$name1/$name3" "$folderpath/HOMO.v5/HOMO.sites74.v5"
+python3 "$tsfmpath/tsfm.py" -c "$folderpath/tRNA_L_skel_Leish_sites74_struct.txt" --IDlogo "$folderpath/$name1/$name3" "$folderpath/HOMO.v5/HOMO.sites74.v5"
 mv -- *.eps "$folderpath/Logos/$name1/ID"
 
-ython3 "$tsfmpath/tsfm.py" -c "$folderpath/tsfm_finalinput_HomoC_structfile.txt" --kldlogo "$folderpath/$name1/$name3" "$folderpath/HOMO.v5/HOMO.sites74.v5"
+ython3 "$tsfmpath/tsfm.py" -c "$folderpath/tRNA_L_skel_Leish_sites74_struct.txt" --kldlogo --bt "$folderpath/$name1/$name3" "$folderpath/HOMO.v5/HOMO.sites74.v5"
 mv -- *.eps "$folderpath/Logos/$name1/KLD"
 
-python3 "$tsfmpath/tsfm.py" -c "$folderpath/tsfm_finalinput_HomoC_structfile.txt" --bt "$folderpath/$name1/$name3" "$folderpath/HOMO.v5/HOMO.sites74.v5"
-rm -- *.eps
+#python3 "$tsfmpath/tsfm.py" -c "$folderpath/tRNA_L_skel_Leish_sites74_struct.txt" --bt "$folderpath/$name1/$name3" "$folderpath/HOMO.v5/HOMO.sites74.v5"
+#rm -- *.eps
 
 mv *_Table.txt "$folderpath/Logos/$name1/Bubble"
 fi
