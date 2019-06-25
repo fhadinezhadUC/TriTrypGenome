@@ -616,46 +616,45 @@ We made the final gene set data by removing genes with TSE score of less than 50
 \end{figure}
 
 \begin{table}[htbp]
-  \caption{Summary of Gene Set. last three columns are each for one gene set. Sets are defined as: a) Intersection Of two genes finders. Two genes are labeled as same if their coordinate overlaps. Displacement of overlapped genes between ARA and TSE does not pass 4bp. b) Union of two gene finders. c) Genes found by only ARA. Genes marked as ?? include: pseudo|truncated genes, genes with unmatched identity, genes with unassigned identity|anticodon by any of genefinders, and genes with letter N in their sequence(we had 4 of these genes).}
+  \caption{Summary of Gene Set. Last three columns are each for one gene set. Sets are defined as: a) Intersection Of two gene finders. Two genes are considered same gene if their coordinate overlaps at least one base. Displacement of overlapped genes between ARA and TSE does not pass 4bp. b) Union of two gene finders. c) Genes found by only ARA. Genes marked as \# include: pseudo|truncated genes (6 genes), genes with different predicted identity by two genefinders(23 genes), genes with unassigned identity|anticodon by any of genefinders (2 genes), and genes with letter N in their sequence(we had 4 of these genes). we also had 1 genes preicted by only TSE labeled as \# which is not shown in this table as a seperate column, however it is considered in the union set.}
   \begin{adjustbox}{center}
     %\caption{Table of Grades}
     %\centering
     \begin{tabular}{|lccc|}
       \hline
       \rowcolor{shadecolor}
-      Sets        & Intersection & ARAonly & Union  \\
+      Sets            & Intersection & ARAonly & Union \\
       \hline\hline
-      \#tRNA      & 3554         & 36      & 3591   \\
-      \#N/\#G     & 74           & 98      & 75     \\
-      Gene Length & 68-88        & 71-206  & 68-206 \\
-      \%intron    & 2            & 28      & 3      \\
-      \%G         & 32           & 33      & 32     \\
-      \%C         & 26           & 26      & 26     \\
-      \%T         & 23           & 23      & 23     \\
-      \%A         & 19           & 18      & 19     \\
-      A           & 210          & 2       & 212    \\
-      C           & 63           & 1       & 64     \\
-      D           & 105          & 1       & 106    \\
-      E           & 160          & 1       & 161    \\
-      F           & 104          & 2       & 106    \\
-      G           & 228          & 3       & 231    \\
-      H           & 79           & 4       & 83     \\
-      I           & 171          & 1       & 172    \\
-      K           & 183          & 1       & 184    \\
-      L           & 334          & 6       & 340    \\
-      M           & 97           & 0       & 97     \\
-      N           & 125          & 0       & 125    \\
-      P           & 200          & 0       & 200    \\
-      Q           & 161          & 0       & 161    \\
-      R           & 348          & 2       & 350    \\
-      S           & 227          & 7       & 234    \\
-      T           & 218          & 4       & 222    \\
-      V           & 235          & 0       & 235    \\
-      W           & 52           & 1       & 53     \\
-      X           & 76           & 0       & 76     \\
-      Y           & 88           & 0       & 88     \\
-      Z           & 71           & 0       & 71     \\
-      ??          & 19           & 0       & 20     \\
+      \#tRNA          & 3579         & 36      & 3616  \\
+      \#N/\#G         & 74           & 98      & 75    \\
+      Min Gene Length & 68           & 71      & 68    \\
+      Max Gene Length & 89           & 206     & 206   \\
+      \%intron        & 2            & 28      & 3     \\
+      \%G             & 32           & 33      & 32    \\
+      \%C             & 26           & 26      & 26    \\
+      A               & 210          & 2       & 212   \\
+      C               & 64           & 1       & 65    \\
+      D               & 105          & 1       & 106   \\
+      E               & 160          & 1       & 161   \\
+      F               & 104          & 2       & 106   \\
+      G               & 228          & 3       & 231   \\
+      H               & 80           & 4       & 84    \\
+      I               & 171          & 1       & 172   \\
+      K               & 183          & 1       & 184   \\
+      L               & 335          & 6       & 341   \\
+      M               & 97           & 0       & 97    \\
+      N               & 125          & 0       & 125   \\
+      P               & 200          & 0       & 200   \\
+      Q               & 161          & 0       & 161   \\
+      R               & 348          & 2       & 350   \\
+      S               & 228          & 7       & 235   \\
+      T               & 218          & 4       & 222   \\
+      V               & 236          & 0       & 236   \\
+      W               & 52           & 1       & 53    \\
+      X               & 76           & 0       & 76    \\
+      Y               & 88           & 0       & 88    \\
+      Z               & 76           & 0       & 76    \\
+      \#              & 34           & 0       & 35    \\
       \hline
     \end{tabular}
     \label{table:genesummery}
@@ -663,13 +662,12 @@ We made the final gene set data by removing genes with TSE score of less than 50
 \end{table}
 
 
-
 \begin{figure}[tb]
   \centering
   \includegraphics[width=\columnwidth]{clussize.jpeg}
-  \caption[Genome Comparison]{Cluster size distribution for three categories of TryTryp genomes. Labels in green on top of each bar show the percentage of total number of genes as cluster of a specific length. Each color refers to one category of TriTryp genomes. Numbers within each color section of the bar shows the counts of clusters with a specific length.} 
+  \caption[Genome Comparison]{Cluster size distribution for three categories of TryTryp genomes. Labels in green on top of each bar show the percentage of total number of genes as cluster of a specific length. Each color refers to one category of TriTryp genomes. Numbers within each color section of the bar shows the counts of clusters with a specific length.}
   \label{fig:clussize}
-\end{figure} 	
+\end{figure}
 
 \begin{table}[htbp]
   \caption{non-pseuso|truncated|unmatched-identity genes removed from the gene set after the applying score cutoff}
@@ -731,7 +729,7 @@ Using phylogenetic trees of Trypanosoma from these works \cite{Souza:2018dg,Hugh
   \caption{Classification of TryTryp genomes. genomes not mentioned here are clustered as one genome.}
   \begin{adjustbox}{width=\columnwidth,center}
     \begin{tabular}{|c|c|c|c|c|c|c|c|}
-      \toprule LenriettiComplex                           & AfricanTrypanosome (T1)                              & AmericanTrypanosome (T2)                               & Leishmania1                                        & Leishmania2                                        & Leishmania3                                        & Leishmania4                                        & Leishmania5 (Lvianna)                              \\\midrule
+      \toprule LenriettiComplex                           & AfricanTrypanosome (T1)                            & AmericanTrypanosome (T2)                           & Leishmania1                                        & Leishmania2                                        & Leishmania3                                        & Leishmania4                                        & Leishmania5 (Lvianna)                              \\\midrule
       \parbox{.45\textwidth} {\begin{enumerate}
           \item LspMARLEM2494
           \item LenriettiiLEM3045
@@ -744,8 +742,8 @@ Using phylogenetic trees of Trypanosoma from these works \cite{Souza:2018dg,Hugh
           \item TvivaxY486
         \end{enumerate}} & \parbox{.45\textwidth}{\begin{enumerate}
           \item TgrayiANR4
-          %\item TrangeliSC58
-          %\item TcruziCLBrener
+                %\item TrangeliSC58
+                %\item TcruziCLBrener
           \item TcruziCLBrenerEsmeraldo-like
           \item TcruziCLBrenerNon-Esmeraldo-like
           \item TcruzicruziDm28c
@@ -756,7 +754,7 @@ Using phylogenetic trees of Trypanosoma from these works \cite{Souza:2018dg,Hugh
           \item TcruziSylvioX10-1
           \item TcruziSylvioX10-1-2012
           \item TcruziTulacl2
-          %\item TtheileriEdinburgh
+                %\item TtheileriEdinburgh
         \end{enumerate}} & \parbox{.45\textwidth}{\begin{enumerate}
           \item CfasciculataCfCl
           \item LseymouriATCC30220

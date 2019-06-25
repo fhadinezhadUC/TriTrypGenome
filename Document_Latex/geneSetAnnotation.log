@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.15)  18 JUN 2019 15:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.15)  24 JUN 2019 17:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2005,42 +2005,42 @@ NG copy)>] <Figures/clussize.jpeg, id=173, 570.63188pt x 496.85625pt>
 File: Figures/clussize.jpeg Graphic file (type jpg)
 
 <use Figures/clussize.jpeg>
-Package pdftex.def Info: Figures/clussize.jpeg used on input line 669.
+Package pdftex.def Info: Figures/clussize.jpeg used on input line 667.
 (pdftex.def)             Requested size: 469.75499pt x 409.02443pt.
 
 
-LaTeX Warning: Citation `Souza:2018dg' on page 12 undefined on input line 729.
+LaTeX Warning: Citation `Souza:2018dg' on page 12 undefined on input line 727.
 
 
-LaTeX Warning: Citation `Hughes:2003' on page 12 undefined on input line 729.
+LaTeX Warning: Citation `Hughes:2003' on page 12 undefined on input line 727.
 
 
-LaTeX Warning: Citation `Pothirat:2014' on page 12 undefined on input line 729.
+LaTeX Warning: Citation `Pothirat:2014' on page 12 undefined on input line 727.
 
 
 
-LaTeX Warning: Citation `Kelly:2017' on page 12 undefined on input line 729.
+LaTeX Warning: Citation `Kelly:2017' on page 12 undefined on input line 727.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 760--760
+Underfull \hbox (badness 10000) in paragraph at lines 758--758
 []\T1/pplj/m/n/12 TcruziCLBrenerNon-Esmeraldo-
  []
 
 [12 <./Figures/clussize.jpeg>] [13] [14] [15]
 No file geneSetAnnotation.bbl.
 [16]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 830.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 830.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 828.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 828.
  (./geneSetAnnotation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 830.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 830.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 828.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 828.
 Package rerunfilecheck Info: File `geneSetAnnotation.out' has not changed.
 (rerunfilecheck)             Checksum: 3DBC646F3F7E9582C6379084241561CC;1607.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 830.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 828.
  ) 
 Here is how much of TeX's memory you used:
  44502 strings out of 493029
@@ -2065,7 +2065,7 @@ ype1/nowacki/iwona/iwonar.pfb></usr/share/texlive/texmf-dist/fonts/type1/nowack
 i/iwona/iwonari.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/upl
 b8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on geneSetAnnotation.pdf (16 pages, 2423594 bytes).
+Output written on geneSetAnnotation.pdf (16 pages, 2423785 bytes).
 PDF statistics:
  263 PDF objects out of 1000 (max. 8388607)
  221 compressed objects within 3 object streams

@@ -12,16 +12,16 @@ for name1 in $folders; do
 if [ $name1 != "Logos" ]
 then
 printf "***************$name1***************"
-	mkdir -p "$folderpath/Logos/$name1/KLD"
-	mkdir -p "$folderpath/Logos/$name1/ID"
-	mkdir -p "$folderpath/Logos/$name1/Func"
-	mkdir -p "$folderpath/Logos/$name1/Bubble"
+#	mkdir -p "$folderpath/Logos/$name1/KLD"
+#	mkdir -p "$folderpath/Logos/$name1/ID"
+#	mkdir -p "$folderpath/Logos/$name1/Func"
+#	mkdir -p "$folderpath/Logos/$name1/Bubble"
 #run tsfm to make the logos 
-name2=${name1%".v5"}
-name3="$name2.sites74.v5"
-printf "$name3"
-python3 "$tsfmpath/tsfm.py" -c "$folderpath/tRNA_L_skel_Leish_sites74_struct.txt" --logo "$folderpath/$name1/$name3"
-mv -- *.eps "$folderpath/Logos/$name1/Func"
+#name2=${name1%".v5"}
+#name3="$name2.sites74.v5"
+#printf "$name3"
+#python3 "$tsfmpath/tsfm.py" -c "$folderpath/tRNA_L_skel_Leish_sites74_struct.txt" --logo "$folderpath/$name1/$name3"
+#mv -- *.eps "$folderpath/Logos/$name1/Func"
 fi
 done
 # creating ID, KLD, and tables for the bubble plots
@@ -30,12 +30,12 @@ if [ $name1 != "Logos" ]
 then
 printf "***************$name1***************"
 name2=${name1%".v5"}
-name3="$name2.sites72.v5"
+name3="$name2.sites74.v5"
 
 python3 "$tsfmpath/tsfm.py" -c "$folderpath/tRNA_L_skel_Leish_sites74_struct.txt" --IDlogo "$folderpath/$name1/$name3" "$folderpath/HOMO.v5/HOMO.sites74.v5"
 mv -- *.eps "$folderpath/Logos/$name1/ID"
 
-ython3 "$tsfmpath/tsfm.py" -c "$folderpath/tRNA_L_skel_Leish_sites74_struct.txt" --kldlogo --bt "$folderpath/$name1/$name3" "$folderpath/HOMO.v5/HOMO.sites74.v5"
+python3 "$tsfmpath/tsfm.py" -c "$folderpath/tRNA_L_skel_Leish_sites74_struct.txt" --kldlogo --bt "$folderpath/$name1/$name3" "$folderpath/HOMO.v5/HOMO.sites74.v5"
 mv -- *.eps "$folderpath/Logos/$name1/KLD"
 
 #python3 "$tsfmpath/tsfm.py" -c "$folderpath/tRNA_L_skel_Leish_sites74_struct.txt" --bt "$folderpath/$name1/$name3" "$folderpath/HOMO.v5/HOMO.sites74.v5"

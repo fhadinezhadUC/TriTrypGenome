@@ -25,7 +25,9 @@ annotate.final.geneset.round1 <- function(){
     "/home/fatemeh/TriTrypGenome_project/GenePrediction/integrated_tse_ara.txt"
   genefile <-
     read.table(genefilepath, header = TRUE, colClasses = "character")
-  
+  #table(genefile$foundby)
+  #ara both  tse 
+  #750 3597   34 
   # set the ara score of genes not found by aragorn/tse to -1 to convert the column to integer
   genefile[genefile$arascore == "notfound",]$arascore <- -1
   genefile$arascore <- as.integer(genefile$arascore)
@@ -79,8 +81,8 @@ annotate.final.geneset.round1 <- function(){
   Anotated_genefile[!ambiguties,]$genefunc <-
     Anotated_genefile[!ambiguties,]$arafunc
   Anotated_genefile[ambiguties,]$genefunc <- "#"
-  # 45 genes are marked as ?? from which 1 found by tse and 44 found by both
-  # 3571 not marked as ??
+  # 45 genes are marked as #from which 1 found by tse and 44 found by both
+  # 3571 not marked as #
   # resolving the identity of some of the # genes
   # column note is added for the status of gene's identity
   Anotated_genefile$note <- "T"
@@ -91,6 +93,9 @@ annotate.final.geneset.round1 <- function(){
   # top 3 lines do not overlap
   Anotated_genefile[ambiguty3, ]$note <-
     "Undet" # 33 genes found by both with unmatch identity
+  #table(paste(Anotated_genefile[ambiguty3, ]$tsefunc,Anotated_genefile[ambiguty3, ]$arafunc,sep="|"))
+  #E|L G|W I|D ?|L M|L M|O R|S Y|N 
+  #1   3   3   3   9   2   1  11 
   
   # based on the results from annotate.final.geneset.round2 we will add 10 Y genes which have same folding by both genefinders
   # with relatively higher tse score than ara score. tse score of 72 (based on density figure it is amongst well predicted genes). 
@@ -106,6 +111,7 @@ annotate.final.geneset.round1 <- function(){
     Anotated_genefile$tsescore > 50
   Anotated_genefile[Ygenes, ]$genefunc <- Anotated_genefile[Ygenes, ]$tsefunc
   Anotated_genefile[Ygenes, ]$note <- "resolved"
+  Anotated_genefile
 }
 prepare.tsfm.input <- function(Anotated_genefile){
   library(gsubfn)
@@ -117,14 +123,18 @@ prepare.tsfm.input <- function(Anotated_genefile){
   tsfmInput <- Anotated_genefile[Anotated_genefile$genefunc!="#" & Anotated_genefile$genefunc != "Z",]
   # table(tsfmInput$foundby)
   # ara both 
-  # 36 3469 
+  # 36 3459
+  # remove genes of genomes TrangeliSC58(6 genes) and TcruziCLBrener(11 genes)
+  lowqualityGenomes <- tsfmInput$sourceOrg=="TrangeliSC58" | tsfmInput$sourceOrg=="TcruziCLBrener"
+  tsfmInput <- tsfmInput[!lowqualityGenomes,]
+  # 3478 genes left to be alined
   resultpath <- "/home/fatemeh/TriTrypGenome/GeneAnnotation/"
   write.table(tsfmInput,col.names = TRUE,file = paste(resultpath,"tsfm_input_geneset.txt",sep = ""))
 }
-create.summary.table <- function(genefile) {
+create.summary.table <- function() {
   # create a table with columns: Annotation, Intersection, ARAonly, Union
-  prepare.tsfm.input
-  firstcol <- c("#tRNA","#N/#G","Min Gene Length","Max Gene Length","%intron","%G" ,"%C" ,"%T" ,"%A","A",  "C",  "D",  "E",  "F",  "G",  "H",  "I",  "K",  "L",  "M",  "N",  "P",  "Q",  "R",  "S",  "T",  "V",  "W",  "X",  "Y",  "Z", "??")
+  genefile <- annotate.final.geneset.round1()
+  firstcol <- c("#tRNA","#N/#G","Min Gene Length","Max Gene Length","%intron","%G" ,"%C" ,"%T" ,"%A","A",  "C",  "D",  "E",  "F",  "G",  "H",  "I",  "K",  "L",  "M",  "N",  "P",  "Q",  "R",  "S",  "T",  "V",  "W",  "X",  "Y",  "Z", "#")
   resulttable <- data.frame(firstcol,rep(0,length(firstcol)),rep(0,length(firstcol)),rep(0,length(firstcol)))
   names(resulttable) <- c("Annotation", "Intersection", "ARAonly", "Union")
   
@@ -155,12 +165,12 @@ create.summary.table <- function(genefile) {
   # make a table of Class frequencies for each set:
   intersect_ClassFreq <- as.data.frame(table(intersectDF$genefunc))
   names(intersect_ClassFreq) <- c("class","freq")
+  intersect_ClassFreq$class <- as.character(intersect_ClassFreq$class)
   AraOnly_ClassFreq <- as.data.frame(table(ARAonlyDF$genefunc))
   names(AraOnly_ClassFreq) <- c("class","freq")
+  AraOnly_ClassFreq$class <- as.character(AraOnly_ClassFreq$class)
   Union_ClassFreq <- as.data.frame(table(genefile$genefunc))
   names(Union_ClassFreq) <- c("class","freq")
-  intersect_ClassFreq$class <- as.character(intersect_ClassFreq$class)
-  AraOnly_ClassFreq$class <- as.character(AraOnly_ClassFreq$class)
   Union_ClassFreq$class <- as.character(Union_ClassFreq$class)
   
   for (i in 1:nrow(intersect_ClassFreq)) {
@@ -180,7 +190,7 @@ create.summary.table <- function(genefile) {
   resulttable$ARAonly <- round(resulttable$ARAonly,digits = 0)
   resulttable$Union <- round(resulttable$Union,digits = 0)
   resulttable$Annotation <- as.character(resulttable$Annotation)
-  Latex.file.prep(resulttable,"resulttable")
+  Latex.file.prep(resulttable,"/home/fatemeh/TriTrypGenome/Document_Latex/summarytable.txt")
   
 }
 clustersize.dist.visualize <- function(genefile){
@@ -535,7 +545,6 @@ Latex.file.prep <- function(df,filename){
     currline <- paste(currline,"\\\\",sep="")
     Llines <- c(Llines,currline)
   }
-  filename <- paste("/home/fatemeh/Leishmania_2019/Leishmania_2019/Results/",clade,".txt",sep = "")
   writeLines(Llines, filename,sep = "\n")
   
 }
