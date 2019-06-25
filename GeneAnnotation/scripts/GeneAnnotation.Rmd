@@ -263,6 +263,8 @@ Tpercentage <- function(x) {
 ```
 \textbf{3. create.summary.table\(\)}\
 \textbf{Input}: output of function annotate.final.geneset.round1()\
+\textbf{Input}: output is saved in latex format in this file \href{}{SummaryTable_Latex.txt}
+\textbf{Input}: output is saved in latex format in this file \href{}{GenomeNucComposition_Latex.txt}
 Read the annotated gene file (output of function annotate.final.geneset.round1) and Creates a summary table of genes after the score filtering.\
 Last three columns are each for one gene set. Sets are defined as: a) Intersection Of two gene finders. Two genes are considered same gene if their coordinate overlaps at least one base. Displacement of overlapped genes between ARA and TSE does not pass 4bp. b) Union of two gene finders. c) Genes found by only ARA. Genes marked as # include: pseudo|truncated genes (6 genes), genes with different predicted identity by two genefinders(23 genes), genes with unassigned identity|anticodon by any of genefinders (2 genes), and genes with letter N in their sequence(we had 4 of these genes). we also had 1 genes preicted by only TSE labeled as # which is not shown in this table as a seperate column, however it is considered in the union set.\
 ```{r , echo=FALSE}
