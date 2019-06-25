@@ -20,7 +20,7 @@ bubble.main <- function(){
   # THESE ARE THE COORDINATES FOR THE TRNA STRUCTURE BACKBONE IN THE FIGURES
   
   # positions x= 8.75 and y= 10.5 are manually added
-  TableDir <- "/home/fatemeh/TriTrypGenome/tsfm/sites74/Logos/"
+  TableDir <- "/home/fatemeh/TriTrypGenome/tsfm/sites72/Logos/"
   line.x <- c(6.875,6.500,6.125,5.750,5.375,5.000,4.625,4.625,5.000,5.000,2.375
               ,2.750,2.375,2.750,2.500,2.875,3.250,2.875,2.500,2.125,1.750,1.375,1.000
               ,0.625,0.250,0.625,1.000,1.500,1.125,1.500,1.125,1.500,1.125,1.500,1.125
@@ -69,14 +69,14 @@ bubble.main <- function(){
   
   tRNA_L_skel_df <-
     read.table(
-      "/home/fatemeh/TriTrypGenome/tsfm/sites74/tRNA_L_skel_Leish.sites74.txt",
+      "/home/fatemeh/TriTrypGenome/tsfm/sites72/tRNA_L_skel_Leish.sites72.txt",
       sep = ",",
       header = FALSE
     )
   names(tRNA_L_skel_df) <- c("sprinzl", "x", "y", "sprinzl2")
   dirpath <- TableDir 
   clusterdir <- list.dirs(path = dirpath, recursive = FALSE)
-  outputpath <- "/home/fatemeh/TriTrypGenome/Document_Latex/bubbleplots74/"
+  outputpath <- "/home/fatemeh/TriTrypGenome/Document_Latex/bubbleplots72/"
   orders <- c(5,6,8,0,2,7,1,3,4)
   clusterdir <- clusterdir[order(orders)]
   #_________________________________
@@ -96,7 +96,7 @@ bubble.main <- function(){
     splitedpath <- unlist(strsplit(clusterdir[i], split = "/"))
     clus_name <- splitedpath[length(splitedpath)]
     clus_name2 <- gsub(".v5","",clus_name)
-    table_name<-paste(clus_name2,".sites74.v5_Table.txt",sep = "")
+    table_name<-paste(clus_name2,".sites72.v5_Table.txt",sep = "")
     #table_name<-"HOMO.sites72.v5_Table.txt"
     if (clus_name == "HOMO.v5")
       next
