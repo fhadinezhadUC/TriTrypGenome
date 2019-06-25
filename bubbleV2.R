@@ -84,63 +84,8 @@ bubble.main <- function(){
   for (i in  1:length(classes)) {
     class <- classes[i]
   
-  filenm <- paste(outputpath,"bubbles","_",class,".pdf",sep="");
-  pdf(file=filenm,version="1.4",width=10,height=5);
-  par(
-    mfrow = c(2, 4),
-    oma = c(0, 0, 0, 0),
-    mar = c(1, 1, 2, 1),
-    xpd = NA
-  )
-  for (i in 1:length(clusterdir)) {
-    splitedpath <- unlist(strsplit(clusterdir[i], split = "/"))
-    clus_name <- splitedpath[length(splitedpath)]
-    clus_name2 <- gsub(".v5","",clus_name)
-    table_name<-paste(clus_name2,".sites72.v5_Table.txt",sep = "")
-    #table_name<-"HOMO.sites72.v5_Table.txt"
-    if (clus_name == "HOMO.v5")
-      next
+  
     
-    tablepath <-
-      paste(
-        dirpath,clus_name,
-        "/Bubble/",
-        table_name,
-        sep = ""
-      )
-    df <- read.table(tablepath, header = TRUE)
-    df <- match_bubble_coords(df, tRNA_L_skel_df)
-    # write the tables 
-    # assigning the title 
-    ptitle<-""
-    if(clus_name2 == "AFTRYP")
-      ptitle = "Af Tryp."
-    if(clus_name2 == "ENRIETTII")
-      ptitle = "Enriettii"
-    if(clus_name2 == "INFANTUM")
-      ptitle = "Infantum"
-    if(clus_name2 == "MAJOR")
-      ptitle = "Major"
-    if(clus_name2 == "VIANNIA")
-      ptitle = "Viannia"
-    if(clus_name2 == "AMTRYP")
-      ptitle = "Am Tryp."
-    if(clus_name2 == "LEPTOCRITH")
-      ptitle = "Af Tryp."
-    if(clus_name2 == "MEXICANA")
-      ptitle = "Mexicana"
-    all.bubblev2(
-      df,class,
-      name = ptitle,
-      outputpath,
-      alpha = 0.5,
-      fact = 0.5,
-      area = TRUE,
-      legend = FALSE
-    )
-   
-  }
-  dev.off();
   }
 }
 all.bubblev2 <- function(df,class,name,outputpath,alpha=0.5,fact=0.5,area=TRUE,legend=FALSE) { 

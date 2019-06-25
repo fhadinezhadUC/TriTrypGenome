@@ -5,6 +5,9 @@ library(gdata)
 library(ggplot2)
 library(reshape2)
 library(plyr)
+library(gsubfn)
+library(ggplot2)
+library(seqinr)
 #source("https://bioconductor.org/biocLite.R")
 library(Biostrings)
 # annotate.final.geneset.round1() will read the main integrated gene file from integrated_tse_ara.txt
@@ -193,6 +196,121 @@ create.summary.table <- function() {
   Latex.file.prep(resulttable,"/home/fatemeh/TriTrypGenome/Document_Latex/summarytable.txt")
   
 }
+genome.nuc.composition <- function(){
+  filenames <-
+    list.files(
+      "/home/fatemeh/TriTrypGenome/GenomeData/",
+      pattern = "*.fasta",
+      full.names = TRUE
+    )
+  seqcounts <- integer(length = length(filenames))
+  genomelength <- integer(length = length(filenames))
+  Cperc <- integer(length = length(filenames))
+  Gperc <- integer(length = length(filenames))
+  Aperc <- integer(length = length(filenames))
+  Tperc <- integer(length = length(filenames))
+  GCp <- integer(length = length(filenames))
+  ATp <- integer(length = length(filenames))
+  geneCounts <- integer(length = length(filenames))
+  aveGeneLen <- integer(length = length(filenames))
+  organism_longname <- character(length = length(filenames))
+  organism_shortname <- character(length = length(filenames))
+  for (i in 1:length(filenames)) {
+    seq = read.fasta(filenames[i],seqtype="DNA",as.string = TRUE)
+    allseq <- paste(paste(seq,collapse = ""),collapse = "")
+    allseq <- DNAString(allseq)
+    GCp[i] <- gcContent(allseq)
+    ATp[i] <- atContent(allseq)
+    Tperc[i] <- Tpercentage(allseq)
+    Aperc[i] <- Apercentage(allseq)
+    Cperc[i] <- Cpercentage(allseq)
+    Gperc[i] <- Gpercentage(allseq)
+    genomelength[i] <- nchar(allseq)
+    seqcounts[i] <- length(seq)
+    temparr <- unlist(strsplit(as.character(getAnnot(seq[[1]])), " "))[3]
+    organism_longname[i] <- substring(temparr,10)
+    arr <- unlist(strsplit(filenames[i], "/"))
+    shortname <- arr[length(arr)]
+    shortname2 <- gsub("TriTrypDB-41_", "", shortname)
+    shortname3 <- gsub("_Genome.fasta$", "", shortname2)
+    organism_shortname[i] <- shortname3
+  }
+  Aperc <- round(Aperc,digits = 2)*100
+  Tperc <- round(Tperc,digits = 2)*100
+  Cperc <- round(Cperc,digits = 2)*100
+  Gperc <- round(Gperc,digits = 2)*100
+  GCp <- round(GCp,digits = 2)*100
+  genomeDF <- data.frame(organism_longname,organism_shortname,Aperc,Tperc,Cperc,Gperc,GCp,seqcounts)
+  resultpath <- "/home/fatemeh/Leishmania_2019/Leishmania_2019/Results/"
+  write.table(genomeDF,col.names = TRUE,file = paste(resultpath,"GenomeNucComposition.txt",sep = ""))
+  
+  filepath <- "/home/fatemeh/Leishmania_2019/Leishmania_2019/Results/GenomeNucComposition.txt"
+  genomefile <- read.table(filepath, header = TRUE, colClasses = "character")
+  # write with fixed width
+  n <- data.frame("organism_longname","organism_shortname","Aperc","Tperc","Cperc","Gperc","GCp","seqcounts")
+  names(n) <- c("organism_longname","organism_shortname","Aperc","Tperc","Cperc","Gperc","GCp","seqcounts")
+  genomefile  <- genomefile[order(seqcounts),]
+  genomefile2 <- genomefile
+  genomefile[, ] <- lapply(genomefile[, ], as.character)
+  genomefile$Aperc <- paste(genomefile$Aperc,"%",sep = "")
+  genomefile$Cperc <- paste(genomefile$Cperc,"%",sep = "")
+  genomefile$Gperc <- paste(genomefile$Gperc,"%",sep = "")
+  genomefile$Tperc <- paste(genomefile$Tperc,"%",sep = "")
+  genomefile$GCp <- paste(genomefile$GCp,"%",sep = "")
+  library(gdata)
+  write.fwf(
+    rbind(n, genomefile),
+    colnames = FALSE,
+    width = c(57, 32, 10, 10, 10, 10, 10, 10, 10),
+    file = paste(resultpath,"GenomeNucComposition2.txt",sep = "")
+  )
+  genomefile2
+  # read like this:
+}
+genome.nuc.composition2 <- function(){
+  genefile <- annotate.final.geneset.round1()
+  genecountdf <- as.data.frame(table(genefile$sourceOrg))
+  #genomefile <- genome.nuc.composition
+  filepath <- "/home/fatemeh/TriTrypGenome/GenomeNucComposition.txt"
+  genomefile <-
+    read.table(filepath, header = TRUE, colClasses = "character")
+  genomefile  <- genomefile[order(seqcounts), ]
+  genomefile$genecounts <- 0
+  for (i in 1:nrow(genomefile)) {
+    currname <- genomefile$organism_shortname[i]
+    if (currname == "LmajorSD75.1")
+      currname <- "LmajorSD75"
+    genomefile$genecounts[i] <-
+      genecountdf[genecountdf$Var1 == currname, ]$Freq
+  }
+  
+  # remove the column ATp and organism_longname from the table
+  genomefile2 <-
+    genomefile[, !(names(genomefile) %in% c("ATp", "organism_longname"))]
+  # add the column genesMissing ????
+  # write latex file
+  firstline <-
+    c("organism",
+      "Aperc",
+      "Tperc",
+      "Cperc",
+      "Gperc",
+      "GCp",
+      "seqcounts",
+      "genecounts")
+  Llines <- paste(firstline, collapse = "&")
+  Llines <- paste(Llines, "\\\\", sep = "")
+  for (i in 1:nrow(genomefile2)) {
+    currline <-
+      paste(genomefile2[, 1:ncol(genomefile2)][i, ], collapse = "&")
+    currline <- paste(currline, "\\\\", sep = "")
+    Llines <- c(Llines, currline)
+  }
+  writeLines(Llines,
+             "/home/fatemeh/TriTrypGenome/GenomeNucComposition_Latex.txt",
+             sep = "\n")
+}
+
 clustersize.dist.visualize <- function(genefile){
   genefile <- annotate.final.geneset()
   clusterdf <- create.clusterDF(genefile)
