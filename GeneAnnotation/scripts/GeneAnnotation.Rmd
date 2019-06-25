@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 This script has the fallowing functions:\
 \
 \textbf{0. annotate.final.geneset.round1\(\)}\
-\textbf{Input}: \textbf{tsfm\_input\_geneset.txt}\
+\textbf{Input}: \href{https://github.com/fhadinezhadUC/TriTrypGenome/blob/master/GenePrediction/Integrate_Tse_Ara.R}{\textbf{integrated\_tse\_ara.txt}}\
 It reads the main integrated gene file from integrated_tse_ara.txt\
 Keeps genes with either their ara score is $>$ 106 or their tse score is $>$ 49\
 Column \textbf{genefun} is added to the genefile table and filled in the fallowing order:
@@ -142,7 +142,7 @@ annotate.final.geneset.round1 <- function() {
 Anotated_genefile <- annotate.final.geneset.round1()
 ```
 \textbf{1. genome.nuc.composition\(\):}\
-\textbf{Input}: \textbf{GenomeNucComposition.txt} and \textbf{output of function annotate.final.geneset.round1\(\)}\
+\textbf{Input}: \href{https://github.com/fhadinezhadUC/TriTrypGenome/blob/master/GenomeNucComposition.txt}{\textbf{GenomeNucComposition.txt}} and \textbf{output of function annotate.final.geneset.round1\(\)}\
 The complete script for calculating the nucleotide composition is in FinalGeneSetAnnotation.R. Reading 46 genomes and caclulating the compositions is a bit time consuming, so I have already done that part in function genome.nuc.composition() in the main R script and saved the table as GenomeNucComposition.txt. Here, in function genome.nuc.composition2() I only read file GenomeNucComposition.txt, and marge it with a new column called genecounts which I calculate from the output of function annotate.final.geneset.round1(). In the end the file is written in latex format.\
 ```{r , echo=FALSE}
 genome.nuc.composition2 <- function(){
@@ -195,7 +195,8 @@ nuc_comp_table <- genome.nuc.composition2()
 print(nuc_comp_table[!(names(nuc_comp_table) %in% c("seqcounts"))],row.names = FALSE)
 ```
 \textbf{2. Score.visualization\(\)}\
-\textbf{Input}: \textbf{tsfm\_input\_geneset.txt}\
+\textbf{Input}: \textbf{Input}: \href{https://github.com/fhadinezhadUC/TriTrypGenome/blob/master/GenePrediction/Integrate_Tse_Ara.R}{\textbf{integrated\_tse\_ara.txt}}\
+\
 This functions read the main integrated gene file integrated_tse_ara.txt and shows the distribution of gene scores \
 ```{r plot, echo=FALSE}
 
@@ -459,7 +460,7 @@ Read the annotated gene file (output of function annotate.final.geneset.round1) 
 \newpage
 \textbf{5. prepare.tsfm.input\(\)}\
 \textbf{Input}: output of function annotate.final.geneset.round1()\
-\textbf{Output}: \textbf{tsfm\_input\_geneset.txt}\
+\textbf{Output}: \href{https://github.com/fhadinezhadUC/TriTrypGenome/blob/master/GeneAnnotation/tsfm_input_geneset.txt}{\textbf{tsfm\_input\_geneset.txt}}\
 Read the annotated gene file, removes \textbf{genes with ambiguty} marked as # (35 genes), genes with function \textbf{Sec}s (76 genes) and genes from two genomes genes of genomes \textbf{TrangeliSC58} and \textbf{TcruziCLBrener} and writes the selected genes in file tsfm_input_geneset.txt (17 genes). tsfm_input_geneset.txt file should be used for further alignment for the purpose of creating CIFs.\
 We have \textbf{3478} genes left in this file to be aligned\
 ```{r pressure, echo=FALSE, include=FALSE}
