@@ -1,0 +1,70 @@
+\documentclass[table,
+12pt, % Main document font size
+a4paper, % Paper type, use 'letterpaper' for US Letter paper
+oneside, % One page layout (no page indentation)
+%twoside, % Two page layout (page indentation for binding and different headers)
+headinclude,footinclude, % Extra spacing for the header and footer
+BCOR5mm, % Binding correction
+]{scrartcl}
+\input{structure.tex}
+\usepackage{xcolor}
+\usepackage[a4paper, total={6.5in, 10in}]{geometry}
+\usepackage[edges]{forest}
+\usepackage{tikz-qtree}
+\usepackage{tcolorbox}
+%\usepackage[table, dvipsnames]{xcolor}
+%\usetikzlibrary{shapes.geometric,arrows.meta}
+\colorlet{shadecolor}{gray!10}
+\usepackage{cite}
+\usepackage{adjustbox}
+\usepackage{booktabs}
+\usepackage{float}
+\hyphenation{Fortran hy-phen-ation} 
+\captionsetup{font=footnotesize}
+\usepackage{booktabs}
+\usepackage{enumitem}
+\usepackage{tabularx, makecell}%
+\usepackage{tikz}
+\usepackage{subfig}
+\usepackage{graphicx}
+\usepackage{cleveref}
+\usetikzlibrary{shapes.geometric, arrows}
+\renewcommand\theadfont{\normalsize\bfseries}
+        \usepackage{etoolbox} %
+        \AtBeginEnvironment{tabularx}{\setlist[enumerate, 1]{wide, leftmargin=*, itemsep=0pt, before=\vspace{-\dimexpr\baselineskip +2 \partopsep}, after=\vspace{-\baselineskip}}}
+%----------------------------------------------------------------------------------------
+%       TITLE AND AUTHOR(S)
+%----------------------------------------------------------------------------------------
+\title{\normalfont\spacedallcaps{}} % The article title
+\begin{document}
+%----------------------------------------------------------------------------------------
+%       HEADERS
+%----------------------------------------------------------------------------------------
+\renewcommand{\sectionmark}[1]{\markright{\spacedlowsmallcaps{#1}}} % The header for all pages 
+\lehead{\mbox{\llap{\small\thepage\kern1em\color{halfgray} \vline}\color{halfgray}\hspace{0.5em}\rightmark\hfil}} % The header style
+\pagestyle{scrheadings} % Enable the headers specified in this block
+\setcounter{tocdepth}{3} % Set the depth of the table of contents to show sections and subsections only
+\newpage 
+%Input: the foreground and background informations calculated by tsfm for each state. states are the set of alphabets used in input gene sequences which are {A,T,C,G,-}\\
+\section{Creating Function Logos, ID logos, KLD logos and bubble plot table with tsfm}
+\begin{itemize}
+\item[1. ] After preparing your Alignment results in folder \textbf{X }(Leish\_paper\_first\_round ...) for both sites72 and sites 74, run the script \textbf{extractFinalInput.sh} inside folder \textbf{X}, to prepare the input for tsfm in two subfolders called:\\
+LogotaxAlignmentInputs/sites74/ and LogotaxAlignmentInputs/sites72/ \\
+\item[2. ] For generating the logos of site72 we only need the folder site72 which has 9 subfolders one for each class of TriTryp genomes, and Homo. Each of these folders include the fasta files for 21 classes of tRNA.\\
+\item[3. ] Keep the file \textbf{tRNA\_L\_skel\_Leish\_sites72\_struct.txt} and the script \textbf{generateLogos.sh} inside folder site72.\\
+\item[4. ] In script generateLogos.sh, change the variable \textbf{tsfmpath} to the tsfm.py on your laptop as the example. The last version of tsfm is provided in folder tsfm, you can provide the path to tsfm.py from this folder.\\
+\item[5. ] Finally:\\
+cd workflow/site72\\
+chmod +x generateLogos.sh\\
+./generateLogos.sh\\
+This should create all the function logos at first, ID logos second and KLD logos along with the table at the end.\\
+Right now tsfm creates all the eps files for function logos, ID logos and KLD logos with the name of the Background Organism, so they will be overwritten if we create them in one run. So, that is why I generate them in order. it is not efficient! \\
+\item[6. ] Later, I used the \textbf{bubbleV2.R} to generate the bubble plots one pdf file per functional class. This version of all.bubble.R script will take three path to skel file, tables, and output file and reads all the tables from folder site72, aligns them to sprinzl and creates the bubble plots.\\
+All the outputs will be in directory /site72/Logos.\\
+\end{itemize}
+ 
+        
+\renewcommand{\refname}{\spacedlowsmallcaps{References}} % For modifying the bibliography heading
+\bibliographystyle{unsrt}
+\bibliography{sample.bib} % The file containing the bibliography
+\end{document}
