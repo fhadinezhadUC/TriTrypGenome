@@ -479,9 +479,11 @@ We have \textbf{3478} genes left in this file to be aligned\
   resultpath <- "/home/fatemeh/TriTrypGenome/GeneAnnotation/"
   write.table(tsfmInput,col.names = TRUE,file = paste(resultpath,"tsfm_input_geneset.txt",sep = ""))
 ```
-6. write.tsfm.input.in.fasta()\
 \
-This function will write the tsfm\_input\_geneset.txt file into a fasta format: final\_CIF\_geneset.fasta
+\textbf{6. write.tsfm.input.in.fasta()}\
+This function will write the tsfm\_input\_geneset.txt file into a fasta format: \href{https://github.com/fhadinezhadUC/TriTrypGenome/blob/master/final_CIF_geneset.fasta}{\textbf{final\_CIF\_geneset.fasta}}\
+\
+\
 ```{r ,echo=FALSE, warning=FALSE}
 #write.tsfm.input.in.fasta <- function() {
   # this function will read the prepared gene file as input for from tsfm_input_geneset.txt
