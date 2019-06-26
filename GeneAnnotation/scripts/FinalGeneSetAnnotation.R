@@ -123,16 +123,75 @@ prepare.tsfm.input <- function(Anotated_genefile){
   # table(Anotated_genefile$foundby)
   # ara both  tse 
   # 36 3579    1 
+  Anotated_genefile <- annotate.final.geneset.round1()
   tsfmInput <- Anotated_genefile[Anotated_genefile$genefunc!="#" & Anotated_genefile$genefunc != "Z",]
   # table(tsfmInput$foundby)
   # ara both 
-  # 36 3459
+  # 36 3469
   # remove genes of genomes TrangeliSC58(6 genes) and TcruziCLBrener(11 genes)
   lowqualityGenomes <- tsfmInput$sourceOrg=="TrangeliSC58" | tsfmInput$sourceOrg=="TcruziCLBrener"
   tsfmInput <- tsfmInput[!lowqualityGenomes,]
-  # 3478 genes left to be alined
+  #ara both 
+  #34 3454
+  # 3488 genes left to be alined
   resultpath <- "/home/fatemeh/TriTrypGenome/GeneAnnotation/"
   write.table(tsfmInput,col.names = TRUE,file = paste(resultpath,"tsfm_input_geneset.txt",sep = ""))
+}
+write.tsfm.input.in.fasta <- function() {
+  # this function will read the prepared gene file as input for from tsfm_input_geneset.txt
+  # For genes found by ony ara, it will add _ara<genemodel> at the end of gene id (36 genes)
+  # keep all the information needed to make a fasta file for doing the alignment
+  
+  filepath <- "/home/fatemeh/TriTrypGenome/GeneAnnotation/tsfm_input_geneset.txt"
+  genefile <-
+    read.table(filepath, header = TRUE, colClasses = "character")
+  araonly <- genefile$foundby == "ara"
+  genefile$geneid[araonly] <-
+    paste(genefile$geneid[araonly], "_ara", genefile$genefunc[araonly], sep = "")
+  genefile$geneid[!araonly] <-
+    paste(genefile$geneid[!araonly], "_", genefile$genefunc[!araonly], sep = "")
+  
+  geneseq <- character(length = length(genefile$geneid))
+  geness <- character(length = length(genefile$geneid))
+  geneDF_fasta <-
+    data.frame(
+      genefile$geneid,
+      genefile$tsegeneseq,
+      genefile$arageneseq,
+      genefile$tsegeness,
+      genefile$arageness,
+      genefile$foundby
+    )
+  names(geneDF_fasta) <-
+    c("GeneID",
+      "GeneSeqTse",
+      "GeneSeqAra",
+      "SSTSE",
+      "SSARA",
+      "foundby")
+  
+  genefile$arageneseq <- as.character(genefile$arageneseq)
+  genefile$tsegeneseq <- as.character(genefile$tsegeneseq)
+  geneDF_fasta$GeneID <- as.character(geneDF_fasta$GeneID)
+  geneDF_fasta$GeneSeqTse <- as.character(geneDF_fasta$GeneSeqTse)
+  geneDF_fasta$GeneSeqAra <- as.character(geneDF_fasta$GeneSeqAra)
+  geneDF_fasta$SSARA <- as.character(geneDF_fasta$SSARA)
+  geneDF_fasta$SSTSE <- as.character(geneDF_fasta$SSTSE)
+  
+  geneDF_fasta$GeneSeq <- ""
+  geneDF_fasta$GeneSeq <- geneDF_fasta$GeneSeqTse
+  geneDF_fasta[geneDF_fasta$foundby=="ara",]$GeneSeq <- toupper(geneDF_fasta[geneDF_fasta$foundby=="ara",]$GeneSeqAra)
+  write.fwf(
+    data.frame(
+      paste(">", geneDF_fasta$GeneID, sep = ""),
+      geneDF_fasta$GeneSeq
+    ),
+    file = "/home/fatemeh/TriTrypGenome/final_CIF_geneset.fasta",
+    sep = "\n",
+    colnames = FALSE
+  )
+  
+  geneDF_fasta
 }
 create.summary.table <- function() {
   # create a table with columns: Annotation, Intersection, ARAonly, Union

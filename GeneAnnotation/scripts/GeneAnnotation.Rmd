@@ -479,6 +479,67 @@ We have \textbf{3478} genes left in this file to be aligned\
   resultpath <- "/home/fatemeh/TriTrypGenome/GeneAnnotation/"
   write.table(tsfmInput,col.names = TRUE,file = paste(resultpath,"tsfm_input_geneset.txt",sep = ""))
 ```
+6. write.tsfm.input.in.fasta()\
+\
+This function will write the tsfm\_input\_geneset.txt file into a fasta format: final\_CIF\_geneset.fasta
+```{r ,echo=FALSE, warning=FALSE}
+#write.tsfm.input.in.fasta <- function() {
+  # this function will read the prepared gene file as input for from tsfm_input_geneset.txt
+  # For genes found by ony ara, it will add _ara<genemodel> at the end of gene id (36 genes)
+  # keep all the information needed to make a fasta file for doing the alignment
+  
+  filepath <- "/home/fatemeh/TriTrypGenome/GeneAnnotation/tsfm_input_geneset.txt"
+  genefile <-
+    read.table(filepath, header = TRUE, colClasses = "character")
+  araonly <- genefile$foundby == "ara"
+  genefile$geneid[araonly] <-
+    paste(genefile$geneid[araonly], "_ara", genefile$genefunc[araonly], sep = "")
+  genefile$geneid[!araonly] <-
+    paste(genefile$geneid[!araonly], "_", genefile$genefunc[!araonly], sep = "")
+  
+  geneseq <- character(length = length(genefile$geneid))
+  geness <- character(length = length(genefile$geneid))
+  geneDF_fasta <-
+    data.frame(
+      genefile$geneid,
+      genefile$tsegeneseq,
+      genefile$arageneseq,
+      genefile$tsegeness,
+      genefile$arageness,
+      genefile$foundby
+    )
+  names(geneDF_fasta) <-
+    c("GeneID",
+      "GeneSeqTse",
+      "GeneSeqAra",
+      "SSTSE",
+      "SSARA",
+      "foundby")
+  
+  genefile$arageneseq <- as.character(genefile$arageneseq)
+  genefile$tsegeneseq <- as.character(genefile$tsegeneseq)
+  geneDF_fasta$GeneID <- as.character(geneDF_fasta$GeneID)
+  geneDF_fasta$GeneSeqTse <- as.character(geneDF_fasta$GeneSeqTse)
+  geneDF_fasta$GeneSeqAra <- as.character(geneDF_fasta$GeneSeqAra)
+  geneDF_fasta$SSARA <- as.character(geneDF_fasta$SSARA)
+  geneDF_fasta$SSTSE <- as.character(geneDF_fasta$SSTSE)
+  
+  geneDF_fasta$GeneSeq <- ""
+  geneDF_fasta$GeneSeq <- geneDF_fasta$GeneSeqTse
+  geneDF_fasta[geneDF_fasta$foundby=="ara",]$GeneSeq <- toupper(geneDF_fasta[geneDF_fasta$foundby=="ara",]$GeneSeqAra)
+  write.fwf(
+    data.frame(
+      paste(">", geneDF_fasta$GeneID, sep = ""),
+      geneDF_fasta$GeneSeq
+    ),
+    file = "/home/fatemeh/TriTrypGenome/final_CIF_geneset.fasta",
+    sep = "\n",
+    colnames = FALSE
+  )
+  
+#  geneDF_fasta
+#}
+```
 \textbf{The gene set tsfm\_input\_geneset.txt is passed to the script TriTrypAlignment.R to be aligned with Human tRNA genes.}\
 \
 \
