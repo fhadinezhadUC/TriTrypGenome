@@ -1,0 +1,32 @@
+#!/bin/bash
+# this script will run tsfm on all the genomes 
+# for each genomes it will make a folder in each folder will make three folders: KLD,ID,Func, bubble_Table
+
+
+folderpath=$(pwd) 
+tsfmpath="/anaconda3/envs/tsfm/lib/python3.7/site-packages/tsfm"
+
+folders=$(ls -l $folderpath | grep "^d" | awk -F" " '{print $9}')
+
+# creating function, ID, KLD logos, and tables for the bubble plots
+for name1 in $folders; do 
+if [ $name1 != "Logos" ]
+then
+printf "***************$name***************"
+name3=${name1%}
+
+tsfm -c "" --idlogo "$folderpath/$name1/$name3" "$folderpath/HOMO.v5/HOMO.sites72.v5"
+mv -- *.eps "$folderpath/Logos/$name1/ID"
+
+python3 "$tsfmpath/tsfm.py" -c "$folderpath/tsfm_finalinput_HomoC_structfile.txt" --kldlogo "$folderpath/$name1/$name3" "$folderpath/HOMO.v5/HOMO.sites72.v5"
+mv -- *.eps "$folderpath/Logos/$name1/KLD"
+
+tsfm -c "$folderpath/tsfm_finalinput_HomoC_structfile.txt" --bt "$folderpath/$name1/$name3" "$folderpath/HOMO.v5/HOMO.sites72.v5"
+rm -- *.eps
+
+mv *_Table.txt "$folderpath/Logos/$name1/Bubble"
+fi
+done
+
+
+

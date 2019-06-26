@@ -20,8 +20,8 @@ bubble.main <- function(){
   # THESE ARE THE COORDINATES FOR THE TRNA STRUCTURE BACKBONE IN THE FIGURES
   
   # positions x= 8.75 and y= 10.5 are manually added
-  outputpath <- "/home/fatemeh/workflow/sites72/Logos/"
-  TableDir <- "/home/fatemeh/workflow/sites72/Logos/"
+  outputpath <- "/home/fatemeh/TriTrypGenome/tsfm/74sites2/alignments/Logos/"
+  TableDir <- "/home/fatemeh/TriTrypGenome/tsfm/74sites2/alignments/Logos/"
   skelfile_path <- "/home/fatemeh/workflow/tRNA_L_skel_Leish.sites72.txt"
   
   line.x <- c(6.875,6.500,6.125,5.750,5.375,5.000,4.625,4.625,5.000,5.000,2.375
