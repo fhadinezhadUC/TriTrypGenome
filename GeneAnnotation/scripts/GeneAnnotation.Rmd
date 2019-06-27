@@ -571,10 +571,9 @@ The result fasta file for each genome is saved as a file in tsfm/input folder.\
 The missing functional class for each genome or cluster of genomes is visualized as a bar plot.\
 \
 \
-(***********This last plot is not updated yet!*************)
 
 ```{r , echo=FALSE, include=FALSE}
-#split_tRNAgene_with_clustername <- function() {
+split_tRNAgene_with_clustername <- function() {
   resultpath <- "/home/fatemeh/TriTrypGenome/tsfm/sites72/"
   fastafile <-
     read.table(
@@ -695,7 +694,7 @@ The missing functional class for each genome or cluster of genomes is visualized
     )
   }
  # vidualization(genome_list, )
-#}
+}
 ```
 
 ```{r , echo=FALSE, include=FALSE}
@@ -763,7 +762,7 @@ The missing functional class for each genome or cluster of genomes is visualized
 #}
 ```
 
-```{r , echo=FALSE}
+```{r , echo=FALSE, include=FALSE}
   tRNAcountdf <- data.frame(names(genome_list))
   tRNAcountdf$counts <- 0
   names(tRNAcountdf) <- c("genome", "tRNAcounts")

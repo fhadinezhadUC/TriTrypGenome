@@ -120,6 +120,7 @@ prepare.tsfm.input <- function(Anotated_genefile){
   library(gsubfn)
   library(ggplot2)
   library(seqinr)
+  #table(Anotated_genefile[Anotated_genefile$sourceOrg=="TcruziDm28c",]$genefunc)
   # table(Anotated_genefile$foundby)
   # ara both  tse 
   # 36 3579    1 
@@ -603,6 +604,40 @@ assignCluster <- function(geneDF, clusterdistance) {
   }
   geneDF
 }
+find.similarGeneCluster <- function(){
+  clusterDF <- create.clusterDF(Anotated_genefile2)
+  clusterDF2 <- clusterDF[nchar(clusterDF$clusterSeq) > 1,]
+  clusters <- names(table(clusterDF2$clusterSeq))
+  clusterfreq <- as.integer(table(clusterDF2$clusterSeq))
+  clusterfreqdf <- data.frame(clusters,clusterfreq)
+  cluster_set <-integer(length = length(clusters))
+  clusterfreqdf$clusters <- as.character(clusterfreqdf$clusters)
+  clusterfreqdf <- clusterfreqdf[order(nchar(clusterfreqdf$clusters)),]
+  clusterfreqdf$setnumber <- 0
+  m <- matrix(nrow = nrow(clusterfreqdf),ncol = nrow(clusterfreqdf))
+  #stringdist(x1,y1, method = "jaccard")
+  distanceDF <- as.data.frame(m)
+  for (i in 1:length(clusterfreqdf$clusters)) {
+    for (j in 1:length(clusterfreqdf$clusters)) {
+      distanceDF[i, j] <- stringdist(clusterfreqdf$clusters[i], clusterfreqdf$clusters[j], method = "jaccard")
+    }
+  }
+  
+  hc <- hclust(as.dist(distanceDF), method = 'ward.D2')
+  plot(hc, cex = 0.6, hang = -1)
+  rect.hclust(hc, h = 1 , border = 2:5)
+  sub_groups <- cutree(hc, h = 1)
+  #fviz_cluster(list(data = distanceDF, cluster = sub_groups))
+  for (i in 1:max(sub_groups)) {
+    subg <- sub_groups == i
+    #cluster1 <-
+    #  paste(min(distanceDF[subg, subg]), max(distanceDF[subg, subg]), sep = "-")
+    clusDF <- clusterfreqdf[subg, ]$clusters
+    clusterfreqdf[subg, ]$setnumber <- i
+    
+  }
+  clusterfreqdf[order(clusterfreqdf$setnumber),]
+}
 clusterDF.textvisualization <- function(Anotated_genefile2){
   clusterDF <- create.clusterDF(Anotated_genefile2)
   clusterDF2 <- clusterDF[nchar(clusterDF$clusterSeq) > 1,]
@@ -613,41 +648,45 @@ clusterDF.textvisualization <- function(Anotated_genefile2){
   clusterfreqdf$clusters <- as.character(clusterfreqdf$clusters)
   clusterfreqdf <- clusterfreqdf[order(nchar(clusterfreqdf$clusters)),]
   setnumber <- 1
-  for (i in 1:length(clusters)) {
-    for (j in 1:length(clusters)) {
-      S1 <-
-        substring(tolower(clusterfreqdf$clusters[i]), seq(1, nchar(clusterfreqdf$clusters[i]), 1), seq(1, nchar(clusterfreqdf$clusters[i]), 1))
-      S2 <-
-        substring(tolower(clusterfreqdf$clusters[j]), seq(1, nchar(clusterfreqdf$clusters[j]), 1), seq(1, nchar(clusterfreqdf$clusters[j]), 1))
-      C1 <- setdiff(S1, S2)
-      C2 <- setdiff(S2, S1)
-      C3 <- intersect(S1,S2)
-      if ((length(C1) == 0 | length(C2) == 0) & length(S1) > 2 & length(S2) > 2) {
-        if (cluster_set[i] != 0 & cluster_set[j] == 0)
-        {
-          cluster_set[j] <-  cluster_set[i]
-          #setnumber = setnumber + 1
-        }
-        
-        if (cluster_set[j] != 0 & cluster_set[i] == 0)
-        {
-          cluster_set[i] <-  cluster_set[j]
-          #setnumber = setnumber + 1
-        }
-        if (cluster_set[j] != 0 & cluster_set[i] != 0)
-        {
-          cluster_set[i] <-  cluster_set[j]
-          #setnumber = setnumber + 1
-        }
-        if (cluster_set[j] == 0 & cluster_set[i] == 0)
-        {
-          cluster_set[i] = setnumber
-          cluster_set[j] = setnumber
-          setnumber = setnumber + 1
-        }
-      }
-    }
-  }
+  
+  # for (i in 1:length(clusters)) {
+  #   for (j in 1:length(clusters)) {
+  #     S1 <-
+  #       substring(tolower(clusterfreqdf$clusters[i]), seq(1, nchar(clusterfreqdf$clusters[i]), 1), seq(1, nchar(clusterfreqdf$clusters[i]), 1))
+  #     S2 <-
+  #       substring(tolower(clusterfreqdf$clusters[j]), seq(1, nchar(clusterfreqdf$clusters[j]), 1), seq(1, nchar(clusterfreqdf$clusters[j]), 1))
+  #     # C1 <- setdiff(S1, S2)
+  #     # C2 <- setdiff(S2, S1)
+  #     # C3 <- intersect(S1,S2)
+  #     C1 <- intersect(S1,S2)
+  #     C2 <- union(S1,S2)
+  #     
+  #     if ((length(C1) == 0 | length(C2) == 0) & length(S1) > 2 & length(S2) > 2) {
+  #       if (cluster_set[i] != 0 & cluster_set[j] == 0)
+  #       {
+  #         cluster_set[j] <-  cluster_set[i]
+  #         #setnumber = setnumber + 1
+  #       }
+  #       
+  #       if (cluster_set[j] != 0 & cluster_set[i] == 0)
+  #       {
+  #         cluster_set[i] <-  cluster_set[j]
+  #         #setnumber = setnumber + 1
+  #       }
+  #       if (cluster_set[j] != 0 & cluster_set[i] != 0)
+  #       {
+  #         cluster_set[i] <-  cluster_set[j]
+  #         #setnumber = setnumber + 1
+  #       }
+  #       if (cluster_set[j] == 0 & cluster_set[i] == 0)
+  #       {
+  #         cluster_set[i] = setnumber
+  #         cluster_set[j] = setnumber
+  #         setnumber = setnumber + 1
+  #       }
+  #     }
+  #   }
+  # }
   clusterfreqdf$cluster_set <- cluster_set
   cluster_setDF <- clusterfreqdf
   cluster_setDF <- cluster_setDF[order(cluster_setDF$cluster_set),]

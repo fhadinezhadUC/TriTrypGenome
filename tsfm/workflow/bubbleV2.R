@@ -22,7 +22,7 @@ bubble.main <- function(){
   # positions x= 8.75 and y= 10.5 are manually added
   outputpath <- "/home/fatemeh/TriTrypGenome/tsfm/74sites2/alignments/Logos/"
   TableDir <- "/home/fatemeh/TriTrypGenome/tsfm/74sites2/alignments/Logos/"
-  skelfile_path <- "/home/fatemeh/workflow/tRNA_L_skel_Leish.sites72.txt"
+  skelfile_path <- "/home/fatemeh/TriTrypGenome/tsfm/74sites2/alignments/tRNA_L_skel_Leish.sites74.txt"
   
   line.x <- c(6.875,6.500,6.125,5.750,5.375,5.000,4.625,4.625,5.000,5.000,2.375
               ,2.750,2.375,2.750,2.500,2.875,3.250,2.875,2.500,2.125,1.750,1.375,1.000
@@ -77,9 +77,57 @@ bubble.main <- function(){
   names(tRNA_L_skel_df) <- c("sprinzl", "x", "y", "sprinzl2")
   dirpath <- TableDir
   clusterdir <- list.dirs(path = dirpath, recursive = FALSE)
+  
+  #_________________________________________________________
+  for (i in 1:length(clusterdir)) {
+    splitedpath <- unlist(strsplit(clusterdir[i], split = "/"))
+    clus_name <- splitedpath[length(splitedpath)]
+    table_name <- paste(clus_name, "_Table.txt", sep = "")
+    #table_name<-"HOMO.sites72.v5_Table.txt"
+    if (clus_name == "HOMO" | clus_name == "tables")
+      next
+    tablepath <-
+      paste(dirpath, clus_name,
+            "/Bubble/",
+            table_name,
+            sep = "")
+    df <- read.table(tablepath, header = TRUE)
+    df <- match_bubble_coords(df, tRNA_L_skel_df)
+    # write tables in fix length format in folder outputpath/tables
+    n <-
+      data.frame(
+        "aa"      ,
+        "coord" ,
+        "state"  ,
+        "fbits" ,
+        "fht"   ,
+        "gainbits",
+        "gainfht" ,
+        "lossbits" ,
+        "lossfht" ,
+        "convbits" ,
+        "convfht" ,
+        "x"  ,
+        "y"     ,
+        "sprinzl"
+      )
+    names(n) <- names(df)
+    library(gdata)
+    for (i in 1:ncol(df)) {
+      df[,i] <- as.character(df[,i])
+    }
+      write.fwf(
+      rbind(n, df),
+      colnames = FALSE,
+      width = rep(10,14),
+      file = paste(outputpath,"tables/",table_name,sep = "")
+    )
+  }
+  #_________________________________________________________
   orders <- c(5, 6, 8, 0, 2, 7, 1, 3, 4)
   clusterdir <- clusterdir[order(orders)]
   classes <- as.character(names(table(df$aa)))
+  
   for (i in  1:length(classes)) {
     class <- classes[i]
     
@@ -102,9 +150,9 @@ bubble.main <- function(){
       splitedpath <- unlist(strsplit(clusterdir[i], split = "/"))
       clus_name <- splitedpath[length(splitedpath)]
       clus_name2 <- gsub(".v5", "", clus_name)
-      table_name <- paste(clus_name2, ".sites72.v5_Table.txt", sep = "")
+      table_name <- paste(clus_name2, "_Table.txt", sep = "")
       #table_name<-"HOMO.sites72.v5_Table.txt"
-      if (clus_name == "HOMO.v5")
+      if (clus_name == "HOMO")
         next
       
       

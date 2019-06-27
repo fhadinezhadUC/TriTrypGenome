@@ -48,19 +48,20 @@ BCOR5mm, % Binding correction
 %Input: the foreground and background informations calculated by tsfm for each state. states are the set of alphabets used in input gene sequences which are {A,T,C,G,-}\\
 \section{Creating Function Logos, ID logos, KLD logos and bubble plot table with tsfm}
 \begin{itemize}
-\item[1. ] After preparing your Alignment results in folder \textbf{X }(Leish\_paper\_first\_round ...) for both sites72 and sites 74, run the script \textbf{extractFinalInput.sh} inside folder \textbf{X}, to prepare the input for tsfm in two subfolders called:\\
-LogotaxAlignmentInputs/sites74/ and LogotaxAlignmentInputs/sites72/ \\
-\item[2. ] For generating the logos of site72 we only need the folder site72 which has 9 subfolders one for each class of TriTryp genomes, and Homo. Each of these folders include the fasta files for 21 classes of tRNA.\\
-\item[3. ] Keep the file \textbf{tRNA\_L\_skel\_Leish\_sites72\_struct.txt} and the script \textbf{generateLogos.sh} inside folder site72.\\
+%\item[1. ] After preparing your Alignment results in folder \textbf{X }(Leish\_paper\_first\_round ...) for both sites72 and sites 74, run the script \textbf{extractFinalInput.sh} inside folder \textbf{X}, to prepare the input for tsfm in two subfolders called:\\
+%LogotaxAlignmentInputs/sites74/ and LogotaxAlignmentInputs/sites72/ \\
+\item[1. ] The input is ready in folder 74sites. 
+\item[2. ] For generating the logos of site74 we only need this folder which has 9 subfolders one for each class of TriTryp genomes, and Homo. Each of these folders include the fasta files for 21 classes of tRNA.\\
+\item[3. ] Keep the file \textbf{tRNA\_L\_skel\_Leish\_sites74\_struct.txt} and the script \textbf{generateLogos.sh} inside folder 74sites.\\
 \item[4. ] In script generateLogos.sh, change the variable \textbf{tsfmpath} to the tsfm.py on your laptop as the example. The last version of tsfm is provided in folder tsfm, you can provide the path to tsfm.py from this folder.\\
 \item[5. ] Finally:\\
-cd workflow/site72\\
+cd workflow/74sites\\
 chmod +x generateLogos.sh\\
 ./generateLogos.sh\\
-This should create all the function logos at first, ID logos second and KLD logos along with the table at the end.\\
-Right now tsfm creates all the eps files for function logos, ID logos and KLD logos with the name of the Background Organism, so they will be overwritten if we create them in one run. So, that is why I generate them in order. it is not efficient! \\
-\item[6. ] Later, I used the \textbf{bubbleV2.R} to generate the bubble plots one pdf file per functional class. This version of all.bubble.R script will take three path to skel file, tables, and output file and reads all the tables from folder site72, aligns them to sprinzl and creates the bubble plots.\\
-All the outputs will be in directory /site72/Logos.\\
+This should create ID logos, KLD logos along with the table at the same time.\\
+Then it will move each group into a directory\\
+\item[6. ] Later, I used the \textbf{bubbleV2.R} to generate the bubble plots one pdf file per functional class. This version of all.bubble.R script will take three path to skel file, tables, and output file and reads all the tables from folder 74sites, aligns them to sprinzl using the tRNA\_L\_skel\_Leish.sites74.txt file and creates the bubble plots.\\
+All the outputs will be in directory /74sites/Logos.\\
 \end{itemize}
  
         
