@@ -1,0 +1,352 @@
+---
+title: "CIF_Analysis_TryTrypDB version 10"
+author: "David H. Ardell, Fateme Hadi Nezhad and Travis Lawrence"
+date: "6/26/2019"
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+params: 
+  version: "v8"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# About this Document and General Orientation
+
+This is the CIF Analysis Workflow for Kelly et al. (2019) using TSFM by FHN and TJL for function logos and bubbleplots.
+
+# Initial Data, Editing Alignment, Mapping to Sprinzl Coordinates, and Selecting Sites
+
+In this version, we used the file `final_CIF_geneset.fasta` as a starting point for TriTryp data. This file contains 3488 genes. Identifiers end with the gene class (3454, intersection set) or `ara` and the gene class (34 aragorn-only). We filter the human data (433 genes) in `hg38-tRNAs.fa` from GtRNAdb for Selenocysteine genes, resulting in 431 human tRNA genes. Combined data held 3919 gene sequences. To make it easier to edit alignments for Type II (L,S,E) sequences that are misaligned at positions 45 and 47, I sorted by sequence character at position 196 in the COVEA produced alignment. I then edited 595 sequences in Seaview, as well as selected 74 sites, saving the work in `tritryp_homo.covea.sort.edited.mase`.
+
+```{bash, eval=FALSE}
+fasgrep -vd SeC GeneAnnotation/hg38-tRNAs.fa > hg38-tRNAs-noSeC.fas  # Remove Two SeC sequences from hg38-tRNAs.fa leaving 431 Human sequences
+cat final_CIF_geneset.fasta hg38-tRNAs-noSeC.fas > tritryp_homo.fas
+covea -o tritryp_homo.covea ~/lib/tRNAscan-SE/TRNA2-euk.cm tritryp_homo.fas
+sreformat -u a2m tritryp_homo.covea | tr '[a-z].' '[A-Z]-' > tritryp_homo.covea.fas
+fassort -sx '.{195}(.)' tritryp_homo.covea.fas | fascut --moltype=DNA 196 | fasgrep -s "-" | faswc # 595 Human and kinetoplastid sequences have a gap at coordinate 45, start of V-arm, typically type II L or S, one E
+fassort -sx '.{195}(.)' tritryp_homo.covea.fas > tritryp_homo.covea.sort.fas
+# edit alignment in seaview and save file in tritryp_homo.covea.sort.edited.mase to manually edit misaligned coordinates 45 and 47
+# extract 74 site alignment in seaview into fasta format
+# compare 74-site alignments from v5,v6 for equality to current 74-site alignment
+fassub -d '.*' '' tritryp_homo.covea.sort.edited.74sites.fas > covea.74sites.fas # remove "no comment" in description
+faswc covea.74sites.fas # 3919
+mkdir MAJOR INFANTUM MEXICANA VIANNIA ENRIETTII LEPTOCRITH AMTRYP AFTRYP HOMO; cd ..
+
+```
+
+# Prepare TSFM Input
+
+```{bash, eval=FALSE}
+fasgrep -i "LMAJOR|LTROPICA|LAETHIOPICAL147|LGERBILLILEM452|LTURANICALEM423|LARABICALEM1108" covea.74sites.fas > covea.74sites.MAJOR.fas
+fasgrep -i "LINFANTUMJPCM5|LDONOVANI" covea.74sites.fas                 > covea.74sites.INFANTUM.fas 
+fasgrep -i "LMEXICANA|LAMAZONENSIS" covea.74sites.fas                   > covea.74sites.MEXICANA.fas 
+fasgrep -i "LPANAMENSIS|LBRAZILIENSIS" covea.74sites.fas                > covea.74sites.VIANNIA.fas
+fasgrep -i "LENRIETTII|LSPMARLEM" covea.74sites.fas                     > covea.74sites.ENRIETTII.fas
+fasgrep -i "LSEYMOURIA|LPYRRHOCORI|CFASCICULATACFCL" covea.74sites.fas  > covea.74sites.LEPTOCRITH.fas 
+fasgrep -i "TGRAYIANR4|TCRUZI" covea.74sites.fas                        > covea.74sites.AMTRYP.fas 
+fasgrep -i "TBRUCEI|TCONGOLENSE|TEVANSI" covea.74sites.fas              > covea.74sites.AFTRYP.fas 
+fasgrep -i "HOMO" covea.74sites.fas                                     > covea.74sites.HOMO.fas 
+faswc covea.74sites.*.fas # 3377 sequences, excluding 542 genes from genomes BAYALAIB08-376 EMONTEROGEIILV88 LTARENTOLAEPARROTTARII PCONFUSUMCUL13 TTHEILERIEDINBURGH TVIVAXY486 
+perl -e 'foreach my $clade (qw/MAJOR INFANTUM MEXICANA VIANNIA ENRIETTII LEPTOCRITH AMTRYP AFTRYP/){foreach my $f (split //,"ACDEFGHIKLMNPQRSTVWXY"){system "fasgrep -i \"_(ARA)?$f\$\" covea.74sites.$clade.fas | fasconvert -o clustalw > sites74/$clade/${clade}_$f.aln"}}'
+perl -e '%M = (A=>"ALA",C=>"CYS",D=>"ASP",E=>"GLU",F=>"PHE",G=>"GLY",H=>"HIS",I=>"ILE",K=>"LYS",L=>"LEU",M=>"MET",N=>"ASN",P=>"PRO",Q=>"GLN",R=>"ARG",S=>"SER",T=>"THR",V=>"VAL",W=>"TRP",X=>"IMET",Y=>"TYR");foreach my $f (split //,"ACDEFGHIKLMNPQRSTVWXY"){system "fasgrep -i -- \"-$M{$f}-\" covea.74sites.HOMO.fas | fasconvert -o clustalw > sites74/HOMO/HOMO_$f.aln"}'
+ls -1 sites74/*/*.aln | wc # 189 files = 21 x 9
+cat sites74/*/*.aln | fasconvert -i clustalw | faswc # 3377 sequences
+```
+
+# Generate Function Logos with TSFM 
+
+```{bash, eval=FALSE}
+perl -e 'foreach my $clade (qw/HOMO MAJOR INFANTUM MEXICANA VIANNIA ENRIETTII LEPTOCRITH AMTRYP AFTRYP/){system "tsfm -c tRNA_L_skel_Leish.sites74.struct.cove --logo $clade/$clade; mv -- *.eps $clade*.txt $clade/;"}'
+```
+
+# Fix Site Coordinate Labels, Bounding Boxes and Rendering in EPS logos from TSFM
+
+```{bash, eval=FALSE}
+perl fix_coordinate_labels_logofiles_TSFM.pl tRNA_L_skel_Leish.sites74.txt */*.eps
+perl reformat_logo_files.pl */*.eps
+```
+
+# Create Final Logo Images
+
+## Single-site function logos
+```{bash, eval=FALSE}
+perl -e '%names = (A => "Adenine",C => "Cytosine", G => "Guanine", U => "Uracil", "-" => "Gap"); foreach my $n (split //,"AUGC-"){system "montage HOMO/${n}_HOMO.lab.png MAJOR/${n}_MAJOR.lab.png INFANTUM/${n}_INFANTUM.lab.png MEXICANA/${n}_MEXICANA.lab.png VIANNIA/${n}_VIANNIA.lab.png -title \"Function Logos for $names{$n}\" -geometry +1+1 -tile 1x5 ${n}_function_1.png";}'
+perl -e '%names = (A => "Adenine",C => "Cytosine", G => "Guanine", U => "Uracil", "-" => "Gap"); foreach my $n (split //,"AUGC-"){system "montage HOMO/${n}_HOMO.lab.png ENRIETTII/${n}_ENRIETTII.lab.png LEPTOCRITH/${n}_LEPTOCRITH.lab.png AMTRYP/${n}_AMTRYP.lab.png AFTRYP/${n}_AFTRYP.lab.png -title \"Function Logos for $names{$n}\" -geometry +1+1 -tile 1x5 ${n}_function_2.png";}'
+```
+
+## Base-pair function logos
+```{bash, eval=FALSE}
+perl -e '%names = (HOMO => "Humans (n = 1)",MAJOR => "Major Clade (n = 8)", INFANTUM => "Infantum Clade (n = 3)", MEXICANA => "Mexicana Clade (n = 2)", VIANNIA => "Viannia Clade (n = 4)", ENRIETTII => "Enriettii Clade (n = 2)", LEPTOCRITH => "Leptomonas/Crithidia Clade  (n = 3)", "AMTRYP" => "American Trypanosoma (n = 11)", AFTRYP => "African Trypanosoma (n = 5)"); foreach my $clade (keys %names) { @files=();foreach my $n (qw/UA UG UC UU CA CG CC CU GA GG GC GU AA AG AC AU/){  $filenm = "$clade/${n}_$clade.lab.png"; if (-e -f -r $filenm) {push @files,$filenm;}else{push @files,"null.png"}} warn (join "","$clade: number of files != 16: ",@files,"\n") unless (@files == 16); system "montage -geometry +1+1 -tile 4x4 @files -title \"Base-Pair Function Logos for $names{$clade}\" ${clade}_base-pair_function.png";}'
+
+
+```
+
+# Bubbleplots
+## Compute ID logos, KLD logos and Tables for Creating Bubble Plots with tSFM
+
+```{bash, eval=FALSE}
+inputpath="~/tsfm_input_files/"
+clades_list=$(ls -l $inputpath | grep "^d" | awk -F" " '{print $9}')
+for clade in $clades_list; do 
+  tsfm -c tRNA_L_skel_Leish.sites74.struct.txt -e Miller -x 5 --idlogo --kldlogo --bt "$clades_list/$clade/$clade" "$clades_list/HOMO/HOMO"
+  mv -- *ID*.eps "~/ID_Logo_Result/$clade/"
+  mv -- *KLD*.eps "~/KLD_Logo_Result/$clade/"
+  mv *_Table.txt "~/Bubble_Plots/"
+done
+```
+
+# Map tSFM Table Outputs to Sprinzl Coordinates
+
+```{r, eval=FALSE}
+match_bubble_coords <- function(df, tRNA_L_skel_df) {
+  tRNA_L_skel_df$sprinzl <- as.character(tRNA_L_skel_df$sprinzl)
+  tRNA_L_skel_df$sprinzl2 <- as.character(tRNA_L_skel_df$sprinzl2)
+  tRNA_L_skel_df <- tRNA_L_skel_df[!is.na(tRNA_L_skel_df$sprinzl),]
+  for (i in 1:nrow(df)) {
+    samecoord = tRNA_L_skel_df$sprinzl == df$coord[i]
+    df$x[i] = tRNA_L_skel_df[samecoord,]$x
+    df$y[i] = tRNA_L_skel_df[samecoord,]$y
+    df$sprinzl[i] = tRNA_L_skel_df[samecoord,]$sprinzl2
+  }
+  df
+}
+
+Outputpath <- "~/Bubble_Plots/"
+TableDir <- "~/Bubble_Plots/"
+skelfile_path <-
+  "~/tRNA_L_skel_Leish.sites74.txt"
+tRNA_L_skel_df <- read.table(skelfile_path, header = FALSE)
+names(tRNA_L_skel_df) <- c("sprinzl", "x", "y", "sprinzl2")
+clusterdir <- list.dirs(path = TableDir, recursive = FALSE)
+for (i in 1:length(clusterdir)) {
+  splitedpath <- unlist(strsplit(clusterdir[i], split = "/"))
+  clade_name <- splitedpath[length(splitedpath)]
+  table_name <- paste(clade_name, "_Table.txt", sep = "")
+  df <-
+    read.table(paste(TableDir, table_name, sep = ""), header = TRUE)
+  df <- match_bubble_coords(df, tRNA_L_skel_df)
+  # write tables in fix length format
+  n <-
+    data.frame(
+      "aa"      ,
+      "coord" ,
+      "state"  ,
+      "fbits" ,
+      "fht"   ,
+      "gainbits",
+      "gainfht" ,
+      "lossbits" ,
+      "lossfht" ,
+      "convbits" ,
+      "convfht" ,
+      "x"  ,
+      "y"     ,
+      "sprinzl"
+    )
+  names(n) <- names(df)
+  library(gdata)
+  for (i in 1:ncol(df)) {
+    df[, i] <- as.character(df[, i])
+  }
+  write.fwf(
+    rbind(n, df),
+    colnames = FALSE,
+    width = rep(10, 14),
+    file = paste(outputpath, table_name, sep = "")
+  )
+}
+```
+
+
+## Analyze Distribution of gain and conv bits for cutoffs
+
+```{r, eval=FALSE}
+MAJOR.74       <- read.table("~/Bubble_Plots/MAJOR_Table.txt",header=T);
+INFANTUM.74    <- read.table("~/Bubble_Plots/INFANTUM_Table.txt",header=T);
+MEXICANA.74    <- read.table("~/Bubble_Plots/MEXICANA_Table.txt",header=T);
+VIANNIA.74     <- read.table("~/Bubble_Plots/VIANNIA_Table.txt",header=T);
+ENRIETTII.74   <- read.table("~/Bubble_Plots/ENRIETTII_Table.txt",header=T);
+LEPTOCRITH.74  <- read.table("~/Bubble_Plots/LEPTOCRITH_Table.txt",header=T);
+AFTRYP.74      <- read.table("~/Bubble_Plots/AFTRYP_Table.txt",header=T);
+AMTRYP.74      <- read.table("~/Bubble_Plots/AMTRYP_Table.txt",header=T);
+
+classes  <- c('L','I','V','R','C','M','E','Q','Y','W','S','T','P','H','G','D','N','K','F','A');
+ldf.74   <- list(MAJOR.74,INFANTUM.74,MEXICANA.74,VIANNIA.74,AFTRYP.74,AMTRYP.74,LEPTOCRITH.74,ENRIETTII.74);
+df.names <- c("Major (n = 8)","Infantum (n = 3)","Mexicana (n = 2)","Viannia (n = 4)","Af. Tryp. (n = 5)","Am. Tryp. (n = 11)","Lepto/Crith (n = 3)","Enriettii (n = 2)");
+
+gains <- vector()
+convs <- vector()
+for (class in classes) {
+  i <- 1
+  for (df in ldf.74) {
+    gainvals <- (df$gainbits * df$gainfht);
+    convvals <- (df$convbits * df$convfht);
+    gainvals <- log(gainvals[gainvals>0])
+    convvals <- log(convvals[convvals>0])
+    gains <- append(gains, values=gainvals);
+    convs <- append(convs, values=convvals);
+  }
+}
+bitdatagains <- data.frame(bits = gains,type=rep("Gain",length(gains)))
+bitdataconvs <- data.frame(bits = convs,type=rep("Conversion",length(convs)))
+bitdata <- rbind(bitdatagains,bitdataconvs)
+library(ggplot2)
+ggplot(bitdata,
+         aes(
+           x = bits,
+           fill = type
+         )) + theme_bw() + geom_density(alpha=0.3) + xlab("log Gain or Conversion Bits") + ggtitle("log-letter-height distributions for Gains and Conversions") +  theme(legend.title=element_blank())
+
+```
+
+
+## Compute Bubbleplots
+
+```{r bubble, dev='pdf', eval=FALSE}
+
+library("heR.Misc"); ## THIS IS REQUIRED FOR THE BUBBLEPLOT FUNCTION AND MUST BE DOWNLOADED FROM
+## http://exposurescience.org/her.html
+
+
+# THESE ARE THE COORDINATES FOR THE TRNA STRUCTURE BACKBONE IN THE FIGURES
+
+line.x <- c(6.875,6.500,6.125,5.750,5.375,5.000,4.625,4.625,5.000,5.000,2.375
+            ,2.750,2.375,2.750,2.500,2.875,3.250,2.875,2.500,2.125,1.750,1.375,1.000
+            ,0.625,0.250,0.625,1.000,1.500,1.125,1.500,1.125,1.500,1.125,1.500,1.125
+            ,1.500,1.125,0.625,1.000,1.375,1.750,2.125,2.500,2.875,2.375,2.750,2.375
+            ,2.750,2.375,4.250,4.250,3.875,4.250,3.875,4.250,4.250,3.875,3.500,3.125
+            ,2.750,2.250,1.875,1.500,1.125,1.500,1.875,2.250,2.750,3.125,3.500,3.875
+            ,4.250,4.625,5.000,5.375,5.750,6.125,6.500,6.875,7.250,7.625,8.000,8.375);
+
+line.y <- c(8.875,8.500,8.875,8.500,8.875,8.500,8.875,7.375,7.000
+            ,3.500,3.500,3.875,4.250,4.625,5.125,5.500,5.875,6.250,6.625
+            ,7.000,7.375,7.000,6.625,6.250,5.875,5.500,5.125,4.625,4.250
+            ,3.875,3.500,3.125,2.750,2.375,2.000,1.625,1.250,0.750,0.375
+            ,0.000,-0.375,0.000,0.375,0.750,1.250,1.625,2.000,2.375,2.750
+            ,2.750,3.875,4.250,4.625,5.000,5.375,8.500,8.875,8.500,8.875
+            ,8.500,8.000,8.375,8.750,9.125,9.500,9.875,10.250,9.750,10.125
+            ,9.750,10.125,9.750,10.125,9.750,10.125,9.750,10.125,9.750,10.125
+            ,9.750,10.125,9.750,10.125);
+
+
+
+## THESE ARE FOR THE SPRINZL COORD LABELS
+coord.labels <- c("1","5","10","14","18","21","25","30","35","40","45","50","55","60","65","70");
+coord.labels.x <- c(6.875,5.375,2.375,2.61,1.750,1.00,1.125,1.500,1.750,2.750,3.65,3.870,1.875,2.250,4.250,6.125);
+coord.labels.y <- c(8.875,8.875,3.500,5.125,7.375,5.125,3.500,1.625,-0.375,1.625,4.680,8.875,8.375,10.250,9.750,10.125);
+
+xbump <- 0.5;
+ybump <- 0.5;
+
+up <- c(13,14,15,16,17);
+up.coord.labels <- coord.labels[up];
+up.coord.labels.x <- coord.labels.x[up];
+up.coord.labels.y <- coord.labels.y[up] + ybump;
+
+dn <- c(1,2,5,9,11,12);
+dn.coord.labels <- coord.labels[dn];
+dn.coord.labels.x <- coord.labels.x[dn];
+dn.coord.labels.y <- coord.labels.y[dn] - ybump;
+
+lt <- c(3,4,7);
+lt.coord.labels <- coord.labels[lt];
+lt.coord.labels.x <- coord.labels.x[lt] - xbump;
+lt.coord.labels.y <- coord.labels.y[lt];
+
+rt <- c(6,8,10);
+rt.coord.labels <- coord.labels[rt];
+rt.coord.labels.x <- coord.labels.x[rt] + xbump;
+rt.coord.labels.y <- coord.labels.y[rt];
+
+
+alpha=0.5;
+fact=0.5;
+area=TRUE;
+legend=FALSE;  
+
+map2rgb <- function (c) { rgb(t(col2rgb(c))/255,alpha=alpha);}
+colormap <- function (g,c) { 
+  y <- rep(0,length(g));
+
+ y[g <  0.48             & c < 0.48]               <- "#FFFFFFC3" 
+ y[g >= 0.48 & g < 1.8   & c < 0.48]               <- "#B87082C3" 
+ y[g >= 1.8             & c < 0.48]               <- "#A2021DC3" 
+ y[g <  0.48             & c >= 0.48 & c < 1.8]    <- "#8190AEC3" 
+ y[g >= 0.48 & g < 1.8   & c >= 0.48 & c < 1.8]    <- "#765C8CC3" 
+ y[g >= 1.8             & c >= 0.48 & c < 1.8]    <- "#B700B7C3" 
+ y[g <  0.48             & c >= 1.8]              <- "#083EAEC3" 
+ y[g >= 0.48 & g < 1.8   & c >= 1.8]              <- "#190081C3" 
+ y[g >= 1.8             & c >= 1.8]              <- "#6C008CC3" 
+ y;
+
+}
+
+
+widthmap <- function (g,c) {
+  y <- rep(1,length(g));
+  y[g < 0.48 & c < 0.44] <- 1;
+  y[g >= 0.48 | c >= 0.44] <- 2;
+  y[g >= 0.95 | c >= 0.70] <- 3;	
+  y;
+}
+
+
+for (class in classes) {
+  i <- 1
+  filenm <- paste("bubble_",class,".pdf",sep="");
+  pdf(file=filenm,version="1.4",height=3.5);
+  par(mfrow=c(2,4), las=1);
+  for (df in ldf.74) {
+    gains <- (df$gainbits * df$gainfht);
+    convs <- (df$convbits * df$convfht);
+    colors <- colormap(gains,convs);
+    widths <- widthmap(gains,convs);
+    op <- par(mar = rep(0.75, 4))
+    bubbleplot(
+      df$x[df$aa == class],
+      df$y[df$aa == class],
+      (df$fbits[df$aa == class] * df$fht[df$aa == class]),
+      fact=fact, #0.265165 = sqrt(2*0.375^2)/2
+      area=area, 
+      fg = rgb(t(col2rgb("black")/255)),
+      bg = colors[df$aa == class],
+      box=FALSE,
+      axes=FALSE,
+      lwd=0.5,
+      xlim = c(0,8),
+      ylim = c(-0.8,10.8),
+      main = paste(df.names[i],class)
+    );
+    par(op);
+    lines(line.x,line.y);
+    text(labels=up.coord.labels,x=up.coord.labels.x,y=up.coord.labels.y,cex=0.75);
+    text(labels=dn.coord.labels,x=dn.coord.labels.x,y=dn.coord.labels.y,cex=0.75);
+    text(labels=lt.coord.labels,x=lt.coord.labels.x,y=lt.coord.labels.y,cex=0.75);
+    text(labels=rt.coord.labels,x=rt.coord.labels.x,y=rt.coord.labels.y,cex=0.75);
+    prime.x <- c(line.x[1],line.x[83]);
+    prime.y <- c(line.y[1],line.y[83]);
+    text(labels=c("5'","3'"),x=prime.x,y=prime.y,adj=c(-0.9,0),cex=0.75);	
+    if (df.names[i] == "Enriettii (n = 2)") {
+      legend.x <- rep(df$x[df$aa == "X" &  df$state == "A" & 
+                    (df$sprinzl == "69" |  df$sprinzl == "71" |
+                     df$sprinzl == "73" )] + c(0.2,0.3,0.4),3);  
+      legend.y <- c(rep(df$y[df$aa == "X" &  df$state == "A" & df$sprinzl == "35"]+0.40,3),
+      	       	    rep(df$y[df$aa == "X" &  df$state == "A" & df$sprinzl == "31"],3), 
+                    rep(df$y[df$aa == "X" &  df$state == "A" & df$sprinzl == "27"]-0.30,3));
+      legend.z <- rep(2.2,9);
+      legend.c <- colormap(c(0,0,0,0.5,0.5,0.5,3,3,3),c(0,0.5,3,0,0.5,3,0,0.5,3));
+      bubbleplot(legend.x, legend.y, legend.z,fact=fact,area=area,bg=legend.c,
+	     add=TRUE,
+	     box=FALSE,axes=FALSE,lwd=1);
+    } 
+    i <- i + 1
+  }
+  dev.off()
+}
+
+```
+

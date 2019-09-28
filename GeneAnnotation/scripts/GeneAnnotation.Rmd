@@ -150,10 +150,13 @@ The complete script for calculating the nucleotide composition is in FinalGeneSe
 genome.nuc.composition2 <- function(){
   genefile <- annotate.final.geneset.round1()
   genecountdf <- as.data.frame(table(genefile$sourceOrg))
+  genecountdf$Var1 <- as.character(genecountdf$Var1)
+  genecountdf$Freq <- as.integer(genecountdf$Freq)
   #genomefile <- genome.nuc.composition
   filepath <- "/home/fatemeh/TriTrypGenome/GenomeNucComposition.txt"
   genomefile <-
     read.table(filepath, header = TRUE, colClasses = "character")
+  genomefile$seqcounts <- as.integer(genomefile$seqcounts)
   genomefile  <- genomefile[order(genomefile$seqcounts), ]
   genomefile$genecounts <- 0
   for (i in 1:nrow(genomefile)) {
@@ -167,6 +170,8 @@ genome.nuc.composition2 <- function(){
   # remove the column ATp and organism_longname from the table
   genomefile2 <-
     genomefile[, !(names(genomefile) %in% c("ATp", "organism_longname"))]
+  genomefile2  <- genomefile2[order(genomefile2$genecounts), ]
+  
   # add the column genesMissing ????
   # write latex file
   firstline <-
@@ -186,7 +191,6 @@ genome.nuc.composition2 <- function(){
     currline <- paste(currline, "\\\\", sep = "")
     Llines <- c(Llines, currline)
   }
-  genomefile2  <- genomefile2[order(genomefile2$genecounts), ]
   genomefile2
   # writeLines(Llines,
   #            "/home/fatemeh/TriTrypGenome/GenomeNucComposition_Latex.txt",
@@ -567,6 +571,7 @@ Alignment Steps:\
 \textbf{SplitAlignedGenes.R}
 \
 The alignment Result Aligned_TriTryp_Homo.fasta will be passed to this script to be splitted either by genome, or clusters of genomes.\
+These genomes were not included in any of the clusters: TrangeliSC58, TcruziCLBrener, TtheileriEdinburgh, EmonterogeiiLV88, BayalaiB08-376, PconfusumCUL13\
 The result fasta file for each genome is saved as a file in tsfm/input folder.\
 The missing functional class for each genome or cluster of genomes is visualized as a bar plot.\
 \

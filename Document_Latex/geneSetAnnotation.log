@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.15)  25 JUN 2019 13:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.15)  27 JUN 2019 18:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1699,7 +1699,26 @@ File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
 tex
 File: pgflibraryarrows.code.tex 2013/09/23 v3.0.1a (rcs-revision 1.16)
 \arrowsize=\dimen331
-)) (./geneSetAnnotation.aux)
+)) (./geneSetAnnotation.aux
+
+LaTeX Warning: Label `table:3' multiply defined.
+
+
+LaTeX Warning: Label `table:3@cref' multiply defined.
+
+
+LaTeX Warning: Label `table:3' multiply defined.
+
+
+LaTeX Warning: Label `table:3@cref' multiply defined.
+
+
+LaTeX Warning: Label `table:3' multiply defined.
+
+
+LaTeX Warning: Label `table:3@cref' multiply defined.
+
+)
 \openout1 = `geneSetAnnotation.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
@@ -1717,8 +1736,7 @@ LaTeX Font Info:    ... okay on input line 49.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
 LaTeX Font Info:    ... okay on input line 49.
 LaTeX Font Info:    Try loading font information for T1+pplj on input line 49.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pplj.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pplj.fd
 File: t1pplj.fd 2004/09/06 font definitions for T1/pplj.
 )
 \AtBeginShipoutBox=\box91
@@ -2030,25 +2048,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 758--758
 
 LaTeX Warning: Float too large for page by 18.476pt on input line 850.
 
-[15] [16]
+[15] [16] [17] [18] [19]
 No file geneSetAnnotation.bbl.
-[17]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 887.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 887.
+[20]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1039.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1039.
  (./geneSetAnnotation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 887.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 887.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1039.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1039.
+
 Package rerunfilecheck Info: File `geneSetAnnotation.out' has not changed.
-(rerunfilecheck)             Checksum: 3BC27264824EE657CEA24C1E436BFE0E;1607.
+(rerunfilecheck)             Checksum: F19B4356DCB8D734F16D2E900A2FF3F6;1607.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 887.
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1039.
  ) 
 Here is how much of TeX's memory you used:
- 44506 strings out of 493029
- 957574 string characters out of 6136233
+ 44512 strings out of 493029
+ 957643 string characters out of 6136233
  1312805 words of memory out of 5000000
  47333 multiletter control sequences out of 15000+600000
  95576 words of font info for 116 fonts, out of 8000000 for 9000
@@ -2069,10 +2091,10 @@ ype1/nowacki/iwona/iwonar.pfb></usr/share/texlive/texmf-dist/fonts/type1/nowack
 i/iwona/iwonari.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/upl
 b8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on geneSetAnnotation.pdf (17 pages, 2427119 bytes).
+Output written on geneSetAnnotation.pdf (20 pages, 2434585 bytes).
 PDF statistics:
- 268 PDF objects out of 1000 (max. 8388607)
- 225 compressed objects within 3 object streams
- 42 named destinations out of 1000 (max. 500000)
+ 285 PDF objects out of 1000 (max. 8388607)
+ 239 compressed objects within 3 object streams
+ 48 named destinations out of 1000 (max. 500000)
  17096 words of extra memory for PDF output out of 17280 (max. 10000000)
 

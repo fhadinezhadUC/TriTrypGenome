@@ -1,6 +1,8 @@
 # provide path to the folder that contains the tables
 TableDir <- "/home/fatemeh/TriTrypGenome/tsfm/74sites2/alignments/Logos/tables/"
 tables <- list.files(path = TableDir,pattern = "_Table.txt", recursive = FALSE)
+# TableDir <- "/home/fatemeh/doc/DavesTable/"
+# tables <- list.files(path = TableDir,pattern = "_table.txt", recursive = FALSE)
 ldf.74 <- list()
 for (i in 1:length(tables)) {
   tablepath <- paste(TableDir,tables[i],sep = "")
@@ -37,13 +39,22 @@ for (class in classes) {
 bitdatagains <- data.frame(bits = gains,type=rep("Gain",length(gains)))
 bitdataconvs <- data.frame(bits = convs,type=rep("Conversion",length(convs)))
 bitdata <- rbind(bitdatagains,bitdataconvs)
+log(0.5)
+log(2)
 library(ggplot2)
 ggplot(bitdata,
-       aes(
-         x = bits,
-         fill = type
-       )) + theme_bw() + geom_density(alpha=0.3) + xlab("log Gain or Conversion Bits") + ggtitle("log-letter-height distributions for Gains and Conversions") +  theme(legend.title=element_blank())
-
+       aes(x = bits,
+           fill = type)) + theme_bw() + geom_density(alpha = 0.3) + xlab("log Gain or Conversion Bits") +
+  ggtitle("log-letter-height distributions for Gains and Conversions") +
+  theme(legend.title = element_blank()) + geom_vline(
+    xintercept = log(0.5),
+    color = "blue",
+    size = 1.5
+  )+geom_vline(
+    xintercept = log(2),
+    color = "red",
+    size = 1.5
+  )
 
 library("heR.Misc"); ## THIS IS REQUIRED FOR THE BUBBLEPLOT FUNCTION AND MUST BE DOWNLOADED FROM
 ## http://exposurescience.org/her.html
@@ -116,15 +127,17 @@ colormap <- function (g,c) {
   # y[g <  0.48            & c >= 0.70]            <- map2rgb("blue");
   # y[g >= 0.48 & g < 0.95 & c >= 0.70]            <- map2rgb("blueviolet");
   # y[g >= 0.95            & c >= 0.70]            <- map2rgb("magenta");
-  y[g <  0.5             & c < 0.5]               <- "#FFFFFFC3" #rgb(t(col2rgb("white"))/255,alpha=alpha);
-  y[g >= 0.5 & g < 2.0   & c < 0.5]               <- "#B87082C3" #rgb(t(col2rgb("red4"))/255,alpha=alpha);
-  y[g >= 2.0             & c < 0.5]               <- "#A2021DC3" #rgb(t(col2rgb("red"))/255,alpha=alpha);
-  y[g <  0.5             & c >= 0.5 & c < 2.0]    <- "#8190AEC3" #rgb(t(col2rgb("royalblue4"))/255,alpha=alpha);
-  y[g >= 0.5 & g < 2.0   & c >= 0.5 & c < 2.0]    <- "#765C8CC3" #rgb(t(col2rgb("darkorchid4"))/255,alpha=alpha);
-  y[g >= 2.0             & c >= 0.5 & c < 2.0]    <- "#B700B7C3" #rgb(t(col2rgb("darkorchid1"))/255,alpha=alpha);
-  y[g <  0.5             & c >= 2.0]              <- "#083EAEC3" #rgb(t(col2rgb("royalblue1"))/255,alpha=alpha); #map2rgb("blue");
-  y[g >= 0.5 & g < 2.0   & c >= 2.0]              <- "#190081C3" #rgb(t(col2rgb("purple4"))/255,alpha=alpha);" #map2rgb("blueviolet");
-  y[g >= 2.0             & c >= 2.0]              <- "#6C008CC3" #rgb(t(col2rgb("purple1"))/255,alpha=alpha); #map2rgb("purple");
+  lg <- 0.8
+  lc <- 0.2
+  y[g <  lc             & c < lc]               <- "#FFFFFFC3" #rgb(t(col2rgb("white"))/255,alpha=alpha);
+  y[g >= lc & g < lg   & c < lc]               <- "#B87082C3" #rgb(t(col2rgb("red4"))/255,alpha=alpha);
+  y[g >= lg             & c < lc]               <- "#A2021DC3" #rgb(t(col2rgb("red"))/255,alpha=alpha);
+  y[g <  lc             & c >= lc & c < lg]    <- "#8190AEC3" #rgb(t(col2rgb("royalblue4"))/255,alpha=alpha);
+  y[g >= lc & g < lg   & c >= lc & c < lg]    <- "#765C8CC3" #rgb(t(col2rgb("darkorchid4"))/255,alpha=alpha);
+  y[g >= lg             & c >= lc & c < lg]    <- "#B700B7C3" #rgb(t(col2rgb("darkorchid1"))/255,alpha=alpha);
+  y[g <  lc             & c >= lg]              <- "#083EAEC3" #rgb(t(col2rgb("royalblue1"))/255,alpha=alpha); #map2rgb("blue");
+  y[g >= lc & g < lg   & c >= lg]              <- "#190081C3" #rgb(t(col2rgb("purple4"))/255,alpha=alpha);" #map2rgb("blueviolet");
+  y[g >= lg             & c >= lg]              <- "#6C008CC3" #rgb(t(col2rgb("purple1"))/255,alpha=alpha); #map2rgb("purple");
   y;
 }
 
@@ -147,6 +160,9 @@ for (class in classes) {
     gains <- (df$gainbits * df$gainfht);
     convs <- (df$convbits * df$convfht);
     colors <- colormap(gains,convs);
+    df$gains <- gains #%%%
+    df$convs <- convs #%%%
+    
     widths <- widthmap(gains,convs);
     op <- par(mar = rep(0.75, 4))
     bubbleplot(
