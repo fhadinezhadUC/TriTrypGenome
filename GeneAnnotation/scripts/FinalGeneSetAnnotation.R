@@ -11,6 +11,7 @@ library(seqinr)
 #source("https://bioconductor.org/biocLite.R")
 library(Biostrings)
 library(DescTools)
+library(grid)
 # annotate.final.geneset.round1() will read the main integrated gene file from integrated_tse_ara.txt
 # Keep genes that either their ara score is > 106 or their tse score is > 49
 # add column: genefun and fill it in the fallowing order:
@@ -439,7 +440,7 @@ gene.nuc.composition <- function(){
   #____________________________________________________
   # script to generate Sup table 5
   #____________________________________________________
-  
+  # table 5 is in dataframe comp_df and table 1 in clade_Gene_Comp_df
   genefile <- annotate.final.geneset.round1()
   comp_df <- data.frame(table(genefile$sourceOrg))
   names(comp_df)<- c("genome","genes")
@@ -508,6 +509,7 @@ gene.nuc.composition <- function(){
   comp_df$Gperc <- round(comp_df$Gperc,digits = 1)
   comp_df$Cperc <- round(comp_df$Cperc,digits = 1)
   comp_df$Tperc <- round(comp_df$Tperc,digits = 1)
+  
   # ____________________________________________________
   # script to generate Table 1
   #____________________________________________________
@@ -573,17 +575,11 @@ gene.nuc.composition <- function(){
   Genome_comp_df$Gperc <- 0
   Genome_comp_df$Cperc <- 0
   Genome_comp_df$Tperc <- 0
-  # Genome_comp_df$sdG <- 0
-  # Genome_comp_df$sdC <- 0
-  # Genome_comp_df$sdT <- 0
   for (i in 1:nrow(Genome_comp_df)) {
     genes <- paste(genefile[genefile$sourceOrg==Genome_comp_df$genome[i],]$genesequence,sep = "",collapse = "")
     Genome_comp_df$Gperc[i] <- Gpercentage(genes)
     Genome_comp_df$Cperc[i] <- Cpercentage(genes)
     Genome_comp_df$Tperc[i] <- Tpercentage(genes)
-    # Genome_comp_df$sdG[i]<- sqrt(nchar(genes)*(Genome_comp_df$Gperc[i]/100)*(1-Genome_comp_df$Gperc[i]/100))/100
-    # Genome_comp_df$sdC[i]<- sqrt(nchar(genes)*(Genome_comp_df$Cperc[i]/100)*(1-Genome_comp_df$Cperc[i]/100))/100
-    # Genome_comp_df$sdT[i]<- sqrt(nchar(genes)*(Genome_comp_df$Tperc[i]/100)*(1-Genome_comp_df$Tperc[i]/100))/100
   }
   Genome_comp_df$clade <- "non"
   for (i in 1:nrow(Genome_comp_df)) {
@@ -692,33 +688,6 @@ gene.nuc.composition <- function(){
   # good <- !(comp_df$genome %in% excluded_genomes)
   # CIF_genomes <- comp_df[good,]
   # CIF_genomes <- CIF_genomes[order(CIF_genomes$genes),]
-  
-  
-  # Gtest
-  # R * C table 
-  Gfreq <- clade_comp_df$TotalGp * clade_comp_df$genesLen
-  Cfreq <- clade_comp_df$TotalCp * clade_comp_df$genesLen
-  Tfreq <- clade_comp_df$TotalTp * clade_comp_df$genesLen
-  Afreq <- (100 - clade_comp_df$TotalGp - clade_comp_df$TotalCp - clade_comp_df$TotalTp) * clade_comp_df$genesLen
-  M <- as.table(cbind(Gfreq, Cfreq, Tfreq,Afreq))
-  dimnames(M) <-
-    list(
-      clades =  clades <-
-        c(
-          "Lmajor",
-          "Linfantum",
-          "LMexicana",
-          "LViannia",
-          "Lenriettii",
-          "Leptospira",
-          "AmericanT",
-          "AfricanT"
-        ),
-      nucl = c("G", "C", "T","A")
-    )
-  library(DescTools)
-  Xsq <- GTest(M)
-  
 } 
 # run G test for each clade (null: the relative frequency of residues is asame across genomes of a clade)
 Gtest.Genomes <- function(){
@@ -831,8 +800,8 @@ missing.genes.visualization <- function(){
   genefile <- annotate.final.geneset.round1()
   func_classes <- c("A", "R", "N", "D" ,"C", "Q", "E", "G", "H" ,"I" ,"L", "K" ,"M" ,"X", "F", "P", "S" ,"T", "W" ,"Y", "V")
   genomes <- names(table(genefile$sourceOrg))
-  missing_classdf <- data.frame(genomes,rep(0,length(genomes)))
-  names(missing_classdf) <- c("genomes","percent_21")
+  missing_classdf <- data.frame(genomes, rep(0, length(genomes)))
+  names(missing_classdf) <- c("genomes", "percent_21")
   missing_classdf$missing <- ''
   missing_classdf$genomes <- as.character(missing_classdf$genomes)
   missing_classdf$clade <- ""
@@ -890,14 +859,15 @@ missing.genes.visualization <- function(){
   
   missing_classdf$Ycol <- "0"
   for (i in 1:nrow(missing_classdf)) {
-    included_classes <- names(table(genefile[genefile$sourceOrg==missing_classdf$genomes[i],]$genefunc))
-    missingClasses <- setdiff(func_classes,included_classes)
-    if(length(missingClasses)==0)
+    included_classes <-
+      names(table(genefile[genefile$sourceOrg == missing_classdf$genomes[i], ]$genefunc))
+    missingClasses <- setdiff(func_classes, included_classes)
+    if (length(missingClasses) == 0)
       missing_classdf$percent_21[i] <- 21
     else
     {
-      missing_classdf$missing[i] <- paste(missingClasses,collapse = " ")
-      missing_classdf$percent_21[i] <- 21 - length(missingClasses) #((21 - length(missingClasses))/21)*100
+      missing_classdf$missing[i] <- paste(missingClasses, collapse = " ")
+      missing_classdf$percent_21[i] <- 21 - length(missingClasses)
     }
     if (missing_classdf$genomes[i] == "TcruziTulacl2")
     {
@@ -940,10 +910,13 @@ missing.genes.visualization <- function(){
       missing_classdf$Ycol[i] <- "1"
     }
   }
-  missing_classdf[missing_classdf$genomes=="TcruziDm28c",]$Ycol <- "1"
-  missing_classdf[missing_classdf$genomes=="TcruziDm28c",]$missing <- "  Y"
+  missing_classdf[missing_classdf$genomes == "TcruziDm28c", ]$Ycol <-
+    "1"
+  missing_classdf[missing_classdf$genomes == "TcruziDm28c", ]$missing <-
+    "   Y"
   missing_classdf$extralabel <- ""
-  missing_classdf[missing_classdf$genomes=="TcruziDm28c",]$extralabel <- "F"
+  missing_classdf[missing_classdf$genomes == "TcruziDm28c", ]$extralabel <-
+    "F"
   clades <- c("Lmajor","Linfantum","LMexicana","LViannia","Lenriettii","Leptospira","AmericanT","AfricanT")
   missing_classdf <- missing_classdf[order(match(missing_classdf$clade, clades)),]
   missing_classdf$color <- "0"
@@ -1034,44 +1007,49 @@ missing.genes.visualization <- function(){
     
     annotate("rect", xmin = 39.7, xmax = 46.5, ymin = 21.5, ymax =21.5, alpha=1,colour = "black") + 
     annotate("rect", xmin = 39.7, xmax =39.7, ymin = 21.2, ymax =21.5, alpha=1,colour = "black") +
-    annotate("rect", xmin = 46.5, xmax = 46.5, ymin = 21.2, ymax =21.5, alpha=1,colour = "black")
-    
-  fsize <- 11
-  grid.text((paste("Lmajor")),
-            x = unit(0.10, "npc"), y = unit(0.892, "npc"), just = c("left", "bottom"), 
-            gp = gpar(fontface = "bold", fontsize = fsize, col = "black"))
-  grid.text((paste("Linfantum")),
-            x = unit(0.20, "npc"), y = unit(0.892, "npc"), just = c("left", "bottom"), 
-            gp = gpar(fontface = "bold", fontsize = fsize, col = "black"))
-  grid.text((paste("LMexicana")),
-            x = unit(0.26, "npc"), y = unit(0.892, "npc"), just = c("left", "bottom"), 
-            gp = gpar(fontface = "bold", fontsize = fsize, col = "black"))
-  grid.text((paste("LViannia")),
-            x = unit(0.33, "npc"), y = unit(0.892, "npc"), just = c("left", "bottom"), 
-            gp = gpar(fontface = "bold", fontsize = fsize, col = "black"))
-  grid.text((paste("Lenriettii")),
-            x = unit(0.39, "npc"), y = unit(0.892, "npc"), just = c("left", "bottom"), 
-            gp = gpar(fontface = "bold", fontsize = fsize, col = "black"))
-  grid.text((paste("Leptospira")),
-            x = unit(0.44, "npc"), y = unit(0.892, "npc"), just = c("left", "bottom"), 
-            gp = gpar(fontface = "bold", fontsize = fsize, col = "black"))
-  grid.text((paste("AmericanT")),
-            x = unit(0.60, "npc"), y = unit(0.892, "npc"), just = c("left", "bottom"), 
-            gp = gpar(fontface = "bold", fontsize = fsize, col = "black"))
-  grid.text((paste("AfricanT")),
-            x = unit(0.76, "npc"), y = unit(0.892, "npc"), just = c("left", "bottom"), 
-            gp = gpar(fontface = "bold", fontsize = fsize, col = "black"))
-  grid.text((paste("Excluded")),
-            x = unit(0.90, "npc"), y = unit(0.892, "npc"), just = c("left", "bottom"), 
-            gp = gpar(fontface = "bold", fontsize = fsize, col = "black"))
-  
-  
-  
-  ggsave("/home/fatemeh/TriTrypGenome/MissingClasses.tiff", device = "tiff",
+    annotate("rect", xmin = 46.5, xmax = 46.5, ymin = 21.2, ymax =21.5, alpha=1,colour = "black")+
+    annotate(geom="text", label = "Lmajor", y=22.1, x=4.5)  + 
+    annotate(geom="text", label = "Linfantum", y=22.1, x=10) +
+    annotate(geom="text", label = "LMexicana", y=22.1, x=12.6) + 
+    annotate(geom="text", label = "LViannia", y=22.1, x=16) +
+    annotate(geom="text", label = "Lenriettii", y=22.1, x=18.7) + 
+    annotate(geom="text", label = "Leptospira", y=22.1, x=21.1) + 
+    annotate(geom="text", label = "AmericanT", y=22.1, x=28) +
+    annotate(geom="text", label = "AfricanT", y=22.1, x=37) +
+    annotate(geom="text", label = "Excluded", y=22.1, x=44)
+    ggsave("/home/fatemeh/TriTrypGenome/MissingClasses.tiff", device = "tiff", width = 15,height = 8.5,
          dpi = 300)
-  # Number of tRNA functional classes annotated for each TriTryp genome before annotating 10 tRNA genes as Tyr. 
-  # 8 genomes of Tcruzi labeled with star were completed after adding 10 tRNATyr genes.
-  # label at the top of each bar show non-annotated tRNA classes for genome.
+    
+  # fsize <- 11
+  # grid.text((paste("Lmajor")),
+  #           x = unit(0.10, "npc"), y = unit(0.892, "npc"), just = c("left", "bottom"), 
+  #           gp = gpar(fontface = "bold", fontsize = fsize, col = "black"))
+  # grid.text((paste("Linfantum")),
+  #           x = unit(0.20, "npc"), y = unit(0.892, "npc"), just = c("left", "bottom"), 
+  #           gp = gpar(fontface = "bold", fontsize = fsize, col = "black"))
+  # grid.text((paste("LMexicana")),
+  #           x = unit(0.26, "npc"), y = unit(0.892, "npc"), just = c("left", "bottom"), 
+  #           gp = gpar(fontface = "bold", fontsize = fsize, col = "black"))
+  # grid.text((paste("LViannia")),
+  #           x = unit(0.33, "npc"), y = unit(0.892, "npc"), just = c("left", "bottom"), 
+  #           gp = gpar(fontface = "bold", fontsize = fsize, col = "black"))
+  # grid.text((paste("Lenriettii")),
+  #           x = unit(0.39, "npc"), y = unit(0.892, "npc"), just = c("left", "bottom"), 
+  #           gp = gpar(fontface = "bold", fontsize = fsize, col = "black"))
+  # grid.text((paste("Leptospira")),
+  #           x = unit(0.44, "npc"), y = unit(0.892, "npc"), just = c("left", "bottom"), 
+  #           gp = gpar(fontface = "bold", fontsize = fsize, col = "black"))
+  # grid.text((paste("AmericanT")),
+  #           x = unit(0.60, "npc"), y = unit(0.892, "npc"), just = c("left", "bottom"), 
+  #           gp = gpar(fontface = "bold", fontsize = fsize, col = "black"))
+  # grid.text((paste("AfricanT")),
+  #           x = unit(0.76, "npc"), y = unit(0.892, "npc"), just = c("left", "bottom"), 
+  #           gp = gpar(fontface = "bold", fontsize = fsize, col = "black"))
+  # grid.text((paste("Excluded")),
+  #           x = unit(0.90, "npc"), y = unit(0.892, "npc"), just = c("left", "bottom"), 
+  #           gp = gpar(fontface = "bold", fontsize = fsize, col = "black"))
+  # 
+  
 }
 clustersize.dist.visualize <- function(genefile){
   genefile <- annotate.final.geneset.round1()

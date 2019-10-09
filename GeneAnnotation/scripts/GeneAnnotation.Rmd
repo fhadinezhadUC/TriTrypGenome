@@ -466,7 +466,515 @@ Read the annotated gene file (output of function annotate.final.geneset.round1) 
 #}
 ```
 \newpage
-\textbf{5. prepare.tsfm.input\(\)}\
+\textbf{5. missing.genes.visualization\(\)}\
+```{r ,echo=FALSE, warning=FALSE}
+   genefile <- annotate.final.geneset.round1()
+  func_classes <- c("A", "R", "N", "D" ,"C", "Q", "E", "G", "H" ,"I" ,"L", "K" ,"M" ,"X", "F", "P", "S" ,"T", "W" ,"Y", "V")
+  genomes <- names(table(genefile$sourceOrg))
+  missing_classdf <- data.frame(genomes, rep(0, length(genomes)))
+  names(missing_classdf) <- c("genomes", "percent_21")
+  missing_classdf$missing <- ''
+  missing_classdf$genomes <- as.character(missing_classdf$genomes)
+  missing_classdf$clade <- ""
+  for (i in 1:nrow(missing_classdf)) {
+    clusternames <- missing_classdf$genome[i]
+    if (clusternames == "LspMARLEM2494" |
+        clusternames == "LenriettiiLEM3045")
+      missing_classdf$clade[i] <- "Lenriettii"
+    if (clusternames == "TbruceigambienseDAL972" |
+        clusternames == "TbruceiLister427" |
+        clusternames == "TbruceiTREU927" |
+        clusternames == "TevansiSTIB805" |
+        clusternames == "TcongolenseIL3000" |
+        clusternames == "TvivaxY486")
+      missing_classdf$clade[i] <- "AfricanT"
+    if (clusternames == "TgrayiANR4" |
+        clusternames == "TcruziCLBrenerEsmeraldo-like" |
+        clusternames == "TcruziCLBrenerNon-Esmeraldo-like" |
+        clusternames == "TcruzicruziDm28c" |
+        clusternames == "TcruziDm28c" |
+        clusternames == "TcruziEsmeraldo" |
+        clusternames == "TcruziJRcl4" |
+        clusternames == "TcruzimarinkelleiB7" |
+        clusternames == "TcruziSylvioX10-1" |
+        clusternames == "TcruziSylvioX10-1-2012" |
+        clusternames == "TcruziTulacl2")
+      # clusternames == "TtheileriEdinburgh"
+      missing_classdf$clade[i] <- "AmericanT"
+    if (clusternames == "CfasciculataCfCl" |
+        clusternames == "LseymouriATCC30220" |
+        clusternames == "LpyrrhocorisH10")
+      missing_classdf$clade[i] <- "Leptospira"
+    if (clusternames == "LmajorFriedlin" |
+        clusternames == "LmajorLV39c5" |
+        clusternames == "LmajorSD75" |
+        clusternames == "LturanicaLEM423" |
+        clusternames == "LarabicaLEM1108" |
+        clusternames == "LtropicaL590" |
+        clusternames == "LaethiopicaL147" |
+        clusternames == "LgerbilliLEM452")
+      missing_classdf$clade[i] <- "Lmajor"
+    if (clusternames == "LdonovaniBHU1220" |
+        clusternames == "LdonovaniBPK282A1" |
+        clusternames == "LinfantumJPCM5")
+      missing_classdf$clade[i] <- "Linfantum"
+    if (clusternames == "LamazonensisMHOMBR71973M2269" |
+        clusternames == "LmexicanaMHOMGT2001U1103")
+      missing_classdf$clade[i] <- "LMexicana"
+    if (clusternames == "LbraziliensisMHOMBR75M2904" |
+        clusternames == "LbraziliensisMHOMBR75M2903" |
+        clusternames == "LpanamensisMHOMPA94PSC1" |
+        clusternames == "LpanamensisMHOMCOL81L13")
+      missing_classdf$clade[i] <- "LViannia"
+  }
+  
+  missing_classdf$Ycol <- "0"
+  for (i in 1:nrow(missing_classdf)) {
+    included_classes <-
+      names(table(genefile[genefile$sourceOrg == missing_classdf$genomes[i], ]$genefunc))
+    missingClasses <- setdiff(func_classes, included_classes)
+    if (length(missingClasses) == 0)
+      missing_classdf$percent_21[i] <- 21
+    else
+    {
+      missing_classdf$missing[i] <- paste(missingClasses, collapse = " ")
+      missing_classdf$percent_21[i] <- 21 - length(missingClasses)
+    }
+    if (missing_classdf$genomes[i] == "TcruziTulacl2")
+    {
+      missing_classdf$genomes[i] <- "*TcruziTulacl2"
+      missing_classdf$Ycol[i] <- "1"
+    }
+    if (missing_classdf$genomes[i] == "TcruziSylvioX10-1-2012")
+    {
+      missing_classdf$genomes[i] <- "*TcruziSylvioX10-1-2012"
+      missing_classdf$Ycol[i] <- "1"
+    }
+    if (missing_classdf$genomes[i] == "TcruziSylvioX10-1")
+    {
+      missing_classdf$genomes[i] <- "*TcruziSylvioX10-1"
+      missing_classdf$Ycol[i] <- "1"
+    }
+    if (missing_classdf$genomes[i] == "TcruziJRcl4")
+    {
+      missing_classdf$genomes[i] <- "*TcruziJRcl4"
+      missing_classdf$Ycol[i] <- "1"
+    }
+    if (missing_classdf$genomes[i] == "TcruziEsmeraldo")
+    {
+      missing_classdf$genomes[i] <- "*TcruziEsmeraldo"
+      missing_classdf$Ycol[i] <- "1"
+    }
+    if (missing_classdf$genomes[i] == "TcruzicruziDm28c")
+    {
+      missing_classdf$genomes[i] <- "*TcruzicruziDm28c"
+      missing_classdf$Ycol[i] <- "1"
+    }
+    if (missing_classdf$genomes[i] == "TcruziCLBrenerNon-Esmeraldo-like")
+    {
+      missing_classdf$genomes[i] <- "*TcruziCLBrenerNon-Esmeraldo-like"
+      missing_classdf$Ycol[i] <- "1"
+    }
+    if (missing_classdf$genomes[i] == "TcruziCLBrenerEsmeraldo-like")
+    {
+      missing_classdf$genomes[i] <- "*TcruziCLBrenerEsmeraldo-like"
+      missing_classdf$Ycol[i] <- "1"
+    }
+  }
+  missing_classdf[missing_classdf$genomes == "TcruziDm28c", ]$Ycol <-
+    "1"
+  missing_classdf[missing_classdf$genomes == "TcruziDm28c", ]$missing <-
+    "   Y"
+  missing_classdf$extralabel <- ""
+  missing_classdf[missing_classdf$genomes == "TcruziDm28c", ]$extralabel <-
+    "F"
+  clades <- c("Lmajor","Linfantum","LMexicana","LViannia","Lenriettii","Leptospira","AmericanT","AfricanT")
+  missing_classdf <- missing_classdf[order(match(missing_classdf$clade, clades)),]
+  missing_classdf$color <- "0"
+  missing_classdf[missing_classdf$clade=="Linfantum",]$color <- "1"
+  missing_classdf[missing_classdf$clade=="LViannia",]$color <- "1"
+  missing_classdf[missing_classdf$clade=="Leptospira",]$color <- "1"
+  missing_classdf[missing_classdf$clade=="AfricanT",]$color <- "1"
+
+  # add star to the names of 8 genomes
+  # "#56B4E9"
+  missing_classdf$genomes <-
+    factor(missing_classdf$genomes, levels = missing_classdf$genomes)
+  missing_classdf[missing_classdf$Ycol==1,]$Ycol <- "red"
+  missing_classdf[missing_classdf$Ycol==0,]$Ycol <- "black"
+  p <-
+    ggplot(data = missing_classdf,
+           aes(x = genomes, y = percent_21, fill = missing_classdf$color)) +
+    geom_bar(stat = "identity")  + scale_fill_manual(values = c("gray", "white")) + theme(
+      axis.text.x = element_text(
+        angle = 90,
+        hjust = 1,
+        size = 12
+       # text = element_text(size = 14)
+      ),
+      plot.title = element_text(hjust = 0.5,size = 15),
+      plot.subtitle = element_text(hjust = 0.5),
+      axis.title.y = element_text(size = 14),
+      legend.position = "none"
+    ) +
+    labs(
+      title =
+        "Annotated tRNA Functional Classes of 46 TriTryp Genomes Including 3571 tRNA Genes for which TRNAscan-SE2 and Aragorn Functional Annotations Agree",
+      subtitle = "10 intron-containing Tyr genes in 9 AmericanT genomes were annotated following tRNAscan-SE2\n",
+      x =
+        "Genome",
+      y = "Number of Annotated tRNA Classes (total=21)"
+    ) + geom_text(
+      aes(label =
+            missing, color = missing_classdf$Ycol),
+      vjust = 0.5,
+      angle = 90,
+      hjust = -0.1,
+      size = 4.5
+    ) + geom_text(
+      aes(label =
+            extralabel),
+      vjust = 0.5,
+      angle = 90,
+      hjust = -0.1,
+      size = 4.5
+    ) + scale_color_manual(
+      name = "Ycol",
+      labels = c("red", "black"),
+      values = c("red" = "red", "black" = "black")
+    )
+  
+  p + annotate("rect", xmin = 0.6, xmax = 8.3, ymin = 21.5, ymax =21.5, alpha=1,colour = "black") + 
+    annotate("rect", xmin = 0.6, xmax = 0.6, ymin = 21.2, ymax =21.5, alpha=1,colour = "black") +
+    annotate("rect", xmin = 8.3, xmax = 8.3, ymin = 21.2, ymax =21.5, alpha=1,colour = "black") + 
+    
+    annotate("rect", xmin = 8.5, xmax = 11.4, ymin = 21.5, ymax =21.5, alpha=1,colour = "black") + 
+    annotate("rect", xmin = 8.5, xmax = 8.5, ymin = 21.2, ymax =21.5, alpha=1,colour = "black") +
+    annotate("rect", xmin = 11.4, xmax = 11.4, ymin = 21.2, ymax =21.5, alpha=1,colour = "black") + 
+    
+    annotate("rect", xmin = 11.6, xmax = 13.5, ymin = 21.5, ymax =21.5, alpha=1,colour = "black") + 
+    annotate("rect", xmin = 11.6, xmax =11.6, ymin = 21.2, ymax =21.5, alpha=1,colour = "black") +
+    annotate("rect", xmin = 13.5, xmax = 13.5, ymin = 21.2, ymax =21.5, alpha=1,colour = "black") +
+    
+    annotate("rect", xmin = 13.7, xmax = 17.6, ymin = 21.5, ymax =21.5, alpha=1,colour = "black") + 
+    annotate("rect", xmin = 13.7, xmax =13.7, ymin = 21.2, ymax =21.5, alpha=1,colour = "black") +
+    annotate("rect", xmin = 17.6, xmax = 17.6, ymin = 21.2, ymax =21.5, alpha=1,colour = "black") +
+    
+    annotate("rect", xmin = 17.8, xmax = 19.6, ymin = 21.5, ymax =21.5, alpha=1,colour = "black") + 
+    annotate("rect", xmin = 17.8, xmax =17.8, ymin = 21.2, ymax =21.5, alpha=1,colour = "black") +
+    annotate("rect", xmin = 19.6, xmax = 19.6, ymin = 21.2, ymax =21.5, alpha=1,colour = "black") +
+    
+    annotate("rect", xmin = 19.8, xmax = 22.5, ymin = 21.5, ymax =21.5, alpha=1,colour = "black") + 
+    annotate("rect", xmin = 19.8, xmax =19.8, ymin = 21.2, ymax =21.5, alpha=1,colour = "black") +
+    annotate("rect", xmin = 22.5, xmax = 22.5, ymin = 21.2, ymax =21.5, alpha=1,colour = "black") +
+    
+    annotate("rect", xmin = 22.8, xmax = 33.5, ymin = 21.5, ymax =21.5, alpha=1,colour = "black") + 
+    annotate("rect", xmin = 22.8, xmax =22.8, ymin = 21.2, ymax =21.5, alpha=1,colour = "black") +
+    annotate("rect", xmin = 33.5, xmax = 33.5, ymin = 21.2, ymax =21.5, alpha=1,colour = "black") +
+    
+    annotate("rect", xmin = 33.7, xmax = 39.5, ymin = 21.5, ymax =21.5, alpha=1,colour = "black") + 
+    annotate("rect", xmin = 33.7, xmax =33.7, ymin = 21.2, ymax =21.5, alpha=1,colour = "black") +
+    annotate("rect", xmin = 39.5, xmax = 39.5, ymin = 21.2, ymax =21.5, alpha=1,colour = "black") +
+   
+    annotate("rect", xmin = 39.7, xmax = 46.5, ymin = 21.5, ymax =21.5, alpha=1,colour = "black") + 
+    annotate("rect", xmin = 39.7, xmax =39.7, ymin = 21.2, ymax =21.5, alpha=1,colour = "black") +
+    annotate("rect", xmin = 46.5, xmax = 46.5, ymin = 21.2, ymax =21.5, alpha=1,colour = "black")+
+    annotate(geom="text", label = "Lmajor", y=22.1, x=4.5)  + 
+    annotate(geom="text", label = "Linfantum", y=22.1, x=10) +
+    annotate(geom="text", label = "LMexicana", y=22.1, x=12.6) + 
+    annotate(geom="text", label = "LViannia", y=22.1, x=16) +
+    annotate(geom="text", label = "Lenriettii", y=22.1, x=18.7) + 
+    annotate(geom="text", label = "Leptospira", y=22.1, x=21.1) + 
+    annotate(geom="text", label = "AmericanT", y=22.1, x=28) +
+    annotate(geom="text", label = "AfricanT", y=22.1, x=37) +
+    annotate(geom="text", label = "Excluded", y=22.1, x=44)
+    ggsave("/home/fatemeh/TriTrypGenome/MissingClasses.tiff", device = "tiff", width = 15,height = 8.5,
+         dpi = 300)
+```
+\newpage
+\textbf{6. gene.nuc.composition\(\)}\
+```{r ,echo=FALSE, warning=FALSE}
+prepare.tsfm.input <- function(Anotated_genefile){
+  library(gsubfn)
+  library(ggplot2)
+  library(seqinr)
+  #table(Anotated_genefile[Anotated_genefile$sourceOrg=="TcruziDm28c",]$genefunc)
+  # table(Anotated_genefile$foundby)
+  # ara both  tse 
+  # 36 3579    1 
+  Anotated_genefile <- annotate.final.geneset.round1()
+  tsfmInput <- Anotated_genefile[Anotated_genefile$genefunc!="#" & Anotated_genefile$genefunc != "Z",]
+  # table(tsfmInput$foundby)
+  # ara both 
+  # 36 3469
+  # remove genes of genomes TrangeliSC58(6 genes) and TcruziCLBrener(11 genes)
+  lowqualityGenomes <- tsfmInput$sourceOrg=="TrangeliSC58" | tsfmInput$sourceOrg=="TcruziCLBrener"
+  tsfmInput <- tsfmInput[!lowqualityGenomes,]
+  #ara both 
+  #34 3454
+  # 3488 genes left to be alined
+  resultpath <- "/home/fatemeh/TriTrypGenome/GeneAnnotation/"
+  write.table(tsfmInput,col.names = TRUE,file = paste(resultpath,"tsfm_input_geneset.txt",sep = ""))
+  tsfmInput
+}
+  # in sup table we use first round gene annotaion (with only score filtering) 
+  # but for table 1 we use the tsfm gene dataset which has only 40 genomes. 
+  # genefile <- prepare.tsfm.input()
+  #____________________________________________________
+  # script to generate Sup table 5
+  #____________________________________________________
+  # table 5 is in dataframe comp_df and table 1 in clade_Gene_Comp_df
+  genefile <- annotate.final.geneset.round1()
+  comp_df <- data.frame(table(genefile$sourceOrg))
+  names(comp_df)<- c("genome","genes")
+  comp_df$Gperc <- 0
+  comp_df$Cperc <- 0
+  comp_df$Tperc <- 0
+  for (i in 1:nrow(comp_df)) {
+    genes <- paste(genefile[genefile$sourceOrg==comp_df$genome[i],]$genesequence,sep = "",collapse = "")
+    comp_df$Gperc[i] <- Gpercentage(genes)
+    comp_df$Cperc[i] <- Cpercentage(genes)
+    comp_df$Tperc[i] <- Tpercentage(genes)
+  }
+  comp_df$clade <- ""
+  for (i in 1:nrow(comp_df)) {
+    clusternames <- comp_df$genome[i]
+    if (clusternames == "LspMARLEM2494" |
+        clusternames == "LenriettiiLEM3045")
+      comp_df$clade[i] <- "Lenriettii"
+    if (clusternames == "TbruceigambienseDAL972" |
+        clusternames == "TbruceiLister427" |
+        clusternames == "TbruceiTREU927" |
+        clusternames == "TevansiSTIB805" |
+        clusternames == "TcongolenseIL3000" |
+        clusternames == "TvivaxY486")
+      comp_df$clade[i] <- "AfricanT"
+    if (clusternames == "TgrayiANR4" |
+        clusternames == "TcruziCLBrenerEsmeraldo-like" |
+        clusternames == "TcruziCLBrenerNon-Esmeraldo-like" |
+        clusternames == "TcruzicruziDm28c" |
+        clusternames == "TcruziDm28c" |
+        clusternames == "TcruziEsmeraldo" |
+        clusternames == "TcruziJRcl4" |
+        clusternames == "TcruzimarinkelleiB7" |
+        clusternames == "TcruziSylvioX10-1" |
+        clusternames == "TcruziSylvioX10-1-2012" |
+        clusternames == "TcruziTulacl2")
+      # clusternames == "TtheileriEdinburgh"
+      comp_df$clade[i] <- "AmericanT"
+    if (clusternames == "CfasciculataCfCl" |
+        clusternames == "LseymouriATCC30220" |
+        clusternames == "LpyrrhocorisH10")
+      comp_df$clade[i] <- "Leptospira"
+    if (clusternames == "LmajorFriedlin" |
+        clusternames == "LmajorLV39c5" |
+        clusternames == "LmajorSD75" |
+        clusternames == "LturanicaLEM423" |
+        clusternames == "LarabicaLEM1108" |
+        clusternames == "LtropicaL590" |
+        clusternames == "LaethiopicaL147" |
+        clusternames == "LgerbilliLEM452")
+      comp_df$clade[i] <- "Lmajor"
+    if (clusternames == "LdonovaniBHU1220" |
+        clusternames == "LdonovaniBPK282A1" |
+        clusternames == "LinfantumJPCM5")
+      comp_df$clade[i] <- "Linfantum"
+    if (clusternames == "LamazonensisMHOMBR71973M2269" |
+        clusternames == "LmexicanaMHOMGT2001U1103")
+      comp_df$clade[i] <- "LMexicana"
+    if (clusternames == "LbraziliensisMHOMBR75M2904" |
+        clusternames == "LbraziliensisMHOMBR75M2903" |
+        clusternames == "LpanamensisMHOMPA94PSC1" |
+        clusternames == "LpanamensisMHOMCOL81L13")
+      comp_df$clade[i] <- "LViannia"
+  }
+  comp_df <- comp_df[order(comp_df$clade),]
+  comp_df$Gperc <- round(comp_df$Gperc,digits = 1)
+  comp_df$Cperc <- round(comp_df$Cperc,digits = 1)
+  comp_df$Tperc <- round(comp_df$Tperc,digits = 1)
+  
+  # ____________________________________________________
+  # script to generate Table 1
+  #____________________________________________________
+  custom.boot <- function(times, data) {
+    boot <- mean(replicate(times, sd(sample(data, replace=T))/sqrt(length(data))))
+    boot
+  }
+  genefile <- prepare.tsfm.input()
+  genefile$clade <- ""
+  for (i in 1:nrow(genefile)) {
+    clusternames <- genefile$sourceOrg[i]
+    if (clusternames == "LspMARLEM2494" |
+        clusternames == "LenriettiiLEM3045")
+      genefile$clade[i] <- "Lenriettii"
+    if (clusternames == "TbruceigambienseDAL972" |
+        clusternames == "TbruceiLister427" |
+        clusternames == "TbruceiTREU927" |
+        clusternames == "TevansiSTIB805" |
+        clusternames == "TcongolenseIL3000" |
+        clusternames == "TvivaxY486")
+      genefile$clade[i] <- "AfricanT"
+    if (clusternames == "TgrayiANR4" |
+        clusternames == "TcruziCLBrenerEsmeraldo-like" |
+        clusternames == "TcruziCLBrenerNon-Esmeraldo-like" |
+        clusternames == "TcruzicruziDm28c" |
+        clusternames == "TcruziDm28c" |
+        clusternames == "TcruziEsmeraldo" |
+        clusternames == "TcruziJRcl4" |
+        clusternames == "TcruzimarinkelleiB7" |
+        clusternames == "TcruziSylvioX10-1" |
+        clusternames == "TcruziSylvioX10-1-2012" |
+        clusternames == "TcruziTulacl2")
+      # clusternames == "TtheileriEdinburgh"
+      genefile$clade[i] <- "AmericanT"
+    if (clusternames == "CfasciculataCfCl" |
+        clusternames == "LseymouriATCC30220" |
+        clusternames == "LpyrrhocorisH10")
+      genefile$clade[i] <- "Leptospira"
+    if (clusternames == "LmajorFriedlin" |
+        clusternames == "LmajorLV39c5" |
+        clusternames == "LmajorSD75" |
+        clusternames == "LturanicaLEM423" |
+        clusternames == "LarabicaLEM1108" |
+        clusternames == "LtropicaL590" |
+        clusternames == "LaethiopicaL147" |
+        clusternames == "LgerbilliLEM452")
+      genefile$clade[i] <- "Lmajor"
+    if (clusternames == "LdonovaniBHU1220" |
+        clusternames == "LdonovaniBPK282A1" |
+        clusternames == "LinfantumJPCM5")
+      genefile$clade[i] <- "Linfantum"
+    if (clusternames == "LamazonensisMHOMBR71973M2269" |
+        clusternames == "LmexicanaMHOMGT2001U1103")
+      genefile$clade[i] <- "LMexicana"
+    if (clusternames == "LbraziliensisMHOMBR75M2904" |
+        clusternames == "LbraziliensisMHOMBR75M2903" |
+        clusternames == "LpanamensisMHOMPA94PSC1" |
+        clusternames == "LpanamensisMHOMCOL81L13")
+      genefile$clade[i] <- "LViannia"
+  }
+  Genome_comp_df <- data.frame(table(genefile$sourceOrg))
+  names(Genome_comp_df) <- c("genome","genes")
+  Genome_comp_df$Gperc <- 0
+  Genome_comp_df$Cperc <- 0
+  Genome_comp_df$Tperc <- 0
+  for (i in 1:nrow(Genome_comp_df)) {
+    genes <- paste(genefile[genefile$sourceOrg==Genome_comp_df$genome[i],]$genesequence,sep = "",collapse = "")
+    Genome_comp_df$Gperc[i] <- Gpercentage(genes)
+    Genome_comp_df$Cperc[i] <- Cpercentage(genes)
+    Genome_comp_df$Tperc[i] <- Tpercentage(genes)
+  }
+  Genome_comp_df$clade <- "non"
+  for (i in 1:nrow(Genome_comp_df)) {
+    clusternames <- Genome_comp_df$genome[i]
+    if (clusternames == "LspMARLEM2494" |
+        clusternames == "LenriettiiLEM3045")
+      Genome_comp_df$clade[i] <- "Lenriettii"
+    if (clusternames == "TbruceigambienseDAL972" |
+        clusternames == "TbruceiLister427" |
+        clusternames == "TbruceiTREU927" |
+        clusternames == "TevansiSTIB805" |
+        clusternames == "TcongolenseIL3000" |
+        clusternames == "TvivaxY486")
+      Genome_comp_df$clade[i] <- "AfricanT"
+    if (clusternames == "TgrayiANR4" |
+        clusternames == "TcruziCLBrenerEsmeraldo-like" |
+        clusternames == "TcruziCLBrenerNon-Esmeraldo-like" |
+        clusternames == "TcruzicruziDm28c" |
+        clusternames == "TcruziDm28c" |
+        clusternames == "TcruziEsmeraldo" |
+        clusternames == "TcruziJRcl4" |
+        clusternames == "TcruzimarinkelleiB7" |
+        clusternames == "TcruziSylvioX10-1" |
+        clusternames == "TcruziSylvioX10-1-2012" |
+        clusternames == "TcruziTulacl2")
+      # clusternames == "TtheileriEdinburgh"
+      Genome_comp_df$clade[i] <- "AmericanT"
+    if (clusternames == "CfasciculataCfCl" |
+        clusternames == "LseymouriATCC30220" |
+        clusternames == "LpyrrhocorisH10")
+      Genome_comp_df$clade[i] <- "Leptospira"
+    if (clusternames == "LmajorFriedlin" |
+        clusternames == "LmajorLV39c5" |
+        clusternames == "LmajorSD75" |
+        clusternames == "LturanicaLEM423" |
+        clusternames == "LarabicaLEM1108" |
+        clusternames == "LtropicaL590" |
+        clusternames == "LaethiopicaL147" |
+        clusternames == "LgerbilliLEM452")
+      Genome_comp_df$clade[i] <- "Lmajor"
+    if (clusternames == "LdonovaniBHU1220" |
+        clusternames == "LdonovaniBPK282A1" |
+        clusternames == "LinfantumJPCM5")
+      Genome_comp_df$clade[i] <- "Linfantum"
+    if (clusternames == "LamazonensisMHOMBR71973M2269" |
+        clusternames == "LmexicanaMHOMGT2001U1103")
+      Genome_comp_df$clade[i] <- "LMexicana"
+    if (clusternames == "LbraziliensisMHOMBR75M2904" |
+        clusternames == "LbraziliensisMHOMBR75M2903" |
+        clusternames == "LpanamensisMHOMPA94PSC1" |
+        clusternames == "LpanamensisMHOMCOL81L13")
+      Genome_comp_df$clade[i] <- "LViannia"
+  }
+  Genome_comp_df <- Genome_comp_df[Genome_comp_df$clade!="non",]
+  
+  clade_comp_df <- data.frame(table(Genome_comp_df$clade))
+  names(clade_comp_df)<- c("clade","genomes")
+  clade_comp_df$TotalGp <- 0
+  clade_comp_df$TotalCp <- 0
+  clade_comp_df$TotalTp <- 0
+  clade_comp_df$genesLen <- 0
+  for (i in 1:nrow(clade_comp_df)) {
+    genes <- paste(genefile[genefile$clade==clade_comp_df$clade[i],]$genesequence,sep = "",collapse = "")
+    clade_comp_df$genesLen[i] <- nchar(genes)
+    clade_comp_df$TotalGp[i] <- Gpercentage(genes)
+    clade_comp_df$TotalCp[i] <- Cpercentage(genes)
+    clade_comp_df$TotalTp[i] <- Tpercentage(genes)
+    }
+  clade_comp_df$AveGp <- 0
+  clade_comp_df$AveCp <- 0
+  clade_comp_df$AveTp <- 0
+  clade_comp_df$genes <- 0
+  clade_comp_df$SDgenes <- 0
+  clade_comp_df$sdG <- 0
+  clade_comp_df$sdC <- 0
+  clade_comp_df$sdT <- 0
+  
+  for (i in 1:nrow(clade_comp_df)) {
+    clade_comp_df$genes[i] <- sum(Genome_comp_df[Genome_comp_df$clade==clade_comp_df$clade[i],]$genes)
+    clade_comp_df$SDgenes[i] <- custom.boot(1000,Genome_comp_df[Genome_comp_df$clade==clade_comp_df$clade[i],]$genes)
+    clade_comp_df$AveGp[i] <- mean(Genome_comp_df[Genome_comp_df$clade==clade_comp_df$clade[i],]$Gperc)
+    clade_comp_df$AveCp[i] <- mean(Genome_comp_df[Genome_comp_df$clade==clade_comp_df$clade[i],]$Cperc)
+    clade_comp_df$AveTp[i] <- mean(Genome_comp_df[Genome_comp_df$clade==clade_comp_df$clade[i],]$Tperc)
+    clade_comp_df$sdG[i] <- custom.boot(1000,Genome_comp_df[Genome_comp_df$clade==clade_comp_df$clade[i],]$Gperc)
+    clade_comp_df$sdC[i] <- custom.boot(1000,Genome_comp_df[Genome_comp_df$clade==clade_comp_df$clade[i],]$Cperc)
+    clade_comp_df$sdT[i] <- custom.boot(1000,Genome_comp_df[Genome_comp_df$clade==clade_comp_df$clade[i],]$Tperc)
+  }
+  
+  clade_comp_df$TotalGp <- round(clade_comp_df$TotalGp,digits = 1)
+  clade_comp_df$TotalCp <- round(clade_comp_df$TotalCp,digits = 1)
+  clade_comp_df$TotalTp <- round(clade_comp_df$TotalTp,digits = 1)
+  clade_comp_df$AveGp <- round(clade_comp_df$AveGp,digits = 1)
+  clade_comp_df$AveCp <- round(clade_comp_df$AveCp,digits = 1)
+  clade_comp_df$AveTp <- round(clade_comp_df$AveTp,digits = 1)
+  clade_comp_df$sdG <- round(clade_comp_df$sdG,digits = 1)
+  clade_comp_df$sdC <- round(clade_comp_df$sdC,digits = 1)
+  clade_comp_df$sdT <- round(clade_comp_df$sdT,digits = 1)
+  clade_comp_df$SDgenes <- round(clade_comp_df$SDgenes,digits = 1)
+  clade_comp_df$AveGp <- paste(clade_comp_df$AveGp," (",clade_comp_df$sdG,")",sep = "")
+  clade_comp_df$AveCp <- paste(clade_comp_df$AveCp," (",clade_comp_df$sdG,")",sep = "")
+  clade_comp_df$AveTp <- paste(clade_comp_df$AveTp," (",clade_comp_df$sdG,")",sep = "")
+  # names(clade_comp_df)[6] <- "AveGp (SD)"
+  # names(clade_comp_df)[7] <- "AveCp (SD)"
+  # names(clade_comp_df)[8] <- "AveTp (SD)"
+  # excluded_genomes <- c("TrangeliSC58","TcruziCLBrener", "TtheileriEdinburgh", "EmonterogeiiLV88", "BayalaiB08-376", "PconfusumCUL13","LtarentolaeParrotTarII")
+  # good <- !(comp_df$genome %in% excluded_genomes)
+  # CIF_genomes <- comp_df[good,]
+  # CIF_genomes <- CIF_genomes[order(CIF_genomes$genes),]
+  comp_df
+```
+\newpage
+\textbf{7. prepare.tsfm.input\(\)}\
 \textbf{Input}: output of function annotate.final.geneset.round1()\
 \textbf{Output}: \href{https://github.com/fhadinezhadUC/TriTrypGenome/blob/master/GeneAnnotation/tsfm_input_geneset.txt}{\textbf{tsfm\_input\_geneset.txt}}\
 Read the annotated gene file, removes \textbf{genes with ambiguty} marked as # (35 genes), genes with function \textbf{Sec}s (76 genes) and genes from two genomes genes of genomes \textbf{TrangeliSC58} and \textbf{TcruziCLBrener} and writes the selected genes in file tsfm_input_geneset.txt (17 genes). tsfm_input_geneset.txt file should be used for further alignment for the purpose of creating CIFs.\
