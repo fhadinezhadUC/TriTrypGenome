@@ -1,0 +1,58 @@
+when to use G test:
+0. have a categorical variable with two or more values (exp: female and male)
+1. You compare the observed counts of numbers of observations in each category with the expected counts, which you calculate using some kind of theoretical expectation 
+2. sample size is large (if the sample size is small use the exact test)
+
+Null hypothesis: 
+the number of observations in each category is equal to that predicted by a biological theory. 
+Extrinsic null hypothesis: you know the expected proportions before doing the experiment. 
+Interinsic null: you calculate the expected proportions after the experiment is done. Exp: Hardy-Weinberg proportions of population genetics.  if the frequency of one allele in a population is p and the other allele is q, the null hypothesis is that expected frequencies of the three genotypes are p2, 2pq, and q2. This is an intrinsic hypothesis, because you estimate p and q from the data after you collect the data, you can't predict p and q before the experiment.
+
+How G-test works: 
+It measures how far the observed data are from the null expectation. then use a mathematical relationship, to estimate the probability of obtaining that value of the test statistic.
+
+To measure how far the observed data are from the null expectation, it uses the log of the ratio of two likelihoods as the test statistic.
+(Likelhood of null) / (Likelihood of alternative). this ratio gets smaller as the L of null gets smaller. -2ln(Lnull/Lalt) gives us the G-statistics. (-2 makes it approximately fit the chi-square distribution). This means that if you know the Gvalue and # of degrees of freedom ,you can calculate the probability of getting that value of G using the chi-squared distribution. df for an R * C table is (R-1)(C-1). so the pvalue comes from CHIDIST(Gvalue,df)
+
+when you take the ratio of two likelihoods, a bunch of stuff divides out and the function becomes much simpler: G = 2 sigma over each categpry (Obs# * ln(Obs#/Expected#)). what is this expected# in test of heterogenity? 
+
+For an intrinsic null hypothesis, the number of degrees of freedom is calculated by taking the number of values of the variable, subtracting 1 for each parameter estimated from the data, then subtracting 1 more.
+
+Test of Independence: if there are more than two categories and you want to find out which ones are significantly different from their null expectation, you can test each category vs. the sum of all categories with the Bonferroni correction.
+
+Chi-square vs. G–test ? 
+
+
+Ref: http://www.biostathandbook.com/gtestgof.html
+
+
+G test of independence: 
+Use when you have two nominal variables and you want to see whether the proportions of one variable are different for different values of the other variable. Use it when the sample size is large.
+The null hypothesis is that the relative proportions of one variable are independent of the second variable. (in our example one variable is the nucl (ATCG) and the second variable is the clade) in this case we have an input of R * C table.
+
+The math for G testof goodness of fit are same as the gtest of independence except for calculating the expected frequencies. For the goodness-of-fit test, you use a theoretical relationship to calculate the expected frequencies. For the test of independence, you use the observed frequencies to calculate the expected.
+So the null hypothesis (the expected frequencies are calculated by pooling all the data together.)
+
+Post-hoc tests
+When the G–test of a table larger than 2×2 is significant (and sometimes when it isn't significant), it is desirable to investigate the data further.
+Way to do this:
+	1. Pairwise comparisons with Bonferroni corrections of the P values
+for our work, if we have a clade with 4 genomes, we will have 6 pairwise comparisions; we can do a 2*2 Gtest for each one and get pvalues of each.
+So, the new pvalue threshold needed for significance is 0.5/6= 0.008. so we will compare each new pvalue with with number.
+The important thing is to decide before looking at the results how many comparisons to do, then adjust the P value accordingly. If you don't decide ahead of time to limit yourself to particular pairwise comparisons, you need to adjust for the number of all possible pairs.
+	2. Testing each value of one nominal variable vs. the sum of all others and get the pvalue for each comparison, then apply the Bonferroni correction.
+
+	3. When there are more than two rows and more than two columns, you may want to do all possible pairwise comparisons of rows and all possible pairwise comparisons of columns; in that case, simply use the total number of pairwise comparisons in your Bonferroni correction of the P value. There are also several techniques that test whether a particular cell in an R×C table deviates significantly from expected
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/21364085
+
+A P value of 0.05 means that there's a 5% chance of getting your observed result, if the null hypothesis were true. It does not mean that there's a 5% chance that the null hypothesis is true.
+For example, if you do 100 statistical tests, and for all of them the null hypothesis is actually true, you'd expect about 5 of the tests to be significant at the P<0.05 level, just due to chance
+
+ The cost, in time, effort and perhaps money, could be quite high if you based important conclusions on these false positives, and it would at least be embarrassing for you once other people did further research and found that you'd been mistaken.
+
+http://www.biostathandbook.com/multiplecomparisons.html#bonferroni
+
+
+
